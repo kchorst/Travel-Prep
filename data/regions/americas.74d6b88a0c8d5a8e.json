@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "ag-ag",
+    "country": "Antigua and Barbuda",
+    "city": "Saint John's",
+    "region": "Americas",
+    "currency": "XCD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Saint John's.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Saint John's.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Saint John's.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Saint John's.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AG"
+  },
+  {
+    "id": "ar-ar",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "region": "Americas",
+    "currency": "ARS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Buenos Aires.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Buenos Aires.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Buenos Aires.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Buenos Aires.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AR"
+  },
+  {
+    "id": "bs-bs",
+    "country": "Bahamas",
+    "city": "Nassau",
+    "region": "Americas",
+    "currency": "BSD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Nassau.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Nassau.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Nassau.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Nassau.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BS"
+  },
+  {
+    "id": "bb-bb",
+    "country": "Barbados",
+    "city": "Bridgetown",
+    "region": "Americas",
+    "currency": "BBD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bridgetown.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bridgetown.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bridgetown.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bridgetown.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BB"
+  },
+  {
+    "id": "bz-bz",
+    "country": "Belize",
+    "city": "Belmopan",
+    "region": "Americas",
+    "currency": "BZD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Belmopan.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Belmopan.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Belmopan.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Belmopan.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BZ"
+  },
+  {
+    "id": "bo-bo",
+    "country": "Bolivia",
+    "city": "Sucre",
+    "region": "Americas",
+    "currency": "BOB",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Sucre.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Sucre.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Sucre.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Sucre.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BO"
+  },
+  {
+    "id": "br-br",
+    "country": "Brazil",
+    "city": "Brasília",
+    "region": "Americas",
+    "currency": "BRL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Brasília.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Brasília.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Brasília.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Brasília.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BR"
+  },
+  {
+    "id": "ca-ca",
+    "country": "Canada",
+    "city": "Ottawa",
+    "region": "Americas",
+    "currency": "CAD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ottawa.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ottawa.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ottawa.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ottawa.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CA"
+  },
+  {
+    "id": "cl-cl",
+    "country": "Chile",
+    "city": "Santiago",
+    "region": "Americas",
+    "currency": "CLP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Santiago.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Santiago.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Santiago.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Santiago.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CL"
+  },
+  {
+    "id": "co-co",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "region": "Americas",
+    "currency": "COP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bogotá.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bogotá.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bogotá.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bogotá.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CO"
+  },
+  {
+    "id": "cr-cr",
+    "country": "Costa Rica",
+    "city": "San José",
+    "region": "Americas",
+    "currency": "CRC",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to San José.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to San José.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in San José.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in San José.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CR"
+  },
+  {
+    "id": "cu-cu",
+    "country": "Cuba",
+    "city": "Havana",
+    "region": "Americas",
+    "currency": "CUP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Havana.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Havana.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Havana.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Havana.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CU"
+  },
+  {
+    "id": "dm-dm",
+    "country": "Dominica",
+    "city": "Roseau",
+    "region": "Americas",
+    "currency": "XCD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Roseau.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Roseau.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Roseau.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Roseau.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "DM"
+  },
+  {
+    "id": "do-do",
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "region": "Americas",
+    "currency": "DOP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Santo Domingo.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Santo Domingo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Santo Domingo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Santo Domingo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "DO"
+  },
+  {
+    "id": "ec-ec",
+    "country": "Ecuador",
+    "city": "Quito",
+    "region": "Americas",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Quito.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Quito.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Quito.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Quito.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "EC"
+  },
+  {
+    "id": "sv-sv",
+    "country": "El Salvador",
+    "city": "San Salvador",
+    "region": "Americas",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to San Salvador.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to San Salvador.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in San Salvador.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in San Salvador.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SV"
+  },
+  {
+    "id": "gd-gd",
+    "country": "Grenada",
+    "city": "Saint George's",
+    "region": "Americas",
+    "currency": "XCD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Saint George's.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Saint George's.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Saint George's.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Saint George's.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GD"
+  },
+  {
+    "id": "gt-gt",
+    "country": "Guatemala",
+    "city": "Guatemala City",
+    "region": "Americas",
+    "currency": "GTQ",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Guatemala City.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Guatemala City.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Guatemala City.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Guatemala City.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GT"
+  },
+  {
+    "id": "gy-gy",
+    "country": "Guyana",
+    "city": "Georgetown",
+    "region": "Americas",
+    "currency": "GYD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Georgetown.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Georgetown.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Georgetown.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Georgetown.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GY"
+  },
+  {
+    "id": "ht-ht",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "region": "Americas",
+    "currency": "HTG",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port-au-Prince.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port-au-Prince.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port-au-Prince.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port-au-Prince.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "HT"
+  },
+  {
+    "id": "hn-hn",
+    "country": "Honduras",
+    "city": "Tegucigalpa",
+    "region": "Americas",
+    "currency": "HNL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tegucigalpa.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tegucigalpa.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tegucigalpa.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tegucigalpa.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "HN"
+  },
+  {
+    "id": "jm-jm",
+    "country": "Jamaica",
+    "city": "Kingston",
+    "region": "Americas",
+    "currency": "JMD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kingston.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kingston.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kingston.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kingston.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "JM"
+  },
+  {
+    "id": "mx-mx",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "region": "Americas",
+    "currency": "MXN",
+    "stages": {
+      "preArrival": {
+        "simple": "Direct booking on Mexican carriers. Visa-free for many (FMM form). Varied climate: CDMX 12°C to 26°C, Cancún 22°C to 33°C. Casual dress, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: MEX (Mexico City), CUN (Cancún), GDL (Guadalajara) major hubs. Aeroméxico (flag carrier), Volaris, VivaAerobus budget carriers. Direct booking typical. No regional consolidator standard.\n\nVisa & Legal Compliance: Visa-free for 65+ countries (US, Canada, EU, UK, Japan). FMM (Forma Migratoria Múltiple) required for all (free at airport, valid 180 days). Visa required for others. Passport valid 6 months beyond stay.\n\nClimate & Weather: Varied by altitude/region. Mexico City: 12°C (Jan) to 26°C (July). Cancún: 22°C to 33°C. Guadalajara: 11°C to 28°C. Check specific destination. Altitude affects temperature (CDMX 2,240m). Rainy season May-Oct.\n\nApparel Sourcing: Casual acceptable. Modest dress for churches (no shorts, cover shoulders). Beach culture in coastal areas. Size system: US sizing. Sun protection essential."
+      },
+      "arrival24h": {
+        "simple": "Power: 127V, 60Hz, Type A/B sockets. 4G/5G good, eSIM available. NFC contactless growing. Authorized taxi booths at airports.",
+        "detailed": "Electrical Infrastructure: 127V, 60Hz (some areas 220V). Type A (two flat pins) and Type B (two flat + ground pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-a/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 92%, 5G in cities. ISPs: Telcel, Movistar, AT&T Mexico. Tourist eSIM: Airalo, Holafly. Local SIM: Telcel (~$40/week).\n\nFinancial Rails: NFC contactless growing (SPEI system). Cash still widely used. No mobile money. Tipping: 10-15% expected in restaurants, round up for services.\n\nAirport-to-City: Mexico City MEX: Authorized taxi only (airport booth, ~$25-35 to center). Metro Line 5 (₺5, 30min). Cancún: ADO bus ($12, 30min) or authorized taxi (~$35-50). Never use unauthorized taxis at airports."
+      },
+      "mobility": {
+        "simple": "CDMX Metro (12 lines), Metrobus (BRT). Pesero (informal minibuses). Uber, Didi ride-hailing. Ecobici bike share. Walkability: good in centers, security concerns.",
+        "detailed": "Urban Transit Grids: Mexico City: 12 Metro lines, Metrobus BRT, trolleybus. Integrated card: Metrobús card. Guadalajara: SITE, Macrobus. Monterrey: Metrorrey. Apps: CDMX Mobility, Moovit.\n\nInformal Transit: Pesero (informal minibuses) operating fixed routes, frequent but unregulated. Colectivos (shared taxis) common. Informal transit significant in cities.\n\nMicro-Mobility & Ride-Hailing: Uber, Didi dominant. No Bolt. Bike-sharing: Ecobici (CDMX), MiBici (GDL). E-scooters: Grin, Spin in CDMX.\n\nPedestrian Infrastructure: Variable. Excellent in Polanco, Roma, Condesa. Crowded in historic center. Security concerns in some areas at night. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, cars may not yield."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Rappi, Didi Food, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water: not safe - boil or bottle.",
+        "detailed": "E-Commerce & Delivery: Dominant: Rappi (Colombian, extensive), Didi Food, Uber Eats. Local: Cornershop (grocery). Grocery delivery: Walmart, Chedraui. 24/7 Rappi delivery culture.\n\nRetail & Alcohol: Open sales in supermarkets, convenience stores (OXXO). No state monopoly. Drinking age 18. Tequila/mezcal culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only (enforced). Pharmacies: Farmacias del Ahorro, Benavides. Farmacias Similares (generic). 24h pharmacies common.\n\nBeverage & Dietary: **Tap water not safe** - boil or use bottled water. Zero-sugar options available. Local: Coca-Cola (very popular), aguas frescas. Corn tortillas, beans, chiles staple.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Comida corrida (set menu) common. Sharing dishes typical. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid yellow marigolds (death), wine/food OK. Shoes removed in some homes. Dog-friendly in cities. Hospitality, family focus, personal space moderate.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid yellow marigolds (associated with death). Odd numbers preferred. Wine, tequila, regional food appropriate. Host gifts expected for dinner.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly in cities, less in rural areas. Dogs in restaurants (patios). Stray dogs common in rural areas. Cat culture present.\n\nBehavioral Matrix: Collectivist, family-focused. Warm, expressive culture. Physical greetings: handshake (formal), hug/kiss on cheek (friends). Punctuality: 30-60 min grace socially (mañana culture). Tipping: 10-15% expected. Personal space moderate. Siesta tradition fading but late lunches (2-4pm) common."
+      }
+    },
+    "iso": "MX"
+  },
+  {
+    "id": "ni-ni",
+    "country": "Nicaragua",
+    "city": "Managua",
+    "region": "Americas",
+    "currency": "NIO",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Managua.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Managua.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Managua.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Managua.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NI"
+  },
+  {
+    "id": "pa-pa",
+    "country": "Panama",
+    "city": "Panama City",
+    "region": "Americas",
+    "currency": "PAB",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Panama City.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Panama City.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Panama City.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Panama City.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PA"
+  },
+  {
+    "id": "py-py",
+    "country": "Paraguay",
+    "city": "Asunción",
+    "region": "Americas",
+    "currency": "PYG",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Asunción.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Asunción.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Asunción.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Asunción.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PY"
+  },
+  {
+    "id": "pe-pe",
+    "country": "Peru",
+    "city": "Lima",
+    "region": "Americas",
+    "currency": "PEN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Lima.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Lima.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Lima.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Lima.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PE"
+  },
+  {
+    "id": "kn-kn",
+    "country": "Saint Kitts and Nevis",
+    "city": "Basseterre",
+    "region": "Americas",
+    "currency": "XCD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Basseterre.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Basseterre.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Basseterre.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Basseterre.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KN"
+  },
+  {
+    "id": "lc-lc",
+    "country": "Saint Lucia",
+    "city": "Castries",
+    "region": "Americas",
+    "currency": "XCD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Castries.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Castries.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Castries.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Castries.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LC"
+  },
+  {
+    "id": "vc-vc",
+    "country": "Saint Vincent and the Grenadines",
+    "city": "Kingstown",
+    "region": "Americas",
+    "currency": "XCD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kingstown.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kingstown.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kingstown.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kingstown.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "VC"
+  },
+  {
+    "id": "sr-sr",
+    "country": "Suriname",
+    "city": "Paramaribo",
+    "region": "Americas",
+    "currency": "SRD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Paramaribo.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Paramaribo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Paramaribo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Paramaribo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SR"
+  },
+  {
+    "id": "tt-tt",
+    "country": "Trinidad and Tobago",
+    "city": "Port of Spain",
+    "region": "Americas",
+    "currency": "TTD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port of Spain.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port of Spain.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port of Spain.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port of Spain.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TT"
+  },
+  {
+    "id": "us-us",
+    "country": "United States",
+    "city": "Washington, D.C.",
+    "region": "Americas",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "No consolidator needed - direct booking. ESTA visa waiver (€14) or B1/B2 visa. Varied climate: check destination. Casual dress, beach to business formal.",
+        "detailed": "Flight Consolidators & Hub Routing: Major hubs: JFK/LGA/EWR (NYC), LAX (LA), ORD (Chicago), ATL (Atlanta), DFW (Dallas). Direct booking typical. No regional consolidator standard. Delta, American, United legacy carriers; Southwest, JetBlue budget.\n\nVisa & Legal Compliance: Visa Waiver Program (ESTA) for 38 countries - 90 days, €14 online. Otherwise B1/B2 tourist visa required. Passport valid 6 months beyond stay. TSA PreCheck/Global Entry programs for frequent travelers.\n\nClimate & Weather: Extremely varied by region. Northeast: -5°C to 30°C. Southwest: 10°C to 40°C. Florida: 15°C to 32°C. Check specific destination. Pack layers for cross-country travel.\n\nApparel Sourcing: Highly varied by region and context. Business casual in cities, casual elsewhere. Beach culture in coastal areas. Religious sites: modest dress. Size system: US sizing differs (shoes, clothing)."
+      },
+      "arrival24h": {
+        "simple": "Power: 120V, 60Hz, Type A/B sockets (flat pins). 4G/5G excellent, eSIM from Airalo/T-Mobile. NFC ubiquitous (Apple/Google Pay). Uber/Lyft everywhere.",
+        "detailed": "Electrical Infrastructure: 120V, 60Hz. Type A (two flat pins) and Type B (two flat + ground pin) sockets. Type A without ground, Type B with ground. Visual reference: https://www.power-plugs-sockets.com/type-a/\n\nConnectivity & ISP: Average broadband 150+ Mbps. 4G coverage 99%, 5G expanding. ISPs: Verizon, AT&T, T-Mobile. Tourist eSIM: Airalo, T-Mobile. Local SIM: T-Mobile Prepaid (~$50/month).\n\nFinancial Rails: NFC contactless payment universal. Venmo, Zelle, Cash App for P2P. Credit cards essential (Amex, Visa, MC). Cash still used but declining. Tipping: 15-20% expected.\n\nAirport-to-City: Varies widely by city. NYC: AirTrain + subway ($11.75) or taxi/Uber ($50-70). LA: FlyAway bus ($9.75) or rideshare ($40-80). Public transit quality varies significantly by city."
+      },
+      "mobility": {
+        "simple": "Varies: NYC subway excellent, LA car-dependent. Uber/Lyft dominant ride-hailing. Lime/Bird e-scooters. Walkability: high in Northeast, low in Sun Belt.",
+        "detailed": "Urban Transit Grids: Highly variable. NYC: Extensive subway/bus system (MTA). DC: Metro (WMATA). Chicago: 'L' trains. LA: Metro (limited). San Francisco: BART/Muni. Many cities: car-dependent. Transit apps: Citymapper, Transit.\n\nInformal Transit: Limited formal alternatives. Some unofficial shuttles in specific markets, but formal systems dominate.\n\nMicro-Mobility & Ride-Hailing: Uber and Lyft nationwide. Lime, Bird, Spin e-scooters in cities. Citi Bike (NYC), Divvy (Chicago), Bay Wheels (SF) bike shares. Car-sharing: Zipcar, Turo.\n\nPedestrian Infrastructure: Extremely variable. NYC, Boston, SF: highly walkable. LA, Houston, Phoenix: car-dependent, poor walkability. Sidewalk quality varies. ADA compliance required but inconsistent."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: DoorDash, Uber Eats, Grubhub dominant. Alcohol: supermarket sales (age 21). Pharmacy: OTC limited, many Rx-only. Tap water safe. Buffet: AYCE multi-plate.",
+        "detailed": "E-Commerce & Delivery: Dominant: DoorDash, Uber Eats, Grubhub. Local: Postmates. Grocery delivery: Instacart, Amazon Fresh. 24/7 delivery culture in major cities.\n\nRetail & Alcohol: Open sales in supermarkets, liquor stores (21+ ID required). No state monopoly except Pennsylvania (limited). Drinking age 21 strictly enforced. Tipping culture pervasive.\n\nPharmacy: Limited OTC compared to Europe. Many medications Rx-only (antibiotics, strong painkillers). Pharmacies: CVS, Walgreens, Rite Aid. 24h pharmacies common.\n\nBeverage & Dietary: Tap water safe nationwide. Zero-sugar sodas abundant. Local: Dr Pepper, Mountain Dew. Large portion sizes standard. Ice in drinks default.\n\nBuffet Protocols: AYCE (All-You-Can-Eat) multi-plate standard. Refills unlimited. No one-plate restrictions. Hotel buffets: self-serve, multiple plates typical."
+      },
+      "socialCode": {
+        "simple": "Gifts: wine, flowers, food items. Shoes usually kept on. Dog-friendly (varies by state). Personal space, direct eye contact, tipping mandatory, casual greetings.",
+        "detailed": "Gift-Giving Etiquette: Flowers: any number acceptable. Chrysanthemums sometimes associated with death. Wine, regional food, gift cards appropriate. Host gifts appreciated but not mandatory.\n\nHousehold Norms: Shoes typically kept on, unless requested otherwise. Socks expected if shoes removed.\n\nCompanion Pet Culture: Dog-friendly but varies by state/city. Many restaurants allow patios, not indoors. Service dog rights protected. Stray dogs rare in cities.\n\nBehavioral Matrix: Individualistic culture. Large personal space. Direct eye contact valued. Firm handshake greetings. Punctuality: socially 10-15 min grace, business on-time. Tipping: 15-20% mandatory in restaurants, taxis, personal services. Casual dress in many settings. Sunglasses acceptable in many contexts."
+      }
+    },
+    "iso": "US"
+  },
+  {
+    "id": "uy-uy",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "region": "Americas",
+    "currency": "UYU",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Montevideo.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Montevideo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Montevideo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Montevideo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "UY"
+  },
+  {
+    "id": "ve-ve",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "region": "Americas",
+    "currency": "VES",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Caracas.. Verify passport validity, visa requirements, and seasonal climate gear for Americas.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Caracas.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Americas."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Caracas.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Caracas.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "VE"
+  }
+]

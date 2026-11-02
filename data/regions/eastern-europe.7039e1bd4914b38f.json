@@ -1,0 +1,1866 @@
+[
+  {
+    "id": "al-al",
+    "country": "Albania",
+    "city": "Tirana",
+    "region": "Europe",
+    "currency": "ALL",
+    "stages": {
+      "preArrival": {
+        "simple": "Check Albania's official visa regime for your passport nationality before booking. Tirana (TIA) is the main air gateway; expect Mediterranean coastal weather, with cooler conditions inland and at altitude.",
+        "detailed": "Flight & entry planning: Tirana International Airport (TIA) is the main international gateway. Routes and airlines change seasonally; check the airport's current airline list and compare direct flights with connections through nearby European hubs. Ferry services also connect Durrës with Italy; verify schedules with the operator.\n\nVisa & legal compliance: Entry rules depend on passport nationality, purpose, and length of stay. Check Albania's Ministry for Europe and Foreign Affairs visa regime and any linked application process before departure; do not rely on a blanket visa-free list. Confirm passport validity requirements with the official authority for your case.\n\nClimate & apparel: Conditions vary between the coast, Tirana, and mountainous interior. Check the forecast for each stop and season; pack sun and rain protection for coastal trips and warmer layers for elevation or winter. Use respectful dress at religious sites and follow posted rules.\n\nChecked 2026-11-02; schedules, entry rules, and weather are subject to change.",
+        "sources": [
+          {
+            "topic": "Visa regime",
+            "url": "https://punetejashtme.gov.al/en/regime-visa/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Tirana airport airlines",
+            "url": "https://www.tirana-airport.com/en/partners/4/Airlines",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "National tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Albania uses 230 V / 50 Hz Type C and F sockets. TIA's official bus to Tirana is listed as hourly, 24/7, and 400 ALL; licensed airport taxis are available at the terminal.",
+        "detailed": "Power: Albania uses 230 V at 50 Hz with Type C and F sockets. Check whether your devices support 230 V; a plug adapter does not convert voltage.\n\nConnectivity & payments: Mobile coverage, roaming, eSIM availability, and card acceptance depend on provider and location. Confirm service with your carrier before travel and keep a modest amount of Albanian lek (ALL) available for small purchases or outages.\n\nAirport transfer: Tirana International Airport lists a public bus between the airport and central Tirana every hour, 24 hours a day, for 400 ALL; the airport says the trip takes about 30-40 minutes. Its official taxi page identifies the licensed airport taxi provider and lists an indicative fare of about 2,200 ALL to central Tirana; traffic and fares can change. Use the airport's current directions page to recheck details on arrival.\n\nChecked 2026-11-02; fares and services may change.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/albania/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Tirana airport bus",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Licensed airport taxi",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/13/By-Taxi",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Use current municipal information for Tirana buses and check official intercity listings before travel; routes, operators, and departure points can vary by city.",
+        "detailed": "Tirana and intercity travel: Tirana has municipal bus services. For intercity journeys, Albania's eTransport platform is linked by Tirana International Airport as a listing of official bus lines, stations, and schedules. Confirm the departure terminal, operator, and schedule directly before setting out.\n\nShared and on-demand transport: Shared minibuses (often called furgons) operate on some routes, but availability and departure practices vary. Agree the destination and fare before boarding. For app-based rides, check current local availability rather than assuming a service operates nationwide.\n\nWalking: Conditions vary by neighborhood and town. Check the route on arrival, allow for uneven or obstructed sidewalks, and use marked crossings while watching traffic.",
+        "sources": [
+          {
+            "topic": "Official bus lines, stations, and schedules",
+            "url": "https://www.etransport.al/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airport-published transport information",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery-app coverage and payment options vary by location. Ask your accommodation about local water and pharmacy access; check prescription rules for any medication you bring.",
+        "detailed": "Daily services: Delivery platforms, grocery options, opening hours, and cashless payment acceptance vary across Albania and can change. Check the app in your destination and confirm address and phone-number requirements before relying on delivery.\n\nHealth and water: Do not assume tap-water quality is identical across locations or buildings; ask your accommodation or local water provider, and use sealed bottled or appropriately treated water if uncertain. Bring necessary medication in original packaging and verify import and prescription requirements with an official source before travel. For urgent care, ask your accommodation for the nearest currently operating pharmacy or clinic.\n\nFood and drink: Albanian meals commonly include regional dishes such as byrek and tavë kosi. Ask about ingredients and dietary needs directly; menus and availability vary. Service charges and tipping practices are not uniform, so check the bill and use your judgment.",
+        "sources": [
+          {
+            "topic": "Official tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Albanian Ministry of Health",
+            "url": "https://shendetesia.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Be courteous at religious and heritage sites, ask before photographing people, and follow your host's lead on greetings, footwear, and home-visit customs.",
+        "detailed": "Being a guest: Customs differ between households and communities. At religious sites, follow posted dress and photography rules. Ask permission before photographing people, private property, or ceremonies. For a home visit, a small food or hospitality gift is a low-risk choice; ask your host about preferences and follow their lead on shoes and greetings.\n\nPublic behavior: Use a polite, measured approach in unfamiliar settings. Do not assume that one etiquette rule applies throughout the country; observe local cues and ask respectfully when unsure. This guidance is intentionally limited to practical courtesies rather than broad claims about national character.",
+        "sources": [
+          {
+            "topic": "Official Albania tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "AL",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/albania/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "by-by",
+    "country": "Belarus",
+    "city": "Minsk",
+    "region": "Europe",
+    "currency": "BYN",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare only permitted routings with Google Flights or Skyscanner, then confirm each leg with the operating airline. Check Belarus MFA entry rules and your government's current travel advice before booking.",
+        "detailed": "Flight search and routing: Minsk National Airport (MSQ) is the main international gateway. Google Flights and Skyscanner can compare listed itineraries, but route availability, airspace, payment options, and connections can change. Verify the complete itinerary with carriers and review current travel advice before paying.\n\nEntry rules: Visa eligibility, permitted crossings, and stay conditions depend on passport nationality and route. Check the Belarus MFA visa information; do not rely on a generic visa-free summary.\n\nClimate and packing: Minsk has cold winters and warm summers, with regional variation. Check a current forecast for each stop. Pack insulated layers and winter footwear in cold months, plus rain protection in shoulder seasons.",
+        "sources": [
+          {
+            "topic": "Visa and entry information",
+            "url": "https://mfa.gov.by/en/visa/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Minsk National Airport",
+            "url": "https://airport.by/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Minsk uses 220 V / 50 Hz Type C and F sockets. Confirm roaming and card acceptance with your providers; keep a lawful backup payment option.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Check device voltage labels; an adapter changes plug shape, not voltage.\n\nConnectivity and money: Roaming, local SIM eligibility, and foreign-card acceptance depend on provider and current restrictions. Ask your carrier and bank before travel; do not rely on a foreign card working everywhere. Use only payment methods permitted for your circumstances.\n\nAirport transfer: Check MSQ's current transport and passenger notices. Use clearly identified licensed services and confirm the destination and fare before leaving the terminal.",
+        "sources": [
+          {
+            "topic": "Belarus electrical standards",
+            "url": "https://www.power-plugs-sockets.com/belarus/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Minsk National Airport",
+            "url": "https://airport.by/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Minsk has metro and surface public transport. Check official route and ticket information; service, taxi apps, and intercity options vary by destination.",
+        "detailed": "Minsk: The metro covers major corridors; buses, trolleybuses, and trams fill out the city network. Check current routes, operating hours, and ticket validation rules with the transport operator before setting out.\n\nBeyond Minsk: Intercity rail and scheduled buses use different stations and operators. Confirm the departure point as well as the timetable. Shared minibuses may serve some corridors, but do not assume a fixed schedule.\n\nTaxis and walking: Use a licensed taxi or a locally available, verified dispatch service; confirm the fare before boarding. Sidewalk and crossing conditions vary by neighborhood, so check the route rather than assuming it is walkable.",
+        "sources": [
+          {
+            "topic": "Minsk public transport information",
+            "url": "https://minsktrans.by/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Use BYN for everyday cash needs and confirm foreign-card support before relying on it. Delivery, pharmacy hours, and water advice are location-specific.",
+        "detailed": "Shopping and delivery: App coverage and accepted payment methods vary by address. Check the exact Minsk delivery zone and phone-number requirements in the current app before depending on delivery; smaller cities may have fewer options.\n\nPharmacy and water: Bring prescription medicines in original packaging and verify import rules. Ask your accommodation about local water quality and use sealed or treated water if unsure. Locate an open pharmacy near your stay rather than assuming 24-hour service.\n\nFood and payment: Belarusian ruble (BYN) is the local currency. Keep an appropriate, lawful backup payment method. Try local dishes such as draniki, and check menus for ingredients and dietary needs. Buffet rules and service charges are venue-specific; check posted terms and the bill.",
+        "sources": [
+          {
+            "topic": "Official Belarus tourism information",
+            "url": "https://belarus.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At a home visit, ask whether to remove shoes and what gift is welcome. Use a polite greeting, ask before photographing people, and follow local rules at official sites.",
+        "detailed": "Home visits: Ask your host about footwear and gift preferences; a small packaged food gift is a low-risk option when appropriate. Do not assume flowers, alcohol, or shoes are welcome in every household.\n\nCommunication: Belarusian and Russian are both used; ask which language your counterpart prefers instead of assuming. Start with a courteous, somewhat formal greeting and follow the host's lead.\n\nPhotography and conduct: Ask permission before photographing people or private property. Follow posted restrictions at government, transport, and security-sensitive sites. Customs vary by person and setting, so avoid treating one etiquette rule as universal.",
+        "sources": [
+          {
+            "topic": "Official Belarus tourism information",
+            "url": "https://belarus.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "BY",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/belarus/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ba-ba",
+    "country": "Bosnia and Herzegovina",
+    "city": "Sarajevo",
+    "region": "Europe",
+    "currency": "BAM",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Sarajevo and regional-airport routes with Google Flights or Skyscanner; AZair can help find low-cost European connections. Entry rules depend on passport nationality.",
+        "detailed": "Flight routing: Sarajevo (SJJ) is the main gateway; Mostar and Tuzla have smaller, changing route networks. Compare with Google Flights or Skyscanner, and use AZair for low-cost European combinations. Check the operating airline and the full ground transfer before booking.\n\nVisa and entry: Bosnia and Herzegovina is outside Schengen. Entry permission and passport-validity rules depend on nationality and trip details; check the Ministry of Foreign Affairs and the relevant embassy before booking.\n\nClimate and clothing: Sarajevo has cold winters and warm summers; Mostar and the Adriatic-influenced south are milder. Check forecasts for each stop, pack layers, and follow posted dress requirements at religious sites.",
+        "sources": [
+          {
+            "topic": "Bosnia and Herzegovina Ministry of Foreign Affairs",
+            "url": "https://www.mvp.gov.ba/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Official Sarajevo public transport operator",
+            "url": "https://gras.ba/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Sarajevo uses 230 V / 50 Hz Type C and F sockets. Keep some convertible marks (BAM) available and confirm card/roaming support with your providers.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check device voltage labels; a plug adapter does not convert voltage.\n\nConnectivity and payment: Roaming and eSIM options depend on your carrier. Cards are accepted in many urban businesses, but keep BAM cash for small merchants or outages; check foreign-card fees with your bank.\n\nAirport and first transfer: Sarajevo Airport's route and passenger information can change. Check the current airport page on travel day; use marked taxi services or confirm the destination and fare with a verified booking before leaving.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/bosnia-and-herzegovina/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Sarajevo Airport passenger information",
+            "url": "https://sarajevo-airport.ba/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Sarajevo has trams, trolleybuses, buses, and minibuses; routes and ticket details are operator-specific. Intercity coaches and rail require separate schedule checks.",
+        "detailed": "Sarajevo: GRAS lists tram, trolleybus, bus, and minibus services. Check current notices, route maps, and ticket validity locally; disruptions can change service.\n\nBetween cities: Coach and rail options vary by corridor. Confirm the departure station and operator, especially for cross-border journeys. Shared vans may run on some routes but do not assume fixed departure times.\n\nTaxis and walking: Verify app coverage in the city where you are staying. Old-town paving and hilly streets can be uneven; check the route and use marked crossings.",
+        "sources": [
+          {
+            "topic": "GRAS Sarajevo routes and service notices",
+            "url": "https://gras.ba/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bosnia and Herzegovina Ministry of Foreign Affairs",
+            "url": "https://www.mvp.gov.ba/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo and local delivery coverage is address-dependent. Ask your accommodation about water and pharmacy access; check the bill and local opening hours.",
+        "detailed": "Delivery and shopping: Check Glovo or local listings with the exact address and a usable phone number before relying on delivery. Coverage and hours are thinner outside major cities.\n\nHealth and water: Water quality and building plumbing can vary; ask your host or use sealed/treated water if uncertain. Bring prescription medicines in original packaging and verify import rules.\n\nFood and payment: Sarajevo specialties include ćevapi and burek; ask about ingredients and dietary needs. BAM is the local currency. Tipping and service charges vary by venue; review the bill rather than assuming a fixed rate.",
+        "sources": [
+          {
+            "topic": "Official Bosnia and Herzegovina tourism information",
+            "url": "https://visitbih.ba/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people or religious sites. For a home visit, follow your host's lead on shoes, greetings, and whether a small food gift is welcome.",
+        "detailed": "Home visits: Customs vary by household. Ask whether to remove shoes and whether a small packaged food gift is appropriate; do not assume alcohol or flowers are welcome.\n\nReligious and public settings: Dress respectfully where requested, observe posted rules, and ask permission before photographing people, ceremonies, or private property.\n\nLanguage and etiquette: Bosnian, Croatian, and Serbian are used across the country. Begin politely and follow the other person's preferred language and level of formality; avoid generalizing customs across communities.",
+        "sources": [
+          {
+            "topic": "Official Bosnia and Herzegovina tourism information",
+            "url": "https://visitbih.ba/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "BA",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/bosnia-and-herzegovina/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "bg-bg",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Use AZair for low-cost European combinations, alongside Google Flights or Skyscanner. Bulgaria joined Schengen and adopted the euro; verify entry rules for your passport.",
+        "detailed": "Flight routing: Sofia (SOF) is the main hub; Varna (VAR) and Burgas (BOJ) serve Black Sea destinations. Compare Google Flights/Skyscanner with AZair for low-cost European itineraries, then confirm baggage and route with the airline.\n\nEntry rules: Bulgaria is in Schengen. Visa requirements depend on nationality and prior Schengen stays; check the European Commission's current short-stay rules and the relevant consulate.\n\nClimate and clothing: Sofia has cold winters and hot summers; the Black Sea coast and mountain areas differ. Check the forecast for each stop and pack layers, rain protection, or beach gear as appropriate.",
+        "sources": [
+          {
+            "topic": "European Commission: Schengen visa policy",
+            "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Sofia Airport routes and passenger information",
+            "url": "https://sofia-airport.eu/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "European Central Bank: Bulgaria euro changeover",
+            "url": "https://www.ecb.europa.eu/euro/changeover/bulgaria/html/index.en.html",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Bulgaria uses 230 V / 50 Hz Type C and F sockets. The currency is now the euro; Sofia Airport has current metro, bus, and official taxi guidance.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check your device label; an adapter changes plug shape but does not convert voltage.\n\nConnectivity and money: Bulgaria adopted the euro on 1 January 2026; euro banknotes and coins are now the sole legal tender. Cards and contactless payment are common in cities, but keep a small backup and check your bank's fees.\n\nAirport transfer: Sofia Airport publishes current metro, bus, terminal-transfer, and taxi information. Check first/last departures and service changes on arrival day; use the airport-recommended taxi stand or dispatch office.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/bulgaria/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Sofia Airport public transport and taxi information",
+            "url": "https://sofia-airport.eu/en/transport/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "European Central Bank: Bulgaria euro changeover",
+            "url": "https://www.ecb.europa.eu/euro/changeover/bulgaria/html/index.en.html",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Sofia has metro, trams, buses, and trolleybuses. Use Sofia Traffic's live route changes and ticket guidance; city and intercity fares are separate.",
+        "detailed": "Sofia: Metro, trams, buses, and trolleybuses serve the city. Sofia Traffic provides route changes, stops, and the Sofia2Go journey tools; check ticket validity and current service notices before boarding.\n\nBeyond Sofia: Varna, Plovdiv, and other cities operate their own networks. Bulgarian State Railways (BDZ) serves intercity rail; confirm station, schedule, and ticket details for the chosen route.\n\nRide-hailing and walking: Bolt availability varies by city. Old-town paving, hills, and winter conditions can affect walking; inspect your route and use marked crossings.",
+        "sources": [
+          {
+            "topic": "Sofia Traffic route and service information",
+            "url": "https://www.sofiatraffic.bg/bg/public-transport",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bulgarian State Railways",
+            "url": "https://www.bdz.bg/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo and eBag serve parts of the larger cities; check exact-address coverage. Bulgaria now uses euros, and water or pharmacy guidance should be checked locally.",
+        "detailed": "Delivery: Glovo and eBag are examples to check in Sofia and other covered cities; enter your address to see actual availability, phone requirements, fees, and hours. Coverage falls outside urban centres.\n\nPharmacy and water: Ask your accommodation about the nearest open pharmacy and local water notices. Carry prescriptions in original packaging and verify medicine import rules before travel.\n\nFood and payment: Try shopska salad, banitsa, or regional dishes; confirm ingredients and dietary needs. Euro is the currency. Service charges and tipping vary by venue; review the bill.",
+        "sources": [
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "eBag Bulgaria grocery delivery",
+            "url": "https://www.ebag.bg/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bulgarian tourism information",
+            "url": "https://bulgariatravel.org/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people or religious services, and follow site dress rules. At a home visit, ask about shoes and gifts rather than relying on folk generalizations.",
+        "detailed": "Visits and gifts: Household preferences vary. Ask whether to remove shoes and whether a small food gift is welcome. Do not rely on the often-repeated head-nodding generalization; confirm meaning if a gesture matters.\n\nReligious sites: Follow posted rules on clothing, photography, and services. Ask permission before photographing people or private property.\n\nConversation: Bulgarian is the official language; English use varies by age and location. Start courteously and ask which language is comfortable.",
+        "sources": [
+          {
+            "topic": "Bulgarian tourism information",
+            "url": "https://bulgariatravel.org/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "BG",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/bulgaria/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "hr-hr",
+    "country": "Croatia",
+    "city": "Zagreb",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Zagreb, Split, Dubrovnik, and seasonal coastal routes with Google Flights/Skyscanner; use AZair for low-cost European legs. Check Schengen eligibility and ferry connections separately.",
+        "detailed": "Flight routing: Zagreb (ZAG), Split (SPU), and Dubrovnik (DBV) are major gateways; coastal schedules vary by season. Use Google Flights or Skyscanner for broad comparisons and AZair for low-cost European combinations, then verify the itinerary with the airline.\n\nEntry rules: Croatia is in Schengen. Visa requirements and the 90/180 short-stay limit depend on nationality and time already spent in the area; check current European Commission guidance.\n\nClimate and clothing: Inland Zagreb has colder winters than the Adriatic coast. Summer coastal heat and shoulder-season rain are both possible. Pack layers and sturdy shoes for historic stone streets.",
+        "sources": [
+          {
+            "topic": "European Commission: Schengen visa policy",
+            "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Zagreb Airport passenger information",
+            "url": "https://www.zagreb-airport.hr/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Jadrolinija sailing schedules",
+            "url": "https://www.jadrolinija.hr/en/travels",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Croatia uses 230 V / 50 Hz Type C and F sockets and the euro. Check each airport's current bus/taxi options and ferry schedules before departure.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check device compatibility; a plug adapter does not convert voltage.\n\nConnectivity and payment: Euro is the currency. Cards and contactless payment are common in cities, but small businesses and islands can differ. Check roaming/eSIM terms and keep some cash for contingencies.\n\nAirport transfer: Zagreb, Split, and Dubrovnik have different bus and taxi arrangements. Check the relevant airport's current passenger page, terminal stop, and operating hours. For island onward travel, use Jadrolinija's current sailing schedule and traffic notices.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/croatia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Zagreb Airport",
+            "url": "https://www.zagreb-airport.hr/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Jadrolinija ferry timetable and notices",
+            "url": "https://www.jadrolinija.hr/en/travels",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Zagreb has trams and buses; coastal cities rely more on buses and ferries. ZET and Jadrolinija publish routes, tickets, and live service notices.",
+        "detailed": "Zagreb: ZET operates trams and buses and provides a journey planner, timetables, fares, and service updates. Check current line notices and ticket validation rules.\n\nCoast and islands: Local buses and ferries are key links. Jadrolinija's schedule and traffic-status pages are the references for ferry routes; seasonal timetables and reservations differ by line.\n\nRide-hailing and walking: Check Uber/Bolt availability at the exact location rather than assuming national coverage. Historic centres can have steep, polished stone streets; allow extra time and use marked crossings.",
+        "sources": [
+          {
+            "topic": "ZET Zagreb route planner, fares, and notices",
+            "url": "https://www.zet.hr/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Jadrolinija schedules and traffic status",
+            "url": "https://www.jadrolinija.hr/en/travels",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Wolt and Glovo are available in parts of Croatia; enter the exact address to confirm coverage. Tap-water and pharmacy advice can vary on islands and in older buildings.",
+        "detailed": "Delivery: Check Wolt or Glovo for your precise address, phone, and payment method. Island and rural coverage is limited; shops may close earlier outside peak season.\n\nHealth and water: Municipal tap water is commonly treated, but ask locally about the building and any advisories. Bring prescriptions in original packaging and locate the on-duty pharmacy for the town you are visiting.\n\nFood and payment: Try regional seafood, olive oil, or dishes such as pašticada; ask about ingredients and allergens. Check the bill for service charges; tipping is discretionary and venue-dependent.",
+        "sources": [
+          {
+            "topic": "Wolt Croatia",
+            "url": "https://wolt.com/en/hrv",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Croatian National Tourist Board",
+            "url": "https://croatia.hr/en-gb",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At churches, follow posted dress and photography rules. In homes, ask about shoes; in cafés, check the bill and follow the venue's service-charge policy.",
+        "detailed": "Home visits: Ask whether to remove shoes and whether a small local-food gift is welcome. Customs differ between households and regions.\n\nReligious and heritage sites: Follow clothing and photography rules. Ask before photographing people, ceremonies, or private property.\n\nPublic etiquette: Coffee and café time are common social settings, but don't infer a fixed schedule or tipping rule. Review the bill, and follow the host's lead on greetings and formality.",
+        "sources": [
+          {
+            "topic": "Croatian National Tourist Board",
+            "url": "https://croatia.hr/en-gb",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "HR",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/croatia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "cz-cz",
+    "country": "Czechia",
+    "city": "Prague",
+    "region": "Europe",
+    "currency": "CZK",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -3°C to 24°C. Smart casual, beer culture.",
+        "detailed": "Flight Consolidators & Hub Routing: PRG (Prague) primary hub. Czech Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: České dráhy (excellent).\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Czech-Visa portal for applications.\n\nClimate & Weather: Continental. Prague: -3°C (Jan) to 24°C (July). Brno: -2°C to 25°C. Cold winters, warm summers. Pack layers, waterproof jacket. Snow in winter.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Husky (Czech brand). Pivo (beer) culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/E sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Airport Express bus to Prague.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type E (French with male pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 98%, 5G extensive. ISPs: T-Mobile CZ, O2, Vodafone. Tourist eSIM: Airalo, Holafly. Local SIM: T-Mobile (~€35/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Prague PRG: Airport Express bus (Kč32, 35min) or public bus (Kč32, 45min). Official taxi: fixed rate (~Kč600-700 to center). Liftago ride-hailing."
+      },
+      "mobility": {
+        "simple": "Prague Metro (3 lines), trams, buses. No informal transit. Liftago ride-hailing. Rekola bike share. Excellent walkability, cobblestones.",
+        "detailed": "Urban Transit Grids: Prague: Metro (3 lines), trams, buses. Integrated ticket (PID). Brno: trams, buses. České dráhy trains between cities. Apps: PID Lítačka, Liftago.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Liftago (Czech ride-hailing). No Uber. No Bolt. Bike-sharing: Rekola (Prague), Nextbike (other cities). E-scooters: Lime, Beejump.\n\nPedestrian Infrastructure: Excellent walkability in historic centers. Cobblestones in old Prague - wear comfortable shoes. Sidewalks well-maintained. Pedestrian crossings respected. Beer garden culture."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: DámeJídlo, Wolt, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Beer culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: DámeJídlo (Czech), Wolt, Uber Eats. Local: Rohlík (grocery). Grocery delivery: Albert, Tesco. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, hospody (pubs). No state monopoly. Drinking age 18. Pilsner Urquell, Budějovický Budvar beer culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Lékárna (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Pilsner beer, Kofola (Czech cola). Czech cuisine: svíčková (beef), goulash, dumplings. Beer cheaper than water.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Czech breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), beer/food OK. Shoes removed in some homes. Dog-friendly (pubs allowed). Beer culture, direct communication, reserved demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Beer, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Very dog-friendly. Dogs allowed in pubs, restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, beer-culture-focused. Pivo (beer) central to social life. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm after first beer. Direct communication. Hobbies: hiking, skiing."
+      }
+    },
+    "iso": "CZ",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/czech-republic/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ee-ee",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -6°C to 22°C. Smart casual, digital society.",
+        "detailed": "Flight Consolidators & Hub Routing: TLL (Tallinn) primary hub. Nordica (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Elron.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Estonia-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Tallinn: -6°C (Jan) to 22°C (July). Tartu: -7°C to 21°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Digital society (e-Residency).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Monton (Estonian brand). Digital culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless ubiquitous. Tram/bus to Tallinn center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 99%, 5G extensive. ISPs: Telia EE, Elisa, Tele2. Tourist eSIM: Airalo, Holafly. Local SIM: Telia (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. World's most digital society - everything online. Cash declining but still used. Tipping: 5-10% (round up).\n\nAirport-to-City: Tallinn TLL: Tram 4 (€2, 20min) or bus (€2, 30min) to center. Official taxi: metered (~€15-20 to center). Bolt ride-hailing (Estonian-founded)."
+      },
+      "mobility": {
+        "simple": "Tallinn trams, buses. No informal transit. Bolt ride-hailing (Estonian-founded). Bolt/Tuul bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Tallinn: trams, buses (no Metro). Integrated ticket (Ühiskaart). Tartu: buses. Elron trains between cities. Apps: Tallinn public transport, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Estonian-founded, global). No Uber. No other ride-hailing. Bike-sharing: Bolt (Tallinn), Tuul (Tartu). E-scooters: Bolt, Tuul.\n\nPedestrian Infrastructure: Excellent walkability. Tallinn Old Town (UNESCO) pedestrian-only. Sidewalks well-maintained. Pedestrian crossings respected. Digital culture: mobile ticketing, parking apps."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt (Estonian-founded), Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt (Estonian-founded, global), Bolt Food, Foodpanda. Local: eRaketer (grocery). Grocery delivery: Rimi, Prisma. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kohvikud (cafes). No state monopoly. Drinking age 18. Vana Tallinn liqueur, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteek (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Vana Tallinn (herbal liqueur), Kalev chocolate. Estonian cuisine: black bread, herring, kama (grain flour). Digital ordering common.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Estonian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Digital culture, reserved demeanor, sauna.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, digital gifts appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, digital-culture-focused. World's most digital society. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Direct communication. Sauna culture integral to social life. E-Residency program for digital nomads."
+      }
+    },
+    "iso": "EE",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/estonia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "gr-gr",
+    "country": "Greece",
+    "city": "Athens",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Use AZair for low-cost European combinations and compare Google Flights/Skyscanner for wider coverage. Check Schengen entry rules and book island ferries with the operator.",
+        "detailed": "Flight routing: Athens (ATH) is the main hub; Thessaloniki and island airports provide other gateways. Compare Google Flights/Skyscanner with AZair for low-cost European legs. Verify seasonal routes with the airline.\n\nEntry rules: Greece is in Schengen. Visa requirements depend on passport nationality and prior Schengen days; check the European Commission's current rules and the relevant consulate.\n\nClimate and clothing: Athens and islands are hot in summer; northern and mountain areas are cooler. Check forecasts and fire/weather alerts, pack sun protection, and use sturdy footwear on archaeological and island terrain.",
+        "sources": [
+          {
+            "topic": "European Commission: Schengen visa policy",
+            "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Athens International Airport",
+            "url": "https://www.aia.gr/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Greek National Tourism Organisation",
+            "url": "https://www.visitgreece.gr/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Greece uses 230 V / 50 Hz Type C and F sockets and the euro. OASA publishes Athens routes, ticket options, and real-time service alerts.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check device labels and adapters before use.\n\nConnectivity and payments: Euro, cards, and contactless are common in cities; cash remains useful in some island and small-business settings. Verify roaming/eSIM coverage for remote islands with your carrier.\n\nAirport transfer: Athens Airport access options include rail/metro, bus, and taxi; check the airport's current page and first/last departure times. In Athens, use OASA service alerts before relying on a specific bus connection.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/greece/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Athens Airport passenger transport",
+            "url": "https://www.aia.gr/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "OASA route, ticket, and real-time service information",
+            "url": "https://www.oasa.gr/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Athens has metro, bus, tram, and trolleybus services; OASA provides ATH.ENA ticket information and live alerts. Island transport is local and seasonal.",
+        "detailed": "Athens: OASA coordinates public transport information and ATH.ENA ticketing; its site links the telematics app and current announcements. Check service disruptions before airport or port transfers.\n\nIslands: Buses and ferries vary by island and season. Confirm the local timetable and ferry operator, and allow time between the port and airport.\n\nTaxis and walking: Ride apps may dispatch licensed taxis rather than private cars. Confirm the fare and pickup point. Historic areas can be crowded, steep, and uneven; use marked crossings.",
+        "sources": [
+          {
+            "topic": "OASA Athens public transport",
+            "url": "https://www.oasa.gr/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Greek ferry passenger information",
+            "url": "https://www.visitgreece.gr/experiences/activities/sea/ferries/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "efood and Wolt serve many urban addresses; check island coverage in-app. Tap-water advice differs by island, so ask locally rather than assuming nationwide potability.",
+        "detailed": "Delivery: efood and Wolt are common options in larger cities; verify the exact address and opening hours. On islands, delivery and grocery services may be limited or seasonal.\n\nWater and pharmacy: Athens tap water is generally supplied as potable, while island sources vary; follow local advice and use sealed water if unsure. Check the on-duty pharmacy listing for each municipality; carry prescriptions in original packaging.\n\nFood and payment: Try regional dishes and ask about allergens or dietary needs. Euro is the currency. Service charges and tipping vary by establishment; check the receipt.",
+        "sources": [
+          {
+            "topic": "efood Greece",
+            "url": "https://www.e-food.gr/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Wolt Greece",
+            "url": "https://wolt.com/en/grc",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Greek National Tourism Organisation",
+            "url": "https://www.visitgreece.gr/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At monasteries and archaeological sites, follow dress and photography notices. For home visits, ask about shoes and gifts; customs vary by household.",
+        "detailed": "Religious and heritage sites: Some sites require modest clothing or restrict photography. Follow posted rules and staff instructions.\n\nHome visits: Ask whether to remove shoes and whether a small food gift is welcome. If invited to share food, ask about ingredients and follow the host's lead.\n\nPublic interaction: Greetings and meal timing vary by region and context. Be courteous, ask before photographing people, and avoid treating hospitality as a single national rule.",
+        "sources": [
+          {
+            "topic": "Greek National Tourism Organisation",
+            "url": "https://www.visitgreece.gr/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "GR",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/greece/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "hu-hu",
+    "country": "Hungary",
+    "city": "Budapest",
+    "region": "Europe",
+    "currency": "HUF",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -2°C to 27°C. Smart casual, thermal bath culture.",
+        "detailed": "Flight Consolidators & Hub Routing: BUD (Budapest Ferenc Liszt) primary hub. Wizz Air (Hungarian budget carrier). AZair for European budget flights. Direct booking typical. Train network: MÁV.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Hungary-Visa portal for applications.\n\nClimate & Weather: Continental. Budapest: -2°C (Jan) to 27°C (July). Cold winters, hot summers. Pack layers, warm clothes for winter. Thermal bath culture year-round.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Thermal bath wear: swimwear (gender-separated historically). Local brands: Nanushka."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless growing. 100E bus to Budapest center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 95%, 5G in cities. ISPs: Magyar Telekom, Vodafone HU, Yettel. Tourist eSIM: Airalo, Holafly. Local SIM: Magyar Telekom (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Budapest BUD: 100E bus (HUF900, 20min) or public bus (HUF900, 45min). Official taxi: fixed rate (~HUF8000-10000 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Budapest Metro (4 lines), trams, buses. No informal transit. Bolt ride-hailing. Bubi bike share. Excellent walkability, thermal baths.",
+        "detailed": "Urban Transit Grids: Budapest: Metro (4 lines), trams (4/6 tram famous), buses. Integrated ticket (BKK). Szeged, Debrecen: trams, buses. MÁV trains between cities. Apps: BKK FUTÁR, Google Maps.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Hungarian-founded). No Uber. No other ride-hailing. Bike-sharing: Bubi (Budapest), MOL Bubi. E-scooters: Lime, Tier.\n\nPedestrian Infrastructure: Excellent walkability along Danube. Thermal baths central to culture. Sidewalks well-maintained. Pedestrian crossings respected. Historic: Buda Castle, Parliament, Chain Bridge."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Foodpanda, NetPincér. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Paprika culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt (Estonian, but popular in Hungary), Foodpanda, NetPincér (Hungarian). Local: Kifli (grocery). Grocery delivery: Tesco, Spar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, drogériák (drugstores). No state monopoly. Drinking age 18. Tokaji wine, pálinka (fruit brandy) culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Gyógyszertár (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Unicum (herbal liqueur), paprika-spiced dishes. Hungarian cuisine: gulyás (goulash), paprikás, töltött káposzta (stuffed cabbage). Paprika integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Hungarian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/pálinka OK. Shoes removed in homes. Dog-friendly (restaurants). Thermal bath culture, reserved demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, pálinka, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, thermal-bath-culture-focused. Thermal baths central to social life. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm in bathhouses. Direct communication. Paprika spice culture. History: Austro-Hungarian Empire, communism."
+      }
+    },
+    "iso": "HU",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/hungary/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "lv-lv",
+    "country": "Latvia",
+    "city": "Riga",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -5°C to 22°C. Smart casual, Art Nouveau.",
+        "detailed": "Flight Consolidators & Hub Routing: RIX (Riga) primary hub. airBaltic (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Pasažieru vilciens.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Latvia-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Riga: -5°C (Jan) to 22°C (July). Daugavpils: -6°C to 21°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Art Nouveau architecture in Riga.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: 4F. Art Nouveau district central to Riga."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus 22 to Riga center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 98%, 5G extensive. ISPs: LMT, Tele2, Bite. Tourist eSIM: Airalo, Holafly. Local SIM: LMT (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Riga RIX: Bus 22 (€1.50, 30min) or express bus (€2.50, 20min). Official taxi: metered (~€15-25 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Riga trams, buses, trolleybuses. No informal transit. Bolt ride-hailing. Sixt bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Riga: trams, buses, trolleybuses (no Metro). Integrated ticket (Rīgas satiksme). Daugavpils: buses. Pasažieru vilciens trains between cities. Apps: Rīgas satiksme, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: Sixt (Riga). E-scooters: Bolt, Tuul.\n\nPedestrian Infrastructure: Excellent walkability. Riga Old Town (UNESCO) pedestrian-friendly. Art Nouveau district walkable. Sidewalks well-maintained. Pedestrian crossings respected."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Rye bread.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Bolt Food, Foodpanda. Local: Barons (grocery). Grocery delivery: Rimi, Maxima. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, veikali (shops). No state monopoly. Drinking age 18. Riga Black Balsam, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Aptieka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Riga Black Balsam, kvass (fermented drink). Latvian cuisine: rye bread, pelēkie zirņi (grey peas), caraway cheese. Rye bread integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Latvian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Reserved demeanor, sauna, song festival.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, honey appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, reserved demeanor. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Sauna culture integral. Song and Dance Festival (unifying event). Art Nouveau pride."
+      }
+    },
+    "iso": "LV",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/latvia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "lt-lt",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -6°C to 22°C. Smart casual, Baltic culture.",
+        "detailed": "Flight Consolidators & Hub Routing: VNO (Vilnius), KUN (Kaunas) major hubs. airBaltic, Ryanair. AZair for European budget flights. Direct booking typical. Train network: LTG Link.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Lithuania-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Vilnius: -6°C (Jan) to 22°C (July). Kaunas: -5°C to 23°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Baltic Sea coast (Klaipėda).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: 4F. Amber jewelry (Baltic amber)."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus to Vilnius center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 98%, 5G extensive. ISPs: Telia LT, Bitė Lietuva, Tele2. Tourist eSIM: Airalo, Holafly. Local SIM: Telia (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Vilnius VNO: Bus (€1, 30min) or train (€1, 7min) to center. Official taxi: metered (~€15-25 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Vilnius buses, trolleybuses. No informal transit. Bolt ride-hailing. Cyclocity bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Vilnius: buses, trolleybuses (no Metro). Integrated ticket (Vilnius Transport). Kaunas: buses. LTG Link trains between cities. Apps: Trafi, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: Cyclocity (Vilnius), SIXT (Kaunas). E-scooters: Bolt, CityBee.\n\nPedestrian Infrastructure: Excellent walkability. Vilnius Old Town (UNESCO) pedestrian-friendly. Sidewalks well-maintained. Pedestrian crossings respected. Hill of Three Crosses walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Rye bread.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Bolt Food, Foodpanda. Local: Barbora (grocery). Grocery delivery: Rimi, Maxima. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, parduotuvės (shops). No state monopoly. Drinking age 18. Suktinis liqueur, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Vaistinė (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Suktinis (herbal liqueur), kvass. Lithuanian cuisine: cepelinai (potato dumplings), šaltibarščiai (cold beet soup), rye bread. Rye bread integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Lithuanian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Reserved demeanor, sauna, basketball.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, amber jewelry appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, reserved demeanor. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Sauna culture integral. Basketball national obsession. Baltic amber jewelry tradition."
+      }
+    },
+    "iso": "LT",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/lithuania/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "md-md",
+    "country": "Moldova",
+    "city": "Chișinău",
+    "region": "Europe",
+    "currency": "MDL",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Chișinău flights with Google Flights or Skyscanner; AZair can help find low-cost European legs. Verify Moldova's entry rules for your passport before booking.",
+        "detailed": "Flight search and routing: Chișinău International Airport (RMO, formerly KIV) is the main air gateway. Google Flights and Skyscanner are useful for broad comparisons; AZair specializes in low-cost European combinations. Confirm each itinerary with the airline. Iași can be a nearby alternative for some trips, but compare the full ground transfer and border crossing, not just the airfare.\n\nEntry rules: Visa requirements depend on nationality, purpose, and length of stay. Check current guidance from Moldova's Ministry of Foreign Affairs and the relevant embassy before travel.\n\nClimate and packing: Moldova has cold winters and warm to hot summers. Check forecasts for Chișinău and any rural or vineyard stops; pack layers, rain protection, and suitable walking shoes.",
+        "sources": [
+          {
+            "topic": "Moldova Ministry of Foreign Affairs",
+            "url": "https://mfa.gov.md/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Chișinău International Airport",
+            "url": "https://airport.md/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Chișinău uses 220 V / 50 Hz Type C and F sockets. Carry some Moldovan lei and verify roaming, SIM, and card options for your provider.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Check device labels before plugging in; a travel adapter does not convert voltage.\n\nConnectivity and money: Check your carrier's Moldova roaming and eSIM coverage before departure. The local currency is the Moldovan leu (MDL); card acceptance and ATM availability are better planned around your exact destination than assumed nationwide. Keep a modest cash backup.\n\nAirport transfer: Check the airport's current transport page for bus, taxi, and service updates. Use the marked taxi area or a verified booking, and confirm the drop-off point and fare before starting the trip.",
+        "sources": [
+          {
+            "topic": "Moldova electrical standards",
+            "url": "https://www.power-plugs-sockets.com/moldova/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Chișinău International Airport",
+            "url": "https://airport.md/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Chișinău has trolleybuses, buses, and shared minibuses. Check route and ticket details locally; intercity departures are operator- and station-specific.",
+        "detailed": "Chișinău: Trolleybuses and buses form the main urban network; shared minibuses (rutieras) also run on city and regional corridors. Confirm route, stop, payment, and schedule locally because services can change.\n\nIntercity: Scheduled coaches and rail serve different routes and stations. Check the operator's current timetable and departure location, especially for a cross-border trip.\n\nRide-hailing and walking: Verify app coverage at your address before relying on it. Sidewalk quality and crossing conditions vary; inspect the route and allow extra time outside the central area.",
+        "sources": [
+          {
+            "topic": "Chișinău municipal information",
+            "url": "https://www.chisinau.md/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo coverage is address-dependent in Chișinău; check the app before relying on delivery. Ask locally about tap water and pharmacy access.",
+        "detailed": "Delivery and shopping: Check Glovo or other current local listings with your exact address; coverage and phone-number requirements differ outside the capital. Confirm grocery delivery and store hours with the provider.\n\nPharmacy and water: Bring prescription medicines in original packaging and confirm import rules. Water quality can vary by source and building; ask your host or use sealed/treated water if uncertain. Find the nearest open pharmacy after arrival.\n\nFood and service: Moldovan wine, placinte, and regional dishes are widely associated with local food culture. Ask about ingredients and dietary needs. Check the bill for service charges; tipping is discretionary and venue-dependent.",
+        "sources": [
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Moldova tourism information",
+            "url": "https://moldova.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "For a home visit, ask about shoes and gifts; a small local food item is a considerate option. Ask which language your host prefers and follow their lead.",
+        "detailed": "Hosting and greetings: Moldovan households and language preferences vary. Begin politely, ask whether Romanian or another language is preferred, and follow the host's lead on greetings and footwear.\n\nGifts and dining: A small food or wine gift may suit a host who drinks, but check preferences and avoid assuming alcohol is appropriate. Ask about dietary restrictions and observe the household's meal customs.\n\nPublic conduct: Ask permission before photographing people or private property. Etiquette differs by person and context; use local cues rather than relying on national stereotypes.",
+        "sources": [
+          {
+            "topic": "Moldova tourism information",
+            "url": "https://moldova.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "MD",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/moldova/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "me-me",
+    "country": "Montenegro",
+    "city": "Podgorica",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Podgorica and Tivat flights using Google Flights/Skyscanner and AZair for low-cost European legs. Visa rules depend on nationality; check the government source before booking.",
+        "detailed": "Flight routing: Podgorica (TGD) and Tivat (TIV) serve different parts of the country. Routes are seasonal; compare Google Flights/Skyscanner and AZair, then confirm schedule and baggage with the airline.\n\nEntry: Montenegro is outside Schengen. Visa eligibility, permitted stay, and passport validity depend on nationality and trip details; use the current Montenegrin government or embassy guidance.\n\nClimate and clothing: The coast has Mediterranean conditions; inland and mountain areas can be much colder and wetter. Check the forecast for each stop and pack layers, rain protection, and suitable footwear for steep old towns.",
+        "sources": [
+          {
+            "topic": "Montenegro government visa guidance",
+            "url": "https://www.gov.me/en/mvp",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airports of Montenegro flight information",
+            "url": "https://montenegroairports.com/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Montenegro uses the euro and 230 V / 50 Hz Type C/F sockets. TGD and TIV have separate transfer options; check the official airport pages for current details.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check device voltage before plugging in.\n\nConnectivity and money: Euro is used, although Montenegro is not an EU or euro-area member. Card and ATM access varies by town; keep some cash and check roaming with your carrier.\n\nAirport transfer: Podgorica and Tivat airports serve different destinations. Check Airports of Montenegro's current flight and passenger information; verify bus departures locally and use marked taxi services with the fare agreed before travel.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/montenegro/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airports of Montenegro passenger information",
+            "url": "https://montenegroairports.com/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Montenegrin rail timetable",
+            "url": "https://www.zpcg.me/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Podgorica and coastal towns rely on buses and taxis; Montenegro Rail serves the Bar–Podgorica–Bijelo Polje corridor. Check live operator schedules.",
+        "detailed": "Rail: ŽPCG publishes a timetable and online ticket links for domestic and international services. The Bar–Podgorica–Bijelo Polje line is the main passenger rail corridor; verify current service and station details.\n\nBuses: Intercity coaches connect Podgorica, the coast, and inland towns. Confirm terminal, operator, luggage rules, and departure time; schedules can be seasonal.\n\nLocal trips: Ride-hailing availability is limited and city-specific. Agree taxi fares before departure. Kotor and other old towns have steep, uneven pedestrian routes.",
+        "sources": [
+          {
+            "topic": "ŽPCG official timetable and tickets",
+            "url": "https://www.zpcg.me/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airports of Montenegro",
+            "url": "https://montenegroairports.com/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo coverage is address-specific in larger towns. Ask locally about water and pharmacy hours, especially on the coast outside peak season.",
+        "detailed": "Delivery and shops: Check Glovo or local listings for the exact address; availability is strongest in larger towns and varies seasonally. Confirm opening hours, especially outside summer.\n\nHealth and water: Ask your accommodation about local water supply and the nearest open pharmacy. Bring essential medication in original packaging and verify import requirements.\n\nFood and payment: Coastal menus often feature seafood; inland dishes differ. Ask about ingredients and allergens. Euro is used; check bills for any service charge and tip at your discretion.",
+        "sources": [
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Montenegro National Tourism Organisation",
+            "url": "https://www.montenegro.travel/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people or religious sites. At home, follow your host's lead on shoes and gifts; customs differ between households and regions.",
+        "detailed": "Home visits: Ask whether to remove shoes and whether a small local food gift is welcome. Do not assume alcohol is appropriate for every host.\n\nReligious and heritage sites: Follow posted clothing and photography rules; ask permission before photographing people or private property.\n\nConversation: Use a polite greeting and ask which language is preferred. Avoid generalizations about regional identity or customs.",
+        "sources": [
+          {
+            "topic": "Montenegro National Tourism Organisation",
+            "url": "https://www.montenegro.travel/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "ME",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/montenegro/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "mk-mk",
+    "country": "North Macedonia",
+    "city": "Skopje",
+    "region": "Europe",
+    "currency": "MKD",
+    "stages": {
+      "preArrival": {
+        "simple": "Use AZair for low-cost European combinations, plus Google Flights/Skyscanner for broad comparisons. Verify North Macedonia's national entry rules and current airport routes.",
+        "detailed": "Flight routing: Skopje (SKP) is the main hub; Ohrid (OHD) has a smaller, seasonal network. Compare broad searches with Google Flights/Skyscanner and AZair, then confirm route, baggage, and schedule with the airline.\n\nEntry rules: North Macedonia is outside Schengen. Visa eligibility and stay limits depend on passport nationality; verify with the Ministry of Foreign Affairs or the relevant embassy before travel.\n\nClimate and clothing: Skopje has cold winters and hot summers; Ohrid and mountain areas differ. Check forecasts and pack layers, sun protection, and walking shoes.",
+        "sources": [
+          {
+            "topic": "North Macedonia Ministry of Foreign Affairs",
+            "url": "https://mfa.gov.mk/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Skopje International Airport destinations and passenger guide",
+            "url": "https://skp.airports.com.mk/en-EN/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "North Macedonia uses denar (MKD) and 230 V / 50 Hz Type C/F sockets. Skopje Airport posts current transport choices; carry some cash for small purchases.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check device labels before use.\n\nConnectivity and payment: Check carrier roaming/eSIM availability. Cards are common in Skopje but cash remains useful in smaller towns; local currency is the denar (MKD). Confirm ATM fees with your bank.\n\nAirport transfer: Skopje Airport's passenger guide lists current transport alternatives. Recheck schedules and stops after landing; use a licensed taxi or verified booking and confirm the fare before departure.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/north-macedonia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Skopje Airport transport and passenger guide",
+            "url": "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Skopje primarily uses buses; JSP publishes city transport information. Intercity buses are more useful than rail for many routes; check schedules by corridor.",
+        "detailed": "Skopje: JSP operates city buses. Check current timetables, ticket options, and service notices with the operator; route and payment details can change.\n\nIntercity: Coaches connect Skopje, Ohrid, Bitola, and neighboring capitals. Verify departure terminal and schedule with the carrier; do not assume a rail alternative serves each route.\n\nTaxis and walking: Confirm ride-app coverage at the destination and check the fare before riding. Sidewalks and crossings vary by district; use marked crossings and inspect hilly routes.",
+        "sources": [
+          {
+            "topic": "JSP Skopje public transport",
+            "url": "https://jsp.com.mk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Skopje Airport passenger transport",
+            "url": "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Check Korpa, Wolt, or local listings against your exact Skopje address; coverage outside major cities is limited. Ask locally about water and pharmacy access.",
+        "detailed": "Delivery: Korpa and Wolt are examples to check in Skopje; app coverage, phone requirements, and payment options vary by neighborhood and city. Confirm service before relying on it.\n\nHealth and water: Ask your accommodation about local water guidance and the nearest open pharmacy. Bring prescribed medicines in original packaging and verify import rules.\n\nFood and money: Local dishes include tavče gravče and ajvar; ask about allergens and dietary needs. The denar is the currency. Check receipts for any service charge; tipping is venue-dependent.",
+        "sources": [
+          {
+            "topic": "Korpa North Macedonia",
+            "url": "https://korpa.mk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Wolt service availability",
+            "url": "https://wolt.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "North Macedonia tourism information",
+            "url": "https://northmacedonia-timeless.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At churches and mosques, follow posted dress and photography guidance. At home, ask whether to remove shoes and what gift is welcome.",
+        "detailed": "Home visits: Ask about footwear and gift preferences; a small food item may be appropriate, but follow the host's lead.\n\nReligious sites: Dress respectfully where requested and follow photography rules. Ask permission before photographing people or ceremonies.\n\nLanguage and etiquette: Macedonian and Albanian are widely used in different communities. Ask which language is preferred, greet politely, and avoid assuming one custom applies everywhere.",
+        "sources": [
+          {
+            "topic": "North Macedonia tourism information",
+            "url": "https://northmacedonia-timeless.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "MK",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/macedonia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "pl-pl",
+    "country": "Poland",
+    "city": "Warsaw",
+    "region": "Europe",
+    "currency": "PLN",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -4°C to 24°C. Smart casual, pierogi culture.",
+        "detailed": "Flight Consolidators & Hub Routing: WAW (Warsaw Chopin), KRK (Kraków) major hubs. LOT Polish Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: PKP Intercity.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Poland-Visa portal for applications.\n\nClimate & Weather: Continental. Warsaw: -4°C (Jan) to 24°C (July). Kraków: -3°C to 24°C. Cold winters, warm summers. Pack layers, warm clothes for winter. Snow common.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (especially John Paul II's Kraków). Size system: European. Outdoor gear: 4F (Polish brand). Pierogi (dumplings) culture."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/E sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. S2/S3 train to Warsaw center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type E (French with male pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 97%, 5G extensive. ISPs: Orange PL, Play, Plus. Tourist eSIM: Airalo, Holafly. Local SIM: Play (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. BLIK mobile payment dominant. Cash still used. Tipping: 10% (round up).\n\nAirport-to-City: Warsaw WAW: S2/S3 train (Kç4.40, 20min) or bus (Kç4.40, 30min). Official taxi: metered (~Kç50-70 to center). FreeNow ride-hailing."
+      },
+      "mobility": {
+        "simple": "Warsaw Metro (2 lines), trams, buses. No informal transit. FreeNow ride-hailing. Veturilo bike share. Excellent walkability, post-war reconstruction.",
+        "detailed": "Urban Transit Grids: Warsaw: Metro (2 lines), trams, buses. Integrated ticket (Warszawski Public Transport). Kraków: trams, buses. PKP trains between cities. Apps: Jakdojade, mPay.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: FreeNow (taxi app). No Uber. No Bolt. Bike-sharing: Veturilo (Warsaw), Wavelo (Kraków). E-scooters: Lime, Blinkee.\n\nPedestrian Infrastructure: Excellent walkability in rebuilt city centers. Warsaw largely rebuilt post-WWII. Sidewalks well-maintained. Pedestrian crossings respected. Old Town Warsaw (reconstructed)."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Pyszne.pl, Glovo, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Pierogi culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Pyszne.pl (Polish), Glovo, Uber Eats. Local: Dodo (pizza). Grocery delivery: Biedronka, Kaufland. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, monopolowy (liquor stores). No state monopoly. Drinking age 18. Vodka culture (Żubrówka, Belvedere). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Żywiec beer, kiszona (fermented). Polish cuisine: pierogi, bigos, żurek. Sourdough bread culture.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Polish breakfast buffets (cold cuts, pickles). No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), vodka/food OK. Shoes removed in homes. Dog-friendly (restaurants). Catholic tradition, hospitality, direct communication.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Vodka, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Collectivist, Catholic-tradition-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space moderate. Direct communication. Catholic traditions: Easter, Christmas. History-focused (WWII, communism)."
+      }
+    },
+    "iso": "PL",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/poland/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ro-ro",
+    "country": "Romania",
+    "city": "Bucharest",
+    "region": "Europe",
+    "currency": "RON",
+    "stages": {
+      "preArrival": {
+        "simple": "Use AZair for low-cost European itineraries and compare Google Flights/Skyscanner for wider routes. Romania is in Schengen; check your passport's current 90/180 position.",
+        "detailed": "Flight routing: Bucharest (OTP) is the main international hub; Cluj (CLJ), Iași (IAS), and Timișoara (TSR) are useful regional gateways. Compare Google Flights/Skyscanner with AZair and verify each operating carrier.\n\nEntry rules: Romania is in Schengen. Short-stay eligibility depends on nationality and days already spent in the area; check the European Commission's current guidance and consular instructions.\n\nClimate and packing: Romania has cold winters and warm summers, with mountain weather changing quickly. Check forecasts for city and rural legs; pack layers and suitable shoes for cobbles or hiking.",
+        "sources": [
+          {
+            "topic": "European Commission: Schengen visa policy",
+            "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bucharest Airports passenger information",
+            "url": "https://bucharestairports.ro/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Romanian National Tourism Authority",
+            "url": "https://romania.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Romania uses 230 V / 50 Hz Type C/F sockets and the leu (RON). OTP has rail and bus connections; check current airport and operator notices.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Confirm your device supports the voltage; an adapter alone is not a converter.\n\nConnectivity and payment: Romania uses the leu (RON). Cards and contactless are common in cities, but keep cash for small merchants and rural stops. Check roaming/eSIM plans before departure.\n\nAirport transfer: Bucharest OTP is linked to the city by train and bus. Check Bucharest Airports' live passenger information and the rail/bus operator for current timetable, ticket, and station details. Use an official taxi desk or a verified ride booking.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/romania/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bucharest Airports",
+            "url": "https://bucharestairports.ro/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "CFR passenger rail",
+            "url": "https://www.cfrcalatori.ro/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Bucharest has metro, bus, tram, and trolleybus networks; STB and Metrorex publish routes and fares. CFR serves intercity rail; check delays and station details.",
+        "detailed": "Bucharest: STB operates surface transport and Metrorex the metro. Check each operator's current route, ticket, and validation information; an urban pass may not cover intercity rail.\n\nIntercity: CFR Călători publishes rail schedules and booking. Train times and infrastructure works can affect journeys; confirm the station and latest service notices.\n\nRide-hailing and walking: Bolt and Uber operate in some cities; compare the licensed pickup and displayed fare. Historic centres have uneven paving and busy traffic; plan crossings carefully.",
+        "sources": [
+          {
+            "topic": "STB Bucharest surface transit",
+            "url": "https://www.stbsa.ro/eng",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Metrorex",
+            "url": "https://www.metrorex.ro/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "CFR Călători",
+            "url": "https://www.cfrcalatori.ro/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo and Wolt serve many urban areas; confirm the exact address. Ask your accommodation about tap water, particularly in older buildings or outside major cities.",
+        "detailed": "Delivery: Check Glovo or Wolt at your address; coverage and opening hours vary by city and neighborhood. Confirm phone and payment requirements before depending on delivery.\n\nHealth and water: Ask locally about building plumbing and municipal notices; use sealed or treated water if uncertain. Locate a duty pharmacy and bring prescriptions in original packaging.\n\nFood and payment: Try sarmale, mici, or regional soups; ask about ingredients and allergens. The leu is used; tipping and service charges vary, so review the receipt. Buffet rules are venue-specific.",
+        "sources": [
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Wolt Romania",
+            "url": "https://wolt.com/en/rou",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Romanian National Tourism Authority",
+            "url": "https://romania.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At churches, follow posted clothing and photography rules. For home visits, ask about shoes and gifts; household practices vary.",
+        "detailed": "Home visits: Ask whether to remove shoes and whether a small food gift is welcome. Let the host set the pace for greetings and the meal.\n\nReligious and heritage sites: Follow posted dress, photography, and service rules; ask before photographing people or ceremonies.\n\nConversation: Romanian is the official language; English familiarity varies by place and person. Ask politely which language is comfortable and avoid broad claims about national character.",
+        "sources": [
+          {
+            "topic": "Romanian National Tourism Authority",
+            "url": "https://romania.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "RO",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/romania/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ru-ru",
+    "country": "Russia",
+    "city": "Moscow",
+    "region": "Europe",
+    "currency": "RUB",
+    "stages": {
+      "preArrival": {
+        "simple": "For routes currently offered, compare Aviasales.ru with airline sites; verify routes, payment, and your government's travel advice. Russia's e-visa is limited to eligible nationalities.",
+        "detailed": "Flight search and routing: Moscow uses multiple airports, including Sheremetyevo (SVO), Domodedovo (DME), and Vnukovo (VKO). Aviasales.ru can surface domestic and regional options; confirm international itinerary, payment acceptance, and ticket terms directly with the carrier. Routes and restrictions change, so check current official travel advice before booking.\n\nEntry: Russia's unified e-visa is available only to eligible nationalities, approved crossing points, and permitted trip purposes. Check the MFA portal for current validity, stay limits, passport rules, and insurance requirements; otherwise consult the relevant consulate.\n\nClimate and packing: Conditions vary greatly across Russia. Research the exact city and season; Moscow winters are cold, while summer temperatures vary. Pack layers and allow for snow/ice in winter.",
+        "sources": [
+          {
+            "topic": "Russian MFA unified e-visa",
+            "url": "https://evisa.kdmid.ru/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Sheremetyevo Airport",
+            "url": "https://www.svo.aero/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Moscow uses 220 V / 50 Hz Type C and F sockets. Confirm current card, SIM, and payment access before travel; foreign-issued cards may not work.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Check device voltage and use a compatible adapter.\n\nConnectivity and payments: Foreign-issued payment cards and international services can be affected by sanctions and local restrictions. Check with your bank and carrier before departure; do not rely on a foreign card, roaming, or a particular app. Use only lawful payment and communications options.\n\nAirport transfer: Moscow airports have different rail, bus, and taxi connections. Check the arrival airport's current official transport page, then use a marked taxi desk or a verified booking. Confirm the route and fare before leaving the terminal.",
+        "sources": [
+          {
+            "topic": "Russia electrical standards",
+            "url": "https://www.power-plugs-sockets.com/russia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Sheremetyevo Airport",
+            "url": "https://www.svo.aero/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Moscow's metro is extensive; use current Metro/Mos.ru route and ticket information. Intercity rail and taxi services have separate booking systems.",
+        "detailed": "Moscow: The metro, buses, and surface rail cover major areas. Check Moscow Metro's current service notices and ticket options; language, payment, and app access may differ for visitors.\n\nAcross cities: Russian Railways (RZD) operates intercity trains; confirm station, ticket name/passport matching, and current service before travel. For trips within Moscow, Yandex Go is a local ride option where available; verify pickup details and fare in-app.\n\nWalking and safety: Winter surfaces can be icy and distances between stations long. Check weather and service alerts, use marked crossings, and follow local instructions at transport facilities.",
+        "sources": [
+          {
+            "topic": "Moscow Metro",
+            "url": "https://www.mosmetro.ru/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Russian Railways",
+            "url": "https://www.rzd.ru/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Yandex Eats and other delivery options are city-specific. Check local payment compatibility, pharmacy hours, and current rules for medicines you bring.",
+        "detailed": "Delivery and shopping: Yandex Eats and grocery delivery services operate in some cities; check the exact address, language, phone, and payment requirements before relying on them. Availability outside large cities varies.\n\nPharmacy and water: Bring essential medication in original packaging and verify import rules. Ask your accommodation about local tap-water guidance; use sealed or treated water if unsure. Locate an open pharmacy near your stay.\n\nPayments and food: Local currency is the ruble (RUB). International card access can be restricted; check lawful payment options before travel. Try regional dishes and ask about ingredients. Buffet terms and service charges are set by each venue.",
+        "sources": [
+          {
+            "topic": "Yandex Eats",
+            "url": "https://eda.yandex.ru/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At a home visit, ask about shoes and gifts; begin with a polite, formal greeting. Follow posted rules and ask before photographing people or official sites.",
+        "detailed": "Greetings and hosting: A measured, polite greeting is a safe start. In private homes, ask whether to remove shoes and whether a small food gift is welcome; follow the host's lead rather than assuming a universal custom.\n\nLanguage and dining: Ask which language your counterpart prefers. Observe table customs and ask about ingredients or dietary restrictions. Avoid treating regional or generational differences as a single national rule.\n\nPhotography: Ask before photographing people and respect restrictions at transport, government, and security-sensitive sites. Check current local rules before sharing images publicly.",
+        "sources": [
+          {
+            "topic": "Russian tourism information",
+            "url": "https://discover-russia.ru/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "RU",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/russia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "rs-rs",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "region": "Europe",
+    "currency": "RSD",
+    "stages": {
+      "preArrival": {
+        "simple": "Use AZair for low-cost European combinations and compare Belgrade routes with Google Flights/Skyscanner. Serbia is outside Schengen; check the MFA visa regime for your passport.",
+        "detailed": "Flight routing: Belgrade (BEG) is the main international gateway. Compare Google Flights/Skyscanner and AZair, then confirm schedule, baggage, and payment with the airline. Nearby airports can require a substantial ground transfer.\n\nEntry: Serbia is outside Schengen and maintains its own visa regime. Search the Serbian MFA's country-by-country guidance for your passport and trip purpose; verify passport validity and stay limits before booking.\n\nClimate and clothing: Belgrade has cold winters and hot summers; mountain and southern areas differ. Check the forecast and pack layers. For Orthodox sites, follow posted dress and photography rules.",
+        "sources": [
+          {
+            "topic": "Serbian Ministry of Foreign Affairs visa regime",
+            "url": "https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-regime",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Belgrade Airport",
+            "url": "https://beg.aero/eng",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Serbia uses dinar (RSD) and 230 V / 50 Hz Type C/F sockets. Confirm airport transfer, card fees, and foreign-card compatibility before relying on them.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check your device label and adapter before use.\n\nConnectivity and payment: RSD is the local currency. Cards are common in Belgrade, but cash is useful elsewhere; check foreign transaction fees and roaming with your providers.\n\nAirport transfer: Belgrade Airport publishes current transport information. Confirm bus routes and airport taxi-zone procedures on the official page; use marked services or verified bookings and confirm the fare.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/serbia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Belgrade Airport passenger transport",
+            "url": "https://beg.aero/eng",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Serbian Ministry of Foreign Affairs",
+            "url": "https://www.mfa.gov.rs/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Belgrade uses buses, trams, and trolleybuses; check current city ticketing and route notices. Intercity rail is resuming on some corridors; verify the exact service.",
+        "detailed": "Belgrade: Public transport operates across bus, tram, and trolleybus routes. Check current city transport information for ticket purchase and validation; route changes can occur.\n\nIntercity: Serbian rail service is corridor-specific and subject to infrastructure changes. Verify the destination, station, and timetable with the operator before planning a connection.\n\nTaxis and walking: CarGo and taxi services may be available in Belgrade; compare pickup details and fare in the app. Knez Mihailova and riverfront paths are walkable, but paving and crossing conditions differ elsewhere.",
+        "sources": [
+          {
+            "topic": "Belgrade public transport information",
+            "url": "https://www.bgprevoz.rs/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Serbian rail passenger information",
+            "url": "https://www.srbvoz.rs/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Wolt and Glovo serve many urban addresses; confirm coverage in-app. Ask locally about water and pharmacy hours, especially outside Belgrade.",
+        "detailed": "Delivery: Check Wolt or Glovo against your exact address, phone, and payment method. Availability is thinner in smaller towns; confirm shop hours.\n\nHealth and water: Ask your accommodation about local water notices and the nearest open pharmacy. Bring prescriptions in original packaging and verify import rules.\n\nFood and payment: Try local dishes such as ćevapi or pljeskavica; ask about ingredients and allergens. Dinar is used. Service charges and tipping differ by venue; review the bill.",
+        "sources": [
+          {
+            "topic": "Wolt Serbia",
+            "url": "https://wolt.com/en/srb",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Serbia tourism information",
+            "url": "https://www.serbia.travel/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people or religious services. For a home visit, ask about shoes and gifts; do not assume a fixed greeting or tipping custom.",
+        "detailed": "Home visits: Ask whether to remove shoes and whether a small food gift is welcome. Follow the host's lead on greetings and meals.\n\nReligious sites: Follow posted dress and photography rules and ask permission before photographing people or ceremonies.\n\nCommunication: Serbian is the official language, with English use varying by location and age. Begin politely and ask which language is preferred; avoid overgeneralizing customs.",
+        "sources": [
+          {
+            "topic": "Serbia tourism information",
+            "url": "https://www.serbia.travel/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "RS",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/serbia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "sk-sk",
+    "country": "Slovakia",
+    "city": "Bratislava",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "For low-cost European routes, try AZair; compare Google Flights/Skyscanner and Bratislava with Vienna Airport. Check Schengen entry rules for your passport.",
+        "detailed": "Flight search and routing: Bratislava Airport (BTS) publishes its current destinations, airlines, and transport links. AZair is useful for low-cost European combinations; compare results with Google Flights or Skyscanner and check Vienna Airport (VIE) as an alternative. Include the ground transfer and baggage costs, then verify with the airline.\n\nEntry: Slovakia is in the Schengen area. Short-stay rules and visa requirements depend on nationality and prior time spent in Schengen; use the European Commission's current guidance and the relevant consulate.\n\nClimate and packing: Slovakia has cold winters and warm summers, with colder conditions in mountain areas. Check the forecast for each region. Bring layers and suitable shoes for cobbled streets or hiking trails.",
+        "sources": [
+          {
+            "topic": "European Commission Schengen visa policy",
+            "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bratislava Airport routes and transport",
+            "url": "https://www.bts.aero/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Slovakia uses 230 V / 50 Hz Type E sockets; euro and contactless payment are common. BTS publishes current airport bus, taxi, and shuttle options.",
+        "detailed": "Power: 230 V / 50 Hz, Type E sockets. The Type E wall socket accepts compatible Type C plugs; check grounding and device voltage before use.\n\nConnectivity and money: Slovakia uses the euro (EUR). Check roaming terms with your mobile carrier; EU roaming depends on your plan and fair-use conditions. Cards and contactless payment are common, but keep a small cash backup for occasional exceptions.\n\nAirport transfer: Bratislava Airport publishes current bus and shuttle links, including connections to the city and Vienna. Check the timetable, stop, and ticket with the operator on travel day. Use official taxi pickup or a verified booking and confirm the fare.",
+        "sources": [
+          {
+            "topic": "Slovakia electrical standards",
+            "url": "https://www.power-plugs-sockets.com/slovakia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bratislava Airport transport",
+            "url": "https://www.bts.aero/en/parking-and-transport/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Bratislava uses buses, trams, and trolleybuses; IDS BK covers regional transport. Check current DPB and Slovak Rail (ZSSK) routes and tickets.",
+        "detailed": "Bratislava: DPB operates the city's buses, trams, and trolleybuses. IDS BK coordinates regional public transport and ticketing; check the current fare zones and validation rules before boarding.\n\nIntercity and regional trips: ZSSK provides national rail services. Compare train and bus times for mountain or rural destinations, and confirm the departure station. Seasonal hiking access and weather can affect routes.\n\nRide-hailing and walking: App availability varies by city; use licensed providers and verify the pickup point. Historic centers may have cobbles and restricted vehicle access, so allow time on foot.",
+        "sources": [
+          {
+            "topic": "Bratislava public transport operator",
+            "url": "https://www.dpb.sk/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Slovak Railways",
+            "url": "https://www.zssk.sk/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Wolt delivery is available in some Slovak cities; check postcode coverage. Pharmacies, alcohol hours, and tap-water advice can vary by municipality and venue.",
+        "detailed": "Delivery and shopping: Check Wolt or other local listings at your exact address; coverage is thinner outside larger towns. Many shops close earlier or have reduced Sunday hours, so check current opening times.\n\nPharmacy and water: Pharmacies are marked with a green cross; check the local duty-pharmacy rota for late hours. Tap water is generally treated, but ask your accommodation about building-specific notices. Bring prescription medicines in original packaging and verify import rules.\n\nFood and dining: Try regional dishes such as bryndzové halušky. Ask about allergens and dietary needs. Service charges and buffet policies are venue-specific; read posted terms and check the bill.",
+        "sources": [
+          {
+            "topic": "Wolt Slovakia",
+            "url": "https://www.wolt.com/en/svk",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Slovakia tourism information",
+            "url": "https://slovakia.travel/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At churches, follow posted dress and photography rules. For a home visit, ask about shoes and gifts; follow your host's lead rather than assuming a rule.",
+        "detailed": "Religious and heritage sites: Dress modestly where requested and follow signs about photography, services, and restricted areas.\n\nHome visits: Ask whether to remove shoes and whether a small food gift is welcome. A polite greeting and punctual arrival are good defaults; adapt to the host's preferences.\n\nOutdoor conduct: On marked hiking routes, follow local trail and wildlife notices, carry weather-appropriate layers, and avoid broad assumptions about regional customs.",
+        "sources": [
+          {
+            "topic": "Slovakia tourism information",
+            "url": "https://slovakia.travel/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "SK",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/slovakia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "si-si",
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Use AZair for low-cost European combinations alongside Google Flights/Skyscanner. Slovenia is in Schengen; check passport eligibility and prior 90/180 days.",
+        "detailed": "Flight routing: Ljubljana (LJU) is the main airport. Compare Google Flights/Skyscanner with AZair for low-cost European routes; nearby Trieste, Venice, or Zagreb can be alternatives only after including the full ground transfer.\n\nEntry rules: Slovenia is in Schengen. Visa eligibility and short-stay days depend on nationality and prior stays; use current European Commission guidance and the relevant consulate.\n\nClimate and clothing: Ljubljana has cold winters and warm summers; Alpine and coastal weather differs. Check forecasts, pack layers and rain protection, and bring footwear suited to hiking if visiting the Julian Alps.",
+        "sources": [
+          {
+            "topic": "European Commission: Schengen visa policy",
+            "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ljubljana Airport destinations and transport",
+            "url": "https://www.lju-airport.si/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Slovenian tourism information",
+            "url": "https://www.slovenia.info/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Slovenia uses euro and 230 V / 50 Hz Type C/F sockets. Ljubljana Airport lists current transport and mobile-data options; verify bus schedules before arrival.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and F sockets. Check device voltage and adapter compatibility.\n\nConnectivity and payment: Slovenia uses the euro. Cards and contactless are common, though small rural businesses may differ. Check your roaming plan; EU roaming is subject to plan terms and fair-use limits.\n\nAirport transfer: Ljubljana Airport publishes current bus, taxi, and shuttle information. Check the timetable, stop, and destination before landing; nearby-city bus options are not the same as a direct city route.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/slovenia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ljubljana Airport ground transport",
+            "url": "https://www.lju-airport.si/en/transport/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ljubljana Airport mobile data",
+            "url": "https://www.lju-airport.si/en/airport/services/wing-esim/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Ljubljana uses buses, with Urbana for city fares and live arrivals from LPP. Slovenian Railways connects larger towns; confirm mountain and seasonal bus links.",
+        "detailed": "Ljubljana: LPP operates buses and publishes arrivals, detours, Urbana card/payment options, and fares. Check service updates before travel; the city centre has extensive pedestrian and cycle areas.\n\nIntercity: Slovenian Railways (SŽ) serves major towns. Rural, lake, and mountain links may rely on scheduled buses or seasonal services; check the full route and return trip.\n\nMicro-mobility and walking: BicikeLJ is a city bike-share scheme with registration and station rules. Historic paving and Alpine trails require different footwear and planning; use marked routes.",
+        "sources": [
+          {
+            "topic": "Ljubljana LPP routes and Urbana",
+            "url": "https://www.lpp.si/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Slovenian Railways passenger information",
+            "url": "https://potniski.sz.si/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Wolt and Glovo serve Ljubljana and some other cities; verify exact-address coverage. Tap-water advice is local, so follow municipal notices and accommodation guidance.",
+        "detailed": "Delivery: Check Wolt, Glovo, or local grocery services at your exact address; coverage falls outside larger urban areas. Confirm opening hours and phone requirements.\n\nHealth and water: Tap-water quality is generally managed by local utilities; follow municipal notices and ask about building-specific issues. Check the local duty-pharmacy rota and bring prescribed medicines in original packaging.\n\nFood and payment: Try štruklji or regional dishes and ask about allergens. Euro is used. Check the receipt for service charges; tipping is discretionary.",
+        "sources": [
+          {
+            "topic": "Wolt Slovenia",
+            "url": "https://wolt.com/en/svn",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Slovenian tourism information",
+            "url": "https://www.slovenia.info/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people or private property. For home visits, follow your host on shoes and gifts; at Alpine sites, follow trail and environmental rules.",
+        "detailed": "Home visits: Ask whether to remove shoes and whether a small local food gift is welcome. Household customs vary; follow the host's lead.\n\nOutdoor and heritage spaces: Stay on marked trails, follow conservation notices, and observe posted rules at caves, churches, and historic sites.\n\nInteraction: Begin politely and give others personal space. Ask before photographing people or private property; avoid turning a reserved or outdoors-oriented stereotype into a rule for individuals.",
+        "sources": [
+          {
+            "topic": "Slovenian tourism information",
+            "url": "https://www.slovenia.info/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "SI",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/slovenia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "tr-tr",
+    "country": "Turkey",
+    "city": "Ankara",
+    "region": "Asia",
+    "currency": "TRY",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Istanbul and regional airports with Google Flights/Skyscanner; use AZair for low-cost European connections and check Pegasus/Turkish Airlines directly. Use Turkey's official e-Visa portal only if eligible.",
+        "detailed": "Flight routing: Istanbul (IST/SAW), Ankara (ESB), Izmir (ADB), and Antalya (AYT) serve different regions. Compare broad search engines and AZair for low-cost European legs; confirm baggage, airport, and route with Turkish Airlines, Pegasus, or the operating carrier.\n\nEntry rules: Turkey's e-Visa eligibility is nationality- and passport-specific and may include conditions. Check the official e-Visa portal and Turkish MFA guidance; do not assume visa-on-arrival or universal e-Visa access.\n\nClimate and clothing: Turkey spans several climate zones. Check city-specific forecasts. At mosques, follow posted dress guidance; lightweight layers and sun protection are useful in warmer seasons.",
+        "sources": [
+          {
+            "topic": "Official Türkiye e-Visa",
+            "url": "https://www.evisa.gov.tr/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Türkiye Ministry of Foreign Affairs",
+            "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "GoTürkiye tourism information",
+            "url": "https://goturkiye.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Turkey uses lira (TRY) and 220 V / 50 Hz Type C/F sockets. IST and SAW have separate airport-transfer networks; check official airport notices and current fares.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Check device voltage before use.\n\nConnectivity and payment: The lira (TRY) is the currency. Cards are accepted widely in urban areas, but cash is useful for smaller purchases. Check roaming/eSIM and foreign-card terms with your providers.\n\nAirport transfer: Istanbul Airport (IST) and Sabiha Gökçen (SAW) are on different sides of the city and use different connections. Check the relevant airport's current metro, bus, and taxi information; allow for traffic and verify fares before travel.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/turkey/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Istanbul Airport passenger information",
+            "url": "https://www.istairport.com/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Istanbul Metro official network",
+            "url": "https://www.metro.istanbul/en",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Istanbul combines metro, tram, Marmaray, ferry, and bus; use Istanbulkart and Metro Istanbul's current network notices. Dolmuş routes and payment vary locally.",
+        "detailed": "Istanbul: Metro Istanbul operates rail lines; ferries, trams, and buses use separate operator information. Istanbulkart is widely used for integrated transit; check current fares, transfers, and service changes.\n\nOther cities: Ankara and Izmir have their own metro/rail and bus operators. Check the municipal app or transport website for each city rather than assuming Istanbul's fare card works nationwide.\n\nShared and app-based trips: Dolmuş shared minibuses serve fixed corridors, but stops and payment practices vary. BiTaksi and Uber may dispatch licensed taxis; confirm the vehicle, route, and fare. Hills and crowded sidewalks affect walking in many districts.",
+        "sources": [
+          {
+            "topic": "Metro Istanbul network and service information",
+            "url": "https://www.metro.istanbul/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Istanbulkart",
+            "url": "https://www.istanbulkart.istanbul/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Yemeksepeti and Getir are useful urban delivery examples; coverage and payment depend on the exact address. Ask locally about tap water and pharmacy access.",
+        "detailed": "Delivery: Yemeksepeti, Getir, and Trendyol Go operate in parts of Turkey; service areas and operating companies can change. Check address, phone, payment, and hours in the current app before relying on it.\n\nHealth and water: Tap-water taste and local advice vary; ask your accommodation and use sealed water if uncertain. Pharmacies (eczane) have posted duty rotations; bring prescriptions in original packaging and check import rules.\n\nFood and payment: Try regional cuisine and ask about ingredients or allergens. Alcohol sales and service hours are regulated and can vary by locality. Check the bill for service charges; tipping is discretionary.",
+        "sources": [
+          {
+            "topic": "Yemeksepeti",
+            "url": "https://www.yemeksepeti.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Getir Türkiye",
+            "url": "https://getir.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "GoTürkiye tourism information",
+            "url": "https://goturkiye.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "At mosques, follow posted clothing and shoe-removal rules. Ask before photographing people; for home visits, check whether a small gift is welcome.",
+        "detailed": "Religious sites: Follow posted guidance on clothing, footwear, prayer areas, and photography. Carry a scarf or covering if you plan to visit a mosque.\n\nHome visits and dining: Ask whether to remove shoes and whether a small food or tea gift is appropriate. Alcohol is not a suitable default gift; check the host's preferences.\n\nGreetings and conduct: Customs vary by region and individual. Begin politely, let the other person set the greeting style, and ask permission before photographing people or private property.",
+        "sources": [
+          {
+            "topic": "GoTürkiye tourism information",
+            "url": "https://goturkiye.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "TR",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/turkey/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ua-ua",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "region": "Europe",
+    "currency": "UAH",
+    "stages": {
+      "preArrival": {
+        "simple": "Do not assume commercial flights are operating to your destination. Check current government travel advice and Ukrainian transport updates; entry rules depend on your passport.",
+        "detailed": "Route planning: Security conditions and aviation operations can change. Do not rely on Google Flights, Skyscanner, or an old itinerary alone; confirm current airspace and carrier operations through official sources and follow your government's travel advice. Ukrzaliznytsia publishes official rail information and booking links; cross-border routes and connections can change at short notice.\n\nEntry rules: Visa requirements depend on nationality, purpose, and stay. Check Ukraine's MFA guidance and the relevant embassy before departure.\n\nClimate and packing: Conditions vary from the Black Sea coast to the Carpathians. Check the forecast for every region and season; use layers, rain protection, and sturdy footwear.",
+        "sources": [
+          {
+            "topic": "Ukraine MFA",
+            "url": "https://mfa.gov.ua/en",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ukrzaliznytsia passenger information",
+            "url": "https://www.uz.gov.ua/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Ukraine uses 220 V / 50 Hz Type C and F sockets. Power and mobile service can be interrupted; carry a charged power bank and check current local alerts.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Check your device label and adapter before use. Electricity availability can change with local conditions; keep essential devices charged when possible.\n\nConnectivity and payments: Check roaming or eSIM coverage with your provider. Keep offline maps and important addresses; service can be interrupted. The local currency is the hryvnia (UAH). Cards are common in cities, but keep some cash for outages or small purchases.\n\nArrival and onward travel: Confirm the operating status of the airport and border crossing before travel. For rail, use official Ukrzaliznytsia schedules and booking links. Follow official alerts and instructions at stations.",
+        "sources": [
+          {
+            "topic": "Ukraine electrical standards",
+            "url": "https://www.power-plugs-sockets.com/ukraine/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ukrzaliznytsia passenger information",
+            "url": "https://www.uz.gov.ua/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Use current official city-transit and Ukrzaliznytsia updates. Service may change with security alerts; follow local air-raid instructions and shelter guidance.",
+        "detailed": "Kyiv and other cities: Metro, bus, tram, and trolleybus services operate by municipality; check the local operator's current service notices, hours, and ticketing. Air-raid alerts can interrupt service or change access; follow official instructions and know the nearest shelter.\n\nIntercity: Ukrzaliznytsia is the primary official rail source. Confirm schedules, station changes, and boarding details on the day of travel.\n\nTaxis and walking: Check current availability of licensed taxi apps at your location and confirm the pickup point. Avoid photographing transport, military, or infrastructure sites where restricted; use marked crossings and follow local security notices.",
+        "sources": [
+          {
+            "topic": "Ukrzaliznytsia passenger information",
+            "url": "https://www.uz.gov.ua/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kyiv Metro",
+            "url": "https://www.metro.kyiv.ua/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo and grocery delivery cover some Ukrainian cities; check your exact address. Follow local notices for water, electricity, pharmacy hours, and payment access.",
+        "detailed": "Delivery: Check Glovo or local listings at the exact address; coverage and operating hours vary by city and can change with local conditions. Confirm phone-number, payment, and delivery instructions in the app.\n\nPharmacy and water: Ask your accommodation about current local water guidance and open pharmacies. Bring necessary medicines in original packaging and verify import rules. Keep essential supplies for possible service interruptions.\n\nPayments and food: Use Ukrainian hryvnia (UAH); card and mobile payment availability may be affected by power or network interruptions. Check receipts for service charges and ask about ingredients or dietary needs.",
+        "sources": [
+          {
+            "topic": "Glovo service availability",
+            "url": "https://glovoapp.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ukrzaliznytsia passenger information",
+            "url": "https://www.uz.gov.ua/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask which language a person prefers; do not assume Ukrainian and Russian are interchangeable. Follow air-raid, photography, and security instructions without exception.",
+        "detailed": "Language and introductions: Ukrainian is the state language, and language preferences vary by person and region. Ask politely which language your counterpart prefers; do not assume that Ukrainian and Russian are interchangeable.\n\nHome and hospitality: Ask about footwear and gift preferences when visiting. A small food gift can be appropriate, but follow the host's lead and ask about dietary needs.\n\nSecurity and photography: Follow air-raid alerts, shelter instructions, and restrictions on photographing people, transport, military activity, or infrastructure. Do not publish location-sensitive images. Customs differ by household; avoid national-character generalizations.",
+        "sources": [
+          {
+            "topic": "Ukraine official information",
+            "url": "https://ukraine.ua/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "UA",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/ukraine/",
+      "lastChecked": "2026-11-02"
+    }
+  }
+]

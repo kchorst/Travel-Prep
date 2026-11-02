@@ -1,0 +1,2281 @@
+[
+  {
+    "id": "dz-dz",
+    "country": "Algeria",
+    "city": "Algiers",
+    "region": "Africa",
+    "currency": "DZD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Algiers.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Algiers.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Algiers.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Algiers.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "DZ"
+  },
+  {
+    "id": "ao-ao",
+    "country": "Angola",
+    "city": "Luanda",
+    "region": "Africa",
+    "currency": "AOA",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Luanda.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Luanda.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Luanda.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Luanda.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AO"
+  },
+  {
+    "id": "bj-bj",
+    "country": "Benin",
+    "city": "Porto-Novo",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Porto-Novo.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Porto-Novo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Porto-Novo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Porto-Novo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BJ"
+  },
+  {
+    "id": "bw-bw",
+    "country": "Botswana",
+    "city": "Gaborone",
+    "region": "Africa",
+    "currency": "BWP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Gaborone.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Gaborone.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Gaborone.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Gaborone.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BW"
+  },
+  {
+    "id": "bf-bf",
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ouagadougou.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ouagadougou.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ouagadougou.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ouagadougou.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BF"
+  },
+  {
+    "id": "bi-bi",
+    "country": "Burundi",
+    "city": "Gitega",
+    "region": "Africa",
+    "currency": "BIF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Gitega.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Gitega.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Gitega.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Gitega.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BI"
+  },
+  {
+    "id": "cv-cv",
+    "country": "Cabo Verde",
+    "city": "Praia",
+    "region": "Africa",
+    "currency": "CVE",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Praia and island gateways with Google Flights/Skyscanner, TAP, and Cabo Verde Airlines; domestic island links are separate. Check the consular portal for visa and pre-registration requirements.",
+        "detailed": "Flight routing: Praia (RAI), Sal (SID), and Boa Vista (BVC) serve different islands. Compare Google Flights/Skyscanner with TAP and Cabo Verde Airlines; inter-island flights and ferries require separate planning.\n\nEntry: Visa exemptions, visa requirements, and pre-registration/TSA procedures depend on nationality and visit. Check Cabo Verde's official Consular Portal before booking and complete any required pre-registration.\n\nClimate and packing: Dry, sunny conditions are common, but wind, dust, and island microclimates vary. Check forecasts; pack sun protection, light layers, and sturdy footwear for volcanic terrain.",
+        "sources": [
+          {
+            "topic": "Cabo Verde Consular Portal: visas and entry pre-registration",
+            "url": "https://portalconsular.mnec.gov.cv/vistos",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cabo Verde Airports (ASA)",
+            "url": "https://asa.cv/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cabo Verde Airlines",
+            "url": "https://www.caboverdeairlines.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Cabo Verde uses 220 V / 50 Hz Type C and F sockets. Escudo is pegged to the euro; keep cash for smaller islands and check roaming coverage.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Confirm your device input and adapter compatibility.\n\nConnectivity and payments: The Cabo Verde escudo (CVE) is pegged to the euro; cash and card acceptance varies by island and merchant. Check roaming/SIM options and carry cash for outages or small businesses.\n\nAirport transfer: Airports and ground transport differ by island. Check ASA's current passenger information and arrange licensed taxi or hotel transfer; confirm fare and pickup before leaving.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/cape-verde/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cabo Verde Airports (ASA)",
+            "url": "https://asa.cv/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cabo Verde Consular Portal",
+            "url": "https://portalconsular.mnec.gov.cv/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Inter-island travel uses domestic flights and ferries; CV Interilhas publishes sailing information. On-island transport often relies on shared aluguer minibuses and taxis.",
+        "detailed": "Between islands: Compare domestic flights with CV Interilhas ferries. Schedules are weather-sensitive and can change; confirm departure port, check-in time, and current notices.\n\nOn-island: Aluguer shared minibuses and taxis serve many routes, but frequencies vary. Confirm destination and fare before boarding; some routes depart when full.\n\nWalking: Terrain can be steep, rocky, and exposed to sun/wind. Plan water, footwear, and return transport, especially outside town centres.",
+        "sources": [
+          {
+            "topic": "CV Interilhas ferry schedules",
+            "url": "https://cvinterilhas.cv/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cabo Verde Airports (ASA)",
+            "url": "https://asa.cv/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery and online retail are limited outside Praia and larger island towns. Confirm water, pharmacy, and shop hours with your accommodation before remote trips.",
+        "detailed": "Daily services: App-based delivery is limited and island-specific. Ask your accommodation about local shops, phone coverage, and opening hours; plan supplies before moving to smaller islands.\n\nHealth and water: Use sealed or treated water unless local providers confirm otherwise. Pharmacy stock and hours vary; carry essential medicine in original packaging and verify import rules.\n\nFood and payment: Seafood, cachupa, and local produce vary by island. Ask about ingredients and dietary needs. CVE cash is useful; check any card surcharge and restaurant service charge.",
+        "sources": [
+          {
+            "topic": "Cabo Verde tourism information",
+            "url": "https://www.visit-caboverde.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cabo Verde Consular Portal",
+            "url": "https://portalconsular.mnec.gov.cv/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Portuguese and Cape Verdean Creole are used; ask which language is preferred. Ask before photographing people and follow host cues on greetings and gifts.",
+        "detailed": "Language and greetings: Portuguese is official and Cape Verdean Creole is widely spoken. Ask which language your host prefers and greet people politely.\n\nHome visits: Ask whether to remove shoes and whether a small food gift is welcome. Customs differ between islands and households.\n\nPhotography and environment: Ask permission before photographing people or private property. Follow local guidance on beaches, trails, and protected areas.",
+        "sources": [
+          {
+            "topic": "Cabo Verde tourism information",
+            "url": "https://www.visit-caboverde.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "CV",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/cape-verde/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "cm-cm",
+    "country": "Cameroon",
+    "city": "Yaoundé",
+    "region": "Africa",
+    "currency": "XAF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Yaoundé.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Yaoundé.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Yaoundé.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Yaoundé.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CM"
+  },
+  {
+    "id": "cf-cf",
+    "country": "Central African Republic",
+    "city": "Bangui",
+    "region": "Africa",
+    "currency": "XAF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bangui.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bangui.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bangui.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bangui.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CF"
+  },
+  {
+    "id": "td-td",
+    "country": "Chad",
+    "city": "N'Djamena",
+    "region": "Africa",
+    "currency": "XAF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to N'Djamena.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to N'Djamena.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in N'Djamena.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in N'Djamena.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TD"
+  },
+  {
+    "id": "km-km",
+    "country": "Comoros",
+    "city": "Moroni",
+    "region": "Africa",
+    "currency": "KMF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Moroni.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Moroni.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Moroni.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Moroni.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KM"
+  },
+  {
+    "id": "cg-cg",
+    "country": "Congo",
+    "city": "Brazzaville",
+    "region": "Africa",
+    "currency": "XAF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Brazzaville.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Brazzaville.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Brazzaville.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Brazzaville.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CG"
+  },
+  {
+    "id": "cd-cd",
+    "country": "Democratic Republic of the Congo",
+    "city": "Kinshasa",
+    "region": "Africa",
+    "currency": "CDF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kinshasa.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kinshasa.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kinshasa.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kinshasa.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CD"
+  },
+  {
+    "id": "ci-ci",
+    "country": "Ivory Coast",
+    "city": "Yamoussoukro",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Yamoussoukro.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Yamoussoukro.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Yamoussoukro.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Yamoussoukro.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CI"
+  },
+  {
+    "id": "dj-dj",
+    "country": "Djibouti",
+    "city": "Djibouti",
+    "region": "Africa",
+    "currency": "DJF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Djibouti.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Djibouti.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Djibouti.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Djibouti.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "DJ"
+  },
+  {
+    "id": "eg-eg",
+    "country": "Egypt",
+    "city": "Cairo",
+    "region": "Africa",
+    "currency": "EGP",
+    "stages": {
+      "preArrival": {
+        "simple": "Cairo (CAI) is the main hub; compare EgyptAir and regional carriers with Google Flights/Skyscanner. Check Egypt's official eVisa eligibility and current entry conditions.",
+        "detailed": "Flight routing: Cairo (CAI) is the main international hub; Hurghada, Sharm el-Sheikh, and Luxor serve regional itineraries. Compare broad search and EgyptAir/direct carriers; confirm airport, baggage, and connection details.\n\nEntry: Egypt's eVisa portal is official, but eligibility and visa type depend on nationality and trip. Check visa2egypt.gov.eg and the relevant embassy; do not assume visa-on-arrival is available to every traveler.\n\nClimate and packing: Desert heat, Nile Valley conditions, and coastal weather differ. Check forecasts and heat advisories. Bring sun protection, breathable layers, and modest clothing for religious sites.",
+        "sources": [
+          {
+            "topic": "Official Egypt eVisa",
+            "url": "https://visa2egypt.gov.eg/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "EgyptAir",
+            "url": "https://www.egyptair.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Egyptian Tourism Authority",
+            "url": "https://www.egypt.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Egypt uses 220 V / 50 Hz Type C and F sockets. Keep Egyptian pounds and confirm airport transfer details; SIM, card, and cash access vary by provider and venue.",
+        "detailed": "Power: 220 V / 50 Hz, Type C and F sockets. Check device labels and use a compatible adapter.\n\nConnectivity and money: Check roaming and local SIM registration with your carrier/operator. Egyptian pound (EGP) cash is useful for small purchases; card acceptance varies by merchant. Use authorized ATMs and check fees.\n\nAirport transfer: Cairo Airport has multiple terminals and transport options; confirm the terminal, official taxi counter/app pickup zone, and destination. Agree fare or use the app estimate before departure.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/egypt/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Cairo International Airport",
+            "url": "https://www.cairo-airport.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Egypt official eVisa",
+            "url": "https://visa2egypt.gov.eg/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Cairo has metro, buses, and minibuses; Metro tickets and lines are operator-specific. Uber, Careem, and inDrive are common app options; intercity rail requires separate booking.",
+        "detailed": "Cairo: Metro is the most predictable option on served corridors; check current Cairo Metro route, hours, and ticket guidance. Buses and minibuses extend coverage but require local route knowledge.\n\nRide-hailing: Uber, Careem, and inDrive are available in major cities. Confirm the pickup location, vehicle, and fare in-app; traffic can make journey times highly variable.\n\nIntercity and walking: Egyptian National Railways serves major corridors; verify schedule and station details. Sidewalks, heat, and traffic vary; plan crossings carefully and allow extra time.",
+        "sources": [
+          {
+            "topic": "Cairo Metro",
+            "url": "https://www.cairometro.gov.eg/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Egyptian National Railways",
+            "url": "https://enr.gov.eg/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Talabat, Breadfast, and Rabbit are urban service examples; check the exact delivery zone. Use bottled water unless your accommodation gives location-specific guidance.",
+        "detailed": "Delivery: Talabat, Breadfast, and Rabbit serve some city areas; coverage and payment vary by address. Confirm local phone, building, and delivery instructions in the app.\n\nHealth and water: Do not assume tap water is suitable for visitors; use sealed bottled water or suitable treatment. Carry essential medicines in original packaging and verify import rules.\n\nFood and payment: EGP cash remains useful alongside cards and local wallets. Ask about ingredients and dietary needs. Pharmacy hours and duty rotas are local; check nearby options after arrival.",
+        "sources": [
+          {
+            "topic": "Talabat Egypt",
+            "url": "https://www.talabat.com/egypt",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Breadfast",
+            "url": "https://breadfast.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Egyptian Tourism Authority",
+            "url": "https://www.egypt.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Dress modestly at religious sites, remove shoes where directed, and ask before photographing people. Use polite greetings and follow your host's cues.",
+        "detailed": "Religious and heritage sites: Follow posted clothing, footwear, and photography rules. Ask permission before photographing people, especially at worship sites.\n\nHome visits: Ask whether to remove shoes and whether a small food gift is welcome. Offer or receive items with the host's lead; customs vary.\n\nPublic interaction: Greetings and expectations vary by setting. Be courteous, ask about dietary needs, and avoid assuming one social rule applies nationwide.",
+        "sources": [
+          {
+            "topic": "Egyptian Tourism Authority visitor information",
+            "url": "https://www.egypt.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "EG",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/egypt/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "gq-gq",
+    "country": "Equatorial Guinea",
+    "city": "Malabo",
+    "region": "Africa",
+    "currency": "XAF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Malabo.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Malabo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Malabo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Malabo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GQ"
+  },
+  {
+    "id": "er-er",
+    "country": "Eritrea",
+    "city": "Asmara",
+    "region": "Africa",
+    "currency": "ERN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Asmara.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Asmara.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Asmara.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Asmara.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "ER"
+  },
+  {
+    "id": "sz-sz",
+    "country": "Eswatini",
+    "city": "Mbabane",
+    "region": "Africa",
+    "currency": "SZL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Mbabane.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Mbabane.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Mbabane.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Mbabane.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SZ"
+  },
+  {
+    "id": "et-et",
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "region": "Africa",
+    "currency": "ETB",
+    "stages": {
+      "preArrival": {
+        "simple": "Addis Ababa is Ethiopian Airlines' main hub. Compare Google Flights/Skyscanner, then confirm routes directly; use Ethiopia's official eVisa site and watch for lookalike portals.",
+        "detailed": "Flight routing: Addis Ababa (ADD) is the principal international gateway and Ethiopian Airlines' hub; domestic services connect regional centres. Compare broad searches, then verify itinerary and baggage with the carrier.\n\nEntry: Ethiopia offers an official government eVisa for eligible travelers and purposes. Check nationality-specific requirements, entry port, and visa terms at evisa.gov.et; the government warns about fraudulent lookalike sites.\n\nClimate and packing: Addis Ababa's elevation brings cooler evenings; lowlands can be much hotter. Check region-specific forecasts, pack sun protection and layers, and verify seasonal road/park access.",
+        "sources": [
+          {
+            "topic": "Official Ethiopia eVisa",
+            "url": "https://www.evisa.gov.et/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ethiopian Airlines",
+            "url": "https://www.ethiopianairlines.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ethiopia tourism portal",
+            "url": "https://visitethiopia.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Ethiopia uses 220 V / 50 Hz Type C, E, F, and L sockets. Keep ETB cash; card and mobile-wallet access are more limited outside major hotels/cities.",
+        "detailed": "Power: 220 V / 50 Hz; Type C, E, F, and L outlets are reported. Confirm outlet type at lodging and check device voltage; use a compatible adapter.\n\nConnectivity and payment: Buy a SIM from an authorized operator and check registration requirements. Telebirr is a domestic wallet; visitors may not be able to register. Carry Ethiopian birr (ETB), especially outside large hotels.\n\nAirport transfer: Bole International Airport is the main entry point. Confirm official transport or hotel pickup in advance, and agree taxi destination/fare before leaving the terminal.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/ethiopia/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ethiopian Airlines airport information",
+            "url": "https://www.ethiopianairlines.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ethio telecom",
+            "url": "https://www.ethiotelecom.et/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Addis Ababa has light rail, buses, and minibuses; ride apps such as Ride and Feres are city-specific. Intercity travel is best checked with Ethiopian Airlines or bus operators.",
+        "detailed": "Addis Ababa: Light rail and city buses serve selected corridors; shared minibuses are common but routes and fares may be unfamiliar. Ask locally or use an up-to-date route source before boarding.\n\nRide services: Ride and Feres are local app examples in Addis Ababa; confirm current availability, language, payment, and pickup location. Service is limited outside urban centres.\n\nIntercity and walking: Domestic flights connect distant regions; road trips can take much longer than map estimates. Check current security, weather, and road advice. Sidewalks and crossings vary.",
+        "sources": [
+          {
+            "topic": "Ethiopian Railways Corporation",
+            "url": "https://erc.gov.et/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ethiopian Airlines domestic routes",
+            "url": "https://www.ethiopianairlines.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Food-delivery and grocery coverage is limited and city-specific. Use sealed or treated water, carry essential medicines, and keep cash for small businesses.",
+        "detailed": "Delivery: Apps and delivery services have narrower coverage than in many capitals; ask your hotel which service reaches the address. Do not rely on delivery outside Addis Ababa without confirmation.\n\nHealth and water: Use sealed bottled or appropriately treated water. Carry essential medication in original packaging and verify import rules; stock and opening hours vary by city.\n\nFood and payment: Injera and shared platters are common, but ask about ingredients and dietary needs. ETB cash remains useful. Tipping and buffet practices depend on the venue.",
+        "sources": [
+          {
+            "topic": "Ethiopia tourism portal",
+            "url": "https://visitethiopia.travel/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ethiopia official eVisa information",
+            "url": "https://www.evisa.gov.et/information",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people, religious services, or government sites. Follow hosts' cues at meals; fasting practices and greetings vary by community.",
+        "detailed": "Religious and public sites: Follow posted dress and photography restrictions; ask before photographing people, ceremonies, or government facilities.\n\nHome and meals: Ask about footwear and dietary needs. Shared platters are common in some settings; use the serving practice offered by the host.\n\nLanguage and greetings: Amharic is widely used in Addis Ababa, with many regional languages elsewhere. Begin politely and ask which language is preferred; religious observance varies.",
+        "sources": [
+          {
+            "topic": "Ethiopia tourism portal",
+            "url": "https://visitethiopia.travel/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "ET",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "E",
+        "F",
+        "L"
+      ],
+      "source": "https://www.power-plugs-sockets.com/ethiopia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ga-ga",
+    "country": "Gabon",
+    "city": "Libreville",
+    "region": "Africa",
+    "currency": "XAF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Libreville.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Libreville.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Libreville.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Libreville.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GA"
+  },
+  {
+    "id": "gm-gm",
+    "country": "Gambia",
+    "city": "Banjul",
+    "region": "Africa",
+    "currency": "GMD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Banjul.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Banjul.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Banjul.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Banjul.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GM"
+  },
+  {
+    "id": "gh-gh",
+    "country": "Ghana",
+    "city": "Accra",
+    "region": "Africa",
+    "currency": "GHS",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Accra (ACC) flights on Google Flights/Skyscanner and confirm with the operating airline. Ghana entry rules are passport-specific; use MFA or official immigration guidance.",
+        "detailed": "Flight routing: Kotoka International Airport (ACC) is the main gateway. Compare broad search, then confirm connections and baggage with the carrier; Africa World Airlines serves some regional routes.\n\nEntry: Visa and yellow-fever documentation requirements depend on nationality, origin, and purpose. Check Ghana's Ministry of Foreign Affairs and Ghana Immigration before travel; don't rely on generic visa-free summaries.\n\nClimate and packing: Accra is hot and humid; northern regions and rainy seasons differ. Check forecast and health advice, pack breathable clothing and rain protection, and dress respectfully at religious sites.",
+        "sources": [
+          {
+            "topic": "Ghana Ministry of Foreign Affairs",
+            "url": "https://mfa.gov.gh/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ghana Immigration Service",
+            "url": "https://gis.gov.gh/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ghana Airports Company",
+            "url": "https://www.gacl.com.gh/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Ghana uses 230 V / 50 Hz Type D and G sockets. Carry Ghana cedis (GHS); MTN MoMo is common but visitor registration/card acceptance varies.",
+        "detailed": "Power: 230 V / 50 Hz, Type D and G sockets. Check device labels and bring a compatible adapter.\n\nConnectivity and payments: Check local SIM registration. MTN MoMo is widely used domestically, but visitors may not be able to open an account; retain GHS cash and a bank card. ATM/card availability varies by town.\n\nAirport transfer: Kotoka Airport lists passenger services and transport information. Use official taxi or verified app pickup and agree the destination/fare before leaving.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/ghana/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ghana Airports Company",
+            "url": "https://www.gacl.com.gh/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "MTN Ghana MoMo",
+            "url": "https://mtn.com.gh/momo/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Accra relies on tro-tros, buses, and taxis; routes and stops are informal. Uber, Bolt, and Yango operate in cities; verify pickup, fare, and destination.",
+        "detailed": "Accra: Tro-tros and shared vans serve extensive routes, often departing when full. Ask a local for the correct stop/destination and confirm fare before boarding; intercity coaches use designated terminals.\n\nApp rides: Uber, Bolt, and Yango coverage varies by city. Confirm the vehicle and plate in-app and use a clear pickup point.\n\nWalking: Heat, road crossings, and sidewalk gaps can make walking difficult. Plan short routes and use marked crossings; allow extra time for traffic.",
+        "sources": [
+          {
+            "topic": "Ghana transport information",
+            "url": "https://www.mot.gov.gh/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ghana Airports Company",
+            "url": "https://www.gacl.com.gh/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Hubtel and Bolt Food are urban delivery examples; check exact address coverage. Use sealed or treated water and confirm pharmacy hours locally.",
+        "detailed": "Delivery: Hubtel and Bolt Food serve selected urban zones; verify address, phone, payment, and operating hours. Delivery is limited outside major towns.\n\nHealth and water: Use sealed bottled or treated water unless local authorities/accommodation give current guidance. Bring prescriptions in original packaging and check import rules.\n\nPayments and food: GHS cash and mobile money are common; visitor access to MoMo varies. Ask about ingredients and allergens. Check receipts for service charges; tipping is discretionary.",
+        "sources": [
+          {
+            "topic": "Hubtel Ghana",
+            "url": "https://hubtel.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bolt Ghana",
+            "url": "https://bolt.eu/en/food/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ghana Tourism Authority",
+            "url": "https://visitghana.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ghana is multilingual and culturally diverse. Ask before photographing people or ceremonies, and follow hosts' cues on greetings, footwear, and dining.",
+        "detailed": "Greetings and language: English is official; local language preferences vary by region and household. Ask which language is comfortable and use a courteous greeting.\n\nHome visits and meals: Ask about footwear and whether a small food gift is welcome. Follow the host's lead on shared dishes and ask about dietary needs.\n\nPhotography: Ask permission before photographing people, homes, or ceremonies. Follow posted rules at religious, government, and heritage sites; avoid broad cultural assumptions.",
+        "sources": [
+          {
+            "topic": "Ghana Tourism Authority visitor information",
+            "url": "https://visitghana.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "GH",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "D",
+        "G"
+      ],
+      "source": "https://www.power-plugs-sockets.com/ghana/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "gn-gn",
+    "country": "Guinea",
+    "city": "Conakry",
+    "region": "Africa",
+    "currency": "GNF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Conakry.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Conakry.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Conakry.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Conakry.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GN"
+  },
+  {
+    "id": "gw-gw",
+    "country": "Guinea-Bissau",
+    "city": "Bissau",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bissau.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bissau.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bissau.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bissau.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GW"
+  },
+  {
+    "id": "ke-ke",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "region": "Africa",
+    "currency": "KES",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Nairobi (NBO) and coastal/regional routes with Google Flights/Skyscanner and Kenya Airways or Jambojet directly. Kenya requires an ETA for most visitors; check eligibility.",
+        "detailed": "Flight routing: Nairobi (NBO) is the main international hub; Mombasa (MBA) and regional airports serve coast and safari circuits. Compare broad flight search with Kenya Airways, Jambojet, and operating carriers; check baggage and transfer time.\n\nEntry: Kenya uses an Electronic Travel Authorisation (ETA) system. Requirements and exemptions vary by nationality, trip, and transit; apply and check status only through etakenya.go.ke before travel.\n\nClimate and packing: Elevation makes Nairobi cooler than the coast; safari regions vary by season. Check forecast and park conditions. Pack sun/rain protection, modest city clothing, and neutral outdoor layers where appropriate.",
+        "sources": [
+          {
+            "topic": "Official Kenya ETA",
+            "url": "https://www.etakenya.go.ke/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kenya Airways",
+            "url": "https://www.kenya-airways.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kenya Airports Authority",
+            "url": "https://www.kaa.go.ke/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Kenya uses 240 V / 50 Hz Type G sockets. M-Pesa is central to daily payments, but visitor registration and account functionality vary; carry a card and some KES cash.",
+        "detailed": "Power: 240 V / 50 Hz, Type G sockets. Check device voltage and bring a compatible adapter.\n\nConnectivity and payments: Safaricom SIM registration requires accepted ID; verify visitor requirements and roaming before travel. M-Pesa is widely used, but don't assume a visitor can open or fund an account. Carry Kenyan shillings (KES) and a card backup.\n\nAirport transfer: Nairobi JKIA provides current passenger and ground-transport information. Use official taxi/app pickup points; agree destination and confirm fare before leaving.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/kenya/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kenya Airports Authority",
+            "url": "https://www.kaa.go.ke/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Safaricom M-Pesa",
+            "url": "https://www.safaricom.co.ke/personal/m-pesa",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Nairobi relies on matatus, buses, and ride-hailing; Mombasa and other cities differ. Use official SGR booking for Nairobi–Mombasa rail and confirm station transfers.",
+        "detailed": "Nairobi: Matatus and buses serve extensive routes but stops and fares are local. Ask a trusted local or use a route app; check destination before boarding.\n\nRail and intercity: Kenya Railways' Madaraka Express connects Nairobi and Mombasa; book through the official platform and confirm departure station, ID requirements, and last-mile transport.\n\nRide-hailing and walking: Uber, Bolt, and Little operate in some cities. Verify plate/pickup and use official booking. Walkability varies by district; plan for heat, road crossings, and uneven pavements.",
+        "sources": [
+          {
+            "topic": "Kenya Railways booking",
+            "url": "https://metickets.krc.co.ke/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kenya National Transport and Safety Authority",
+            "url": "https://www.ntsa.go.ke/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo and Uber Eats cover some Nairobi addresses; check zone availability. Use bottled or treated water unless local authorities/accommodation confirm otherwise.",
+        "detailed": "Delivery: Glovo and Uber Eats are available in selected urban zones; enter the exact address and check phone/payment options. Coverage outside Nairobi and Mombasa is limited.\n\nWater and health: Water safety varies by source and building; use sealed or treated water if uncertain. Pharmacies are common in cities, but bring essential medication in original packaging and confirm import rules.\n\nPayments and food: M-Pesa is common but visitor access is not guaranteed. KES cash/cards remain useful. Try local dishes and ask about allergens; check venue service charges and tipping expectations.",
+        "sources": [
+          {
+            "topic": "Glovo Kenya",
+            "url": "https://glovoapp.com/ke/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uber Eats Kenya",
+            "url": "https://www.ubereats.com/ke",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kenya Tourism Board",
+            "url": "https://magicalkenya.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Kenya is multilingual and culturally diverse. Ask before photos, especially of people or government/security sites; follow host cues on greetings and home footwear.",
+        "detailed": "Greetings and language: English and Swahili are widely used alongside many local languages. Ask which language is preferred and use a courteous greeting; customs vary by community.\n\nHome visits and dining: Ask about shoes and whether a small gift is welcome. Follow the host's serving customs and ask about dietary needs.\n\nPhotography and safety: Ask before photographing people, markets, or private property. Respect restrictions at government, border, military, and wildlife sites.",
+        "sources": [
+          {
+            "topic": "Kenya Tourism Board visitor information",
+            "url": "https://magicalkenya.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "KE",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "G"
+      ],
+      "source": "https://www.power-plugs-sockets.com/kenya/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ls-ls",
+    "country": "Lesotho",
+    "city": "Maseru",
+    "region": "Africa",
+    "currency": "LSL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Maseru.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Maseru.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Maseru.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Maseru.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LS"
+  },
+  {
+    "id": "lr-lr",
+    "country": "Liberia",
+    "city": "Monrovia",
+    "region": "Africa",
+    "currency": "LRD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Monrovia.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Monrovia.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Monrovia.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Monrovia.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LR"
+  },
+  {
+    "id": "ly-ly",
+    "country": "Libya",
+    "city": "Tripoli",
+    "region": "Africa",
+    "currency": "LYD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tripoli.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tripoli.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tripoli.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tripoli.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LY"
+  },
+  {
+    "id": "mg-mg",
+    "country": "Madagascar",
+    "city": "Antananarivo",
+    "region": "Africa",
+    "currency": "MGA",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Antananarivo.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Antananarivo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Antananarivo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Antananarivo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MG"
+  },
+  {
+    "id": "mw-mw",
+    "country": "Malawi",
+    "city": "Lilongwe",
+    "region": "Africa",
+    "currency": "MWK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Lilongwe.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Lilongwe.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Lilongwe.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Lilongwe.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MW"
+  },
+  {
+    "id": "ml-ml",
+    "country": "Mali",
+    "city": "Bamako",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bamako.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bamako.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bamako.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bamako.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "ML"
+  },
+  {
+    "id": "mr-mr",
+    "country": "Mauritania",
+    "city": "Nouakchott",
+    "region": "Africa",
+    "currency": "MRU",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Nouakchott.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Nouakchott.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Nouakchott.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Nouakchott.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MR"
+  },
+  {
+    "id": "mu-mu",
+    "country": "Mauritius",
+    "city": "Port Louis",
+    "region": "Africa",
+    "currency": "MUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port Louis.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port Louis.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port Louis.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port Louis.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MU"
+  },
+  {
+    "id": "ma-ma",
+    "country": "Morocco",
+    "city": "Rabat",
+    "region": "Africa",
+    "currency": "MAD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Rabat.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Rabat.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Rabat.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Rabat.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MA"
+  },
+  {
+    "id": "mz-mz",
+    "country": "Mozambique",
+    "city": "Maputo",
+    "region": "Africa",
+    "currency": "MZN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Maputo.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Maputo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Maputo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Maputo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MZ",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F",
+        "M"
+      ],
+      "source": "https://www.power-plugs-sockets.com/mozambique/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "na-na",
+    "country": "Namibia",
+    "city": "Windhoek",
+    "region": "Africa",
+    "currency": "NAD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Windhoek.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Windhoek.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Windhoek.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Windhoek.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NA",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "D",
+        "M"
+      ],
+      "source": "https://www.power-plugs-sockets.com/namibia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ne-ne",
+    "country": "Niger",
+    "city": "Niamey",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Niamey.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Niamey.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Niamey.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Niamey.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NE"
+  },
+  {
+    "id": "ng-ng",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "region": "Africa",
+    "currency": "NGN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Abuja.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Abuja.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Abuja.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Abuja.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NG"
+  },
+  {
+    "id": "rw-rw",
+    "country": "Rwanda",
+    "city": "Kigali",
+    "region": "Africa",
+    "currency": "RWF",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Kigali flights via Google Flights/Skyscanner and regional carriers such as RwandAir or Ethiopian Airlines. Check the Rwanda Directorate of Immigration visa page for nationality-specific rules.",
+        "detailed": "Flight routing: Kigali International Airport (KGL) is the main gateway. Compare regional connections with RwandAir, Ethiopian Airlines, and other carriers; verify operating airline, baggage, and layover terms.\n\nEntry: Rwanda's visa-on-arrival/eVisa arrangements and documentary requirements depend on nationality and trip purpose. Check the Directorate of Immigration or Irembo before departure, even if a general page suggests visa-on-arrival.\n\nClimate and packing: Kigali's elevation moderates temperatures; rainy seasons affect road and hiking conditions. Check forecasts for parks and highlands and pack light rain protection and layers.",
+        "sources": [
+          {
+            "topic": "Rwanda Directorate of Immigration visa information",
+            "url": "https://www.migration.gov.rw/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Irembo visa services",
+            "url": "https://irembo.gov.rw/rolportal/en/web/dgie/new-visa",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "RwandAir",
+            "url": "https://www.rwandair.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Rwanda uses 230 V / 50 Hz Type C and J sockets. Kigali airport and city transport are straightforward to plan; check SIM registration and mobile-money visitor access.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and J sockets. Check device labels and bring a compatible adapter.\n\nConnectivity and payments: Check local SIM registration with MTN or Airtel. Mobile Money is widely used domestically, but visitor account access and cash-in requirements vary; carry Rwandan francs (RWF) and a card backup.\n\nAirport transfer: Kigali Airport lists passenger services; taxis and hotel transfers serve the city. Confirm pickup and fare before leaving.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/rwanda/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Kigali International Airport",
+            "url": "https://www.kigaliairport.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Rwanda Utilities Regulatory Authority",
+            "url": "https://www.rura.rw/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Kigali uses buses, moto-taxis, and app-booked rides; Tap&Go is a local bus payment option. Use regulated, helmeted motorcycle taxis and check intercity schedules.",
+        "detailed": "Kigali: City buses use Tap&Go smart-card payment on many services. Confirm where to obtain/top up the card and the current routes. Moto-taxis are common; choose a helmeted rider and agree destination/fare.\n\nRide-hailing: Yego and other local services may operate in Kigali; coverage outside the capital is limited. Confirm driver, vehicle, and fare in the app.\n\nIntercity and walking: Coaches connect major towns; confirm departure terminal and timetable. Kigali's hills make walking routes longer than they appear; plan for elevation and rain.",
+        "sources": [
+          {
+            "topic": "Kigali public transport and Tap&Go",
+            "url": "https://tapandgo.rw/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Rwanda Utilities Regulatory Authority",
+            "url": "https://www.rura.rw/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Vuba Vuba and local listings cover some Kigali delivery addresses; verify coverage. Ask your accommodation about water and pharmacy access before rural travel.",
+        "detailed": "Delivery: Vuba Vuba and restaurant-specific services may be available in Kigali; check exact address, phone, and payment requirements. Expect limited coverage outside the capital.\n\nHealth and water: Ask locally about tap-water advice; use sealed or treated water if uncertain. Carry essential medication in original packaging and locate the nearest pharmacy before leaving Kigali.\n\nPayments and food: RWF cash, cards, and mobile money are used differently by venue. Try local dishes such as brochettes and ask about ingredients. Tipping is optional and venue-dependent.",
+        "sources": [
+          {
+            "topic": "Vuba Vuba Rwanda",
+            "url": "https://vubavuba.rw/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Visit Rwanda",
+            "url": "https://visitrwanda.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Use a polite greeting, ask before photographing people, and follow host cues at home. At memorial sites, observe posted rules and a respectful tone.",
+        "detailed": "Greetings and visits: A courteous greeting is a good default. Ask whether to remove shoes and whether a small food gift is welcome; household customs vary.\n\nPhotography and memorials: Ask permission before photographing people. Follow strict posted instructions at memorials and public institutions.\n\nLanguage and dining: Kinyarwanda is widely spoken alongside English, French, and Swahili. Ask which language is preferred and about dietary needs; avoid generalizing from one social setting.",
+        "sources": [
+          {
+            "topic": "Visit Rwanda visitor information",
+            "url": "https://visitrwanda.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "RW",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "J"
+      ],
+      "source": "https://www.power-plugs-sockets.com/rwanda/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "st-st",
+    "country": "Sao Tome and Principe",
+    "city": "São Tomé",
+    "region": "Africa",
+    "currency": "STN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to São Tomé.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to São Tomé.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in São Tomé.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in São Tomé.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "ST"
+  },
+  {
+    "id": "sn-sn",
+    "country": "Senegal",
+    "city": "Dakar",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Dakar.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Dakar.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Dakar.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Dakar.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SN",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "D",
+        "E",
+        "K"
+      ],
+      "source": "https://www.power-plugs-sockets.com/senegal/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "sc-sc",
+    "country": "Seychelles",
+    "city": "Victoria",
+    "region": "Africa",
+    "currency": "SCR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Victoria.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Victoria.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Victoria.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Victoria.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SC"
+  },
+  {
+    "id": "sl-sl",
+    "country": "Sierra Leone",
+    "city": "Freetown",
+    "region": "Africa",
+    "currency": "SLL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Freetown.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Freetown.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Freetown.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Freetown.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SL"
+  },
+  {
+    "id": "so-so",
+    "country": "Somalia",
+    "city": "Mogadishu",
+    "region": "Africa",
+    "currency": "SOS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Mogadishu.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Mogadishu.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Mogadishu.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Mogadishu.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SO"
+  },
+  {
+    "id": "za-za",
+    "country": "South Africa",
+    "city": "Pretoria",
+    "region": "Africa",
+    "currency": "ZAR",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Johannesburg, Cape Town, and Durban gateways with Google Flights/Skyscanner; check FlySafair or Airlink directly for domestic routes. Visa requirements depend on passport.",
+        "detailed": "Flight routing: O.R. Tambo (JNB), Cape Town (CPT), and King Shaka (DUR) serve different regions. Use broad flight search, then compare FlySafair, Airlink, and full-service carriers directly for domestic legs and baggage.\n\nEntry: South African visa and eVisa eligibility depends on nationality, purpose, and port of entry. Check the Department of Home Affairs and your nearest mission before booking; do not rely on an airline or OTA summary.\n\nClimate and packing: Seasons are opposite the Northern Hemisphere; coastal, inland, and highveld weather differ. Check regional forecasts and pack sun protection, layers, and rain gear.",
+        "sources": [
+          {
+            "topic": "South Africa Department of Home Affairs",
+            "url": "https://www.dha.gov.za/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airports Company South Africa",
+            "url": "https://www.airports.co.za/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FlySafair",
+            "url": "https://www.flysafair.co.za/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "South Africa uses 230 V / 50 Hz Type D, M, and N sockets; Type N is increasingly common. Check load-shedding notices, roaming, and airport transfers.",
+        "detailed": "Power: 230 V / 50 Hz; Type D, M, and N sockets are reported, with socket availability varying by building. Check device labels and bring compatible adapters.\n\nConnectivity and payments: Check SIM/eSIM registration and roaming. Cards are widely accepted in urban retail, but retain a backup payment method. Power interruptions can affect networks and card terminals; monitor official electricity notices.\n\nAirport transfer: ACSA publishes passenger and airport information. Gautrain serves parts of the Johannesburg airport corridor; Cape Town and Durban use different bus/taxi options. Use official pickup points and verify schedules.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/south-africa/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airports Company South Africa",
+            "url": "https://www.airports.co.za/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Gautrain airport service",
+            "url": "https://www.gautrain.co.za/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Major cities have distinct systems: Gautrain, MyCiTi, Rea Vaya, and municipal buses. Minibus taxis are widely used but routes and boarding conventions are local.",
+        "detailed": "Formal transit: Gautrain links parts of Gauteng; Cape Town's MyCiTi and Johannesburg's Rea Vaya operate city corridors. Check each system's route, fare card, hours, and service alerts.\n\nShared travel: Minibus taxis cover many routes but use local hand signals and informal stops; ask a trusted local or choose a licensed alternative if unfamiliar. Intercity coach operators require advance station checks.\n\nRide-hailing and walking: Uber and Bolt are available in many cities. Confirm vehicle and driver in-app and use well-lit pickup areas. Walking conditions vary substantially by district; plan routes with local advice.",
+        "sources": [
+          {
+            "topic": "Gautrain",
+            "url": "https://www.gautrain.co.za/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "MyCiTi Cape Town",
+            "url": "https://www.myciti.org.za/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Rea Vaya Johannesburg",
+            "url": "https://www.reavaya.org.za/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Checkers Sixty60, Mr D, and Uber Eats are useful urban examples; availability varies by postcode. Follow municipal water and power notices at your exact stay.",
+        "detailed": "Delivery and shopping: Checkers Sixty60, Mr D, and Uber Eats operate in covered zones; enter the exact address to confirm service and payment options. Grocery delivery is much less available outside larger urban areas.\n\nWater and health: Water advisories are local and can change. Check the municipality and accommodation for current tap-water guidance. Pharmacies are common in cities, but carry prescriptions in original packaging and check import rules.\n\nFood and alcohol: Retail hours and alcohol rules vary by province and municipality. Check posted rules and receipts; tipping depends on service and whether a charge is included.",
+        "sources": [
+          {
+            "topic": "Checkers Sixty60",
+            "url": "https://www.checkers.co.za/sixty60",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Mr D Food",
+            "url": "https://www.mrdfood.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "South African government services",
+            "url": "https://www.gov.za/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "South Africa is multilingual and regionally diverse. Ask before photographing people; follow host cues on greetings, home customs, and language preference.",
+        "detailed": "Language and introductions: South Africa has multiple official languages and local preferences. Ask which language a person prefers; a respectful greeting is better than assuming one norm.\n\nHome visits: Ask whether to remove shoes and whether a small gift is welcome. Dining customs differ across households; check dietary needs and follow the host's lead.\n\nPhotography and safety: Ask permission before photographing people or private property. Follow site rules and local safety guidance, especially at remote or wildlife locations.",
+        "sources": [
+          {
+            "topic": "South African Tourism",
+            "url": "https://www.southafrica.net/za/en/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "ZA",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "D",
+        "M",
+        "N"
+      ],
+      "source": "https://www.power-plugs-sockets.com/south-africa/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ss-ss",
+    "country": "South Sudan",
+    "city": "Juba",
+    "region": "Africa",
+    "currency": "SSP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Juba.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Juba.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Juba.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Juba.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SS"
+  },
+  {
+    "id": "sd-sd",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "region": "Africa",
+    "currency": "SDG",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Khartoum.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Khartoum.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Khartoum.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Khartoum.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SD"
+  },
+  {
+    "id": "tz-tz",
+    "country": "Tanzania",
+    "city": "Dodoma",
+    "region": "Africa",
+    "currency": "TZS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Dodoma.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Dodoma.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Dodoma.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Dodoma.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TZ"
+  },
+  {
+    "id": "tg-tg",
+    "country": "Togo",
+    "city": "Lomé",
+    "region": "Africa",
+    "currency": "XOF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Lomé.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Lomé.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Lomé.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Lomé.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TG"
+  },
+  {
+    "id": "tn-tn",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "region": "Africa",
+    "currency": "TND",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tunis.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tunis.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tunis.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tunis.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TN"
+  },
+  {
+    "id": "ug-ug",
+    "country": "Uganda",
+    "city": "Kampala",
+    "region": "Africa",
+    "currency": "UGX",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare Entebbe (EBB) routes with Google Flights/Skyscanner and Uganda Airlines or regional carriers. Uganda's e-visa system is official; check eligibility before booking.",
+        "detailed": "Flight routing: Entebbe (EBB) is the main international gateway for Kampala. Compare Google Flights/Skyscanner with Uganda Airlines and regional operators; verify baggage, transfers, and schedules directly.\n\nEntry: Uganda uses an official electronic visa/permit system. Requirements depend on nationality, purpose, and route; apply through visas.immigration.go.ug and check current notices.\n\nClimate and packing: Equatorial conditions are moderated by elevation; rain patterns and conditions differ by region. Check park/road forecasts and pack rain layers, sun protection, and suitable footwear.",
+        "sources": [
+          {
+            "topic": "Uganda eVisa/permit system",
+            "url": "https://visas.immigration.go.ug/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uganda Civil Aviation Authority",
+            "url": "https://www.caa.go.ug/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uganda Airlines",
+            "url": "https://ugandairlines.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Uganda uses 240 V / 50 Hz Type G sockets. MTN/Airtel SIM and Mobile Money access require local registration; carry UGX cash and confirm airport transfer.",
+        "detailed": "Power: 240 V / 50 Hz, Type G sockets. Check device voltage and bring a compatible adapter.\n\nConnectivity and payments: Local SIM registration is required. MTN MoMo and Airtel Money are common domestic rails, but visitor account access varies; keep Ugandan shillings (UGX) and a card backup.\n\nAirport transfer: Entebbe Airport is outside central Kampala. Arrange a hotel transfer, licensed taxi, or verified app trip in advance and confirm fare, especially for late arrivals.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/uganda/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Entebbe International Airport",
+            "url": "https://www.caa.go.ug/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "MTN Uganda MoMo",
+            "url": "https://www.mtn.co.ug/momo/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Kampala uses matatus, buses, and boda-bodas; SafeBoda and ride-hailing operate in parts of the city. Check route and safety conditions before each trip.",
+        "detailed": "Kampala: Shared taxis (matatus) and buses run on busy corridors; stops and fares require local knowledge. Ask your accommodation or use a vetted route source.\n\nBoda-bodas and apps: SafeBoda, Uber, or other apps may be available by district. Choose a helmeted, identifiable rider; confirm route and fare in-app and consider traffic/weather.\n\nIntercity: Coaches serve major towns and park destinations. Confirm the operator, departure terminal, and daylight arrival options; road conditions and travel times vary.",
+        "sources": [
+          {
+            "topic": "SafeBoda",
+            "url": "https://safeboda.com/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uganda National Roads Authority",
+            "url": "https://www.unra.go.ug/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Glovo and local delivery services reach parts of Kampala; verify address and payment. Use bottled or treated water and confirm pharmacy access before park trips.",
+        "detailed": "Delivery: Glovo and local services may cover Kampala addresses; check exact zone, phone, payment, and hours. Coverage outside the capital is limited.\n\nHealth and water: Use sealed/treated water unless local advice confirms safety. Pharmacies and clinics are less available near remote parks; carry essential medicines in original packaging and verify import rules.\n\nPayments and food: UGX cash is useful; mobile-money registration depends on local SIM and ID rules. Ask about ingredients and allergens; check the bill for service charges.",
+        "sources": [
+          {
+            "topic": "Glovo Uganda",
+            "url": "https://glovoapp.com/ug/en/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uganda tourism information",
+            "url": "https://www.visituganda.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Ask before photographing people or cultural events. At a home visit, ask about footwear and gifts; customs vary among Uganda's many communities.",
+        "detailed": "Greetings and language: English and Swahili are official languages, with many local languages in daily use. Ask which language is comfortable and use a respectful greeting.\n\nHome and dining: Ask whether to remove shoes and whether a small food gift is welcome. Follow the host's lead and ask about dietary needs.\n\nPhotography: Seek permission before photographing people, ceremonies, or private property. Follow park, border, and security-site restrictions.",
+        "sources": [
+          {
+            "topic": "Uganda tourism information",
+            "url": "https://www.visituganda.com/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "UG",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "G"
+      ],
+      "source": "https://www.power-plugs-sockets.com/uganda/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "zm-zm",
+    "country": "Zambia",
+    "city": "Lusaka",
+    "region": "Africa",
+    "currency": "ZMW",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Lusaka.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Lusaka.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Lusaka.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Lusaka.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "ZM"
+  },
+  {
+    "id": "zw-zw",
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "region": "Africa",
+    "currency": "ZWL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Harare.. Verify passport validity, visa requirements, and seasonal climate gear for Africa.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Harare.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Africa."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Harare.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Harare.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "ZW"
+  }
+]

@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "al-al",
+    "country": "Albania",
+    "city": "Tirana",
+    "region": "Europe",
+    "currency": "ALL",
+    "stages": {
+      "preArrival": {
+        "simple": "Check Albania's official visa regime for your passport nationality before booking. Tirana (TIA) is the main air gateway; expect Mediterranean coastal weather, with cooler conditions inland and at altitude.",
+        "detailed": "Flight & entry planning: Tirana International Airport (TIA) is the main international gateway. Routes and airlines change seasonally; check the airport's current airline list and compare direct flights with connections through nearby European hubs. Ferry services also connect Durrës with Italy; verify schedules with the operator.\n\nVisa & legal compliance: Entry rules depend on passport nationality, purpose, and length of stay. Check Albania's Ministry for Europe and Foreign Affairs visa regime and any linked application process before departure; do not rely on a blanket visa-free list. Confirm passport validity requirements with the official authority for your case.\n\nClimate & apparel: Conditions vary between the coast, Tirana, and mountainous interior. Check the forecast for each stop and season; pack sun and rain protection for coastal trips and warmer layers for elevation or winter. Use respectful dress at religious sites and follow posted rules.\n\nChecked 2026-11-02; schedules, entry rules, and weather are subject to change.",
+        "sources": [
+          {
+            "topic": "Visa regime",
+            "url": "https://punetejashtme.gov.al/en/regime-visa/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Tirana airport airlines",
+            "url": "https://www.tirana-airport.com/en/partners/4/Airlines",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "National tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Albania uses 230 V / 50 Hz Type C and F sockets. TIA's official bus to Tirana is listed as hourly, 24/7, and 400 ALL; licensed airport taxis are available at the terminal.",
+        "detailed": "Power: Albania uses 230 V at 50 Hz with Type C and F sockets. Check whether your devices support 230 V; a plug adapter does not convert voltage.\n\nConnectivity & payments: Mobile coverage, roaming, eSIM availability, and card acceptance depend on provider and location. Confirm service with your carrier before travel and keep a modest amount of Albanian lek (ALL) available for small purchases or outages.\n\nAirport transfer: Tirana International Airport lists a public bus between the airport and central Tirana every hour, 24 hours a day, for 400 ALL; the airport says the trip takes about 30-40 minutes. Its official taxi page identifies the licensed airport taxi provider and lists an indicative fare of about 2,200 ALL to central Tirana; traffic and fares can change. Use the airport's current directions page to recheck details on arrival.\n\nChecked 2026-11-02; fares and services may change.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/albania/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Tirana airport bus",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Licensed airport taxi",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/13/By-Taxi",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Use current municipal information for Tirana buses and check official intercity listings before travel; routes, operators, and departure points can vary by city.",
+        "detailed": "Tirana and intercity travel: Tirana has municipal bus services. For intercity journeys, Albania's eTransport platform is linked by Tirana International Airport as a listing of official bus lines, stations, and schedules. Confirm the departure terminal, operator, and schedule directly before setting out.\n\nShared and on-demand transport: Shared minibuses (often called furgons) operate on some routes, but availability and departure practices vary. Agree the destination and fare before boarding. For app-based rides, check current local availability rather than assuming a service operates nationwide.\n\nWalking: Conditions vary by neighborhood and town. Check the route on arrival, allow for uneven or obstructed sidewalks, and use marked crossings while watching traffic.",
+        "sources": [
+          {
+            "topic": "Official bus lines, stations, and schedules",
+            "url": "https://www.etransport.al/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airport-published transport information",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery-app coverage and payment options vary by location. Ask your accommodation about local water and pharmacy access; check prescription rules for any medication you bring.",
+        "detailed": "Daily services: Delivery platforms, grocery options, opening hours, and cashless payment acceptance vary across Albania and can change. Check the app in your destination and confirm address and phone-number requirements before relying on delivery.\n\nHealth and water: Do not assume tap-water quality is identical across locations or buildings; ask your accommodation or local water provider, and use sealed bottled or appropriately treated water if uncertain. Bring necessary medication in original packaging and verify import and prescription requirements with an official source before travel. For urgent care, ask your accommodation for the nearest currently operating pharmacy or clinic.\n\nFood and drink: Albanian meals commonly include regional dishes such as byrek and tavë kosi. Ask about ingredients and dietary needs directly; menus and availability vary. Service charges and tipping practices are not uniform, so check the bill and use your judgment.",
+        "sources": [
+          {
+            "topic": "Official tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Albanian Ministry of Health",
+            "url": "https://shendetesia.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Be courteous at religious and heritage sites, ask before photographing people, and follow your host's lead on greetings, footwear, and home-visit customs.",
+        "detailed": "Being a guest: Customs differ between households and communities. At religious sites, follow posted dress and photography rules. Ask permission before photographing people, private property, or ceremonies. For a home visit, a small food or hospitality gift is a low-risk choice; ask your host about preferences and follow their lead on shoes and greetings.\n\nPublic behavior: Use a polite, measured approach in unfamiliar settings. Do not assume that one etiquette rule applies throughout the country; observe local cues and ask respectfully when unsure. This guidance is intentionally limited to practical courtesies rather than broad claims about national character.",
+        "sources": [
+          {
+            "topic": "Official Albania tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "AL"
+  },
+  {
+    "id": "by-by",
+    "country": "Belarus",
+    "city": "Minsk",
+    "region": "Europe",
+    "currency": "BYN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Minsk.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Minsk.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Minsk.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Minsk.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BY"
+  },
+  {
+    "id": "ba-ba",
+    "country": "Bosnia and Herzegovina",
+    "city": "Sarajevo",
+    "region": "Europe",
+    "currency": "BAM",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (EU, US, Turkey). Continental climate: -4°C to 27°C. Smart casual, Sarajevo siege history.",
+        "detailed": "Flight Consolidators & Hub Routing: SJJ (Sarajevo) primary hub. B&H Airlines (limited). AZair for European budget flights. Direct booking typical. Bus to Croatia/Zagreb.\n\nVisa & Legal Compliance: Visa-free 90 days for EU, US, Turkey, others. Visa required for some. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Continental. Sarajevo: -4°C (Jan) to 27°C (July). Mostar: 1°C to 30°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Sarajevo siege history, Ottoman architecture.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (mosques, churches). Size system: European. Ottoman/Old Town (Baščaršija) central to Sarajevo."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. Cash dominant. Bus to Sarajevo center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 40+ Mbps. 4G coverage 85%, 5G in cities. ISPs: BH Telecom, m:tel, Eronet. Tourist eSIM: Airalo, Holafly. Local SIM: BH Telecom (~€25/week).\n\nFinancial Rails: Cash still dominant. NFC contactless limited. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Sarajevo SJJ: Bus (KM5, 30min) or taxi (KM25-35 to center). No ride-hailing."
+      },
+      "mobility": {
+        "simple": "Sarajevo trams, buses. No informal transit. No ride-hailing. Variable walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Sarajevo: trams, buses. Integrated tickets. Mostar: buses. Train network limited. Apps: no dedicated app, ask locals.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No ride-hailing (no Uber, Bolt). Traditional taxis only. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Sarajevo Old Town (Baščaršija). Chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Stari Most (Old Bridge) in Mostar walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Foodpanda, Glovo. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Ćevapi.",
+        "detailed": "E-Commerce & Delivery: Dominant: Foodpanda, Glovo. Local: none significant. Grocery delivery: Bingo, Konzum. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafane (taverns). No state monopoly. Drinking age 18. Rakija (fruit brandy), beer culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apoteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakija, bosanska kafa (Turkish coffee). Bosnian cuisine: ćevapi (grilled meat), burek (pastry), dolma (stuffed peppers). Ottoman influence strong.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Bosnian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white lilies (death), coffee/food OK. Shoes removed in homes. Dog-friendly (restaurants). Hospitality, coffee, history.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Coffee, local food, sweets appropriate. Host gifts expected. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, hospitality-focused. Coffee culture central (bosanska kafa). Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 30-60 min grace socially. Tipping: 5-10% expected. Personal space moderate. Ottoman coffee culture. History: Siege of Sarajevo (1992-1996), war memorial sites."
+      }
+    },
+    "iso": "BA"
+  },
+  {
+    "id": "bg-bg",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "region": "Europe",
+    "currency": "BGN",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -4°C to 28°C. Smart casual, Black Sea resorts.",
+        "detailed": "Flight Consolidators & Hub Routing: SOF (Sofia), VAR (Varna) major hubs. Bulgaria Air (flag carrier). AZair for European budget flights. Direct booking typical. Train network: BDZ.\n\nVisa & Legal Compliance: Schengen Area member (2024/2025) - 90 days within any 180-day period. Passport valid 3 months beyond departure. Bulgaria-Visa portal for applications.\n\nClimate & Weather: Continental. Sofia: -4°C (Jan) to 28°C (July). Varna (Black Sea): 2°C to 29°C. Cold winters, hot summers. Pack layers, beach gear for coast. Black Sea resorts (Sunny Beach, Golden Sands).\n\nApparel Sourcing: Smart casual in cities. Beach culture on Black Sea. Modest dress for religious sites (orthodox churches). Size system: European. Outdoor gear: Decathlon."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Metro/subway to Sofia center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 60+ Mbps. 4G coverage 90%, 5G in cities. ISPs: A1 BG, Vivacom, Yettel. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Sofia SOF: Metro Line 1 (BGN1.60, 20min) or bus (BGN1.60, 30min). Official taxi: metered (~BGN20-30 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Sofia Metro (3 lines), trams, buses. No informal transit. Bolt ride-hailing dominant. VeloBike bike share. Variable walkability.",
+        "detailed": "Urban Transit Grids: Sofia: Metro (3 lines), trams, buses. Integrated ticket (Sofia Urban Mobility). Varna, Plovdiv: buses, trams. BDZ trains between cities. Apps: Sofia Urban Mobility, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: VeloBike (Sofia). E-scooters: Lime, Bolt.\n\nPedestrian Infrastructure: Variable. Good in Sofia center, chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Black Sea resorts: pedestrian promenades."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Foodpanda, Glovo, eMenu. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Shopska salad.",
+        "detailed": "E-Commerce & Delivery: Dominant: Foodpanda, Glovo, eMenu (Bulgarian). Local: BG Menu. Grocery delivery: Billa, Kaufland. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, mehana (taverns). No state monopoly. Drinking age 18. Rakia (fruit brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakia, ayran (yogurt drink). Bulgarian cuisine: shopska salad, banitsa (pastry), kavarma (stew). Yogurt culture integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Bulgarian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/rakia OK. Shoes removed in homes. Dog-friendly (restaurants). Orthodox tradition, hospitality, nodding.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, rakia, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs common in cities (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, Orthodox-tradition-focused. Nodding meaning: nod = no, shake head = yes (opposite of most cultures). Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 15-30 min grace socially. Tipping: 10% (round up). Personal space moderate. Orthodox Christianity dominant. Hospitality (guests important). Black Sea beach culture."
+      }
+    },
+    "iso": "BG"
+  },
+  {
+    "id": "hr-hr",
+    "country": "Croatia",
+    "city": "Zagreb",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Mediterranean climate: 2°C to 30°C. Beach culture, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: ZAG (Zagreb), DBV (Dubrovnik), SPU (Split) major hubs. Croatia Airlines (flag carrier). AZair for European budget flights. Ferry network: Jadrolinija for islands.\n\nVisa & Legal Compliance: Schengen Area member (2023) - 90 days within any 180-day period. Passport valid 3 months beyond departure. Croatia-Visa portal for applications.\n\nClimate & Weather: Mediterranean coastal, continental inland. Zagreb: 2°C (Jan) to 30°C (July). Split: 9°C to 30°C. Dubrovnik: 8°C to 29°C. Hot dry summers, mild winters coast. Pack sunscreen, beach gear.\n\nApparel Sourcing: Beach culture on coast. Modest dress for churches (no shorts, cover shoulders). Size system: European. Local brands: Tommy, Croata."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Tram/bus to Zagreb center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: A1 Hrvatska, Hrvatski Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€35/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used, especially on coast. No mobile money. Tipping: 5-10% in restaurants.\n\nAirport-to-City: Zagreb ZAG: Bus (€8, 30min) or tram to center. Split SPU: Bus (€5, 40min) to port. Dubrovnik DBV: Bus (€10, 45min) to old town. Official taxi: metered."
+      },
+      "mobility": {
+        "simple": "Zagreb trams/buses, coastal buses. No informal transit. Uber (limited, licensed taxis only). Ferry boats to islands. Walkable old towns.",
+        "detailed": "Urban Transit Grids: Zagreb: trams, buses. Coastal cities: buses. Integrated tickets. Ferry network: Jadrolinija (Rijeka-Split-Dubrovnik), local ferries to islands. Apps: ZET (Zagreb), Jadrolinija.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (licensed taxis only, no private cars). No Bolt. Cammeo taxi app. Bike-sharing: Nextbike in Zagreb. E-scooters: limited.\n\nPedestrian Infrastructure: Excellent in old towns (Dubrovnik, Split). Car-free zones in historic centers. Coastal promenades (riva). Sidewalk quality varies. Islands: walkable in towns."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Glovo, Delivery Hero. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Coffee culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Glovo, Delivery Hero. Local: Pauza. Grocery delivery: Konzum, Interspar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, konobas (taverns). No state monopoly. Drinking age 18. Wine culture (Plavac Mali). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Ljekarne (pharmacies) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Karlovačko beer, rakija (fruit brandy). Mediterranean diet: seafood, olive oil. Coffee culture extensive (kava). Seafood, truffles.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Croatian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid yellow lilies (death), wine/food OK. Shoes removed in some homes. Dog-friendly (restaurants). Relaxed pace, coffee culture, hospitality.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid yellow lilies (death). Odd numbers preferred. Wine, local food (olive oil, truffles), sweets appropriate. Host gifts expected.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs in rural areas. Cat culture present.\n\nBehavioral Matrix: Collectivist, hospitality-focused. Coffee culture central to social life (spica). Physical greetings: handshake, two kisses (close friends). Punctuality: 30-60 min grace socially (pomalo - relaxed). Tipping: 5-10% expected. Personal space moderate. Beach culture integral to summer life."
+      }
+    },
+    "iso": "HR"
+  },
+  {
+    "id": "cz-cz",
+    "country": "Czechia",
+    "city": "Prague",
+    "region": "Europe",
+    "currency": "CZK",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -3°C to 24°C. Smart casual, beer culture.",
+        "detailed": "Flight Consolidators & Hub Routing: PRG (Prague) primary hub. Czech Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: České dráhy (excellent).\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Czech-Visa portal for applications.\n\nClimate & Weather: Continental. Prague: -3°C (Jan) to 24°C (July). Brno: -2°C to 25°C. Cold winters, warm summers. Pack layers, waterproof jacket. Snow in winter.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Husky (Czech brand). Pivo (beer) culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/E sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Airport Express bus to Prague.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type E (French with male pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 98%, 5G extensive. ISPs: T-Mobile CZ, O2, Vodafone. Tourist eSIM: Airalo, Holafly. Local SIM: T-Mobile (~€35/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Prague PRG: Airport Express bus (Kč32, 35min) or public bus (Kč32, 45min). Official taxi: fixed rate (~Kč600-700 to center). Liftago ride-hailing."
+      },
+      "mobility": {
+        "simple": "Prague Metro (3 lines), trams, buses. No informal transit. Liftago ride-hailing. Rekola bike share. Excellent walkability, cobblestones.",
+        "detailed": "Urban Transit Grids: Prague: Metro (3 lines), trams, buses. Integrated ticket (PID). Brno: trams, buses. České dráhy trains between cities. Apps: PID Lítačka, Liftago.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Liftago (Czech ride-hailing). No Uber. No Bolt. Bike-sharing: Rekola (Prague), Nextbike (other cities). E-scooters: Lime, Beejump.\n\nPedestrian Infrastructure: Excellent walkability in historic centers. Cobblestones in old Prague - wear comfortable shoes. Sidewalks well-maintained. Pedestrian crossings respected. Beer garden culture."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: DámeJídlo, Wolt, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Beer culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: DámeJídlo (Czech), Wolt, Uber Eats. Local: Rohlík (grocery). Grocery delivery: Albert, Tesco. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, hospody (pubs). No state monopoly. Drinking age 18. Pilsner Urquell, Budějovický Budvar beer culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Lékárna (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Pilsner beer, Kofola (Czech cola). Czech cuisine: svíčková (beef), goulash, dumplings. Beer cheaper than water.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Czech breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), beer/food OK. Shoes removed in some homes. Dog-friendly (pubs allowed). Beer culture, direct communication, reserved demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Beer, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Very dog-friendly. Dogs allowed in pubs, restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, beer-culture-focused. Pivo (beer) central to social life. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm after first beer. Direct communication. Hobbies: hiking, skiing."
+      }
+    },
+    "iso": "CZ"
+  },
+  {
+    "id": "ee-ee",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -6°C to 22°C. Smart casual, digital society.",
+        "detailed": "Flight Consolidators & Hub Routing: TLL (Tallinn) primary hub. Nordica (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Elron.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Estonia-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Tallinn: -6°C (Jan) to 22°C (July). Tartu: -7°C to 21°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Digital society (e-Residency).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Monton (Estonian brand). Digital culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless ubiquitous. Tram/bus to Tallinn center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 99%, 5G extensive. ISPs: Telia EE, Elisa, Tele2. Tourist eSIM: Airalo, Holafly. Local SIM: Telia (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. World's most digital society - everything online. Cash declining but still used. Tipping: 5-10% (round up).\n\nAirport-to-City: Tallinn TLL: Tram 4 (€2, 20min) or bus (€2, 30min) to center. Official taxi: metered (~€15-20 to center). Bolt ride-hailing (Estonian-founded)."
+      },
+      "mobility": {
+        "simple": "Tallinn trams, buses. No informal transit. Bolt ride-hailing (Estonian-founded). Bolt/Tuul bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Tallinn: trams, buses (no Metro). Integrated ticket (Ühiskaart). Tartu: buses. Elron trains between cities. Apps: Tallinn public transport, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Estonian-founded, global). No Uber. No other ride-hailing. Bike-sharing: Bolt (Tallinn), Tuul (Tartu). E-scooters: Bolt, Tuul.\n\nPedestrian Infrastructure: Excellent walkability. Tallinn Old Town (UNESCO) pedestrian-only. Sidewalks well-maintained. Pedestrian crossings respected. Digital culture: mobile ticketing, parking apps."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt (Estonian-founded), Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt (Estonian-founded, global), Bolt Food, Foodpanda. Local: eRaketer (grocery). Grocery delivery: Rimi, Prisma. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kohvikud (cafes). No state monopoly. Drinking age 18. Vana Tallinn liqueur, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteek (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Vana Tallinn (herbal liqueur), Kalev chocolate. Estonian cuisine: black bread, herring, kama (grain flour). Digital ordering common.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Estonian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Digital culture, reserved demeanor, sauna.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, digital gifts appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, digital-culture-focused. World's most digital society. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Direct communication. Sauna culture integral to social life. E-Residency program for digital nomads."
+      }
+    },
+    "iso": "EE"
+  },
+  {
+    "id": "gr-gr",
+    "country": "Greece",
+    "city": "Athens",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Mediterranean climate: 6°C to 33°C. Casual dress, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: ATH (Athens), HER (Heraklion), CFU (Corfu) major hubs. Aegean Airlines (flag carrier), Olympic Air, Sky Express. AZair for European budget flights. Island hopping by ferry.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Greece-Visa portal for applications.\n\nClimate & Weather: Mediterranean. Athens: 6°C (Jan) to 33°C (July). Islands: 10°C to 30°C. Hot dry summers, mild winters. Pack sunscreen, lightweight fabrics. Siesta in islands (2-5pm).\n\nApparel Sourcing: Casual beach culture acceptable. Modest dress required for churches (no shorts, cover shoulders - women may need shawl). Size system: European. Beachwear on beaches only."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Metro Line 3 to Athens center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Cosmote, Vodafone GR, Wind. Tourist eSIM: Airalo, Holafly. Local SIM: Cosmote (~€35/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used, especially on islands. No mobile money. Tipping: 5-10% in restaurants, round up for services.\n\nAirport-to-City: Athens ATH: Metro Line 3 (€9, 40min) or X95 bus (€6, 60min). Official taxi: fixed rate (~€38 to center). Islands: buses or taxis to ports/ferry terminals."
+      },
+      "mobility": {
+        "simple": "Athens Metro (3 lines), buses, trams. No informal transit. Uber (limited, licensed taxis only). Ferry boats between islands. Variable walkability.",
+        "detailed": "Urban Transit Grids: Athens: Metro (3 lines), buses, trams, trolleybuses. Integrated ticket (ATH.ENA Card). Islands: buses, taxis. Ferry network: Pireaus ports to islands. Apps: OASA Telematics, Ferryhopper.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (licensed taxis only, no private cars). FreeNow taxi app. No Bolt. Bike-sharing: limited. E-scooters: Lime, Bird in Athens.\n\nPedestrian Infrastructure: Variable. Excellent in Plaka, Monastiraki (historic areas). Crowded, chaotic in some districts. Islands: walkable in towns, hilly terrain. Sidewalk quality varies."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: efood.gr, Wolt, Delivery Hero. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe in cities, bottle on islands.",
+        "detailed": "E-Commerce & Delivery: Dominant: efood.gr (Greek), Wolt, Delivery Hero. Local: Delfino (grocery). Grocery delivery: AB Vasilopoulos, Sklavenitis. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kiosks (periptero). No state monopoly. Drinking age 17 (enforced 18). Ouzo, tsipouro culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Farmacia (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water safe in Athens, use bottled on islands. Zero-sugar options available. Local: Greek coffee, frappé, ouzo. Mediterranean diet: olive oil, feta, vegetables. Late meals (9-11pm).\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Greek breakfast buffets extensive. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white flowers (funerals), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Philoxenia (hospitality), family focus, relaxed pace.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid white (funerals). Odd numbers preferred. Wine, local food (olive oil, honey), sweets appropriate. Host gifts expected for dinner.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture strong on islands.\n\nBehavioral Matrix: Collectivist, family-oriented. Philoxenia (hospitality to strangers) central. Physical greetings: two kisses (women-woman, women-man), handshake (men-men). Punctuality: 30-60 min grace socially (filoxenia time). Tipping: 5-10% expected. Relaxed pace, especially on islands. Meal times: late dinners. Sunglasses acceptable outdoors."
+      }
+    },
+    "iso": "GR"
+  },
+  {
+    "id": "hu-hu",
+    "country": "Hungary",
+    "city": "Budapest",
+    "region": "Europe",
+    "currency": "HUF",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -2°C to 27°C. Smart casual, thermal bath culture.",
+        "detailed": "Flight Consolidators & Hub Routing: BUD (Budapest Ferenc Liszt) primary hub. Wizz Air (Hungarian budget carrier). AZair for European budget flights. Direct booking typical. Train network: MÁV.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Hungary-Visa portal for applications.\n\nClimate & Weather: Continental. Budapest: -2°C (Jan) to 27°C (July). Cold winters, hot summers. Pack layers, warm clothes for winter. Thermal bath culture year-round.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Thermal bath wear: swimwear (gender-separated historically). Local brands: Nanushka."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless growing. 100E bus to Budapest center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 95%, 5G in cities. ISPs: Magyar Telekom, Vodafone HU, Yettel. Tourist eSIM: Airalo, Holafly. Local SIM: Magyar Telekom (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Budapest BUD: 100E bus (HUF900, 20min) or public bus (HUF900, 45min). Official taxi: fixed rate (~HUF8000-10000 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Budapest Metro (4 lines), trams, buses. No informal transit. Bolt ride-hailing. Bubi bike share. Excellent walkability, thermal baths.",
+        "detailed": "Urban Transit Grids: Budapest: Metro (4 lines), trams (4/6 tram famous), buses. Integrated ticket (BKK). Szeged, Debrecen: trams, buses. MÁV trains between cities. Apps: BKK FUTÁR, Google Maps.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Hungarian-founded). No Uber. No other ride-hailing. Bike-sharing: Bubi (Budapest), MOL Bubi. E-scooters: Lime, Tier.\n\nPedestrian Infrastructure: Excellent walkability along Danube. Thermal baths central to culture. Sidewalks well-maintained. Pedestrian crossings respected. Historic: Buda Castle, Parliament, Chain Bridge."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Foodpanda, NetPincér. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Paprika culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt (Estonian, but popular in Hungary), Foodpanda, NetPincér (Hungarian). Local: Kifli (grocery). Grocery delivery: Tesco, Spar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, drogériák (drugstores). No state monopoly. Drinking age 18. Tokaji wine, pálinka (fruit brandy) culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Gyógyszertár (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Unicum (herbal liqueur), paprika-spiced dishes. Hungarian cuisine: gulyás (goulash), paprikás, töltött káposzta (stuffed cabbage). Paprika integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Hungarian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/pálinka OK. Shoes removed in homes. Dog-friendly (restaurants). Thermal bath culture, reserved demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, pálinka, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, thermal-bath-culture-focused. Thermal baths central to social life. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm in bathhouses. Direct communication. Paprika spice culture. History: Austro-Hungarian Empire, communism."
+      }
+    },
+    "iso": "HU"
+  },
+  {
+    "id": "lv-lv",
+    "country": "Latvia",
+    "city": "Riga",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -5°C to 22°C. Smart casual, Art Nouveau.",
+        "detailed": "Flight Consolidators & Hub Routing: RIX (Riga) primary hub. airBaltic (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Pasažieru vilciens.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Latvia-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Riga: -5°C (Jan) to 22°C (July). Daugavpils: -6°C to 21°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Art Nouveau architecture in Riga.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: 4F. Art Nouveau district central to Riga."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus 22 to Riga center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 98%, 5G extensive. ISPs: LMT, Tele2, Bite. Tourist eSIM: Airalo, Holafly. Local SIM: LMT (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Riga RIX: Bus 22 (€1.50, 30min) or express bus (€2.50, 20min). Official taxi: metered (~€15-25 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Riga trams, buses, trolleybuses. No informal transit. Bolt ride-hailing. Sixt bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Riga: trams, buses, trolleybuses (no Metro). Integrated ticket (Rīgas satiksme). Daugavpils: buses. Pasažieru vilciens trains between cities. Apps: Rīgas satiksme, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: Sixt (Riga). E-scooters: Bolt, Tuul.\n\nPedestrian Infrastructure: Excellent walkability. Riga Old Town (UNESCO) pedestrian-friendly. Art Nouveau district walkable. Sidewalks well-maintained. Pedestrian crossings respected."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Rye bread.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Bolt Food, Foodpanda. Local: Barons (grocery). Grocery delivery: Rimi, Maxima. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, veikali (shops). No state monopoly. Drinking age 18. Riga Black Balsam, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Aptieka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Riga Black Balsam, kvass (fermented drink). Latvian cuisine: rye bread, pelēkie zirņi (grey peas), caraway cheese. Rye bread integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Latvian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Reserved demeanor, sauna, song festival.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, honey appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, reserved demeanor. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Sauna culture integral. Song and Dance Festival (unifying event). Art Nouveau pride."
+      }
+    },
+    "iso": "LV"
+  },
+  {
+    "id": "lt-lt",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -6°C to 22°C. Smart casual, Baltic culture.",
+        "detailed": "Flight Consolidators & Hub Routing: VNO (Vilnius), KUN (Kaunas) major hubs. airBaltic, Ryanair. AZair for European budget flights. Direct booking typical. Train network: LTG Link.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Lithuania-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Vilnius: -6°C (Jan) to 22°C (July). Kaunas: -5°C to 23°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Baltic Sea coast (Klaipėda).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: 4F. Amber jewelry (Baltic amber)."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus to Vilnius center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 98%, 5G extensive. ISPs: Telia LT, Bitė Lietuva, Tele2. Tourist eSIM: Airalo, Holafly. Local SIM: Telia (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Vilnius VNO: Bus (€1, 30min) or train (€1, 7min) to center. Official taxi: metered (~€15-25 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Vilnius buses, trolleybuses. No informal transit. Bolt ride-hailing. Cyclocity bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Vilnius: buses, trolleybuses (no Metro). Integrated ticket (Vilnius Transport). Kaunas: buses. LTG Link trains between cities. Apps: Trafi, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: Cyclocity (Vilnius), SIXT (Kaunas). E-scooters: Bolt, CityBee.\n\nPedestrian Infrastructure: Excellent walkability. Vilnius Old Town (UNESCO) pedestrian-friendly. Sidewalks well-maintained. Pedestrian crossings respected. Hill of Three Crosses walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Rye bread.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Bolt Food, Foodpanda. Local: Barbora (grocery). Grocery delivery: Rimi, Maxima. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, parduotuvės (shops). No state monopoly. Drinking age 18. Suktinis liqueur, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Vaistinė (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Suktinis (herbal liqueur), kvass. Lithuanian cuisine: cepelinai (potato dumplings), šaltibarščiai (cold beet soup), rye bread. Rye bread integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Lithuanian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Reserved demeanor, sauna, basketball.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, amber jewelry appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, reserved demeanor. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Sauna culture integral. Basketball national obsession. Baltic amber jewelry tradition."
+      }
+    },
+    "iso": "LT"
+  },
+  {
+    "id": "md-md",
+    "country": "Moldova",
+    "city": "Chișinău",
+    "region": "Europe",
+    "currency": "MDL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Chișinău.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Chișinău.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Chișinău.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Chișinău.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MD"
+  },
+  {
+    "id": "me-me",
+    "country": "Montenegro",
+    "city": "Podgorica",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (EU, US, Turkey). Mediterranean climate: 2°C to 32°C. Beach culture, Bay of Kotor.",
+        "detailed": "Flight Consolidators & Hub Routing: TGD (Podgorica), TIV (Tivat) major hubs. Montenegro Airlines (limited). AZair for European budget flights. Direct booking typical. Ferry to Italy (Bar to Bari).\n\nVisa & Legal Compliance: Visa-free 90 days for EU, US, Turkey, others. Visa required for some. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Mediterranean. Podgorica: 2°C (Jan) to 32°C (July). Kotor: 4°C to 30°C. Hot dry summers, mild winters. Pack sunscreen, beach gear. Bay of Kotor (fjord-like), Adriatic coast.\n\nApparel Sourcing: Beach culture on coast. Modest dress for religious sites (orthodox monasteries). Size system: European. Bay of Kotor tourism central."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. Cash dominant. Bus to Podgorica center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Telenor ME, M:tel, Crnogorski Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: Telenor (~€30/week).\n\nFinancial Rails: Cash still dominant. NFC contactless limited. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Podgorica TGD: Bus (€2, 30min) or taxi (€15-25 to center). Tivat TIV: bus to Kotor (€3, 20min). No ride-hailing."
+      },
+      "mobility": {
+        "simple": "Podgorica buses. No informal transit. No ride-hailing. Variable walkability, Bay of Kotor.",
+        "detailed": "Urban Transit Grids: Podgorica: buses (no Metro). Integrated tickets. Kotor, Budva: buses. Train network limited. Apps: no dedicated app, ask locals.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No ride-hailing (no Uber, Bolt). Traditional taxis only. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Kotor Old Town (UNESCO). Chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Bay of Kotor promenade walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Glovo, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Seafood.",
+        "detailed": "E-Commerce & Delivery: Dominant: Glovo, Foodpanda. Local: none significant. Grocery delivery: Voli, Idea. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafane (taverns). No state monopoly. Drinking age 18. Vranac wine, rakija culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apoteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Vranac wine, rakija. Montenegrin cuisine: njeguški steak, pršut (prosciutto), seafood. Adriatic seafood central.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Montenegrin breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Hospitality, coffee, family.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, sweets appropriate. Host gifts expected. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, family-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 30-60 min grace socially. Tipping: 5-10% expected. Personal space moderate. Coffee culture integral. Family gatherings important. Bay of Kotor tourism."
+      }
+    },
+    "iso": "ME"
+  },
+  {
+    "id": "mk-mk",
+    "country": "North Macedonia",
+    "city": "Skopje",
+    "region": "Europe",
+    "currency": "MKD",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (EU, US, Turkey). Continental climate: -2°C to 30°C. Smart casual, Ohrid Lake.",
+        "detailed": "Flight Consolidators & Hub Routing: SKP (Skopje) primary hub. Wizz Air (budget). AZair for European budget flights. Direct booking typical. Bus to Greece/Thessaloniki.\n\nVisa & Legal Compliance: Visa-free 90 days for EU, US, Turkey, others. Visa required for some. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Continental. Skopje: -2°C (Jan) to 30°C (July). Ohrid: 0°C to 28°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Ohrid Lake (UNESCO).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (orthodox churches). Size system: European. Ohrid Lake tourism central."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. Cash dominant. Bus to Skopje center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 40+ Mbps. 4G coverage 85%, 5G in cities. ISPs: A1 MK, Makedonski Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€25/week).\n\nFinancial Rails: Cash still dominant. NFC contactless limited. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Skopje SKP: Bus (denar150, 30min) or taxi (denar1200-1500 to center). No ride-hailing."
+      },
+      "mobility": {
+        "simple": "Skopje buses, old Yugoslavia buses. No informal transit. No ride-hailing. Variable walkability.",
+        "detailed": "Urban Transit Grids: Skopje: buses (old Yugoslav buses). Integrated tickets. Ohrid: buses. Train network limited. Apps: no dedicated app, ask locals.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No ride-hailing (no Uber, Bolt). Traditional taxis only. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Skopje center (Macedonia Square). Chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Ohrid Lake promenade walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Ohrid trout.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Foodpanda. Local: none significant. Grocery delivery: Kam, Ramstore. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafani (cafes). No state monopoly. Drinking age 18. Rakija (fruit brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakija, mastika (anise liqueur). Macedonian cuisine: tavče gravče (baked beans), ajvar (pepper spread), shopska salad. Ohrid trout (local specialty).\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Macedonian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), coffee/food OK. Shoes removed in homes. Dog-friendly (restaurants). Hospitality, coffee, family.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Coffee, local food, sweets appropriate. Host gifts expected. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, family-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 30-60 min grace socially. Tipping: 5-10% expected. Personal space moderate. Coffee culture integral to social life. Family gatherings important."
+      }
+    },
+    "iso": "MK"
+  },
+  {
+    "id": "pl-pl",
+    "country": "Poland",
+    "city": "Warsaw",
+    "region": "Europe",
+    "currency": "PLN",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -4°C to 24°C. Smart casual, pierogi culture.",
+        "detailed": "Flight Consolidators & Hub Routing: WAW (Warsaw Chopin), KRK (Kraków) major hubs. LOT Polish Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: PKP Intercity.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Poland-Visa portal for applications.\n\nClimate & Weather: Continental. Warsaw: -4°C (Jan) to 24°C (July). Kraków: -3°C to 24°C. Cold winters, warm summers. Pack layers, warm clothes for winter. Snow common.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (especially John Paul II's Kraków). Size system: European. Outdoor gear: 4F (Polish brand). Pierogi (dumplings) culture."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/E sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. S2/S3 train to Warsaw center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type E (French with male pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 97%, 5G extensive. ISPs: Orange PL, Play, Plus. Tourist eSIM: Airalo, Holafly. Local SIM: Play (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. BLIK mobile payment dominant. Cash still used. Tipping: 10% (round up).\n\nAirport-to-City: Warsaw WAW: S2/S3 train (Kç4.40, 20min) or bus (Kç4.40, 30min). Official taxi: metered (~Kç50-70 to center). FreeNow ride-hailing."
+      },
+      "mobility": {
+        "simple": "Warsaw Metro (2 lines), trams, buses. No informal transit. FreeNow ride-hailing. Veturilo bike share. Excellent walkability, post-war reconstruction.",
+        "detailed": "Urban Transit Grids: Warsaw: Metro (2 lines), trams, buses. Integrated ticket (Warszawski Public Transport). Kraków: trams, buses. PKP trains between cities. Apps: Jakdojade, mPay.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: FreeNow (taxi app). No Uber. No Bolt. Bike-sharing: Veturilo (Warsaw), Wavelo (Kraków). E-scooters: Lime, Blinkee.\n\nPedestrian Infrastructure: Excellent walkability in rebuilt city centers. Warsaw largely rebuilt post-WWII. Sidewalks well-maintained. Pedestrian crossings respected. Old Town Warsaw (reconstructed)."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Pyszne.pl, Glovo, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Pierogi culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Pyszne.pl (Polish), Glovo, Uber Eats. Local: Dodo (pizza). Grocery delivery: Biedronka, Kaufland. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, monopolowy (liquor stores). No state monopoly. Drinking age 18. Vodka culture (Żubrówka, Belvedere). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Żywiec beer, kiszona (fermented). Polish cuisine: pierogi, bigos, żurek. Sourdough bread culture.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Polish breakfast buffets (cold cuts, pickles). No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), vodka/food OK. Shoes removed in homes. Dog-friendly (restaurants). Catholic tradition, hospitality, direct communication.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Vodka, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Collectivist, Catholic-tradition-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space moderate. Direct communication. Catholic traditions: Easter, Christmas. History-focused (WWII, communism)."
+      }
+    },
+    "iso": "PL"
+  },
+  {
+    "id": "ro-ro",
+    "country": "Romania",
+    "city": "Bucharest",
+    "region": "Europe",
+    "currency": "RON",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -3°C to 27°C. Smart casual, Dracula tourism.",
+        "detailed": "Flight Consolidators & Hub Routing: OTP (Bucharest Henri Coandă), CLJ (Cluj-Napoca) major hubs. TAROM (flag carrier). AZair for European budget flights. Direct booking typical. Train network: CFR Călători.\n\nVisa & Legal Compliance: Schengen Area member (2024/2025) - 90 days within any 180-day period. Passport valid 3 months beyond departure. Romania-Visa portal for applications.\n\nClimate & Weather: Continental. Bucharest: -3°C (Jan) to 27°C (July). Cluj-Napoca: -4°C to 26°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Dracula tourism (Transylvania).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (orthodox churches). Size system: European. Outdoor gear: Decathlon. Dracula/Transylvania tourism popular."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Express bus to Bucharest center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 60+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Orange RO, Vodafone RO, Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: Orange (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Bucharest OTP: Express 783 bus (RON3.50, 40min) or train (RON8, 25min). Official taxi: metered (~RON50-70 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Bucharest Metro (4 lines), buses, trams. No informal transit. Bolt ride-hailing dominant. I'Velo bike share. Variable walkability.",
+        "detailed": "Urban Transit Grids: Bucharest: Metro (4 lines), buses, trams. Integrated ticket (Bucharest Metropolitan Transport). Cluj, Timișoara: buses, trams. CFR trains between cities. Apps: STB, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Estonian, but very popular in Romania). No Uber. FreeNow taxi app. Bike-sharing: I'Velo (Bucharest), ClujBike. E-scooters: Lime, Bolt.\n\nPedestrian Infrastructure: Variable. Good in Bucharest center, chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Historic: Bran Castle (Dracula), Peleș Castle."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Tazz, Glovo, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Sarmale culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Tazz (Romanian), Glovo, Foodpanda. Local: Bringo. Grocery delivery: Mega Image, Kaufland. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, alimentară (small shops). No state monopoly. Drinking age 18. Țuică (plum brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Farmacie (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Țuică, vin (wine). Romanian cuisine: sarmale (cabbage rolls), mici (grilled meat), ciorbă (sour soup). Polenta (mămăligă) staple.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Romanian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Orthodox tradition, hospitality, family focus.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs common in cities (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, Orthodox-tradition-focused. Family central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 15-30 min grace socially. Tipping: 10% (round up). Personal space moderate. Orthodox Christianity dominant. Hospitality (guests important). History: communism, Dracula/Transylvania tourism."
+      }
+    },
+    "iso": "RO"
+  },
+  {
+    "id": "ru-ru",
+    "country": "Russia",
+    "city": "Moscow",
+    "region": "Europe",
+    "currency": "RUB",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Moscow.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Moscow.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Moscow.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Moscow.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "RU"
+  },
+  {
+    "id": "rs-rs",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "region": "Europe",
+    "currency": "RSD",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (many), visa for others. Continental climate: -2°C to 28°C. Smart casual, kafana culture.",
+        "detailed": "Flight Consolidators & Hub Routing: BEG (Belgrade Nikola Tesla) primary hub. Air Serbia (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Serbian Railways.\n\nVisa & Legal Compliance: Visa-free 90 days for many countries (EU, US, Canada, etc.). Visa required for others. Passport valid 6 months beyond stay. Serbia-Visa portal for applications. Not in Schengen.\n\nClimate & Weather: Continental. Belgrade: -2°C (Jan) to 28°C (July). Novi Sad: -3°C to 27°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Kafana (tavern) culture.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (orthodox churches). Size system: European. Local brands: Ivanka Lolu. Kafana culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Bus 72 to Belgrade center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Yettel SR, A1 SR, mts. Tourist eSIM: Airalo, Holafly. Local SIM: Yettel (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Belgrade BEG: Bus 72 (RSD300, 40min) or A1 bus (RSD300, 30min). Official taxi: fixed rate (~RSD2500-3000 to center). CarGo ride-hailing."
+      },
+      "mobility": {
+        "simple": "Belgrade buses, trams, trolleybuses. No informal transit. CarGo ride-hailing. BikeBike bike share. Variable walkability.",
+        "detailed": "Urban Transit Grids: Belgrade: buses, trams, trolleybuses (no Metro). Integrated ticket (BusPlus). Novi Sad: buses. Serbian Railways trains between cities. Apps: BusPlus, CarGo.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: CarGo (Serbian ride-hailing). No Uber. No Bolt. Bike-sharing: BikeBike (Belgrade). E-scooters: Lime, Bolt.\n\nPedestrian Infrastructure: Variable. Good in Belgrade center (Knez Mihailova), chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Kalemegdan fortress pedestrian area."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Glovo, Wolt, Donesi. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Kafana culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Glovo, Wolt, Donesi (Serbian). Local: KupujemProdajem (marketplace). Grocery delivery: Idea, Maxi. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafane (taverns). No state monopoly. Drinking age 18. Rakija (fruit brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apoteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakija, ajvar (pepper spread). Serbian cuisine: ćevapi (grilled meat), pljeskavica (burger), kajmak (cream). Kafana culture central.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Serbian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/rakija OK. Shoes removed in homes. Dog-friendly (restaurants). Orthodox tradition, hospitality, kafana.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, rakija, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs common in cities (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, Orthodox-tradition-focused. Kafana (tavern) central to social life. Physical greetings: handshake, three kisses (close friends). Punctuality: 15-30 min grace socially. Tipping: 10% (round up). Personal space moderate. Orthodox Christianity dominant. Hospitality (guests important). Kafana culture (food, drink, music)."
+      }
+    },
+    "iso": "RS"
+  },
+  {
+    "id": "sk-sk",
+    "country": "Slovakia",
+    "city": "Bratislava",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bratislava.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bratislava.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bratislava.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bratislava.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SK"
+  },
+  {
+    "id": "si-si",
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Alpine climate: -4°C to 26°C. Outdoor culture, Lake Bled.",
+        "detailed": "Flight Consolidators & Hub Routing: LJU (Ljubljana Jože Pučnik) primary hub. Adria Airways (defunct). AZair for European budget flights. Direct booking typical. Train network: Slovenske železnice.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Slovenia-Visa portal for applications.\n\nClimate & Weather: Alpine continental. Ljubljana: -4°C (Jan) to 26°C (July). Julian Alps: -10°C to 20°C. Mediterranean coast (Piran): 4°C to 28°C. Pack layers, outdoor gear. Lake Bled, Lake Bohinj.\n\nApparel Sourcing: Outdoor culture integral. Modest dress for religious sites. Size system: European. Outdoor gear: Alpina, Elan (Slovenian brands). Hiking, skiing popular."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus to Ljubljana center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 95%, 5G extensive. ISPs: A1 SI, Telekom SI. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Ljubljana LJU: Bus (€4.20, 30min) to center. Official taxi: metered (~€25-35 to center). No ride-hailing (limited Bolt)."
+      },
+      "mobility": {
+        "simple": "Ljubljana buses (extensive). No informal transit. Bolt ride-hailing limited. BicikeLJ bike share. Excellent walkability, car-free center.",
+        "detailed": "Urban Transit Grids: Ljubljana: buses (no Metro). Integrated ticket (LPP). Maribor: buses. Slovenske železnice trains between cities. Apps: LPP Mobilni, Google Maps.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt limited. No Uber. Local taxi apps. Bike-sharing: BicikeLJ (Ljubljana). E-scooters: limited.\n\nPedestrian Infrastructure: Excellent walkability. Ljubljana city center car-free. Triple Bridge, Dragon Bridge. Sidewalks well-maintained. Pedestrian crossings respected. Outdoor culture: hiking, cycling."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Glovo, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Outdoor culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Glovo, Foodpanda. Local: Tuš (grocery). Grocery delivery: Mercator, Spar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, gostilne (inns). No state monopoly. Drinking age 18. Wine culture (Rebula, Malvazija). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Lekarna (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality (alpine springs). Zero-sugar options available. Local: Laško beer, Cviček wine. Slovenian cuisine: štruklji (dumplings), kranjska klobasa (sausage). Outdoor picnics popular.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Slovenian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Outdoor culture, reserved demeanor, environmental focus.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, honey appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, outdoor-culture-focused. Hiking, skiing integral. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm in outdoor settings. Environmental consciousness high. Green culture (recycling, sustainability)."
+      }
+    },
+    "iso": "SI"
+  },
+  {
+    "id": "tr-tr",
+    "country": "Turkey",
+    "city": "Ankara",
+    "region": "Asia",
+    "currency": "TRY",
+    "stages": {
+      "preArrival": {
+        "simple": "Direct booking on Turkish Airlines. eVisa online for most nationals. Varied climate: Istanbul 5°C to 28°C, Mediterranean coast 10°C to 35°C. Modest dress, conservative.",
+        "detailed": "Flight Consolidators & Hub Routing: IST (Istanbul) and ADB (Izmir) major hubs. Turkish Airlines (flag carrier) extensive network. Pegasus Airlines budget carrier. SunExpress for coastal routes. No regional consolidator standard.\n\nVisa & Legal Compliance: eVisa online for 100+ nationalities (https://www.evisa.gov.tr/). Visa on arrival for some (more expensive). Passport valid 6 months beyond stay. Some nationalities visa-free.\n\nClimate & Weather: Varied. Istanbul: 5°C (Jan) to 28°C (July). Antalya (coast): 10°C to 35°C. Ankara (inland): 0°C to 30°C. Eastern Turkey: -10°C to 25°C. Check specific destination. Hot dry summers, mild winters coast.\n\nApparel Sourcing: Conservative dress norms. Modest clothing recommended, especially outside tourist areas/İstanbul. Religious sites: cover shoulders/knees, women may need headscarf. Size system: European."
+      },
+      "arrival24h": {
+        "simple": "Power: 220V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Istanbul M1/M3 metro to city center.",
+        "detailed": "Electrical Infrastructure: 220V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 95%, 5G in cities. ISPs: Turkcell, Vodafone TR, Türk Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: Turkcell Tourist Pack (~$40/week).\n\nFinancial Rails: NFC contactless growing (Troy, Bonus). Cash still widely used. No mobile money. Papara for P2P. Tipping: 5-10% in restaurants, round up for small services.\n\nAirport-to-City: Istanbul IST: M1/M3 Metro (₺12, 45min) or Havaist bus (₺18, 60-90min). Sabiha Gökçen: Havabus (₺18, 60min) or taxi (~₺250-300). Official taxi: metered, tip not required."
+      },
+      "mobility": {
+        "simple": "Istanbul Metro/Marmaray (extensive). Dolmuş (shared minibuses) informal transit. BiTaksi, Uber (limited). Bike share limited. Walkability variable, hills.",
+        "detailed": "Urban Transit Grids: Istanbul: Metro, Marmaray (under rail), tram, bus, ferry. Istanbulkart card (integrated). Ankara: Metro, Ankaray. İzmir: Metro, İZBAN. Apps: Istanbulkart Mobil, Moovit.\n\nInformal Transit: Dolmuş (shared minibuses) operating fixed routes, depart when full. Yellow taxis informal in some areas. Informal transit significant in Istanbul.\n\nMicro-Mobility & Ride-Hailing: BiTaksi (official taxi app). Uber limited (licensed taxis only, no private cars). No Bolt. Bike-sharing: İsbike (limited cities). E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Excellent in modern districts (Kadıköy, Beşiktaş). Crowded in tourist areas (Sultanahmet). Hills in Istanbul. Sidewalk quality varies. Pedestrian crossings: zebra crossings common but cars may not yield."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Yemeksepeti, Getir, Trendyol. Alcohol: state monopoly (Tekel) ended, supermarket sales. Pharmacy: many OTC, antibiotics Rx. Tap water: boil or bottle.",
+        "detailed": "E-Commerce & Delivery: Dominant: Yemeksepeti (food), Getir (grocery instant), Trendyol (shopping). Local: Banabici. Grocery delivery: Migros, CarrefourSA. 24/7 Getir delivery culture.\n\nRetail & Alcohol: Open sales in supermarkets, specialty shops. Former state monopoly (Tekel) ended. Drinking age 18. Raki culture (aniseed spirit). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Eczane nöbetçi (on-duty pharmacies).\n\nBeverage & Dietary: **Tap water not safe** in most areas - boil or use bottled water. Zero-sugar options available. Local: ayran (yogurt drink), Turkish tea, Turkish coffee. Çay (tea) culture pervasive.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Open buffet common in restaurants. Sharing dishes typical. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid alcohol for conservative hosts, Turkish delight OK. Shoes removed in homes. Dog-friendly in cities. Hospitality, respect elders, tea ritual.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid alcohol for conservative hosts. Turkish delight, tea/coffee sets, regional textiles excellent gifts. Host gifts expected for dinner.\n\nHousehold Norms: Shoes removed in homes. Slippers provided. separate bathroom shoes often.\n\nCompanion Pet Culture: Dog-friendly in cities, less in rural areas. Dogs in restaurants (patios). Stray dogs common in cities (generally friendly). Cat culture strong.\n\nBehavioral Matrix: Collectivist, hospitality-focused. Tea/coffee ritual for guests. Respect for elders. Indirect communication. Punctuality: 15-30 min grace socially. Tipping: 5-10% expected. Physical greetings: handshake, or kiss on cheek (close friends). Business cards: two-handed exchange. Dining: tea served with meals, late dinners common."
+      }
+    },
+    "iso": "TR"
+  },
+  {
+    "id": "ua-ua",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "region": "Europe",
+    "currency": "UAH",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kyiv.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kyiv.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kyiv.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kyiv.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "UA"
+  },
+  {
+    "id": "al-al",
+    "country": "Albania",
+    "city": "Tirana",
+    "region": "Europe",
+    "currency": "ALL",
+    "stages": {
+      "preArrival": {
+        "simple": "Check Albania's official visa regime for your passport nationality before booking. Tirana (TIA) is the main air gateway; expect Mediterranean coastal weather, with cooler conditions inland and at altitude.",
+        "detailed": "Flight & entry planning: Tirana International Airport (TIA) is the main international gateway. Routes and airlines change seasonally; check the airport's current airline list and compare direct flights with connections through nearby European hubs. Ferry services also connect Durrës with Italy; verify schedules with the operator.\n\nVisa & legal compliance: Entry rules depend on passport nationality, purpose, and length of stay. Check Albania's Ministry for Europe and Foreign Affairs visa regime and any linked application process before departure; do not rely on a blanket visa-free list. Confirm passport validity requirements with the official authority for your case.\n\nClimate & apparel: Conditions vary between the coast, Tirana, and mountainous interior. Check the forecast for each stop and season; pack sun and rain protection for coastal trips and warmer layers for elevation or winter. Use respectful dress at religious sites and follow posted rules.\n\nChecked 2026-11-02; schedules, entry rules, and weather are subject to change.",
+        "sources": [
+          {
+            "topic": "Visa regime",
+            "url": "https://punetejashtme.gov.al/en/regime-visa/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Tirana airport airlines",
+            "url": "https://www.tirana-airport.com/en/partners/4/Airlines",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "National tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Albania uses 230 V / 50 Hz Type C and F sockets. TIA's official bus to Tirana is listed as hourly, 24/7, and 400 ALL; licensed airport taxis are available at the terminal.",
+        "detailed": "Power: Albania uses 230 V at 50 Hz with Type C and F sockets. Check whether your devices support 230 V; a plug adapter does not convert voltage.\n\nConnectivity & payments: Mobile coverage, roaming, eSIM availability, and card acceptance depend on provider and location. Confirm service with your carrier before travel and keep a modest amount of Albanian lek (ALL) available for small purchases or outages.\n\nAirport transfer: Tirana International Airport lists a public bus between the airport and central Tirana every hour, 24 hours a day, for 400 ALL; the airport says the trip takes about 30-40 minutes. Its official taxi page identifies the licensed airport taxi provider and lists an indicative fare of about 2,200 ALL to central Tirana; traffic and fares can change. Use the airport's current directions page to recheck details on arrival.\n\nChecked 2026-11-02; fares and services may change.",
+        "sources": [
+          {
+            "topic": "Electrical standards and socket types",
+            "url": "https://www.power-plugs-sockets.com/albania/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Tirana airport bus",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Licensed airport taxi",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/13/By-Taxi",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Use current municipal information for Tirana buses and check official intercity listings before travel; routes, operators, and departure points can vary by city.",
+        "detailed": "Tirana and intercity travel: Tirana has municipal bus services. For intercity journeys, Albania's eTransport platform is linked by Tirana International Airport as a listing of official bus lines, stations, and schedules. Confirm the departure terminal, operator, and schedule directly before setting out.\n\nShared and on-demand transport: Shared minibuses (often called furgons) operate on some routes, but availability and departure practices vary. Agree the destination and fare before boarding. For app-based rides, check current local availability rather than assuming a service operates nationwide.\n\nWalking: Conditions vary by neighborhood and town. Check the route on arrival, allow for uneven or obstructed sidewalks, and use marked crossings while watching traffic.",
+        "sources": [
+          {
+            "topic": "Official bus lines, stations, and schedules",
+            "url": "https://www.etransport.al/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Airport-published transport information",
+            "url": "https://www.tirana-airport.com/en/transport-and-directions/15/By-Bus",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery-app coverage and payment options vary by location. Ask your accommodation about local water and pharmacy access; check prescription rules for any medication you bring.",
+        "detailed": "Daily services: Delivery platforms, grocery options, opening hours, and cashless payment acceptance vary across Albania and can change. Check the app in your destination and confirm address and phone-number requirements before relying on delivery.\n\nHealth and water: Do not assume tap-water quality is identical across locations or buildings; ask your accommodation or local water provider, and use sealed bottled or appropriately treated water if uncertain. Bring necessary medication in original packaging and verify import and prescription requirements with an official source before travel. For urgent care, ask your accommodation for the nearest currently operating pharmacy or clinic.\n\nFood and drink: Albanian meals commonly include regional dishes such as byrek and tavë kosi. Ask about ingredients and dietary needs directly; menus and availability vary. Service charges and tipping practices are not uniform, so check the bill and use your judgment.",
+        "sources": [
+          {
+            "topic": "Official tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Albanian Ministry of Health",
+            "url": "https://shendetesia.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Be courteous at religious and heritage sites, ask before photographing people, and follow your host's lead on greetings, footwear, and home-visit customs.",
+        "detailed": "Being a guest: Customs differ between households and communities. At religious sites, follow posted dress and photography rules. Ask permission before photographing people, private property, or ceremonies. For a home visit, a small food or hospitality gift is a low-risk choice; ask your host about preferences and follow their lead on shoes and greetings.\n\nPublic behavior: Use a polite, measured approach in unfamiliar settings. Do not assume that one etiquette rule applies throughout the country; observe local cues and ask respectfully when unsure. This guidance is intentionally limited to practical courtesies rather than broad claims about national character.",
+        "sources": [
+          {
+            "topic": "Official Albania tourism information",
+            "url": "https://akt.gov.al/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      }
+    },
+    "iso": "AL",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/albania/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "by-by",
+    "country": "Belarus",
+    "city": "Minsk",
+    "region": "Europe",
+    "currency": "BYN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Minsk.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Minsk.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Minsk.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Minsk.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BY",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/belarus/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ba-ba",
+    "country": "Bosnia and Herzegovina",
+    "city": "Sarajevo",
+    "region": "Europe",
+    "currency": "BAM",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (EU, US, Turkey). Continental climate: -4°C to 27°C. Smart casual, Sarajevo siege history.",
+        "detailed": "Flight Consolidators & Hub Routing: SJJ (Sarajevo) primary hub. B&H Airlines (limited). AZair for European budget flights. Direct booking typical. Bus to Croatia/Zagreb.\n\nVisa & Legal Compliance: Visa-free 90 days for EU, US, Turkey, others. Visa required for some. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Continental. Sarajevo: -4°C (Jan) to 27°C (July). Mostar: 1°C to 30°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Sarajevo siege history, Ottoman architecture.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (mosques, churches). Size system: European. Ottoman/Old Town (Baščaršija) central to Sarajevo."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. Cash dominant. Bus to Sarajevo center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 40+ Mbps. 4G coverage 85%, 5G in cities. ISPs: BH Telecom, m:tel, Eronet. Tourist eSIM: Airalo, Holafly. Local SIM: BH Telecom (~€25/week).\n\nFinancial Rails: Cash still dominant. NFC contactless limited. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Sarajevo SJJ: Bus (KM5, 30min) or taxi (KM25-35 to center). No ride-hailing."
+      },
+      "mobility": {
+        "simple": "Sarajevo trams, buses. No informal transit. No ride-hailing. Variable walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Sarajevo: trams, buses. Integrated tickets. Mostar: buses. Train network limited. Apps: no dedicated app, ask locals.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No ride-hailing (no Uber, Bolt). Traditional taxis only. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Sarajevo Old Town (Baščaršija). Chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Stari Most (Old Bridge) in Mostar walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Foodpanda, Glovo. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Ćevapi.",
+        "detailed": "E-Commerce & Delivery: Dominant: Foodpanda, Glovo. Local: none significant. Grocery delivery: Bingo, Konzum. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafane (taverns). No state monopoly. Drinking age 18. Rakija (fruit brandy), beer culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apoteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakija, bosanska kafa (Turkish coffee). Bosnian cuisine: ćevapi (grilled meat), burek (pastry), dolma (stuffed peppers). Ottoman influence strong.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Bosnian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white lilies (death), coffee/food OK. Shoes removed in homes. Dog-friendly (restaurants). Hospitality, coffee, history.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Coffee, local food, sweets appropriate. Host gifts expected. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, hospitality-focused. Coffee culture central (bosanska kafa). Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 30-60 min grace socially. Tipping: 5-10% expected. Personal space moderate. Ottoman coffee culture. History: Siege of Sarajevo (1992-1996), war memorial sites."
+      }
+    },
+    "iso": "BA",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/bosnia-and-herzegovina/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "bg-bg",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "region": "Europe",
+    "currency": "BGN",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -4°C to 28°C. Smart casual, Black Sea resorts.",
+        "detailed": "Flight Consolidators & Hub Routing: SOF (Sofia), VAR (Varna) major hubs. Bulgaria Air (flag carrier). AZair for European budget flights. Direct booking typical. Train network: BDZ.\n\nVisa & Legal Compliance: Schengen Area member (2024/2025) - 90 days within any 180-day period. Passport valid 3 months beyond departure. Bulgaria-Visa portal for applications.\n\nClimate & Weather: Continental. Sofia: -4°C (Jan) to 28°C (July). Varna (Black Sea): 2°C to 29°C. Cold winters, hot summers. Pack layers, beach gear for coast. Black Sea resorts (Sunny Beach, Golden Sands).\n\nApparel Sourcing: Smart casual in cities. Beach culture on Black Sea. Modest dress for religious sites (orthodox churches). Size system: European. Outdoor gear: Decathlon."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Metro/subway to Sofia center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 60+ Mbps. 4G coverage 90%, 5G in cities. ISPs: A1 BG, Vivacom, Yettel. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Sofia SOF: Metro Line 1 (BGN1.60, 20min) or bus (BGN1.60, 30min). Official taxi: metered (~BGN20-30 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Sofia Metro (3 lines), trams, buses. No informal transit. Bolt ride-hailing dominant. VeloBike bike share. Variable walkability.",
+        "detailed": "Urban Transit Grids: Sofia: Metro (3 lines), trams, buses. Integrated ticket (Sofia Urban Mobility). Varna, Plovdiv: buses, trams. BDZ trains between cities. Apps: Sofia Urban Mobility, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: VeloBike (Sofia). E-scooters: Lime, Bolt.\n\nPedestrian Infrastructure: Variable. Good in Sofia center, chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Black Sea resorts: pedestrian promenades."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Foodpanda, Glovo, eMenu. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Shopska salad.",
+        "detailed": "E-Commerce & Delivery: Dominant: Foodpanda, Glovo, eMenu (Bulgarian). Local: BG Menu. Grocery delivery: Billa, Kaufland. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, mehana (taverns). No state monopoly. Drinking age 18. Rakia (fruit brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakia, ayran (yogurt drink). Bulgarian cuisine: shopska salad, banitsa (pastry), kavarma (stew). Yogurt culture integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Bulgarian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/rakia OK. Shoes removed in homes. Dog-friendly (restaurants). Orthodox tradition, hospitality, nodding.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, rakia, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs common in cities (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, Orthodox-tradition-focused. Nodding meaning: nod = no, shake head = yes (opposite of most cultures). Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 15-30 min grace socially. Tipping: 10% (round up). Personal space moderate. Orthodox Christianity dominant. Hospitality (guests important). Black Sea beach culture."
+      }
+    },
+    "iso": "BG",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/bulgaria/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "hr-hr",
+    "country": "Croatia",
+    "city": "Zagreb",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Mediterranean climate: 2°C to 30°C. Beach culture, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: ZAG (Zagreb), DBV (Dubrovnik), SPU (Split) major hubs. Croatia Airlines (flag carrier). AZair for European budget flights. Ferry network: Jadrolinija for islands.\n\nVisa & Legal Compliance: Schengen Area member (2023) - 90 days within any 180-day period. Passport valid 3 months beyond departure. Croatia-Visa portal for applications.\n\nClimate & Weather: Mediterranean coastal, continental inland. Zagreb: 2°C (Jan) to 30°C (July). Split: 9°C to 30°C. Dubrovnik: 8°C to 29°C. Hot dry summers, mild winters coast. Pack sunscreen, beach gear.\n\nApparel Sourcing: Beach culture on coast. Modest dress for churches (no shorts, cover shoulders). Size system: European. Local brands: Tommy, Croata."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Tram/bus to Zagreb center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: A1 Hrvatska, Hrvatski Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€35/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used, especially on coast. No mobile money. Tipping: 5-10% in restaurants.\n\nAirport-to-City: Zagreb ZAG: Bus (€8, 30min) or tram to center. Split SPU: Bus (€5, 40min) to port. Dubrovnik DBV: Bus (€10, 45min) to old town. Official taxi: metered."
+      },
+      "mobility": {
+        "simple": "Zagreb trams/buses, coastal buses. No informal transit. Uber (limited, licensed taxis only). Ferry boats to islands. Walkable old towns.",
+        "detailed": "Urban Transit Grids: Zagreb: trams, buses. Coastal cities: buses. Integrated tickets. Ferry network: Jadrolinija (Rijeka-Split-Dubrovnik), local ferries to islands. Apps: ZET (Zagreb), Jadrolinija.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (licensed taxis only, no private cars). No Bolt. Cammeo taxi app. Bike-sharing: Nextbike in Zagreb. E-scooters: limited.\n\nPedestrian Infrastructure: Excellent in old towns (Dubrovnik, Split). Car-free zones in historic centers. Coastal promenades (riva). Sidewalk quality varies. Islands: walkable in towns."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Glovo, Delivery Hero. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Coffee culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Glovo, Delivery Hero. Local: Pauza. Grocery delivery: Konzum, Interspar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, konobas (taverns). No state monopoly. Drinking age 18. Wine culture (Plavac Mali). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Ljekarne (pharmacies) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Karlovačko beer, rakija (fruit brandy). Mediterranean diet: seafood, olive oil. Coffee culture extensive (kava). Seafood, truffles.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Croatian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid yellow lilies (death), wine/food OK. Shoes removed in some homes. Dog-friendly (restaurants). Relaxed pace, coffee culture, hospitality.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid yellow lilies (death). Odd numbers preferred. Wine, local food (olive oil, truffles), sweets appropriate. Host gifts expected.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs in rural areas. Cat culture present.\n\nBehavioral Matrix: Collectivist, hospitality-focused. Coffee culture central to social life (spica). Physical greetings: handshake, two kisses (close friends). Punctuality: 30-60 min grace socially (pomalo - relaxed). Tipping: 5-10% expected. Personal space moderate. Beach culture integral to summer life."
+      }
+    },
+    "iso": "HR",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/croatia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "cz-cz",
+    "country": "Czechia",
+    "city": "Prague",
+    "region": "Europe",
+    "currency": "CZK",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -3°C to 24°C. Smart casual, beer culture.",
+        "detailed": "Flight Consolidators & Hub Routing: PRG (Prague) primary hub. Czech Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: České dráhy (excellent).\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Czech-Visa portal for applications.\n\nClimate & Weather: Continental. Prague: -3°C (Jan) to 24°C (July). Brno: -2°C to 25°C. Cold winters, warm summers. Pack layers, waterproof jacket. Snow in winter.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Husky (Czech brand). Pivo (beer) culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/E sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Airport Express bus to Prague.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type E (French with male pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 98%, 5G extensive. ISPs: T-Mobile CZ, O2, Vodafone. Tourist eSIM: Airalo, Holafly. Local SIM: T-Mobile (~€35/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Prague PRG: Airport Express bus (Kč32, 35min) or public bus (Kč32, 45min). Official taxi: fixed rate (~Kč600-700 to center). Liftago ride-hailing."
+      },
+      "mobility": {
+        "simple": "Prague Metro (3 lines), trams, buses. No informal transit. Liftago ride-hailing. Rekola bike share. Excellent walkability, cobblestones.",
+        "detailed": "Urban Transit Grids: Prague: Metro (3 lines), trams, buses. Integrated ticket (PID). Brno: trams, buses. České dráhy trains between cities. Apps: PID Lítačka, Liftago.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Liftago (Czech ride-hailing). No Uber. No Bolt. Bike-sharing: Rekola (Prague), Nextbike (other cities). E-scooters: Lime, Beejump.\n\nPedestrian Infrastructure: Excellent walkability in historic centers. Cobblestones in old Prague - wear comfortable shoes. Sidewalks well-maintained. Pedestrian crossings respected. Beer garden culture."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: DámeJídlo, Wolt, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Beer culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: DámeJídlo (Czech), Wolt, Uber Eats. Local: Rohlík (grocery). Grocery delivery: Albert, Tesco. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, hospody (pubs). No state monopoly. Drinking age 18. Pilsner Urquell, Budějovický Budvar beer culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Lékárna (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Pilsner beer, Kofola (Czech cola). Czech cuisine: svíčková (beef), goulash, dumplings. Beer cheaper than water.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Czech breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), beer/food OK. Shoes removed in some homes. Dog-friendly (pubs allowed). Beer culture, direct communication, reserved demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Beer, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Very dog-friendly. Dogs allowed in pubs, restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, beer-culture-focused. Pivo (beer) central to social life. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm after first beer. Direct communication. Hobbies: hiking, skiing."
+      }
+    },
+    "iso": "CZ",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/czech-republic/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ee-ee",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -6°C to 22°C. Smart casual, digital society.",
+        "detailed": "Flight Consolidators & Hub Routing: TLL (Tallinn) primary hub. Nordica (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Elron.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Estonia-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Tallinn: -6°C (Jan) to 22°C (July). Tartu: -7°C to 21°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Digital society (e-Residency).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Monton (Estonian brand). Digital culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless ubiquitous. Tram/bus to Tallinn center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 99%, 5G extensive. ISPs: Telia EE, Elisa, Tele2. Tourist eSIM: Airalo, Holafly. Local SIM: Telia (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. World's most digital society - everything online. Cash declining but still used. Tipping: 5-10% (round up).\n\nAirport-to-City: Tallinn TLL: Tram 4 (€2, 20min) or bus (€2, 30min) to center. Official taxi: metered (~€15-20 to center). Bolt ride-hailing (Estonian-founded)."
+      },
+      "mobility": {
+        "simple": "Tallinn trams, buses. No informal transit. Bolt ride-hailing (Estonian-founded). Bolt/Tuul bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Tallinn: trams, buses (no Metro). Integrated ticket (Ühiskaart). Tartu: buses. Elron trains between cities. Apps: Tallinn public transport, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Estonian-founded, global). No Uber. No other ride-hailing. Bike-sharing: Bolt (Tallinn), Tuul (Tartu). E-scooters: Bolt, Tuul.\n\nPedestrian Infrastructure: Excellent walkability. Tallinn Old Town (UNESCO) pedestrian-only. Sidewalks well-maintained. Pedestrian crossings respected. Digital culture: mobile ticketing, parking apps."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt (Estonian-founded), Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt (Estonian-founded, global), Bolt Food, Foodpanda. Local: eRaketer (grocery). Grocery delivery: Rimi, Prisma. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kohvikud (cafes). No state monopoly. Drinking age 18. Vana Tallinn liqueur, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteek (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Vana Tallinn (herbal liqueur), Kalev chocolate. Estonian cuisine: black bread, herring, kama (grain flour). Digital ordering common.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Estonian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Digital culture, reserved demeanor, sauna.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, digital gifts appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, digital-culture-focused. World's most digital society. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Direct communication. Sauna culture integral to social life. E-Residency program for digital nomads."
+      }
+    },
+    "iso": "EE",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/estonia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "gr-gr",
+    "country": "Greece",
+    "city": "Athens",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Mediterranean climate: 6°C to 33°C. Casual dress, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: ATH (Athens), HER (Heraklion), CFU (Corfu) major hubs. Aegean Airlines (flag carrier), Olympic Air, Sky Express. AZair for European budget flights. Island hopping by ferry.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Greece-Visa portal for applications.\n\nClimate & Weather: Mediterranean. Athens: 6°C (Jan) to 33°C (July). Islands: 10°C to 30°C. Hot dry summers, mild winters. Pack sunscreen, lightweight fabrics. Siesta in islands (2-5pm).\n\nApparel Sourcing: Casual beach culture acceptable. Modest dress required for churches (no shorts, cover shoulders - women may need shawl). Size system: European. Beachwear on beaches only."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Metro Line 3 to Athens center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Cosmote, Vodafone GR, Wind. Tourist eSIM: Airalo, Holafly. Local SIM: Cosmote (~€35/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used, especially on islands. No mobile money. Tipping: 5-10% in restaurants, round up for services.\n\nAirport-to-City: Athens ATH: Metro Line 3 (€9, 40min) or X95 bus (€6, 60min). Official taxi: fixed rate (~€38 to center). Islands: buses or taxis to ports/ferry terminals."
+      },
+      "mobility": {
+        "simple": "Athens Metro (3 lines), buses, trams. No informal transit. Uber (limited, licensed taxis only). Ferry boats between islands. Variable walkability.",
+        "detailed": "Urban Transit Grids: Athens: Metro (3 lines), buses, trams, trolleybuses. Integrated ticket (ATH.ENA Card). Islands: buses, taxis. Ferry network: Pireaus ports to islands. Apps: OASA Telematics, Ferryhopper.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (licensed taxis only, no private cars). FreeNow taxi app. No Bolt. Bike-sharing: limited. E-scooters: Lime, Bird in Athens.\n\nPedestrian Infrastructure: Variable. Excellent in Plaka, Monastiraki (historic areas). Crowded, chaotic in some districts. Islands: walkable in towns, hilly terrain. Sidewalk quality varies."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: efood.gr, Wolt, Delivery Hero. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe in cities, bottle on islands.",
+        "detailed": "E-Commerce & Delivery: Dominant: efood.gr (Greek), Wolt, Delivery Hero. Local: Delfino (grocery). Grocery delivery: AB Vasilopoulos, Sklavenitis. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kiosks (periptero). No state monopoly. Drinking age 17 (enforced 18). Ouzo, tsipouro culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Farmacia (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water safe in Athens, use bottled on islands. Zero-sugar options available. Local: Greek coffee, frappé, ouzo. Mediterranean diet: olive oil, feta, vegetables. Late meals (9-11pm).\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Greek breakfast buffets extensive. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white flowers (funerals), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Philoxenia (hospitality), family focus, relaxed pace.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid white (funerals). Odd numbers preferred. Wine, local food (olive oil, honey), sweets appropriate. Host gifts expected for dinner.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture strong on islands.\n\nBehavioral Matrix: Collectivist, family-oriented. Philoxenia (hospitality to strangers) central. Physical greetings: two kisses (women-woman, women-man), handshake (men-men). Punctuality: 30-60 min grace socially (filoxenia time). Tipping: 5-10% expected. Relaxed pace, especially on islands. Meal times: late dinners. Sunglasses acceptable outdoors."
+      }
+    },
+    "iso": "GR",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/greece/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "hu-hu",
+    "country": "Hungary",
+    "city": "Budapest",
+    "region": "Europe",
+    "currency": "HUF",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -2°C to 27°C. Smart casual, thermal bath culture.",
+        "detailed": "Flight Consolidators & Hub Routing: BUD (Budapest Ferenc Liszt) primary hub. Wizz Air (Hungarian budget carrier). AZair for European budget flights. Direct booking typical. Train network: MÁV.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Hungary-Visa portal for applications.\n\nClimate & Weather: Continental. Budapest: -2°C (Jan) to 27°C (July). Cold winters, hot summers. Pack layers, warm clothes for winter. Thermal bath culture year-round.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Thermal bath wear: swimwear (gender-separated historically). Local brands: Nanushka."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless growing. 100E bus to Budapest center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 95%, 5G in cities. ISPs: Magyar Telekom, Vodafone HU, Yettel. Tourist eSIM: Airalo, Holafly. Local SIM: Magyar Telekom (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Budapest BUD: 100E bus (HUF900, 20min) or public bus (HUF900, 45min). Official taxi: fixed rate (~HUF8000-10000 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Budapest Metro (4 lines), trams, buses. No informal transit. Bolt ride-hailing. Bubi bike share. Excellent walkability, thermal baths.",
+        "detailed": "Urban Transit Grids: Budapest: Metro (4 lines), trams (4/6 tram famous), buses. Integrated ticket (BKK). Szeged, Debrecen: trams, buses. MÁV trains between cities. Apps: BKK FUTÁR, Google Maps.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Hungarian-founded). No Uber. No other ride-hailing. Bike-sharing: Bubi (Budapest), MOL Bubi. E-scooters: Lime, Tier.\n\nPedestrian Infrastructure: Excellent walkability along Danube. Thermal baths central to culture. Sidewalks well-maintained. Pedestrian crossings respected. Historic: Buda Castle, Parliament, Chain Bridge."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Foodpanda, NetPincér. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Paprika culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt (Estonian, but popular in Hungary), Foodpanda, NetPincér (Hungarian). Local: Kifli (grocery). Grocery delivery: Tesco, Spar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, drogériák (drugstores). No state monopoly. Drinking age 18. Tokaji wine, pálinka (fruit brandy) culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Gyógyszertár (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Unicum (herbal liqueur), paprika-spiced dishes. Hungarian cuisine: gulyás (goulash), paprikás, töltött káposzta (stuffed cabbage). Paprika integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Hungarian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/pálinka OK. Shoes removed in homes. Dog-friendly (restaurants). Thermal bath culture, reserved demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, pálinka, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, thermal-bath-culture-focused. Thermal baths central to social life. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm in bathhouses. Direct communication. Paprika spice culture. History: Austro-Hungarian Empire, communism."
+      }
+    },
+    "iso": "HU",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/hungary/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "lv-lv",
+    "country": "Latvia",
+    "city": "Riga",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -5°C to 22°C. Smart casual, Art Nouveau.",
+        "detailed": "Flight Consolidators & Hub Routing: RIX (Riga) primary hub. airBaltic (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Pasažieru vilciens.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Latvia-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Riga: -5°C (Jan) to 22°C (July). Daugavpils: -6°C to 21°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Art Nouveau architecture in Riga.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: 4F. Art Nouveau district central to Riga."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus 22 to Riga center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 98%, 5G extensive. ISPs: LMT, Tele2, Bite. Tourist eSIM: Airalo, Holafly. Local SIM: LMT (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Riga RIX: Bus 22 (€1.50, 30min) or express bus (€2.50, 20min). Official taxi: metered (~€15-25 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Riga trams, buses, trolleybuses. No informal transit. Bolt ride-hailing. Sixt bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Riga: trams, buses, trolleybuses (no Metro). Integrated ticket (Rīgas satiksme). Daugavpils: buses. Pasažieru vilciens trains between cities. Apps: Rīgas satiksme, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: Sixt (Riga). E-scooters: Bolt, Tuul.\n\nPedestrian Infrastructure: Excellent walkability. Riga Old Town (UNESCO) pedestrian-friendly. Art Nouveau district walkable. Sidewalks well-maintained. Pedestrian crossings respected."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Rye bread.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Bolt Food, Foodpanda. Local: Barons (grocery). Grocery delivery: Rimi, Maxima. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, veikali (shops). No state monopoly. Drinking age 18. Riga Black Balsam, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Aptieka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Riga Black Balsam, kvass (fermented drink). Latvian cuisine: rye bread, pelēkie zirņi (grey peas), caraway cheese. Rye bread integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Latvian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Reserved demeanor, sauna, song festival.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, honey appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, reserved demeanor. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Sauna culture integral. Song and Dance Festival (unifying event). Art Nouveau pride."
+      }
+    },
+    "iso": "LV",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/latvia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "lt-lt",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Baltic climate: -6°C to 22°C. Smart casual, Baltic culture.",
+        "detailed": "Flight Consolidators & Hub Routing: VNO (Vilnius), KUN (Kaunas) major hubs. airBaltic, Ryanair. AZair for European budget flights. Direct booking typical. Train network: LTG Link.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Lithuania-Visa portal for applications.\n\nClimate & Weather: Baltic continental. Vilnius: -6°C (Jan) to 22°C (July). Kaunas: -5°C to 23°C. Cold winters, mild summers. Pack layers, warm clothes for winter. Baltic Sea coast (Klaipėda).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: 4F. Amber jewelry (Baltic amber)."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus to Vilnius center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 98%, 5G extensive. ISPs: Telia LT, Bitė Lietuva, Tele2. Tourist eSIM: Airalo, Holafly. Local SIM: Telia (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Vilnius VNO: Bus (€1, 30min) or train (€1, 7min) to center. Official taxi: metered (~€15-25 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Vilnius buses, trolleybuses. No informal transit. Bolt ride-hailing. Cyclocity bike share. Excellent walkability, Old Town.",
+        "detailed": "Urban Transit Grids: Vilnius: buses, trolleybuses (no Metro). Integrated ticket (Vilnius Transport). Kaunas: buses. LTG Link trains between cities. Apps: Trafi, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant. No Uber. No other ride-hailing. Bike-sharing: Cyclocity (Vilnius), SIXT (Kaunas). E-scooters: Bolt, CityBee.\n\nPedestrian Infrastructure: Excellent walkability. Vilnius Old Town (UNESCO) pedestrian-friendly. Sidewalks well-maintained. Pedestrian crossings respected. Hill of Three Crosses walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Bolt Food, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Rye bread.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Bolt Food, Foodpanda. Local: Barbora (grocery). Grocery delivery: Rimi, Maxima. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, parduotuvės (shops). No state monopoly. Drinking age 18. Suktinis liqueur, beer culture. Tipping minimal.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Vaistinė (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Suktinis (herbal liqueur), kvass. Lithuanian cuisine: cepelinai (potato dumplings), šaltibarščiai (cold beet soup), rye bread. Rye bread integral.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Lithuanian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Reserved demeanor, sauna, basketball.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, amber jewelry appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, reserved demeanor. Punctuality: 5-10 min grace socially. Tipping: 5-10% (round up). Personal space respected. Reserved initially, warm in sauna. Sauna culture integral. Basketball national obsession. Baltic amber jewelry tradition."
+      }
+    },
+    "iso": "LT",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/lithuania/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "md-md",
+    "country": "Moldova",
+    "city": "Chișinău",
+    "region": "Europe",
+    "currency": "MDL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Chișinău.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Chișinău.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Chișinău.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Chișinău.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MD",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/moldova/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "me-me",
+    "country": "Montenegro",
+    "city": "Podgorica",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (EU, US, Turkey). Mediterranean climate: 2°C to 32°C. Beach culture, Bay of Kotor.",
+        "detailed": "Flight Consolidators & Hub Routing: TGD (Podgorica), TIV (Tivat) major hubs. Montenegro Airlines (limited). AZair for European budget flights. Direct booking typical. Ferry to Italy (Bar to Bari).\n\nVisa & Legal Compliance: Visa-free 90 days for EU, US, Turkey, others. Visa required for some. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Mediterranean. Podgorica: 2°C (Jan) to 32°C (July). Kotor: 4°C to 30°C. Hot dry summers, mild winters. Pack sunscreen, beach gear. Bay of Kotor (fjord-like), Adriatic coast.\n\nApparel Sourcing: Beach culture on coast. Modest dress for religious sites (orthodox monasteries). Size system: European. Bay of Kotor tourism central."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. Cash dominant. Bus to Podgorica center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Telenor ME, M:tel, Crnogorski Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: Telenor (~€30/week).\n\nFinancial Rails: Cash still dominant. NFC contactless limited. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Podgorica TGD: Bus (€2, 30min) or taxi (€15-25 to center). Tivat TIV: bus to Kotor (€3, 20min). No ride-hailing."
+      },
+      "mobility": {
+        "simple": "Podgorica buses. No informal transit. No ride-hailing. Variable walkability, Bay of Kotor.",
+        "detailed": "Urban Transit Grids: Podgorica: buses (no Metro). Integrated tickets. Kotor, Budva: buses. Train network limited. Apps: no dedicated app, ask locals.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No ride-hailing (no Uber, Bolt). Traditional taxis only. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Kotor Old Town (UNESCO). Chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Bay of Kotor promenade walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Glovo, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Seafood.",
+        "detailed": "E-Commerce & Delivery: Dominant: Glovo, Foodpanda. Local: none significant. Grocery delivery: Voli, Idea. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafane (taverns). No state monopoly. Drinking age 18. Vranac wine, rakija culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apoteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Vranac wine, rakija. Montenegrin cuisine: njeguški steak, pršut (prosciutto), seafood. Adriatic seafood central.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Montenegrin breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Hospitality, coffee, family.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, sweets appropriate. Host gifts expected. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, family-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 30-60 min grace socially. Tipping: 5-10% expected. Personal space moderate. Coffee culture integral. Family gatherings important. Bay of Kotor tourism."
+      }
+    },
+    "iso": "ME",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/montenegro/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "mk-mk",
+    "country": "North Macedonia",
+    "city": "Skopje",
+    "region": "Europe",
+    "currency": "MKD",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (EU, US, Turkey). Continental climate: -2°C to 30°C. Smart casual, Ohrid Lake.",
+        "detailed": "Flight Consolidators & Hub Routing: SKP (Skopje) primary hub. Wizz Air (budget). AZair for European budget flights. Direct booking typical. Bus to Greece/Thessaloniki.\n\nVisa & Legal Compliance: Visa-free 90 days for EU, US, Turkey, others. Visa required for some. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Continental. Skopje: -2°C (Jan) to 30°C (July). Ohrid: 0°C to 28°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Ohrid Lake (UNESCO).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (orthodox churches). Size system: European. Ohrid Lake tourism central."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. Cash dominant. Bus to Skopje center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 40+ Mbps. 4G coverage 85%, 5G in cities. ISPs: A1 MK, Makedonski Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€25/week).\n\nFinancial Rails: Cash still dominant. NFC contactless limited. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Skopje SKP: Bus (denar150, 30min) or taxi (denar1200-1500 to center). No ride-hailing."
+      },
+      "mobility": {
+        "simple": "Skopje buses, old Yugoslavia buses. No informal transit. No ride-hailing. Variable walkability.",
+        "detailed": "Urban Transit Grids: Skopje: buses (old Yugoslav buses). Integrated tickets. Ohrid: buses. Train network limited. Apps: no dedicated app, ask locals.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No ride-hailing (no Uber, Bolt). Traditional taxis only. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Skopje center (Macedonia Square). Chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Ohrid Lake promenade walkable."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Ohrid trout.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Foodpanda. Local: none significant. Grocery delivery: Kam, Ramstore. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafani (cafes). No state monopoly. Drinking age 18. Rakija (fruit brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakija, mastika (anise liqueur). Macedonian cuisine: tavče gravče (baked beans), ajvar (pepper spread), shopska salad. Ohrid trout (local specialty).\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Macedonian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), coffee/food OK. Shoes removed in homes. Dog-friendly (restaurants). Hospitality, coffee, family.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Coffee, local food, sweets appropriate. Host gifts expected. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs in restaurants (patios). Stray dogs common (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, family-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 30-60 min grace socially. Tipping: 5-10% expected. Personal space moderate. Coffee culture integral to social life. Family gatherings important."
+      }
+    },
+    "iso": "MK",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/macedonia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "pl-pl",
+    "country": "Poland",
+    "city": "Warsaw",
+    "region": "Europe",
+    "currency": "PLN",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -4°C to 24°C. Smart casual, pierogi culture.",
+        "detailed": "Flight Consolidators & Hub Routing: WAW (Warsaw Chopin), KRK (Kraków) major hubs. LOT Polish Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: PKP Intercity.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Poland-Visa portal for applications.\n\nClimate & Weather: Continental. Warsaw: -4°C (Jan) to 24°C (July). Kraków: -3°C to 24°C. Cold winters, warm summers. Pack layers, warm clothes for winter. Snow common.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (especially John Paul II's Kraków). Size system: European. Outdoor gear: 4F (Polish brand). Pierogi (dumplings) culture."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/E sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. S2/S3 train to Warsaw center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type E (French with male pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 97%, 5G extensive. ISPs: Orange PL, Play, Plus. Tourist eSIM: Airalo, Holafly. Local SIM: Play (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. BLIK mobile payment dominant. Cash still used. Tipping: 10% (round up).\n\nAirport-to-City: Warsaw WAW: S2/S3 train (Kç4.40, 20min) or bus (Kç4.40, 30min). Official taxi: metered (~Kç50-70 to center). FreeNow ride-hailing."
+      },
+      "mobility": {
+        "simple": "Warsaw Metro (2 lines), trams, buses. No informal transit. FreeNow ride-hailing. Veturilo bike share. Excellent walkability, post-war reconstruction.",
+        "detailed": "Urban Transit Grids: Warsaw: Metro (2 lines), trams, buses. Integrated ticket (Warszawski Public Transport). Kraków: trams, buses. PKP trains between cities. Apps: Jakdojade, mPay.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: FreeNow (taxi app). No Uber. No Bolt. Bike-sharing: Veturilo (Warsaw), Wavelo (Kraków). E-scooters: Lime, Blinkee.\n\nPedestrian Infrastructure: Excellent walkability in rebuilt city centers. Warsaw largely rebuilt post-WWII. Sidewalks well-maintained. Pedestrian crossings respected. Old Town Warsaw (reconstructed)."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Pyszne.pl, Glovo, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Pierogi culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Pyszne.pl (Polish), Glovo, Uber Eats. Local: Dodo (pizza). Grocery delivery: Biedronka, Kaufland. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, monopolowy (liquor stores). No state monopoly. Drinking age 18. Vodka culture (Żubrówka, Belvedere). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Żywiec beer, kiszona (fermented). Polish cuisine: pierogi, bigos, żurek. Sourdough bread culture.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Polish breakfast buffets (cold cuts, pickles). No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), vodka/food OK. Shoes removed in homes. Dog-friendly (restaurants). Catholic tradition, hospitality, direct communication.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Vodka, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Collectivist, Catholic-tradition-focused. Hospitality central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space moderate. Direct communication. Catholic traditions: Easter, Christmas. History-focused (WWII, communism)."
+      }
+    },
+    "iso": "PL",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/poland/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ro-ro",
+    "country": "Romania",
+    "city": "Bucharest",
+    "region": "Europe",
+    "currency": "RON",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Continental climate: -3°C to 27°C. Smart casual, Dracula tourism.",
+        "detailed": "Flight Consolidators & Hub Routing: OTP (Bucharest Henri Coandă), CLJ (Cluj-Napoca) major hubs. TAROM (flag carrier). AZair for European budget flights. Direct booking typical. Train network: CFR Călători.\n\nVisa & Legal Compliance: Schengen Area member (2024/2025) - 90 days within any 180-day period. Passport valid 3 months beyond departure. Romania-Visa portal for applications.\n\nClimate & Weather: Continental. Bucharest: -3°C (Jan) to 27°C (July). Cluj-Napoca: -4°C to 26°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Dracula tourism (Transylvania).\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (orthodox churches). Size system: European. Outdoor gear: Decathlon. Dracula/Transylvania tourism popular."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Express bus to Bucharest center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 60+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Orange RO, Vodafone RO, Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: Orange (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Bucharest OTP: Express 783 bus (RON3.50, 40min) or train (RON8, 25min). Official taxi: metered (~RON50-70 to center). Bolt ride-hailing."
+      },
+      "mobility": {
+        "simple": "Bucharest Metro (4 lines), buses, trams. No informal transit. Bolt ride-hailing dominant. I'Velo bike share. Variable walkability.",
+        "detailed": "Urban Transit Grids: Bucharest: Metro (4 lines), buses, trams. Integrated ticket (Bucharest Metropolitan Transport). Cluj, Timișoara: buses, trams. CFR trains between cities. Apps: STB, Bolt.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt dominant (Estonian, but very popular in Romania). No Uber. FreeNow taxi app. Bike-sharing: I'Velo (Bucharest), ClujBike. E-scooters: Lime, Bolt.\n\nPedestrian Infrastructure: Variable. Good in Bucharest center, chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Historic: Bran Castle (Dracula), Peleș Castle."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Tazz, Glovo, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Sarmale culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Tazz (Romanian), Glovo, Foodpanda. Local: Bringo. Grocery delivery: Mega Image, Kaufland. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, alimentară (small shops). No state monopoly. Drinking age 18. Țuică (plum brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Farmacie (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Țuică, vin (wine). Romanian cuisine: sarmale (cabbage rolls), mici (grilled meat), ciorbă (sour soup). Polenta (mămăligă) staple.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Romanian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Orthodox tradition, hospitality, family focus.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, local food, sweets appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs common in cities (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, Orthodox-tradition-focused. Family central. Physical greetings: handshake, kiss on cheek (close friends). Punctuality: 15-30 min grace socially. Tipping: 10% (round up). Personal space moderate. Orthodox Christianity dominant. Hospitality (guests important). History: communism, Dracula/Transylvania tourism."
+      }
+    },
+    "iso": "RO",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/romania/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ru-ru",
+    "country": "Russia",
+    "city": "Moscow",
+    "region": "Europe",
+    "currency": "RUB",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Moscow.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Moscow.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Moscow.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Moscow.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "RU",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/russia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "rs-rs",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "region": "Europe",
+    "currency": "RSD",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Visa-free for 90 days (many), visa for others. Continental climate: -2°C to 28°C. Smart casual, kafana culture.",
+        "detailed": "Flight Consolidators & Hub Routing: BEG (Belgrade Nikola Tesla) primary hub. Air Serbia (flag carrier). AZair for European budget flights. Direct booking typical. Train network: Serbian Railways.\n\nVisa & Legal Compliance: Visa-free 90 days for many countries (EU, US, Canada, etc.). Visa required for others. Passport valid 6 months beyond stay. Serbia-Visa portal for applications. Not in Schengen.\n\nClimate & Weather: Continental. Belgrade: -2°C (Jan) to 28°C (July). Novi Sad: -3°C to 27°C. Cold winters, hot summers. Pack layers, warm clothes for winter. Kafana (tavern) culture.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites (orthodox churches). Size system: European. Local brands: Ivanka Lolu. Kafana culture integral."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Bus 72 to Belgrade center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 90%, 5G in cities. ISPs: Yettel SR, A1 SR, mts. Tourist eSIM: Airalo, Holafly. Local SIM: Yettel (~€30/week).\n\nFinancial Rails: NFC contactless growing. Cash still widely used. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Belgrade BEG: Bus 72 (RSD300, 40min) or A1 bus (RSD300, 30min). Official taxi: fixed rate (~RSD2500-3000 to center). CarGo ride-hailing."
+      },
+      "mobility": {
+        "simple": "Belgrade buses, trams, trolleybuses. No informal transit. CarGo ride-hailing. BikeBike bike share. Variable walkability.",
+        "detailed": "Urban Transit Grids: Belgrade: buses, trams, trolleybuses (no Metro). Integrated ticket (BusPlus). Novi Sad: buses. Serbian Railways trains between cities. Apps: BusPlus, CarGo.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: CarGo (Serbian ride-hailing). No Uber. No Bolt. Bike-sharing: BikeBike (Belgrade). E-scooters: Lime, Bolt.\n\nPedestrian Infrastructure: Variable. Good in Belgrade center (Knez Mihailova), chaotic in some areas. Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Kalemegdan fortress pedestrian area."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Glovo, Wolt, Donesi. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Kafana culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Glovo, Wolt, Donesi (Serbian). Local: KupujemProdajem (marketplace). Grocery delivery: Idea, Maxi. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, kafane (taverns). No state monopoly. Drinking age 18. Rakija (fruit brandy), wine culture. Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Apoteka (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: rakija, ajvar (pepper spread). Serbian cuisine: ćevapi (grilled meat), pljeskavica (burger), kajmak (cream). Kafana culture central.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Serbian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid chrysanthemums (death), wine/rakija OK. Shoes removed in homes. Dog-friendly (restaurants). Orthodox tradition, hospitality, kafana.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid chrysanthemums (death). Wine, rakija, local food appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs common in cities (fed by locals). Cat culture present.\n\nBehavioral Matrix: Collectivist, Orthodox-tradition-focused. Kafana (tavern) central to social life. Physical greetings: handshake, three kisses (close friends). Punctuality: 15-30 min grace socially. Tipping: 10% (round up). Personal space moderate. Orthodox Christianity dominant. Hospitality (guests important). Kafana culture (food, drink, music)."
+      }
+    },
+    "iso": "RS",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/serbia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "sk-sk",
+    "country": "Slovakia",
+    "city": "Bratislava",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bratislava.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bratislava.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bratislava.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bratislava.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SK",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/slovakia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "si-si",
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Alpine climate: -4°C to 26°C. Outdoor culture, Lake Bled.",
+        "detailed": "Flight Consolidators & Hub Routing: LJU (Ljubljana Jože Pučnik) primary hub. Adria Airways (defunct). AZair for European budget flights. Direct booking typical. Train network: Slovenske železnice.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Slovenia-Visa portal for applications.\n\nClimate & Weather: Alpine continental. Ljubljana: -4°C (Jan) to 26°C (July). Julian Alps: -10°C to 20°C. Mediterranean coast (Piran): 4°C to 28°C. Pack layers, outdoor gear. Lake Bled, Lake Bohinj.\n\nApparel Sourcing: Outdoor culture integral. Modest dress for religious sites. Size system: European. Outdoor gear: Alpina, Elan (Slovenian brands). Hiking, skiing popular."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. Bus to Ljubljana center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 95%, 5G extensive. ISPs: A1 SI, Telekom SI. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€30/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 10% (round up).\n\nAirport-to-City: Ljubljana LJU: Bus (€4.20, 30min) to center. Official taxi: metered (~€25-35 to center). No ride-hailing (limited Bolt)."
+      },
+      "mobility": {
+        "simple": "Ljubljana buses (extensive). No informal transit. Bolt ride-hailing limited. BicikeLJ bike share. Excellent walkability, car-free center.",
+        "detailed": "Urban Transit Grids: Ljubljana: buses (no Metro). Integrated ticket (LPP). Maribor: buses. Slovenske železnice trains between cities. Apps: LPP Mobilni, Google Maps.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Bolt limited. No Uber. Local taxi apps. Bike-sharing: BicikeLJ (Ljubljana). E-scooters: limited.\n\nPedestrian Infrastructure: Excellent walkability. Ljubljana city center car-free. Triple Bridge, Dragon Bridge. Sidewalks well-maintained. Pedestrian crossings respected. Outdoor culture: hiking, cycling."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Wolt, Glovo, Foodpanda. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Outdoor culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Wolt, Glovo, Foodpanda. Local: Tuš (grocery). Grocery delivery: Mercator, Spar. Delivery hours limited.\n\nRetail & Alcohol: Open sales in supermarkets, gostilne (inns). No state monopoly. Drinking age 18. Wine culture (Rebula, Malvazija). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Lekarna (pharmacy) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality (alpine springs). Zero-sugar options available. Local: Laško beer, Cviček wine. Slovenian cuisine: štruklji (dumplings), kranjska klobasa (sausage). Outdoor picnics popular.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Slovenian breakfast buffets. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/food OK. Shoes removed in homes. Dog-friendly (restaurants). Outdoor culture, reserved demeanor, environmental focus.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, local food, honey appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Dog-friendly. Dogs allowed in restaurants (patios), public transport. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, outdoor-culture-focused. Hiking, skiing integral. Punctuality: 5-10 min grace socially. Tipping: 10% (round up). Personal space respected. Reserved initially, warm in outdoor settings. Environmental consciousness high. Green culture (recycling, sustainability)."
+      }
+    },
+    "iso": "SI",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/slovenia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "tr-tr",
+    "country": "Turkey",
+    "city": "Ankara",
+    "region": "Asia",
+    "currency": "TRY",
+    "stages": {
+      "preArrival": {
+        "simple": "Direct booking on Turkish Airlines. eVisa online for most nationals. Varied climate: Istanbul 5°C to 28°C, Mediterranean coast 10°C to 35°C. Modest dress, conservative.",
+        "detailed": "Flight Consolidators & Hub Routing: IST (Istanbul) and ADB (Izmir) major hubs. Turkish Airlines (flag carrier) extensive network. Pegasus Airlines budget carrier. SunExpress for coastal routes. No regional consolidator standard.\n\nVisa & Legal Compliance: eVisa online for 100+ nationalities (https://www.evisa.gov.tr/). Visa on arrival for some (more expensive). Passport valid 6 months beyond stay. Some nationalities visa-free.\n\nClimate & Weather: Varied. Istanbul: 5°C (Jan) to 28°C (July). Antalya (coast): 10°C to 35°C. Ankara (inland): 0°C to 30°C. Eastern Turkey: -10°C to 25°C. Check specific destination. Hot dry summers, mild winters coast.\n\nApparel Sourcing: Conservative dress norms. Modest clothing recommended, especially outside tourist areas/İstanbul. Religious sites: cover shoulders/knees, women may need headscarf. Size system: European."
+      },
+      "arrival24h": {
+        "simple": "Power: 220V, 50Hz, Type C/F sockets. 4G/5G good, eSIM available. NFC contactless growing. Istanbul M1/M3 metro to city center.",
+        "detailed": "Electrical Infrastructure: 220V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 50+ Mbps. 4G coverage 95%, 5G in cities. ISPs: Turkcell, Vodafone TR, Türk Telekom. Tourist eSIM: Airalo, Holafly. Local SIM: Turkcell Tourist Pack (~$40/week).\n\nFinancial Rails: NFC contactless growing (Troy, Bonus). Cash still widely used. No mobile money. Papara for P2P. Tipping: 5-10% in restaurants, round up for small services.\n\nAirport-to-City: Istanbul IST: M1/M3 Metro (₺12, 45min) or Havaist bus (₺18, 60-90min). Sabiha Gökçen: Havabus (₺18, 60min) or taxi (~₺250-300). Official taxi: metered, tip not required."
+      },
+      "mobility": {
+        "simple": "Istanbul Metro/Marmaray (extensive). Dolmuş (shared minibuses) informal transit. BiTaksi, Uber (limited). Bike share limited. Walkability variable, hills.",
+        "detailed": "Urban Transit Grids: Istanbul: Metro, Marmaray (under rail), tram, bus, ferry. Istanbulkart card (integrated). Ankara: Metro, Ankaray. İzmir: Metro, İZBAN. Apps: Istanbulkart Mobil, Moovit.\n\nInformal Transit: Dolmuş (shared minibuses) operating fixed routes, depart when full. Yellow taxis informal in some areas. Informal transit significant in Istanbul.\n\nMicro-Mobility & Ride-Hailing: BiTaksi (official taxi app). Uber limited (licensed taxis only, no private cars). No Bolt. Bike-sharing: İsbike (limited cities). E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Excellent in modern districts (Kadıköy, Beşiktaş). Crowded in tourist areas (Sultanahmet). Hills in Istanbul. Sidewalk quality varies. Pedestrian crossings: zebra crossings common but cars may not yield."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Yemeksepeti, Getir, Trendyol. Alcohol: state monopoly (Tekel) ended, supermarket sales. Pharmacy: many OTC, antibiotics Rx. Tap water: boil or bottle.",
+        "detailed": "E-Commerce & Delivery: Dominant: Yemeksepeti (food), Getir (grocery instant), Trendyol (shopping). Local: Banabici. Grocery delivery: Migros, CarrefourSA. 24/7 Getir delivery culture.\n\nRetail & Alcohol: Open sales in supermarkets, specialty shops. Former state monopoly (Tekel) ended. Drinking age 18. Raki culture (aniseed spirit). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with green cross. Eczane nöbetçi (on-duty pharmacies).\n\nBeverage & Dietary: **Tap water not safe** in most areas - boil or use bottled water. Zero-sugar options available. Local: ayran (yogurt drink), Turkish tea, Turkish coffee. Çay (tea) culture pervasive.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Open buffet common in restaurants. Sharing dishes typical. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid alcohol for conservative hosts, Turkish delight OK. Shoes removed in homes. Dog-friendly in cities. Hospitality, respect elders, tea ritual.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid alcohol for conservative hosts. Turkish delight, tea/coffee sets, regional textiles excellent gifts. Host gifts expected for dinner.\n\nHousehold Norms: Shoes removed in homes. Slippers provided. separate bathroom shoes often.\n\nCompanion Pet Culture: Dog-friendly in cities, less in rural areas. Dogs in restaurants (patios). Stray dogs common in cities (generally friendly). Cat culture strong.\n\nBehavioral Matrix: Collectivist, hospitality-focused. Tea/coffee ritual for guests. Respect for elders. Indirect communication. Punctuality: 15-30 min grace socially. Tipping: 5-10% expected. Physical greetings: handshake, or kiss on cheek (close friends). Business cards: two-handed exchange. Dining: tea served with meals, late dinners common."
+      }
+    },
+    "iso": "TR",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/turkey/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ua-ua",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "region": "Europe",
+    "currency": "UAH",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kyiv.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kyiv.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kyiv.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kyiv.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "UA",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/ukraine/",
+      "lastChecked": "2026-11-02"
+    }
+  }
+]

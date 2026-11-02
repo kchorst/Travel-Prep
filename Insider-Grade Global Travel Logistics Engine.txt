@@ -1,0 +1,81 @@
+# 🚀 PWA Master Handoff & Technical Specification: Insider-Grade Global Travel Logistics Engine
+
+## 1. Executive Vision & Architectural Philosophy
+
+* **Core Mission:** Build an ultra-resilient, offline-first Progressive Web App (PWA) that bypasses generic, sanitized tourist data in favor of **ground-truth operational intelligence**, regional underground booking engines ("The AZair Standard"), and unvarnished behavioral norms.
+* **Offline-First Technical Stack:** Vanilla JavaScript, Service Workers, Cache API, and local browser-based **IndexedDB / storage layers** ensuring 100% functionality upon international arrival with zero cellular data or active eSIM connections.
+* **Data Model Integrity:** A structured, hierarchical sovereign-country data schema (`destinations.json`) covering all sovereign nations globally (~200+) with **zero `undefined` values, zero lazy placeholders, and zero repetitive loops**.
+
+
+
+---
+
+## 2. Exhaustive Dimensional Taxonomy Required for Every Country Record
+
+Every sovereign country entry must be fully populated across its 5 chronological journey stages with both **`simple`** (concise bottom-line view) and **`detailed`** (tactical deep-dive) string parameters:
+
+### Stage 1: Pre-Arrival & Planning (`preArrival`)
+
+* **Flight Consolidators & Hub Routing:** Primary international airports, regional entry corridors, and regional low-cost stitching hubs ("The AZair Standard": AZair for Europe/Balkans, AirAsia MOVE & Traveloka for SE Asia, MakeMyTrip for South Asia).
+* **Visa & Legal Compliance:** Schengen rules, visa-on-arrival, eVisa portals, passport validity thresholds, and mandatory entry declarations.
+* **Climate & Weather Stability:** Seasonal temperature ranges, extreme weather patterns, and diurnal shift baselines.
+* **Apparel Sourcing Strategy:** Local retail markets vs. specialized alpine/tropical/waterproof gear, modest dress guidelines, and footwear requirements.
+
+### Stage 2: Arrival & First 24 Hours (`arrival24h`)
+
+* **Electrical Infrastructure & Visuals:** Exact voltage, frequency, and socket standards paired with a direct, reliable visual reference link/vector diagram for global plug types (A through N).
+
+
+* **Connectivity & ISP Benchmarks:** National broadband download/upload speeds (Mbps), 4G/5G mobile network reliability, and local tourist eSIM availability.
+
+
+* **Financial Rails:** Contactless NFC ubiquity vs. cash-dominant micro-economies, local mobile money networks (*M-Pesa*, *PromptPay*, *Pix*), and ATM accessibility.
+* **Airport-to-City Handoffs:** Official express rail links, licensed airport taxi desks, and safe terminal transfer protocols.
+
+### Stage 3: Local Travel & Mobility (`mobility`)
+
+* **Urban Transit Grids:** Formal municipal systems (heavy metros, light rail, surface trams, trolleybuses) and ticketing mechanisms.
+
+
+* **Informal & Shared Transit:** Regional shared minibuses, *Marshrutkas*, *Matatus*, or *Colectivos* operating along informal routes and departing strictly when full.
+* **Micro-Mobility & Ride-Hailing:** Dominant app-enabled ride-hailing services (*Bolt*, *Grab*, *Yassir*, *GO*) and shared e-scooter/car fleets (*CityBee*, *Bolt Drive*, *Lime*).
+* **Pedestrian Infrastructure:** Quality of urban sidewalks, historic cobblestone surfaces, and walkability indexes.
+
+### Stage 4: Daily Immersion & Living (`dailyLiving`)
+
+* **E-Commerce & Delivery Apps:** Dominant regional and local on-demand delivery platforms (*Wolt*, *Glovo*, *Baboon*, *Jumia*, *Mercado Libre*, *Uber Eats*) tagged with local phone/address requirements.
+* **Retail & Alcohol Monopolies:** State-controlled specialty alcohol retail systems (e.g., Nordic *Alko / Systembolaget*) vs. open supermarket sales.
+* **Pharmacy & Prescription Boundaries:** OTC availability vs. strict prescription enforcement for maintenance and controlled medications.
+* **Beverage & Dietary Norms:** Tap water potability, zero-sugar soda shelf availability indices, and regional soda legends (*Inka Kola Sin Azúcar / Zero*).
+* **Buffet Protocols:** Contrasting US AYCE multi-plate standards with European "One-Plate Only" rules (Jenga vertical stacking) or weight-based pricing (*Comida por Quilo*).
+
+### Stage 5: Being a Guest & Social Code (`socialCode`)
+
+* **Gift-Giving Etiquette:** Local taboos regarding flowers (even vs. odd numbers), alcohol gifts, or home-visit items.
+* **Household Norms:** Strict protocols for removing outdoor footwear at residential entryways.
+* **Companion Pet Culture:** Urban stray animal management, dog/cat acceptance in public spaces, and indoor pet norms.
+* **Behavioral Matrix & Hofstede Dimensions:** Collectivism vs. individualism, power distance, eating interfaces (chopsticks, right hand, cutlery), and apparel/sunglasses/headwear norms.
+
+---
+
+## 3. Visual Mapping: The Macro-Overview Layer
+
+* **GeoJSON Vector Maps:** To provide visual geographic context without bloating app size, each country profile features a lightweight vector map highlighting major capital cities, primary international airports, main highway corridors, and primary rail lines.
+* **Footprint Efficiency:** Stripping out street-level clutter and utilizing compact GeoJSON coordinates adds only **~1.5 MB to 2.5 MB** to the total offline app package.
+
+---
+
+## 4. UX, Navigation, & Interface Design
+
+* **Dual-Gesture Navigation:** Horizontal swipe/segmented control toggle between *Alphabetical Browsing Mode* and *Regional Itinerary Mode*; vertical scrolling for deep dives.
+* **Card Architecture:** Default "Simple" bottom-line view with an expansion toggle (`+`) unrolling into detailed operational dimensions.
+* **Search & Filtering:** Bottom-sheet search drawer with multi-variable tactical filters and batch trip management checkboxes.
+
+---
+
+## 5. Top First Issues for Next Thread (Immediate Action Items)
+
+When initializing the next AI engine and development workspace, execution must launch immediately with these two priorities:
+
+1. **Folder Structure Setup:** Scaffolding the repository directory (`manifest.json`, `sw.js`, IndexedDB storage layer, modular JSON data stores, and view components).
+2. **Boilerplate Code Implementation:** Writing the foundational vanilla JavaScript core, Service Worker registration, and the dual-gesture navigation shell.

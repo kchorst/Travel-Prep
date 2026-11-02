@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "af-af",
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "region": "Asia",
+    "currency": "AFN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kabul.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kabul.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kabul.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kabul.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AF"
+  },
+  {
+    "id": "am-am",
+    "country": "Armenia",
+    "city": "Yerevan",
+    "region": "Asia",
+    "currency": "AMD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Yerevan.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Yerevan.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Yerevan.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Yerevan.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AM"
+  },
+  {
+    "id": "az-az",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "region": "Asia",
+    "currency": "AZN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Baku.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Baku.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Baku.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Baku.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AZ"
+  },
+  {
+    "id": "bh-bh",
+    "country": "Bahrain",
+    "city": "Manama",
+    "region": "Asia",
+    "currency": "BHD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Manama.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Manama.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Manama.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Manama.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BH"
+  },
+  {
+    "id": "bd-bd",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "region": "Asia",
+    "currency": "BDT",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Dhaka.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Dhaka.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Dhaka.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Dhaka.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BD"
+  },
+  {
+    "id": "bt-bt",
+    "country": "Bhutan",
+    "city": "Thimphu",
+    "region": "Asia",
+    "currency": "BTN",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Thimphu.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Thimphu.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Thimphu.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Thimphu.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BT"
+  },
+  {
+    "id": "bn-bn",
+    "country": "Brunei",
+    "city": "Bandar Seri Begawan",
+    "region": "Asia",
+    "currency": "BND",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bandar Seri Begawan.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bandar Seri Begawan.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bandar Seri Begawan.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bandar Seri Begawan.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BN"
+  },
+  {
+    "id": "kh-kh",
+    "country": "Cambodia",
+    "city": "Phnom Penh",
+    "region": "Asia",
+    "currency": "KHR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Phnom Penh.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Phnom Penh.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Phnom Penh.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Phnom Penh.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KH",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "A",
+        "C",
+        "G"
+      ],
+      "source": "https://www.power-plugs-sockets.com/cambodia/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "cn-cn",
+    "country": "China",
+    "city": "Beijing",
+    "region": "Asia",
+    "currency": "CNY",
+    "stages": {
+      "preArrival": {
+        "simple": "Direct booking on Chinese carriers. Visa required (144-hour transit in some cities). Varied climate: Beijing -10°C to 30°C, Shanghai 4°C to 32°C. Modest dress, conservative.",
+        "detailed": "Flight Consolidators & Hub Routing: PEK (Beijing Capital), PKX (Beijing Daxing), PVG (Shanghai Pudong), CAN (Guangzhou) major hubs. Air China, China Eastern, China Southern flag carriers. No regional consolidator standard. Direct booking typical.\n\nVisa & Legal Compliance: Visa required for most nationalities. 144-hour visa-free transit for 53 countries (must depart to different country). 72-hour visa-free in some cities. Passport valid 6 months beyond stay. Chinese embassy/consulate visa application.\n\nClimate & Weather: Varied by region. Beijing: -10°C (Jan) to 30°C (July). Shanghai: 4°C to 32°C. Guangzhou: 14°C to 33°C. Hong Kong: 15°C to 31°C. Check specific destination. Air pollution can be severe in winter.\n\nApparel Sourcing: Conservative dress. Modest clothing recommended. Religious sites: cover shoulders/knees. Size system: Chinese sizing smaller than Western. Winter: heavy coats in north, lighter in south."
+      },
+      "arrival24h": {
+        "simple": "Power: 220V, 50Hz, Type A/C/I sockets. 4G/5G excellent, no foreign eSIM. Alipay/WeChat Pay mandatory for payments. Airport Express trains.",
+        "detailed": "Electrical Infrastructure: 220V, 50Hz. Type A (US-style), Type C (Europlug), Type I (angled pins) sockets. Type I most common. Visual reference: https://www.power-plugs-sockets.com/type-i/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 99%, 5G extensive. ISPs: China Mobile, China Unicom, China Telecom. **No foreign eSIM** - must get local SIM (China Unicom best for tourists). Great Firewall blocks Google, Facebook, Twitter.\n\nFinancial Rails: **Cashless society** - Alipay and WeChat Pay mandatory for most transactions. Foreign credit cards rarely accepted. Cash only in some places. No tipping culture. VPN needed for blocked services.\n\nAirport-to-City: Beijing PEK: Airport Express train (¥25, 20min) or taxi (~¥100-150). Shanghai PVG: Maglev (¥50, 8min) + Metro, or taxi (~¥200). Official apps: Alipay for payments."
+      },
+      "mobility": {
+        "simple": "Extensive metro systems (Beijing 24 lines, Shanghai 16 lines). Didi ride-hailing (no Uber). Bike share everywhere. Walking variable, crowded streets.",
+        "detailed": "Urban Transit Grids: Beijing: 24 Metro lines, 400+ stations. Shanghai: 16 Metro lines, extensive network. Guangzhou: 14 lines. Integrated transit cards (Yikatong). Apps: Metro China, Citymapper. English signage in major cities.\n\nInformal Transit: Limited. Some unofficial minibus routes, but formal systems dominant.\n\nMicro-Mobility & Ride-Hailing: Didi Chuxing (Chinese Uber) - requires Alipay/WeChat. No Uber/Bolt. Bike-sharing: Meituan, Hellobike (scan QR with phone). E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Excellent in modern districts, crowded in older areas. Jaywalking common despite being illegal. Sidewalks often blocked by parked scooters. Pedestrian crossings: cars may not yield."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Meituan, Ele.me dominant. Alcohol: supermarket sales, no restrictions. Pharmacy: OTC limited, many Rx-only. Tap water not safe - boil or use bottles.",
+        "detailed": "E-Commerce & Delivery: Dominant: Meituan, Ele.me (food). JD.com, Taobao (shopping). Grocery delivery: Hema Fresh, Meituan Select. 24/7 delivery culture.\n\nRetail & Alcohol: Open sales in supermarkets, convenience stores. No state monopoly. Drinking age 18. Baijiu (white spirit) culture. No tipping.\n\nPharmacy: Limited OTC. Many medications Rx-only. Pharmacies: Yifang, major chains. Language barrier can be issue.\n\nBeverage & Dietary: **Tap water not safe** - must boil or use bottled water. Zero-sugar options available. Local: baijiu, green tea, soymilk. Rice/noodle-based cuisine. Chopsticks required.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Sharing dishes communal. No restrictions on plate refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid clocks (death), umbrellas (separation). Fruit/alcohol OK. Shoes removed in homes. Dogs generally not indoors. Respect hierarchy, face-saving, no tipping.",
+        "detailed": "Gift-Giving Etiquette: Avoid: clocks (sounds like 'death'), umbrellas (sounds like 'separation'), sharp objects. Acceptable: fruit, alcohol, tea, regional specialties. Refuse initially, accept after insistence. Wrap in red/gold (avoid white/black).\n\nHousehold Norms: Shoes removed in homes. Slippers provided. Bathroom shoes often separate.\n\nCompanion Pet Culture: Dogs kept indoors in cities. Less dog-friendly in restaurants (rare). Stray dogs in rural areas. Pet ownership increasing.\n\nBehavioral Matrix: Collectivist, hierarchy-focused. Respect for elders and authority. Face-saving crucial. Indirect communication. Punctuality: on-time expected. No tipping (can be offensive). Physical greetings: handshake or slight bow. Business cards: two-handed exchange. Table manners: share dishes, don't stick chopsticks upright (resembles death)."
+      }
+    },
+    "iso": "CN"
+  },
+  {
+    "id": "ge-ge",
+    "country": "Georgia",
+    "city": "Tbilisi",
+    "region": "Asia",
+    "currency": "GEL",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tbilisi.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tbilisi.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tbilisi.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tbilisi.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "GE"
+  },
+  {
+    "id": "in-in",
+    "country": "India",
+    "city": "New Delhi",
+    "region": "Asia",
+    "currency": "INR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to New Delhi.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to New Delhi.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in New Delhi.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in New Delhi.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "IN"
+  },
+  {
+    "id": "id-id",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "region": "Asia",
+    "currency": "IDR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Jakarta.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Jakarta.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Jakarta.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Jakarta.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "ID"
+  },
+  {
+    "id": "ir-ir",
+    "country": "Iran",
+    "city": "Tehran",
+    "region": "Asia",
+    "currency": "IRR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tehran.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tehran.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tehran.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tehran.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "IR"
+  },
+  {
+    "id": "iq-iq",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "region": "Asia",
+    "currency": "IQD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Baghdad.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Baghdad.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Baghdad.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Baghdad.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "IQ"
+  },
+  {
+    "id": "il-il",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "region": "Asia",
+    "currency": "ILS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Jerusalem.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Jerusalem.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Jerusalem.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Jerusalem.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "IL"
+  },
+  {
+    "id": "jp-jp",
+    "country": "Japan",
+    "city": "Tokyo",
+    "region": "Asia",
+    "currency": "JPY",
+    "stages": {
+      "preArrival": {
+        "simple": "Direct booking on JAL/ANA. Visa-free for 68 countries (90 days). Varied climate: Tokyo 5°C to 30°C, Okinawa 18°C to 32°C. Modest dress, conservative.",
+        "detailed": "Flight Consolidators & Hub Routing: NRT (Tokyo Narita), HND (Tokyo Haneda), KIX (Osaka Kansai) major hubs. JAL, ANA flag carriers. Skymark, Peach budget carriers. Direct booking typical. No regional consolidator standard.\n\nVisa & Legal Compliance: Visa-free for 68 countries (US, Canada, EU, UK, Australia) - 90 days. Electronic Travel Authorization (eVISA) for some. Visa required for others. Passport valid 6 months beyond stay.\n\nClimate & Weather: Varied by region. Tokyo: 5°C (Jan) to 30°C (July). Osaka: 4°C to 33°C. Hokkaido: -7°C to 26°C. Okinawa: 18°C to 32°C. Rainy season Jun-Jul, typhoon season Sep-Oct. Pack layers.\n\nApparel Sourcing: Conservative dress norms. Modest clothing recommended. Religious sites: cover shoulders/knees, remove shoes at temples. Size system: Japanese sizing (smaller than Western). Uniqlo, Muji local brands."
+      },
+      "arrival24h": {
+        "simple": "Power: 100V, 50/60Hz, Type A/B sockets (flat pins). 4G/5G excellent, eSIM available. Cash still common (yen). Narita Express train to Tokyo.",
+        "detailed": "Electrical Infrastructure: 100V, 50Hz (east Japan) or 60Hz (west Japan). Type A (two flat pins) and Type B (two flat + ground pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-a/\n\nConnectivity & ISP: Average broadband 200+ Mbps. 4G coverage 99%, 5G extensive. ISPs: NTT Docomo, au, SoftBank. Tourist eSIM: Airalo, Ubigi. Local SIM: Sakura Mobile (~$40/week).\n\nFinancial Rails: Cash still widely used (yen coins). NFC contactless growing (Suica, PASMO cards, Apple Pay). Credit cards accepted in cities. No mobile money. No tipping culture.\n\nAirport-to-City: Tokyo NRT: Narita Express (¥3,070, 1 hour) or Keisei Skyliner (¥2,470, 40min). Osaka KIX: Haruka Express (¥1,830, 75min). Taxi very expensive (~¥20,000-30,000)."
+      },
+      "mobility": {
+        "simple": "Extensive rail networks (JR, private lines). No informal transit. No Uber (taxi apps only). Bike share systems. Excellent walkability, remove shoes indoors.",
+        "detailed": "Urban Transit Grids: Tokyo: JR Yamanote Line, Metro (13 lines), private railways. Osaka: JR, Metro (8 lines). Integrated IC cards (Suica, PASMO, ICOCA). Apps: Japan Transit Planner, Google Maps (excellent).\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: No Uber (regulations). Taxi apps: GO, MK Taxi. Bike-sharing: Docomo Bike Share, Hello Cycling. E-scooters: limited.\n\nPedestrian Infrastructure: Excellent walkability. Sidewalks well-maintained. Pedestrian crossings respected by cars. Remove shoes in homes, ryokan, some restaurants. escalator etiquette: stand left, walk right (Tokyo)."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Uber Eats, Demae-can, Wolt. Alcohol: convenience store sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Convenience stores ubiquitous.",
+        "detailed": "E-Commerce & Delivery: Dominant: Uber Eats, Demae-can, Wolt. Local: Rakuten Delivery. Grocery delivery: Ito Yokado, Aeon. Convenience stores (konbini) 24/7: 7-Eleven, Lawson, FamilyMart.\n\nRetail & Alcohol: Open sales in convenience stores, supermarkets, vending machines. No state monopoly. Drinking age 20. Sake, shochu culture. No tipping.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies: in drugstores (Matsukiyo, Cocokara). Convenience stores sell basic OTC.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: green tea, Pocari Sweat, Calpis. Rice, fish, vegetables staple. Convenience store culture (onigiri, bento).\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Viking (Western-style buffet) popular. Sharing dishes not typical. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white lilies (funerals), food items OK. Shoes removed in homes. Less dog-friendly indoors. Bowing etiquette, punctuality, quiet public behavior.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid white lilies (funerals), chrysanthemums (imperial). Food items (high-quality sweets, regional specialties) excellent gifts. Presentation (wrapping) important. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes, ryokan, some restaurants. Slippers provided. Separate toilet slippers.\n\nCompanion Pet Culture: Less dog-friendly indoors. Dogs in restaurants rare (patios only). Strict leash laws. Pet cafes popular. Stray dogs rare.\n\nBehavioral Matrix: Collectivist, harmony-focused. Bowing etiquette (depth varies by status). Punctuality essential (5-10 min early is on-time). Indirect communication. No tipping (can be offensive). Quiet in public (no phone calls on trains). Cleanliness highly valued. Group orientation."
+      }
+    },
+    "iso": "JP"
+  },
+  {
+    "id": "jo-jo",
+    "country": "Jordan",
+    "city": "Amman",
+    "region": "Asia",
+    "currency": "JOD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Amman.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Amman.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Amman.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Amman.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "JO"
+  },
+  {
+    "id": "kz-kz",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "region": "Asia",
+    "currency": "KZT",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Astana.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Astana.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Astana.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Astana.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KZ"
+  },
+  {
+    "id": "kw-kw",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "region": "Asia",
+    "currency": "KWD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kuwait City.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kuwait City.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kuwait City.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kuwait City.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KW"
+  },
+  {
+    "id": "kg-kg",
+    "country": "Kyrgyzstan",
+    "city": "Bishkek",
+    "region": "Asia",
+    "currency": "KGS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bishkek.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bishkek.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bishkek.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bishkek.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KG"
+  },
+  {
+    "id": "la-la",
+    "country": "Laos",
+    "city": "Vientiane",
+    "region": "Asia",
+    "currency": "LAK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Vientiane.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Vientiane.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Vientiane.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Vientiane.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LA",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F"
+      ],
+      "source": "https://www.power-plugs-sockets.com/laos/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "lb-lb",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "region": "Asia",
+    "currency": "LBP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Beirut.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Beirut.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Beirut.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Beirut.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LB"
+  },
+  {
+    "id": "my-my",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "region": "Asia",
+    "currency": "MYR",
+    "stages": {
+      "preArrival": {
+        "simple": "AirAsia MOVE for SE Asia budget flights. Visa-free for 90 days (161 countries). Hot tropical climate: 26°C to 33°C. Modest dress, conservative for mosques.",
+        "detailed": "Flight Consolidators & Hub Routing: KUL (Kuala Lumpur), PEN (Penang) major hubs. Malaysia Airlines (flag carrier), AirAsia MOVE (budget). Direct booking typical. AirAsia MOVE for SE Asia stitching.\n\nVisa & Legal Compliance: Visa-free 90 days for 161 countries (US, EU, UK, Japan, Australia). Visa on arrival for some. Visa required for others. Passport valid 6 months beyond stay. Malaysian eVISA available.\n\nClimate & Weather: Tropical. Kuala Lumpur: 26°C (Jan) to 33°C (April). Penang: 26°C to 32°C. Hot humid year-round, monsoon Oct-Mar. Pack lightweight, breathable fabrics, rain gear.\n\nApparel Sourcing: Modest dress norms. Cover shoulders/knees in mosques (women may need headscarf). Beach culture on islands. Size system: Asian sizing (smaller). Local brands: Padini, MANGO."
+      },
+      "arrival24h": {
+        "simple": "Power: 240V, 50Hz, Type G sockets (UK-style). 4G/5G good, eSIM available. Touch 'n Go payment widespread. Grab ride-hailing. KLIA Ekspres to city.",
+        "detailed": "Electrical Infrastructure: 240V, 50Hz. Type G (British 3-pin) sockets. Visual reference: https://www.power-plugs-sockets.com/type-g/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 95%, 5G in cities. ISPs: Maxis, Celcom, Digi. Tourist eSIM: Airalo, Holafly. Local SIM: Maxis (~RM50/week).\n\nFinancial Rails: Touch 'n Go (card/app) ubiquitous for transit. Cash still used. GrabPay, TNG eWallet for mobile payments. Tipping: not expected (10% for excellent service).\n\nAirport-to-City: Kuala Lumpur KUL: KLIA Ekspres (RM55, 35min) or KLIA Transit (RM25, 45min). Grab ride-hailing (~RM60-80 to center). Official taxi: coupon system."
+      },
+      "mobility": {
+        "simple": "KL MRT/LRT/Monorail (extensive). No informal transit. Grab ride-hailing dominant. Bike share limited. Variable walkability, covered walkways.",
+        "detailed": "Urban Transit Grids: Kuala Lumpur: MRT (2 lines), LRT (3 lines), Monorail, buses. Integrated Touch 'n Go card. Penang: Rapid Penang buses. Apps: MyRapid, Moovit. Covered walkways in KL.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Grab dominant. No Uber. No Bolt. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Bukit Bintang, KLCC. Covered walkways in KL (climate control). Sidewalk quality varies. Pedestrian crossings: use zebra crossings, traffic may not yield. Climate: hot/humid, outdoor walking tiring."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: GrabFood, Foodpanda, ShopeeFood. Alcohol: supermarket sales, Muslim-majority (limited). Pharmacy: many OTC, antibiotics Rx. Tap water not safe.",
+        "detailed": "E-Commerce & Delivery: Dominant: GrabFood, Foodpanda, ShopeeFood. Local: Dahmakan. Grocery delivery: Tesco, Jaya Grocer. 24/7 convenience stores: 7-Eleven, 99 Speedmart.\n\nRetail & Alcohol: Open sales in supermarkets, non-Muslim areas. Muslim-majority country - alcohol restricted (sold in non-Muslim areas, licensed premises). Drinking age 18. No tipping.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies: Watsons, Guardian, independent. Convenience stores sell basic OTC.\n\nBeverage & Dietary: **Tap water not safe** - use bottled water. Zero-sugar options available. Local: teh tarik, kopi O, coconut water. Nasi lemak, roti canai, laksa staple. Halal food predominant.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Buffet restaurants popular. Halal buffets available. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid pork/alcohol for Muslim hosts, fruit/food OK. Shoes removed in homes. Dog-friendly limited (Muslim sensitivity). Respect Islam, 'face-saving', relaxed pace.",
+        "detailed": "Gift-Giving Etiquette: Flowers: acceptable. Avoid alcohol/pork for Muslim hosts. Fruit, high-quality items appropriate. Presentation important. Receive with right hand.\n\nHousehold Norms: Shoes removed in homes. Follow host's lead.\n\nCompanion Pet Culture: Less dog-friendly (Muslim sensitivity). Dogs in restaurants rare. Cats more common as pets. Stray dogs fed by locals.\n\nBehavioral Matrix: Collectivist, harmony-focused. Muslim-majority (Islam). Respect for Ramadan (no eating/drinking in public during fasting). Punctuality: 30-60 min grace socially (Malaysia Boleh - relaxed attitude). Tipping: not expected. Right hand for eating/giving. Head/feet taboo (don't touch). 'Face-saving' important. Multicultural (Malay, Chinese, Indian)."
+      }
+    },
+    "iso": "MY"
+  },
+  {
+    "id": "mv-mv",
+    "country": "Maldives",
+    "city": "Malé",
+    "region": "Asia",
+    "currency": "MVR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Malé.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Malé.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Malé.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Malé.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MV"
+  },
+  {
+    "id": "mn-mn",
+    "country": "Mongolia",
+    "city": "Ulaanbaatar",
+    "region": "Asia",
+    "currency": "MNT",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ulaanbaatar.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ulaanbaatar.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ulaanbaatar.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ulaanbaatar.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MN"
+  },
+  {
+    "id": "mm-mm",
+    "country": "Myanmar",
+    "city": "Naypyidaw",
+    "region": "Asia",
+    "currency": "MMK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Naypyidaw.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Naypyidaw.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Naypyidaw.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Naypyidaw.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MM"
+  },
+  {
+    "id": "np-np",
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "region": "Asia",
+    "currency": "NPR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Kathmandu.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Kathmandu.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Kathmandu.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Kathmandu.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NP"
+  },
+  {
+    "id": "kp-kp",
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "region": "Asia",
+    "currency": "KPW",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Pyongyang.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Pyongyang.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Pyongyang.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Pyongyang.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KP"
+  },
+  {
+    "id": "om-om",
+    "country": "Oman",
+    "city": "Muscat",
+    "region": "Asia",
+    "currency": "OMR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Muscat.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Muscat.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Muscat.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Muscat.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "OM"
+  },
+  {
+    "id": "ps-ps",
+    "country": "Palestine",
+    "city": "Ramallah",
+    "region": "Asia",
+    "currency": "ILS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ramallah.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ramallah.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ramallah.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ramallah.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PS"
+  },
+  {
+    "id": "ph-ph",
+    "country": "Philippines",
+    "city": "Manila",
+    "region": "Asia",
+    "currency": "PHP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Manila.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Manila.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Manila.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Manila.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PH"
+  },
+  {
+    "id": "qa-qa",
+    "country": "Qatar",
+    "city": "Doha",
+    "region": "Asia",
+    "currency": "QAR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Doha.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Doha.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Doha.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Doha.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "QA"
+  },
+  {
+    "id": "sa-sa",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "region": "Asia",
+    "currency": "SAR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Riyadh.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Riyadh.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Riyadh.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Riyadh.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SA"
+  },
+  {
+    "id": "sg-sg",
+    "country": "Singapore",
+    "city": "Singapore",
+    "region": "Asia",
+    "currency": "SGD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Singapore.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Singapore.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Singapore.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Singapore.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SG"
+  },
+  {
+    "id": "kr-kr",
+    "country": "South Korea",
+    "city": "Seoul",
+    "region": "Asia",
+    "currency": "KRW",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Seoul.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Seoul.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Seoul.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Seoul.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KR"
+  },
+  {
+    "id": "lk-lk",
+    "country": "Sri Lanka",
+    "city": "Sri Jayawardenepura Kotte",
+    "region": "Asia",
+    "currency": "LKR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Sri Jayawardenepura Kotte.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Sri Jayawardenepura Kotte.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Sri Jayawardenepura Kotte.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Sri Jayawardenepura Kotte.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LK"
+  },
+  {
+    "id": "sy-sy",
+    "country": "Syria",
+    "city": "Damascus",
+    "region": "Asia",
+    "currency": "SYP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Damascus.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Damascus.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Damascus.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Damascus.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SY"
+  },
+  {
+    "id": "tw-tw",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "region": "Asia",
+    "currency": "TWD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Taipei.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Taipei.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Taipei.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Taipei.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TW"
+  },
+  {
+    "id": "tj-tj",
+    "country": "Tajikistan",
+    "city": "Dushanbe",
+    "region": "Asia",
+    "currency": "TJS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Dushanbe.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Dushanbe.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Dushanbe.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Dushanbe.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TJ"
+  },
+  {
+    "id": "th-th",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "region": "Asia",
+    "currency": "THB",
+    "stages": {
+      "preArrival": {
+        "simple": "AirAsia MOVE for SE Asia budget flights. Visa on arrival for 30 days (15 countries), visa-free for 60 days (93 countries). Hot tropical climate: 26°C to 34°C. Modest dress.",
+        "detailed": "Flight Consolidators & Hub Routing: BKK (Bangkok Suvarnabhumi), DMK (Don Mueang) major hubs. Thai Airways (flag carrier). AirAsia MOVE, Nok Air budget carriers. Direct booking typical. Regional: AirAsia MOVE for SE Asia stitching.\n\nVisa & Legal Compliance: Visa-free 60 days for 93 countries (US, EU, UK, Japan, Australia). Visa on arrival 30 days for 31 countries ($15-30). Visa required for others. Passport valid 6 months beyond stay. TM6 immigration form (phasing out).\n\nClimate & Weather: Tropical. Bangkok: 26°C (Jan) to 34°C (April). Chiang Mai: 19°C to 34°C. Phuket: 25°C to 32°C. Hot year-round, monsoon May-Oct. Pack lightweight, breathable fabrics, rain gear.\n\nApparel Sourcing: Modest dress norms. Cover shoulders/knees in temples. Beach culture on islands. Size system: Asian sizing (smaller). Local markets, night markets for shopping."
+      },
+      "arrival24h": {
+        "simple": "Power: 220V, 50Hz, Type A/B/C sockets. 4G/5G good, eSIM available. Cash still common (baht). Grab, Bolt ride-hailing. Airport Rail Link to city.",
+        "detailed": "Electrical Infrastructure: 220V, 50Hz. Type A (US-style), Type B (US-style with ground), Type C (Europlug) sockets. Mixed types. Visual reference: https://www.power-plugs-sockets.com/type-c/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 95%, 5G in cities. ISPs: AIS, DTAC, TrueMove. Tourist eSIM: Airalo, Holafly. Local SIM: AIS Tourist SIM (~$50/week).\n\nFinancial Rails: Cash still widely used (baht). NFC contactless growing (PromptPay, Rabbit Line Pay). GrabPay, TrueMoney for mobile payments. Tipping: 10% for excellent service, not mandatory.\n\nAirport-to-City: Bangkok BKK: Airport Rail Link (฿45, 30min to city) or bus (฿50-100). DMK: A1/A2 bus (฿30, 45min). Official taxi: metered (~฿400-600 to center). Ride-hailing: Grab, Bolt."
+      },
+      "mobility": {
+        "simple": "BTS Skytrain, MRT subway, buses. Songthaew (shared pickup trucks) informal transit. Grab, Bolt ride-hailing. Motorbike taxis. Walking variable, traffic heavy.",
+        "detailed": "Urban Transit Grids: Bangkok: BTS Skytrain (elevated), MRT subway, buses. Integrated Rabbit card. Chiang Mai: red songthaews. Apps: Bangkok MRT, Rabbit LINE Pay.\n\nInformal Transit: Songthaew (shared pickup trucks) operating fixed routes, depart when full. Tuk-tuks (three-wheeled taxis) tourist-focused. Informal transit significant.\n\nMicro-Mobility & Ride-Hailing: Grab, Bolt dominant. Uber not available. Motorbike taxis (orange vests) common. Bike-sharing: limited. E-scooters: limited.\n\nPedestrian Infrastructure: Variable. Good in Sukhumvit, Silom. Crowded, chaotic in old city. Sidewalks often blocked. Pedestrian crossings: use zebra crossings, traffic may not yield. Traffic congestion severe."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: GrabFood, LINE MAN, Foodpanda. Alcohol: supermarket sales, restricted hours (11am-2pm, 5pm-midnight). Pharmacy: many OTC, antibiotics Rx. Tap water not safe.",
+        "detailed": "E-Commerce & Delivery: Dominant: GrabFood, LINE MAN, Foodpanda. Local: Robinhood. Grocery delivery: Big C, Lotus's. 24/7 convenience stores: 7-Eleven, FamilyMart (ubiquitous).\n\nRetail & Alcohol: Open sales in supermarkets, convenience stores. Restricted hours: 11am-2pm, 5pm-midnight (except designated areas). Drinking age 20. No tipping in bars/clubs (service charge).\n\nPharmacy: Many OTC medications. Antibiotics Rx-only (enforced). Pharmacies: Boots, Watsons, independent. Convenience stores sell basic OTC.\n\nBeverage & Dietary: **Tap water not safe** - use bottled water. Zero-sugar options available. Local: Thai iced tea, cha yen, coconut water. Rice, noodles, curry staple. Street food culture extensive.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Buffet restaurants popular. Sharing dishes typical. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lotus (funeral), fruit/food OK. Shoes removed in homes/temples. Dog-friendly (stray dogs). Wai greeting, respect for monarchy, face-saving.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid lotus (associated with death/frustration). Fruit, food items, quality items appropriate. Presentation important. Receive with two hands.\n\nHousehold Norms: Shoes removed in homes, temples, some shops. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly but stray dogs common in cities/tourist areas. Dogs in restaurants (patios). Stray dogs fed by locals. Cat culture present.\n\nBehavioral Matrix: Collectivist, face-saving culture. Wai greeting (palms together, bow). Respect for monarchy (strict lèse-majesté laws). Punctuality: 15-30 min grace socially (Sabai-sabai - relaxed attitude). Tipping: 10% for excellent service. Public behavior: avoid public displays of affection, respect temples (dress modestly). Smile often (Thais smile to avoid confrontation)."
+      }
+    },
+    "iso": "TH",
+    "electrical": {
+      "voltage": 220,
+      "frequency": 50,
+      "socketTypes": [
+        "A",
+        "B",
+        "C",
+        "F",
+        "O"
+      ],
+      "source": "https://www.power-plugs-sockets.com/thailand/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "tl-tl",
+    "country": "Timor-Leste",
+    "city": "Dili",
+    "region": "Asia",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Dili.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Dili.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Dili.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Dili.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TL"
+  },
+  {
+    "id": "tm-tm",
+    "country": "Turkmenistan",
+    "city": "Ashgabat",
+    "region": "Asia",
+    "currency": "TMT",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ashgabat.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ashgabat.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ashgabat.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ashgabat.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TM"
+  },
+  {
+    "id": "ae-ae",
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "region": "Asia",
+    "currency": "AED",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Abu Dhabi.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Abu Dhabi.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Abu Dhabi.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Abu Dhabi.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AE"
+  },
+  {
+    "id": "uz-uz",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "region": "Asia",
+    "currency": "UZS",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tashkent.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tashkent.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tashkent.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tashkent.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "UZ"
+  },
+  {
+    "id": "vn-vn",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "region": "Asia",
+    "currency": "VND",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Hanoi.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Hanoi.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Hanoi.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Hanoi.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "VN",
+    "electrical": {
+      "voltage": "110 / 220",
+      "frequency": 50,
+      "socketTypes": [
+        "A",
+        "C",
+        "D"
+      ],
+      "source": "https://www.power-plugs-sockets.com/vietnam/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ye-ye",
+    "country": "Yemen",
+    "city": "Sana'a",
+    "region": "Asia",
+    "currency": "YER",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Sana'a.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Sana'a.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Sana'a.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Sana'a.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "YE"
+  }
+]

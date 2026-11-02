@@ -1,0 +1,842 @@
+[
+  {
+    "id": "au-au",
+    "country": "Australia",
+    "city": "Canberra",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Canberra.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Canberra.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Canberra.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Canberra.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AU"
+  },
+  {
+    "id": "fj-fj",
+    "country": "Fiji",
+    "city": "Suva",
+    "region": "Oceania",
+    "currency": "FJD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Suva.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Suva.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Suva.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Suva.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "FJ"
+  },
+  {
+    "id": "ki-ki",
+    "country": "Kiribati",
+    "city": "Tarawa Atoll",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tarawa Atoll.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tarawa Atoll.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tarawa Atoll.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tarawa Atoll.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KI"
+  },
+  {
+    "id": "mh-mh",
+    "country": "Marshall Islands",
+    "city": "Majuro",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Majuro.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Majuro.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Majuro.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Majuro.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MH"
+  },
+  {
+    "id": "fm-fm",
+    "country": "Micronesia",
+    "city": "Palikir",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Palikir.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Palikir.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Palikir.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Palikir.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "FM"
+  },
+  {
+    "id": "nr-nr",
+    "country": "Nauru",
+    "city": "Yaren District",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Yaren District.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Yaren District.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Yaren District.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Yaren District.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NR"
+  },
+  {
+    "id": "nz-nz",
+    "country": "New Zealand",
+    "city": "Wellington",
+    "region": "Oceania",
+    "currency": "NZD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Wellington.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Wellington.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Wellington.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Wellington.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NZ"
+  },
+  {
+    "id": "pw-pw",
+    "country": "Palau",
+    "city": "Ngerulmud",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ngerulmud.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ngerulmud.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ngerulmud.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ngerulmud.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PW"
+  },
+  {
+    "id": "pg-pg",
+    "country": "Papua New Guinea",
+    "city": "Port Moresby",
+    "region": "Oceania",
+    "currency": "PGK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port Moresby.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port Moresby.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port Moresby.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port Moresby.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PG"
+  },
+  {
+    "id": "ws-ws",
+    "country": "Samoa",
+    "city": "Apia",
+    "region": "Oceania",
+    "currency": "WST",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Apia.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Apia.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Apia.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Apia.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "WS"
+  },
+  {
+    "id": "sb-sb",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "region": "Oceania",
+    "currency": "SBD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Honiara.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Honiara.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Honiara.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Honiara.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SB"
+  },
+  {
+    "id": "to-to",
+    "country": "Tonga",
+    "city": "Nukuʻalofa",
+    "region": "Oceania",
+    "currency": "TOP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Nukuʻalofa.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Nukuʻalofa.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Nukuʻalofa.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Nukuʻalofa.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TO"
+  },
+  {
+    "id": "tv-tv",
+    "country": "Tuvalu",
+    "city": "Funafuti",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Funafuti.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Funafuti.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Funafuti.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Funafuti.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TV"
+  },
+  {
+    "id": "vu-vu",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "region": "Oceania",
+    "currency": "VUV",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port Vila.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port Vila.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port Vila.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port Vila.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "VU"
+  },
+  {
+    "id": "au-au",
+    "country": "Australia",
+    "city": "Canberra",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Canberra.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Canberra.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Canberra.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Canberra.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AU"
+  },
+  {
+    "id": "fj-fj",
+    "country": "Fiji",
+    "city": "Suva",
+    "region": "Oceania",
+    "currency": "FJD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Suva.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Suva.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Suva.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Suva.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "FJ"
+  },
+  {
+    "id": "ki-ki",
+    "country": "Kiribati",
+    "city": "Tarawa Atoll",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Tarawa Atoll.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Tarawa Atoll.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Tarawa Atoll.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Tarawa Atoll.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "KI"
+  },
+  {
+    "id": "mh-mh",
+    "country": "Marshall Islands",
+    "city": "Majuro",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Majuro.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Majuro.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Majuro.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Majuro.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MH"
+  },
+  {
+    "id": "fm-fm",
+    "country": "Micronesia",
+    "city": "Palikir",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Palikir.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Palikir.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Palikir.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Palikir.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "FM"
+  },
+  {
+    "id": "nr-nr",
+    "country": "Nauru",
+    "city": "Yaren District",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Yaren District.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Yaren District.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Yaren District.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Yaren District.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NR"
+  },
+  {
+    "id": "nz-nz",
+    "country": "New Zealand",
+    "city": "Wellington",
+    "region": "Oceania",
+    "currency": "NZD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Wellington.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Wellington.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Wellington.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Wellington.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NZ"
+  },
+  {
+    "id": "pw-pw",
+    "country": "Palau",
+    "city": "Ngerulmud",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Ngerulmud.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Ngerulmud.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Ngerulmud.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Ngerulmud.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PW"
+  },
+  {
+    "id": "pg-pg",
+    "country": "Papua New Guinea",
+    "city": "Port Moresby",
+    "region": "Oceania",
+    "currency": "PGK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port Moresby.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port Moresby.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port Moresby.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port Moresby.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PG"
+  },
+  {
+    "id": "ws-ws",
+    "country": "Samoa",
+    "city": "Apia",
+    "region": "Oceania",
+    "currency": "WST",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Apia.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Apia.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Apia.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Apia.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "WS"
+  },
+  {
+    "id": "sb-sb",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "region": "Oceania",
+    "currency": "SBD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Honiara.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Honiara.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Honiara.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Honiara.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SB"
+  },
+  {
+    "id": "to-to",
+    "country": "Tonga",
+    "city": "Nukuʻalofa",
+    "region": "Oceania",
+    "currency": "TOP",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Nukuʻalofa.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Nukuʻalofa.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Nukuʻalofa.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Nukuʻalofa.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TO"
+  },
+  {
+    "id": "tv-tv",
+    "country": "Tuvalu",
+    "city": "Funafuti",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Funafuti.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Funafuti.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Funafuti.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Funafuti.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "TV"
+  },
+  {
+    "id": "vu-vu",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "region": "Oceania",
+    "currency": "VUV",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Port Vila.. Verify passport validity, visa requirements, and seasonal climate gear for Oceania.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Port Vila.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Oceania."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Port Vila.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Port Vila.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "VU"
+  }
+]

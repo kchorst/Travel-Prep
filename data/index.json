@@ -1,0 +1,2007 @@
+{
+  "schemaVersion": 2,
+  "dataVersion": "2dde56961506d9e9494f2244c6218b04cf8d3e109e487daf911531292ba4a796",
+  "defaultShards": [
+    "eastern-europe",
+    "pakistan"
+  ],
+  "shards": {
+    "asia": {
+      "url": "./data/regions/asia.e8137e78c17d8c47.json",
+      "sha256": "e8137e78c17d8c474cf42ebacea4d73be05cbe33897969a85c5e11d34c98d234",
+      "records": 46
+    },
+    "eastern-europe": {
+      "url": "./data/regions/eastern-europe.3b495c2ae30d6627.json",
+      "sha256": "3b495c2ae30d66272b397ff5dd68ca9af8178a83afc08a7a59794db258053238",
+      "records": 22
+    },
+    "africa": {
+      "url": "./data/regions/africa.2e3fd983351b38fc.json",
+      "sha256": "2e3fd983351b38fcb61dc6a01dec028c13b74b27605b42a9171fb9baca7f1d3e",
+      "records": 54
+    },
+    "europe": {
+      "url": "./data/regions/europe.8ee2891be51e1c41.json",
+      "sha256": "8ee2891be51e1c41e7edcfb7badd0d401c670b058048aa5694e955dbdb6f18a7",
+      "records": 24
+    },
+    "americas": {
+      "url": "./data/regions/americas.c03fe1b6bdd1ed90.json",
+      "sha256": "c03fe1b6bdd1ed9000227346b2fed696973ef80ef527d99995603d3c768b0e31",
+      "records": 35
+    },
+    "oceania": {
+      "url": "./data/regions/oceania.b1a4da53145fb8d0.json",
+      "sha256": "b1a4da53145fb8d0276a21ae819470efd7f155cf686ece3d7e2d1382d8d231be",
+      "records": 14
+    },
+    "pakistan": {
+      "url": "./data/regions/pakistan.ec061bcce85d27df.json",
+      "sha256": "ec061bcce85d27df694a6cca6225c2d7831237f1281a6e027322f6cad97cbf77",
+      "records": 1
+    }
+  },
+  "destinations": [
+    {
+      "id": "af-af",
+      "country": "Afghanistan",
+      "city": "Kabul",
+      "region": "Asia",
+      "currency": "AFN",
+      "iso": "AF",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "al-al",
+      "country": "Albania",
+      "city": "Tirana",
+      "region": "Europe",
+      "currency": "ALL",
+      "iso": "AL",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "dz-dz",
+      "country": "Algeria",
+      "city": "Algiers",
+      "region": "Africa",
+      "currency": "DZD",
+      "iso": "DZ",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ad-ad",
+      "country": "Andorra",
+      "city": "Andorra la Vella",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "AD",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ao-ao",
+      "country": "Angola",
+      "city": "Luanda",
+      "region": "Africa",
+      "currency": "AOA",
+      "iso": "AO",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ag-ag",
+      "country": "Antigua and Barbuda",
+      "city": "Saint John's",
+      "region": "Americas",
+      "currency": "XCD",
+      "iso": "AG",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ar-ar",
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "region": "Americas",
+      "currency": "ARS",
+      "iso": "AR",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "am-am",
+      "country": "Armenia",
+      "city": "Yerevan",
+      "region": "Asia",
+      "currency": "AMD",
+      "iso": "AM",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "au-au",
+      "country": "Australia",
+      "city": "Canberra",
+      "region": "Oceania",
+      "currency": "AUD",
+      "iso": "AU",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "at-at",
+      "country": "Austria",
+      "city": "Vienna",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "AT",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "az-az",
+      "country": "Azerbaijan",
+      "city": "Baku",
+      "region": "Asia",
+      "currency": "AZN",
+      "iso": "AZ",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bs-bs",
+      "country": "Bahamas",
+      "city": "Nassau",
+      "region": "Americas",
+      "currency": "BSD",
+      "iso": "BS",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "bh-bh",
+      "country": "Bahrain",
+      "city": "Manama",
+      "region": "Asia",
+      "currency": "BHD",
+      "iso": "BH",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bd-bd",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "region": "Asia",
+      "currency": "BDT",
+      "iso": "BD",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bb-bb",
+      "country": "Barbados",
+      "city": "Bridgetown",
+      "region": "Americas",
+      "currency": "BBD",
+      "iso": "BB",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "by-by",
+      "country": "Belarus",
+      "city": "Minsk",
+      "region": "Europe",
+      "currency": "BYN",
+      "iso": "BY",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "be-be",
+      "country": "Belgium",
+      "city": "Brussels",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "BE",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bz-bz",
+      "country": "Belize",
+      "city": "Belmopan",
+      "region": "Americas",
+      "currency": "BZD",
+      "iso": "BZ",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "bj-bj",
+      "country": "Benin",
+      "city": "Porto-Novo",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "BJ",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bt-bt",
+      "country": "Bhutan",
+      "city": "Thimphu",
+      "region": "Asia",
+      "currency": "BTN",
+      "iso": "BT",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bo-bo",
+      "country": "Bolivia",
+      "city": "Sucre",
+      "region": "Americas",
+      "currency": "BOB",
+      "iso": "BO",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ba-ba",
+      "country": "Bosnia and Herzegovina",
+      "city": "Sarajevo",
+      "region": "Europe",
+      "currency": "BAM",
+      "iso": "BA",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "bw-bw",
+      "country": "Botswana",
+      "city": "Gaborone",
+      "region": "Africa",
+      "currency": "BWP",
+      "iso": "BW",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "br-br",
+      "country": "Brazil",
+      "city": "Brasília",
+      "region": "Americas",
+      "currency": "BRL",
+      "iso": "BR",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "bn-bn",
+      "country": "Brunei",
+      "city": "Bandar Seri Begawan",
+      "region": "Asia",
+      "currency": "BND",
+      "iso": "BN",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bg-bg",
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "BG",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "bf-bf",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "BF",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "bi-bi",
+      "country": "Burundi",
+      "city": "Gitega",
+      "region": "Africa",
+      "currency": "BIF",
+      "iso": "BI",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cv-cv",
+      "country": "Cabo Verde",
+      "city": "Praia",
+      "region": "Africa",
+      "currency": "CVE",
+      "iso": "CV",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "kh-kh",
+      "country": "Cambodia",
+      "city": "Phnom Penh",
+      "region": "Asia",
+      "currency": "KHR",
+      "iso": "KH",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "cm-cm",
+      "country": "Cameroon",
+      "city": "Yaoundé",
+      "region": "Africa",
+      "currency": "XAF",
+      "iso": "CM",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ca-ca",
+      "country": "Canada",
+      "city": "Ottawa",
+      "region": "Americas",
+      "currency": "CAD",
+      "iso": "CA",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cf-cf",
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "region": "Africa",
+      "currency": "XAF",
+      "iso": "CF",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "td-td",
+      "country": "Chad",
+      "city": "N'Djamena",
+      "region": "Africa",
+      "currency": "XAF",
+      "iso": "TD",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cl-cl",
+      "country": "Chile",
+      "city": "Santiago",
+      "region": "Americas",
+      "currency": "CLP",
+      "iso": "CL",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cn-cn",
+      "country": "China",
+      "city": "Beijing",
+      "region": "Asia",
+      "currency": "CNY",
+      "iso": "CN",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "co-co",
+      "country": "Colombia",
+      "city": "Bogotá",
+      "region": "Americas",
+      "currency": "COP",
+      "iso": "CO",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "km-km",
+      "country": "Comoros",
+      "city": "Moroni",
+      "region": "Africa",
+      "currency": "KMF",
+      "iso": "KM",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cg-cg",
+      "country": "Congo",
+      "city": "Brazzaville",
+      "region": "Africa",
+      "currency": "XAF",
+      "iso": "CG",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cd-cd",
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "region": "Africa",
+      "currency": "CDF",
+      "iso": "CD",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cr-cr",
+      "country": "Costa Rica",
+      "city": "San José",
+      "region": "Americas",
+      "currency": "CRC",
+      "iso": "CR",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ci-ci",
+      "country": "Ivory Coast",
+      "city": "Yamoussoukro",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "CI",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "hr-hr",
+      "country": "Croatia",
+      "city": "Zagreb",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "HR",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "cu-cu",
+      "country": "Cuba",
+      "city": "Havana",
+      "region": "Americas",
+      "currency": "CUP",
+      "iso": "CU",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "cy-cy",
+      "country": "Cyprus",
+      "city": "Nicosia",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "CY",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "cz-cz",
+      "country": "Czechia",
+      "city": "Prague",
+      "region": "Europe",
+      "currency": "CZK",
+      "iso": "CZ",
+      "shard": "eastern-europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "dk-dk",
+      "country": "Denmark",
+      "city": "Copenhagen",
+      "region": "Europe",
+      "currency": "DKK",
+      "iso": "DK",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "dj-dj",
+      "country": "Djibouti",
+      "city": "Djibouti",
+      "region": "Africa",
+      "currency": "DJF",
+      "iso": "DJ",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "dm-dm",
+      "country": "Dominica",
+      "city": "Roseau",
+      "region": "Americas",
+      "currency": "XCD",
+      "iso": "DM",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "do-do",
+      "country": "Dominican Republic",
+      "city": "Santo Domingo",
+      "region": "Americas",
+      "currency": "DOP",
+      "iso": "DO",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ec-ec",
+      "country": "Ecuador",
+      "city": "Quito",
+      "region": "Americas",
+      "currency": "USD",
+      "iso": "EC",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "eg-eg",
+      "country": "Egypt",
+      "city": "Cairo",
+      "region": "Africa",
+      "currency": "EGP",
+      "iso": "EG",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "sv-sv",
+      "country": "El Salvador",
+      "city": "San Salvador",
+      "region": "Americas",
+      "currency": "USD",
+      "iso": "SV",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "gq-gq",
+      "country": "Equatorial Guinea",
+      "city": "Malabo",
+      "region": "Africa",
+      "currency": "XAF",
+      "iso": "GQ",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "er-er",
+      "country": "Eritrea",
+      "city": "Asmara",
+      "region": "Africa",
+      "currency": "ERN",
+      "iso": "ER",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ee-ee",
+      "country": "Estonia",
+      "city": "Tallinn",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "EE",
+      "shard": "eastern-europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sz-sz",
+      "country": "Eswatini",
+      "city": "Mbabane",
+      "region": "Africa",
+      "currency": "SZL",
+      "iso": "SZ",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "et-et",
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "region": "Africa",
+      "currency": "ETB",
+      "iso": "ET",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "fj-fj",
+      "country": "Fiji",
+      "city": "Suva",
+      "region": "Oceania",
+      "currency": "FJD",
+      "iso": "FJ",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "fi-fi",
+      "country": "Finland",
+      "city": "Helsinki",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "FI",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "fr-fr",
+      "country": "France",
+      "city": "Paris",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "FR",
+      "shard": "europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ga-ga",
+      "country": "Gabon",
+      "city": "Libreville",
+      "region": "Africa",
+      "currency": "XAF",
+      "iso": "GA",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "gm-gm",
+      "country": "Gambia",
+      "city": "Banjul",
+      "region": "Africa",
+      "currency": "GMD",
+      "iso": "GM",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ge-ge",
+      "country": "Georgia",
+      "city": "Tbilisi",
+      "region": "Asia",
+      "currency": "GEL",
+      "iso": "GE",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "de-de",
+      "country": "Germany",
+      "city": "Berlin",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "DE",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "gh-gh",
+      "country": "Ghana",
+      "city": "Accra",
+      "region": "Africa",
+      "currency": "GHS",
+      "iso": "GH",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "gr-gr",
+      "country": "Greece",
+      "city": "Athens",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "GR",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "gd-gd",
+      "country": "Grenada",
+      "city": "Saint George's",
+      "region": "Americas",
+      "currency": "XCD",
+      "iso": "GD",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "gt-gt",
+      "country": "Guatemala",
+      "city": "Guatemala City",
+      "region": "Americas",
+      "currency": "GTQ",
+      "iso": "GT",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "gn-gn",
+      "country": "Guinea",
+      "city": "Conakry",
+      "region": "Africa",
+      "currency": "GNF",
+      "iso": "GN",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "gw-gw",
+      "country": "Guinea-Bissau",
+      "city": "Bissau",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "GW",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "gy-gy",
+      "country": "Guyana",
+      "city": "Georgetown",
+      "region": "Americas",
+      "currency": "GYD",
+      "iso": "GY",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ht-ht",
+      "country": "Haiti",
+      "city": "Port-au-Prince",
+      "region": "Americas",
+      "currency": "HTG",
+      "iso": "HT",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "hn-hn",
+      "country": "Honduras",
+      "city": "Tegucigalpa",
+      "region": "Americas",
+      "currency": "HNL",
+      "iso": "HN",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "hu-hu",
+      "country": "Hungary",
+      "city": "Budapest",
+      "region": "Europe",
+      "currency": "HUF",
+      "iso": "HU",
+      "shard": "eastern-europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "is-is",
+      "country": "Iceland",
+      "city": "Reykjavík",
+      "region": "Europe",
+      "currency": "ISK",
+      "iso": "IS",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "in-in",
+      "country": "India",
+      "city": "New Delhi",
+      "region": "Asia",
+      "currency": "INR",
+      "iso": "IN",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "id-id",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "region": "Asia",
+      "currency": "IDR",
+      "iso": "ID",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ir-ir",
+      "country": "Iran",
+      "city": "Tehran",
+      "region": "Asia",
+      "currency": "IRR",
+      "iso": "IR",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "iq-iq",
+      "country": "Iraq",
+      "city": "Baghdad",
+      "region": "Asia",
+      "currency": "IQD",
+      "iso": "IQ",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ie-ie",
+      "country": "Ireland",
+      "city": "Dublin",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "IE",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "il-il",
+      "country": "Israel",
+      "city": "Jerusalem",
+      "region": "Asia",
+      "currency": "ILS",
+      "iso": "IL",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "it-it",
+      "country": "Italy",
+      "city": "Rome",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "IT",
+      "shard": "europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "jm-jm",
+      "country": "Jamaica",
+      "city": "Kingston",
+      "region": "Americas",
+      "currency": "JMD",
+      "iso": "JM",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "jp-jp",
+      "country": "Japan",
+      "city": "Tokyo",
+      "region": "Asia",
+      "currency": "JPY",
+      "iso": "JP",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "jo-jo",
+      "country": "Jordan",
+      "city": "Amman",
+      "region": "Asia",
+      "currency": "JOD",
+      "iso": "JO",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "kz-kz",
+      "country": "Kazakhstan",
+      "city": "Astana",
+      "region": "Asia",
+      "currency": "KZT",
+      "iso": "KZ",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ke-ke",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "region": "Africa",
+      "currency": "KES",
+      "iso": "KE",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ki-ki",
+      "country": "Kiribati",
+      "city": "Tarawa Atoll",
+      "region": "Oceania",
+      "currency": "AUD",
+      "iso": "KI",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "kw-kw",
+      "country": "Kuwait",
+      "city": "Kuwait City",
+      "region": "Asia",
+      "currency": "KWD",
+      "iso": "KW",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "kg-kg",
+      "country": "Kyrgyzstan",
+      "city": "Bishkek",
+      "region": "Asia",
+      "currency": "KGS",
+      "iso": "KG",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "la-la",
+      "country": "Laos",
+      "city": "Vientiane",
+      "region": "Asia",
+      "currency": "LAK",
+      "iso": "LA",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "lv-lv",
+      "country": "Latvia",
+      "city": "Riga",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "LV",
+      "shard": "eastern-europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "lb-lb",
+      "country": "Lebanon",
+      "city": "Beirut",
+      "region": "Asia",
+      "currency": "LBP",
+      "iso": "LB",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ls-ls",
+      "country": "Lesotho",
+      "city": "Maseru",
+      "region": "Africa",
+      "currency": "LSL",
+      "iso": "LS",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "lr-lr",
+      "country": "Liberia",
+      "city": "Monrovia",
+      "region": "Africa",
+      "currency": "LRD",
+      "iso": "LR",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ly-ly",
+      "country": "Libya",
+      "city": "Tripoli",
+      "region": "Africa",
+      "currency": "LYD",
+      "iso": "LY",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "li-li",
+      "country": "Liechtenstein",
+      "city": "Vaduz",
+      "region": "Europe",
+      "currency": "CHF",
+      "iso": "LI",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "lt-lt",
+      "country": "Lithuania",
+      "city": "Vilnius",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "LT",
+      "shard": "eastern-europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "lu-lu",
+      "country": "Luxembourg",
+      "city": "Luxembourg",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "LU",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mg-mg",
+      "country": "Madagascar",
+      "city": "Antananarivo",
+      "region": "Africa",
+      "currency": "MGA",
+      "iso": "MG",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mw-mw",
+      "country": "Malawi",
+      "city": "Lilongwe",
+      "region": "Africa",
+      "currency": "MWK",
+      "iso": "MW",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "my-my",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "region": "Asia",
+      "currency": "MYR",
+      "iso": "MY",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mv-mv",
+      "country": "Maldives",
+      "city": "Malé",
+      "region": "Asia",
+      "currency": "MVR",
+      "iso": "MV",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ml-ml",
+      "country": "Mali",
+      "city": "Bamako",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "ML",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mt-mt",
+      "country": "Malta",
+      "city": "Valletta",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "MT",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mh-mh",
+      "country": "Marshall Islands",
+      "city": "Majuro",
+      "region": "Oceania",
+      "currency": "USD",
+      "iso": "MH",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mr-mr",
+      "country": "Mauritania",
+      "city": "Nouakchott",
+      "region": "Africa",
+      "currency": "MRU",
+      "iso": "MR",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mu-mu",
+      "country": "Mauritius",
+      "city": "Port Louis",
+      "region": "Africa",
+      "currency": "MUR",
+      "iso": "MU",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mx-mx",
+      "country": "Mexico",
+      "city": "Mexico City",
+      "region": "Americas",
+      "currency": "MXN",
+      "iso": "MX",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "fm-fm",
+      "country": "Micronesia",
+      "city": "Palikir",
+      "region": "Oceania",
+      "currency": "USD",
+      "iso": "FM",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "md-md",
+      "country": "Moldova",
+      "city": "Chișinău",
+      "region": "Europe",
+      "currency": "MDL",
+      "iso": "MD",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "mc-mc",
+      "country": "Monaco",
+      "city": "Monaco",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "MC",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mn-mn",
+      "country": "Mongolia",
+      "city": "Ulaanbaatar",
+      "region": "Asia",
+      "currency": "MNT",
+      "iso": "MN",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "me-me",
+      "country": "Montenegro",
+      "city": "Podgorica",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "ME",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ma-ma",
+      "country": "Morocco",
+      "city": "Rabat",
+      "region": "Africa",
+      "currency": "MAD",
+      "iso": "MA",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mz-mz",
+      "country": "Mozambique",
+      "city": "Maputo",
+      "region": "Africa",
+      "currency": "MZN",
+      "iso": "MZ",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "mm-mm",
+      "country": "Myanmar",
+      "city": "Naypyidaw",
+      "region": "Asia",
+      "currency": "MMK",
+      "iso": "MM",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "na-na",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Africa",
+      "currency": "NAD",
+      "iso": "NA",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "nr-nr",
+      "country": "Nauru",
+      "city": "Yaren District",
+      "region": "Oceania",
+      "currency": "AUD",
+      "iso": "NR",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "np-np",
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "region": "Asia",
+      "currency": "NPR",
+      "iso": "NP",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "nl-nl",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "NL",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "nz-nz",
+      "country": "New Zealand",
+      "city": "Wellington",
+      "region": "Oceania",
+      "currency": "NZD",
+      "iso": "NZ",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ni-ni",
+      "country": "Nicaragua",
+      "city": "Managua",
+      "region": "Americas",
+      "currency": "NIO",
+      "iso": "NI",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ne-ne",
+      "country": "Niger",
+      "city": "Niamey",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "NE",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ng-ng",
+      "country": "Nigeria",
+      "city": "Abuja",
+      "region": "Africa",
+      "currency": "NGN",
+      "iso": "NG",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "kp-kp",
+      "country": "North Korea",
+      "city": "Pyongyang",
+      "region": "Asia",
+      "currency": "KPW",
+      "iso": "KP",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "mk-mk",
+      "country": "North Macedonia",
+      "city": "Skopje",
+      "region": "Europe",
+      "currency": "MKD",
+      "iso": "MK",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "no-no",
+      "country": "Norway",
+      "city": "Oslo",
+      "region": "Europe",
+      "currency": "NOK",
+      "iso": "NO",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "om-om",
+      "country": "Oman",
+      "city": "Muscat",
+      "region": "Asia",
+      "currency": "OMR",
+      "iso": "OM",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "pk-pk",
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "region": "Asia",
+      "currency": "PKR",
+      "iso": "PK",
+      "shard": "pakistan",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "pw-pw",
+      "country": "Palau",
+      "city": "Ngerulmud",
+      "region": "Oceania",
+      "currency": "USD",
+      "iso": "PW",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ps-ps",
+      "country": "Palestine",
+      "city": "Ramallah",
+      "region": "Asia",
+      "currency": "ILS",
+      "iso": "PS",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "pa-pa",
+      "country": "Panama",
+      "city": "Panama City",
+      "region": "Americas",
+      "currency": "PAB",
+      "iso": "PA",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "pg-pg",
+      "country": "Papua New Guinea",
+      "city": "Port Moresby",
+      "region": "Oceania",
+      "currency": "PGK",
+      "iso": "PG",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "py-py",
+      "country": "Paraguay",
+      "city": "Asunción",
+      "region": "Americas",
+      "currency": "PYG",
+      "iso": "PY",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "pe-pe",
+      "country": "Peru",
+      "city": "Lima",
+      "region": "Americas",
+      "currency": "PEN",
+      "iso": "PE",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ph-ph",
+      "country": "Philippines",
+      "city": "Manila",
+      "region": "Asia",
+      "currency": "PHP",
+      "iso": "PH",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "pl-pl",
+      "country": "Poland",
+      "city": "Warsaw",
+      "region": "Europe",
+      "currency": "PLN",
+      "iso": "PL",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "pt-pt",
+      "country": "Portugal",
+      "city": "Lisbon",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "PT",
+      "shard": "europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "qa-qa",
+      "country": "Qatar",
+      "city": "Doha",
+      "region": "Asia",
+      "currency": "QAR",
+      "iso": "QA",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ro-ro",
+      "country": "Romania",
+      "city": "Bucharest",
+      "region": "Europe",
+      "currency": "RON",
+      "iso": "RO",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ru-ru",
+      "country": "Russia",
+      "city": "Moscow",
+      "region": "Europe",
+      "currency": "RUB",
+      "iso": "RU",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "rw-rw",
+      "country": "Rwanda",
+      "city": "Kigali",
+      "region": "Africa",
+      "currency": "RWF",
+      "iso": "RW",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "kn-kn",
+      "country": "Saint Kitts and Nevis",
+      "city": "Basseterre",
+      "region": "Americas",
+      "currency": "XCD",
+      "iso": "KN",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "lc-lc",
+      "country": "Saint Lucia",
+      "city": "Castries",
+      "region": "Americas",
+      "currency": "XCD",
+      "iso": "LC",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "vc-vc",
+      "country": "Saint Vincent and the Grenadines",
+      "city": "Kingstown",
+      "region": "Americas",
+      "currency": "XCD",
+      "iso": "VC",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ws-ws",
+      "country": "Samoa",
+      "city": "Apia",
+      "region": "Oceania",
+      "currency": "WST",
+      "iso": "WS",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sm-sm",
+      "country": "San Marino",
+      "city": "San Marino",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "SM",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "st-st",
+      "country": "Sao Tome and Principe",
+      "city": "São Tomé",
+      "region": "Africa",
+      "currency": "STN",
+      "iso": "ST",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sa-sa",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "region": "Asia",
+      "currency": "SAR",
+      "iso": "SA",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sn-sn",
+      "country": "Senegal",
+      "city": "Dakar",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "SN",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "rs-rs",
+      "country": "Serbia",
+      "city": "Belgrade",
+      "region": "Europe",
+      "currency": "RSD",
+      "iso": "RS",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "sc-sc",
+      "country": "Seychelles",
+      "city": "Victoria",
+      "region": "Africa",
+      "currency": "SCR",
+      "iso": "SC",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sl-sl",
+      "country": "Sierra Leone",
+      "city": "Freetown",
+      "region": "Africa",
+      "currency": "SLL",
+      "iso": "SL",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sg-sg",
+      "country": "Singapore",
+      "city": "Singapore",
+      "region": "Asia",
+      "currency": "SGD",
+      "iso": "SG",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sk-sk",
+      "country": "Slovakia",
+      "city": "Bratislava",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "SK",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "si-si",
+      "country": "Slovenia",
+      "city": "Ljubljana",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "SI",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "sb-sb",
+      "country": "Solomon Islands",
+      "city": "Honiara",
+      "region": "Oceania",
+      "currency": "SBD",
+      "iso": "SB",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "so-so",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "region": "Africa",
+      "currency": "SOS",
+      "iso": "SO",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "za-za",
+      "country": "South Africa",
+      "city": "Pretoria",
+      "region": "Africa",
+      "currency": "ZAR",
+      "iso": "ZA",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "kr-kr",
+      "country": "South Korea",
+      "city": "Seoul",
+      "region": "Asia",
+      "currency": "KRW",
+      "iso": "KR",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ss-ss",
+      "country": "South Sudan",
+      "city": "Juba",
+      "region": "Africa",
+      "currency": "SSP",
+      "iso": "SS",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "es-es",
+      "country": "Spain",
+      "city": "Madrid",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "ES",
+      "shard": "europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "lk-lk",
+      "country": "Sri Lanka",
+      "city": "Sri Jayawardenepura Kotte",
+      "region": "Asia",
+      "currency": "LKR",
+      "iso": "LK",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sd-sd",
+      "country": "Sudan",
+      "city": "Khartoum",
+      "region": "Africa",
+      "currency": "SDG",
+      "iso": "SD",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sr-sr",
+      "country": "Suriname",
+      "city": "Paramaribo",
+      "region": "Americas",
+      "currency": "SRD",
+      "iso": "SR",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "se-se",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "region": "Europe",
+      "currency": "SEK",
+      "iso": "SE",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ch-ch",
+      "country": "Switzerland",
+      "city": "Bern",
+      "region": "Europe",
+      "currency": "CHF",
+      "iso": "CH",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "sy-sy",
+      "country": "Syria",
+      "city": "Damascus",
+      "region": "Asia",
+      "currency": "SYP",
+      "iso": "SY",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tw-tw",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "region": "Asia",
+      "currency": "TWD",
+      "iso": "TW",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tj-tj",
+      "country": "Tajikistan",
+      "city": "Dushanbe",
+      "region": "Asia",
+      "currency": "TJS",
+      "iso": "TJ",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tz-tz",
+      "country": "Tanzania",
+      "city": "Dodoma",
+      "region": "Africa",
+      "currency": "TZS",
+      "iso": "TZ",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "th-th",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "region": "Asia",
+      "currency": "THB",
+      "iso": "TH",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "tl-tl",
+      "country": "Timor-Leste",
+      "city": "Dili",
+      "region": "Asia",
+      "currency": "USD",
+      "iso": "TL",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tg-tg",
+      "country": "Togo",
+      "city": "Lomé",
+      "region": "Africa",
+      "currency": "XOF",
+      "iso": "TG",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "to-to",
+      "country": "Tonga",
+      "city": "Nukuʻalofa",
+      "region": "Oceania",
+      "currency": "TOP",
+      "iso": "TO",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tt-tt",
+      "country": "Trinidad and Tobago",
+      "city": "Port of Spain",
+      "region": "Americas",
+      "currency": "TTD",
+      "iso": "TT",
+      "shard": "americas",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "tn-tn",
+      "country": "Tunisia",
+      "city": "Tunis",
+      "region": "Africa",
+      "currency": "TND",
+      "iso": "TN",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tr-tr",
+      "country": "Turkey",
+      "city": "Ankara",
+      "region": "Asia",
+      "currency": "TRY",
+      "iso": "TR",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "tm-tm",
+      "country": "Turkmenistan",
+      "city": "Ashgabat",
+      "region": "Asia",
+      "currency": "TMT",
+      "iso": "TM",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "tv-tv",
+      "country": "Tuvalu",
+      "city": "Funafuti",
+      "region": "Oceania",
+      "currency": "AUD",
+      "iso": "TV",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ug-ug",
+      "country": "Uganda",
+      "city": "Kampala",
+      "region": "Africa",
+      "currency": "UGX",
+      "iso": "UG",
+      "shard": "africa",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ua-ua",
+      "country": "Ukraine",
+      "city": "Kyiv",
+      "region": "Europe",
+      "currency": "UAH",
+      "iso": "UA",
+      "shard": "eastern-europe",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ae-ae",
+      "country": "United Arab Emirates",
+      "city": "Abu Dhabi",
+      "region": "Asia",
+      "currency": "AED",
+      "iso": "AE",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "gb-gb",
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "Europe",
+      "currency": "GBP",
+      "iso": "GB",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "us-us",
+      "country": "United States",
+      "city": "Washington, D.C.",
+      "region": "Americas",
+      "currency": "USD",
+      "iso": "US",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "uy-uy",
+      "country": "Uruguay",
+      "city": "Montevideo",
+      "region": "Americas",
+      "currency": "UYU",
+      "iso": "UY",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "uz-uz",
+      "country": "Uzbekistan",
+      "city": "Tashkent",
+      "region": "Asia",
+      "currency": "UZS",
+      "iso": "UZ",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "vu-vu",
+      "country": "Vanuatu",
+      "city": "Port Vila",
+      "region": "Oceania",
+      "currency": "VUV",
+      "iso": "VU",
+      "shard": "oceania",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "va-va",
+      "country": "Vatican City",
+      "city": "Vatican City",
+      "region": "Europe",
+      "currency": "EUR",
+      "iso": "VA",
+      "shard": "europe",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "ve-ve",
+      "country": "Venezuela",
+      "city": "Caracas",
+      "region": "Americas",
+      "currency": "VES",
+      "iso": "VE",
+      "shard": "americas",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "vn-vn",
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "region": "Asia",
+      "currency": "VND",
+      "iso": "VN",
+      "shard": "asia",
+      "profileStatus": "complete"
+    },
+    {
+      "id": "ye-ye",
+      "country": "Yemen",
+      "city": "Sana'a",
+      "region": "Asia",
+      "currency": "YER",
+      "iso": "YE",
+      "shard": "asia",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "zm-zm",
+      "country": "Zambia",
+      "city": "Lusaka",
+      "region": "Africa",
+      "currency": "ZMW",
+      "iso": "ZM",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    },
+    {
+      "id": "zw-zw",
+      "country": "Zimbabwe",
+      "city": "Harare",
+      "region": "Africa",
+      "currency": "ZWL",
+      "iso": "ZW",
+      "shard": "africa",
+      "profileStatus": "in-progress"
+    }
+  ]
+}

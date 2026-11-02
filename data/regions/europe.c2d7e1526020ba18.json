@@ -1,0 +1,741 @@
+[
+  {
+    "id": "ad-ad",
+    "country": "Andorra",
+    "city": "Andorra la Vella",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Andorra la Vella.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Andorra la Vella.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Andorra la Vella.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Andorra la Vella.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "AD"
+  },
+  {
+    "id": "at-at",
+    "country": "Austria",
+    "city": "Vienna",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Alpine climate: -2°C to 26°C, cold winters. Smart casual, alpine gear for mountains.",
+        "detailed": "Flight Consolidators & Hub Routing: VIE (Vienna) primary hub. Austrian Airlines (flag carrier). AZair for European budget flights. Direct booking typical. Train network: ÖBB (excellent).\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Austria-Visa portal for applications.\n\nClimate & Weather: Alpine continental. Vienna: -2°C (Jan) to 26°C (July). Salzburg: -4°C to 25°C. Alps: -10°C to 20°C. Winter skiing Dec-Mar. Pack layers, waterproof jacket, warm clothes for winter.\n\nApparel Sourcing: Smart casual in cities. Modest dress for religious sites. Alpine/ski gear: Intersport, Hervis (local chains). Size system: European. Dirndl/Lederhosen for festivals (optional)."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. CAT train to Vienna center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 98%, 5G extensive. ISPs: A1, Magenta Telekom, Drei. Tourist eSIM: Airalo, Holafly. Local SIM: A1 (~€35/week).\n\nFinancial Rails: NFC contactless payment ubiquitous. Cash still used in small towns. No mobile money. Tipping: 5-10% (round up).\n\nAirport-to-City: Vienna VIE: CAT (City Airport Train) (€13, 16min) or S-Bahn S7 (€4.20, 25min). Official taxi: ~€50 to center. ÖBB trains to other cities."
+      },
+      "mobility": {
+        "simple": "Vienna U-Bahn/S-Bahn/Bahn (extensive). No informal transit. Uber (limited, licensed taxis only). Citybike Wien. Excellent walkability, bike-friendly.",
+        "detailed": "Urban Transit Grids: Vienna: U-Bahn (5 lines), S-Bahn, trams, buses. Integrated ticket (Wiener Linien). Salzburg: trolleybuses, buses. ÖBB trains between cities. Apps: WienMobil, Qando.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (licensed taxis only, no private cars). No Bolt. FreeNow taxi app. Bike-sharing: Citybike Wien (first hour free). E-scooters: Lime, Bird.\n\nPedestrian Infrastructure: Excellent walkability. Dedicated bike lanes. Sidewalks well-maintained. Pedestrian priority at crossings. Very bike-friendly culture."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Mjam, Wolt, Lieferando. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Coffee house culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Mjam (Austrian), Wolt, Lieferando. Local: Frichti (meal kits). Grocery delivery: Billa, Spar. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, wine shops (Weinhandel). No state monopoly. Drinking age 16 for beer/wine, 18 for spirits. Wine culture (Grüner Veltliner). Tipping expected.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with red 'A'. Apotheken (pharmacies) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality (Alpine spring water). Zero-sugar options available. Local: Almdudler, Stroh. Coffee house culture (Viennese coffee). Schnitzel, strudel, Kaiserschmarrn.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Austrian breakfast buffets extensive. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/chocolate OK. Shoes removed in some homes. Dog-friendly (restaurants allowed). Punctuality, formal address, quiet demeanor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, chocolate, high-quality items appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead. Separate house shoes provided.\n\nCompanion Pet Culture: Very dog-friendly. Dogs allowed in restaurants, cafes, public transport. Strict leash laws. Stray dogs rare.\n\nBehavioral Matrix: Individualistic, formality-focused. Formal address (Sie vs. Du). Punctuality essential (5-10 min early is on-time). Indirect communication. Tipping: 5-10% (round up). Personal space respected. Quiet in public. Coffee house culture central to social life. Hofbräu (court brewery) tradition."
+      }
+    },
+    "iso": "AT"
+  },
+  {
+    "id": "be-be",
+    "country": "Belgium",
+    "city": "Brussels",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Brussels.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Brussels.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Brussels.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Brussels.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "BE"
+  },
+  {
+    "id": "cy-cy",
+    "country": "Cyprus",
+    "city": "Nicosia",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Nicosia.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Nicosia.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Nicosia.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Nicosia.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CY"
+  },
+  {
+    "id": "dk-dk",
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "region": "Europe",
+    "currency": "DKK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Copenhagen.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Copenhagen.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Copenhagen.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Copenhagen.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "DK"
+  },
+  {
+    "id": "fi-fi",
+    "country": "Finland",
+    "city": "Helsinki",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Helsinki.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Helsinki.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Helsinki.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Helsinki.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "FI"
+  },
+  {
+    "id": "fr-fr",
+    "country": "France",
+    "city": "Paris",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months beyond stay. Mild 4-season climate, colder north, warmer south.",
+        "detailed": "Flight Consolidators & Hub Routing: CDG (Paris Charles de Gaulle) and ORY (Paris Orly) are primary international hubs. Use AZair for European budget flight stitching. Major carriers: Air France, Lufthansa, British Airways connect globally.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period for tourists. Passport must be valid 3 months beyond planned departure. eVisa available for eligible nationals via France-Visas portal.\n\nClimate & Weather: Temperate maritime climate. Paris: 3°C (Jan) to 25°C (July). South (Marseille): 7°C to 30°C. Alps: ski season Dec-Mar, summer hiking Jun-Sep. Pack layers and waterproof jacket.\n\nApparel Sourcing: Western dress standard. Business attire in cities (Paris). Modest dress required for religious sites (Notre Dame, Sacré-Cœur). Quality gear available at Decathlon (budget) and luxury boutiques."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type E socket (round with male pin). Fast 4G/5G, eSIM from Orange/SFR. NFC everywhere. RER B train CDG→city center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type E socket (CEE 7/5) - round with male ground pin. Type C (Europlug) also works. Type F (Schuko) compatible. Visual reference: https://www.power-plugs-sockets.com/type-e/\n\nConnectivity & ISP: Average broadband 200+ Mbps download. 4G coverage 99.7%, 5G expanding in cities. Major ISPs: Orange, SFR, Bouygues. Tourist eSIM available from Airalo, Holafly. Local SIM: Orange Holiday (~€40/week unlimited).\n\nFinancial Rails: NFC contactless payment ubiquitous (tap-to-pay). Apple Pay/Google Pay widely accepted. Cash use declining but still needed for small vendors. No mobile money networks - traditional banking.\n\nAirport-to-City: CDG to Paris: RER B train (€11.80, 35min, runs 5am-midnight). ORY: OrlyBus (€16, 30min) or Tram T7. Official taxi: ~€55-70 to Paris center (fixed rate from airports)."
+      },
+      "mobility": {
+        "simple": "Paris Metro (16 lines, comprehensive). RATP buses/trams. Bolt & Uber ride-hailing. Lime, Dott e-scooters. Excellent walkability, cobblestones in historic quarters.",
+        "detailed": "Urban Transit Grids: Paris Metro: 16 lines, 303 stations, runs 5:30am-12:45am (Fri/Sat till 2:15am). Navigo pass or single tickets (€2.10). RER trains for suburbs. Trams in peripheral zones. City apps: RATP, Citymapper.\n\nInformal Transit: Limited. Some informal minibus routes in suburbs, but formal systems dominate.\n\nMicro-Mobility & Ride-Hailing: Bolt and Uber active in major cities. Shared e-scooters: Lime, Dott, Tier (require parking in designated zones). CityBee car-sharing in select cities.\n\nPedestrian Infrastructure: Excellent walkability in city centers. Historic cobblestones in old quarters (Marais, Montmartre) - wear comfortable shoes. Sidewalks generally wide and well-maintained."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Uber Eats, Deliveroo, Just Eat dominant. Alcohol: supermarket sales + wine shops. Pharmacy: many OTC, antibiotics Rx-only. Tap water safe. Buffet: one-plate style.",
+        "detailed": "E-Commerce & Delivery: Dominant platforms: Uber Eats, Deliveroo, Just Eat. Local apps: Frichti (meal kits). Grocery delivery: Carrefour, Auchan Drive. Address format: Street number, street name, postal code, city. Phone required for delivery.\n\nRetail & Alcohol: Open sales in supermarkets (Monoprix, Carrefour), wine shops (cavistes), and bodegas. No state monopoly. Drinking age 18. Wine culture integral to dining.\n\nPharmacy: Many medications OTC (paracetamol, ibuprofen, allergy meds). Antibiotics, strong painkillers require prescription. Pharmacies marked with green cross. 24/7 pharmacies in major cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar sodas available (Coca-Cola Zero, Light). Local favorites: Orangina, Perrier. French coffee culture (café au lait, espresso).\n\nBuffet Protocols: European style - self-service with plate. Most buffets: one plate, return for refills. Weight-based pricing rare (some salad bars). Jenga-style stacking not typical."
+      },
+      "socialCode": {
+        "simple": "Gifts: odd-number flowers (no chrysanthemums), wine acceptable. Remove shoes in homes. Dog-friendly culture. Greet with 'bonjour', respect privacy, direct communication.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers only (even for funerals). Avoid chrysanthemums (death), red carnations (bad luck). Wine gifts acceptable if invited to dinner. Chocolate/pastries also appropriate.\n\nHousehold Norms: Shoes typically removed in private homes. Follow host's lead. Slippers often provided.\n\nCompanion Pet Culture: Dog-friendly society. Dogs allowed in restaurants, cafes, and public transport (muzzled on trains). Stray dogs rare. Cats common as indoor pets.\n\nBehavioral Matrix: Individualistic culture with emphasis on privacy. Greet with 'bonjour' before any interaction. Direct communication style. Punctuality respected (10-min grace period). Tipping: service included (service compris), round up or leave 5-10% for excellent service. Sunglasses indoors considered rude. Dress: stylish but not overly formal."
+      }
+    },
+    "iso": "FR",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "E"
+      ],
+      "source": "https://www.power-plugs-sockets.com/france/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "de-de",
+    "country": "Germany",
+    "city": "Berlin",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Cool temperate climate: 0°C to 24°C. Casual dress, practical.",
+        "detailed": "Flight Consolidators & Hub Routing: FRA (Frankfurt), MUC (Munich), BER (Berlin) major hubs. Lufthansa (flag carrier), Eurowings. AZair for European budget flights. Direct booking typical.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Germany-Visa portal for applications.\n\nClimate & Weather: Temperate continental. Berlin: 0°C (Jan) to 24°C (July). Munich: -2°C to 24°C. Hamburg: 1°C to 22°C. Rain year-round. Pack layers, waterproof jacket. Winter can be harsh in south (Alps).\n\nApparel Sourcing: Practical, casual style. Business casual in cities. Modest dress for religious sites. Size system: European. Outdoor gear: Jack Wolfskin, Vaude (German brands)."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless widespread. S-Bahn train FRA→city center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 150+ Mbps. 4G coverage 99%, 5G extensive. ISPs: Deutsche Telekom, Vodafone, O2. Tourist eSIM: Airalo, Holafly. Local SIM: Telekom (~€40/week).\n\nFinancial Rails: NFC contactless payment ubiquitous (Girocard, credit cards). Cash still used in small towns (Germans prefer cash). No mobile money. PayPal common. Tipping: 5-10% (round up).\n\nAirport-to-City: Frankfurt FRA: S-Bahn S8/S9 (€4.65, 15min) or train (€9.75, 12min). Munich MUC: S-Bahn S1/S8 (€13.40, 45min). Berlin BER: Airport Express (€4.40, 30min) or regional train (€9.80, 20min)."
+      },
+      "mobility": {
+        "simple": "Extensive U-Bahn/S-Bahn networks. No informal transit. Uber (limited, licensed taxis only). Call a Bike, nextbike. Excellent walkability, bike-friendly.",
+        "detailed": "Urban Transit Grids: Berlin: U-Bahn (9 lines), S-Bahn (15 lines), trams, buses. Munich: U-Bahn (8 lines), S-Bahn (8 lines). Integrated tickets (Deutschland-Ticket). Apps: DB Navigator, NVV, BVG.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (licensed taxis only, no private cars). No Bolt. FreeNow (MyTaxi) taxi app. Bike-sharing: Call a Bike (DB), nextbike, Lime. E-scooters: Tier, Lime, Voi.\n\nPedestrian Infrastructure: Excellent walkability. Dedicated bike lanes (Fahrradwege) everywhere. Sidewalks well-maintained. Pedestrian priority at crossings. Very bike-friendly culture."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Lieferando, Wolt, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Pfand (deposit) on bottles.",
+        "detailed": "E-Commerce & Delivery: Dominant: Lieferando (Takeaway.com), Wolt, Uber Eats. Local: Frichti (meal kits). Grocery delivery: Rewe, Edeka. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, beverage shops (Getränkemarkt). No state monopoly. Drinking age 16 for beer/wine, 18 for spirits. Beer culture integral. Pfand (deposit) on bottles (€0.25).\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies marked with red 'A'. Apotheken (pharmacies) not in supermarkets. 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: Club-Mate, Spezi. German bread culture. Bakeries ubiquitous.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. German breakfast buffets extensive. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid lilies (death), wine/chocolate OK. Shoes removed in some homes. Dog-friendly (restaurants allowed). Punctuality, direct communication, recycling culture.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid white lilies (death). Wine, chocolate, high-quality items appropriate. Host gifts expected. Unwrap immediately.\n\nHousehold Norms: Shoes often removed in homes. Follow host's lead. Separate house shoes (Hausschuhe) often provided.\n\nCompanion Pet Culture: Very dog-friendly. Dogs allowed in restaurants, cafes, public transport (muzzled in some cases). Strict leash laws. Stray dogs rare.\n\nBehavioral Matrix: Individualistic, punctuality-focused. Arrive on-time (5-10 min early is punctual). Direct communication valued. Formal vs. informal (Du/Sie) distinction. Tipping: 5-10% (round up). Personal space respected. Recycling mandatory (Pfand system). Quiet hours (Ruhezeit) 10pm-7am, Sundays."
+      }
+    },
+    "iso": "DE"
+  },
+  {
+    "id": "is-is",
+    "country": "Iceland",
+    "city": "Reykjavík",
+    "region": "Europe",
+    "currency": "ISK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Reykjavík.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Reykjavík.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Reykjavík.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Reykjavík.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "IS"
+  },
+  {
+    "id": "ie-ie",
+    "country": "Ireland",
+    "city": "Dublin",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Dublin.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Dublin.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Dublin.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Dublin.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "IE"
+  },
+  {
+    "id": "it-it",
+    "country": "Italy",
+    "city": "Rome",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Mediterranean climate: hot summers, mild winters. Stylish dress, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: FCO (Rome Fiumicino) and MXP (Milan Malpensa) primary hubs. AZair for European budget flights. ITA Airways (flag carrier), Ryanair, easyJet extensive network. Regional airports: VCE (Venice), NAP (Naples).\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Italy-Visas portal for applications.\n\nClimate & Weather: Mediterranean. Rome: 3°C (Jan) to 31°C (July). Milan: 1°C to 29°C. Sicily: 10°C to 33°C. Hot humid summers, mild winters. Pack breathable fabrics for summer, layers for winter.\n\nApparel Sourcing: Fashion-conscious culture. Stylish casual acceptable. Modest dress mandatory for churches (Vatican: shoulders/knees covered, no shorts). Italian brands: Benetton, Calzedonia. Size system: European."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F/L sockets. 4G/5G good, eSIM available. NFC contactless widespread. Leonardo Express train FCO→Rome center.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug), Type F (Schuko), Type L (Italian 3-pin) sockets. Type L unique to Italy/Chile. Visual reference: https://www.power-plugs-sockets.com/type-l/\n\nConnectivity & ISP: Average broadband 100+ Mbps. 4G coverage 98%, 5G in cities. ISPs: TIM, Vodafone, Wind Tre. Tourist eSIM: Airalo, Holafly. Local SIM: TIM, Vodafone (~€35/week).\n\nFinancial Rails: NFC contactless growing (PagoBANCOMAT). Cash still widely used, especially in south. No mobile money. Satispay for P2P. Tipping: small amounts or round up (5-10%).\n\nAirport-to-City: Rome FCO: Leonardo Express train (€14, 32min) or regional train (€8, 50min). Milan MXP: Malpensa Express (€13, 50min). Official taxi: fixed rates from airports (~€50 to center)."
+      },
+      "mobility": {
+        "simple": "Rome Metro (3 lines), Milan Metro (4 lines). Informal transit limited. Uber (no ride-hailing except Uber Black). Bike share cities. Historic centers pedestrian-only.",
+        "detailed": "Urban Transit Grids: Rome: 3 Metro lines, extensive bus network (ATAC). Milan: 4 Metro lines, trams (ATM). Ticket system integrated. Apps: Muoversi a Roma, ATM Milano. Historic centers often pedestrian-only (limited vehicle access).\n\nInformal Transit: Limited. Some unofficial shuttle services in tourist areas, but formal systems dominate.\n\nMicro-Mobility & Ride-Hailing: Uber restricted (only Uber Black/premium). No Bolt/standard ride-hailing in most cities due to regulations. Traditional taxis mandatory. Bike-sharing: BikeMi (Milan), [Bike sharing system name varies by city]. E-scooters: Lime, Bird, Helbiz.\n\nPedestrian Infrastructure: Excellent in historic centers (pedestrian-only zones). Variable elsewhere. Cobblestones common - wear comfortable shoes. ZTL (Zona Traffico Limitato) restricts cars in city centers."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Glovo, Deliveroo, Just Eat. Alcohol: supermarket sales, aperitivo culture. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Coperto (cover charge) in restaurants.",
+        "detailed": "E-Commerce & Delivery: Dominant: Glovo, Deliveroo, Just Eat. Local: Supermercato24 for groceries. Grocery delivery: Esselunga, Coop. Late-night delivery limited.\n\nRetail & Alcohol: Open sales in supermarkets, wine shops (enoteche), bars. No state monopoly. Drinking age 16 for beer/wine, 18 for spirits. Aperitivo culture (pre-dinner drinks/snacks).\n\nPharmacy: Many OTC medications (paracetamol, anti-inflammatories). Antibiotics Rx-only. Pharmacies marked with green cross. Farmacie di turno (rotating on-duty pharmacies).\n\nBeverage & Dietary: Tap water safe (fountains: nasoni in Rome). Zero-sugar options available. Local: San Pellegrino, chinotto. Espresso culture (standing at bar). Meals: pasta first course, secondo (meat/fish).\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Coperto (cover charge) standard in restaurants (~€2-3). Pane e coperto combined."
+      },
+      "socialCode": {
+        "simple": "Gifts: wine, pastries, local food. Shoes removed in some homes. Dog-friendly (varies). Personal touch in greetings, respect for elders, aperitivo social ritual.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid yellow chrysanthemums (death). Wine, regional food (parmesan, balsamic), pastries excellent gifts. Host gifts expected for dinner.\n\nHousehold Norms: Shoes often removed in homes, especially with guests. Follow host's lead.\n\nCompanion Pet Culture: Dog-friendly but varies by region. Dogs in restaurants (patios), cafes. Service dogs allowed. Stray dogs in rural south.\n\nBehavioral Matrix: Warm, expressive culture. Physical greetings: two kisses (friends/family), handshake (formal). Punctuality: 15-30 min grace socially (fashionably late). Respect for elders. Aperitivo as social ritual. Tipping: small amounts (round up). Dress: stylish casual, avoid shorts in cities except beach towns."
+      }
+    },
+    "iso": "IT",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "F",
+        "L"
+      ],
+      "source": "https://www.power-plugs-sockets.com/italy/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "li-li",
+    "country": "Liechtenstein",
+    "city": "Vaduz",
+    "region": "Europe",
+    "currency": "CHF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Vaduz.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Vaduz.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Vaduz.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Vaduz.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LI"
+  },
+  {
+    "id": "lu-lu",
+    "country": "Luxembourg",
+    "city": "Luxembourg",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Luxembourg.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Luxembourg.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Luxembourg.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Luxembourg.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "LU"
+  },
+  {
+    "id": "mt-mt",
+    "country": "Malta",
+    "city": "Valletta",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Valletta.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Valletta.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Valletta.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Valletta.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MT"
+  },
+  {
+    "id": "mc-mc",
+    "country": "Monaco",
+    "city": "Monaco",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Monaco.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Monaco.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Monaco.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Monaco.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "MC"
+  },
+  {
+    "id": "nl-nl",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Amsterdam.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Amsterdam.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Amsterdam.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Amsterdam.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NL"
+  },
+  {
+    "id": "no-no",
+    "country": "Norway",
+    "city": "Oslo",
+    "region": "Europe",
+    "currency": "NOK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Oslo.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Oslo.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Oslo.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Oslo.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "NO"
+  },
+  {
+    "id": "pt-pt",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Lisbon.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Lisbon.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Lisbon.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Lisbon.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PT"
+  },
+  {
+    "id": "sm-sm",
+    "country": "San Marino",
+    "city": "San Marino",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to San Marino.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to San Marino.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in San Marino.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in San Marino.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SM"
+  },
+  {
+    "id": "es-es",
+    "country": "Spain",
+    "city": "Madrid",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "AZair for Europe budget flights. Schengen visa: 90/180 rule, passport valid 3+ months. Hot summers (35°C+), mild winters. Mediterranean dress, modest for churches.",
+        "detailed": "Flight Consolidators & Hub Routing: MAD (Madrid Barajas) and BCN (Barcelona El Prat) are primary hubs. AZair for European budget flights. Iberia, Vueling (IAG) major carriers. Ryanair and easyJet extensive European network.\n\nVisa & Legal Compliance: Schengen Area member - 90 days within any 180-day period. Passport valid 3 months beyond departure. Spain-Visa portal for eVisa applications.\n\nClimate & Weather: Mediterranean continental. Madrid: 6°C (Jan) to 32°C (July). Barcelona: 9°C to 29°C. South (Seville): 11°C to 36°C (very hot summers). Pack for heat in summer, light layers.\n\nApparel Sourcing: Mediterranean casual style. Modest dress required for churches (shoulders/knees covered). Beachwear on beaches only. Summer: lightweight, breathable fabrics. Zara, Mango local brands."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type C/F sockets. Fast 4G/5G, eSIM available. NFC contactless everywhere. Metro Express Line 8 MAD→center, express bus BCN.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type C (Europlug) and Type F (Schuko) sockets compatible. Visual reference: https://www.power-plugs-sockets.com/type-f/\n\nConnectivity & ISP: Average broadband 300+ Mbps download. 4G coverage 99%, 5G in major cities. ISPs: Movistar, Orange, Vodafone. Tourist eSIM: Airalo, Holafly. Local SIM: Movistar, Orange (~€30-40/week).\n\nFinancial Rails: NFC contactless payment nearly universal. Bizum (mobile money) popular for P2P transfers. Cash still used in small towns. Tipping: small amounts or round up.\n\nAirport-to-City: Madrid: Metro Line 8 (€5, 15min to center) or Express Bus (€5, 40min). Barcelona: Aerobus (€5.90, 35min) or R2 train (€4.60, 25min). Official taxi: ~€30-35 to center."
+      },
+      "mobility": {
+        "simple": "Madrid Metro (12 lines), Barcelona Metro (8 lines). Informal taxis. Uber/Cabify ride-hailing. Bicing bike share. Excellent walkability, hills in some cities.",
+        "detailed": "Urban Transit Grids: Madrid Metro: 12 lines, 300+ stations, runs 6am-1:30am. Barcelona Metro: 8 lines, comprehensive network. Integrated transit cards: Metrobus (Madrid), T-Mobilitat (Barcelona). Apps: Citymapper, official transit apps.\n\nInformal Transit: Limited formal alternatives. Some unofficial taxis, but regulated taxis dominate. No Matatus-style systems.\n\nMicro-Mobility & Ride-Hailing: Cabify (Spanish), Uber (limited to major cities). Bike-sharing: Bicing (Barcelona), BiciMAD (Madrid). E-scooters: Lime, Bird, Yego.\n\nPedestrian Infrastructure: Very walkable city centers. Pedestrian-only zones common. Hills in Barcelona (Catalan), Madrid relatively flat. Siesta affects midday activity (2-5pm)."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Glovo, Deliveroo, Uber Eats. Alcohol: supermarket sales, no restrictions. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Dining: late meals (9-11pm).",
+        "detailed": "E-Commerce & Delivery: Dominant: Glovo (Spanish-founded), Deliveroo, Uber Eats. Local: Just Eat. Grocery delivery: Carrefour, Mercadona. Late-night delivery culture.\n\nRetail & Alcohol: Open sales in supermarkets, bodegas, specialty shops. No state monopoly. Drinking age 18. Wine and tapas culture central.\n\nPharmacy: Many OTC medications. Strong prescription enforcement for antibiotics. Pharmacies marked with green cross. Some 24h pharmacies.\n\nBeverage & Dietary: Tap water safe and excellent. Zero-sugar options available. Local sodas: Kas, La Casera. Horchata in Valencia. Late meals: lunch 2-4pm, dinner 9-11pm.\n\nBuffet Protocols: Mixed styles. Hotel buffets: multi-plate common. Traditional restaurants: one-plate with refills. Weight-based rare."
+      },
+      "socialCode": {
+        "simple": "Gifts: flowers (odd numbers), wine/food. Shoes often removed in homes. Very dog-friendly. Personal space, physical touch in greetings, late schedules, meal times.",
+        "detailed": "Gift-Giving Etiquette: Flowers: odd numbers preferred. Avoid yellow lilies (death). Wine or regional food (jamón, Manchego) excellent gifts. Host gifts expected for dinner invitations.\n\nHousehold Norms: Shoes often removed in homes, especially with hardwood floors. Follow host's lead.\n\nCompanion Pet Culture: Extremely dog-friendly. Dogs in restaurants, cafes, beaches (designated areas). Stray dogs rare in cities, more common in rural areas.\n\nBehavioral Matrix: Warm, expressive culture. Personal space smaller than northern Europe. Physical greetings: two kisses (women-woman, women-man), handshake (men-men). Punctuality: 15-30 min grace socially. Late dining hours. Siesta still observed in smaller towns. Sunglasses outdoors only."
+      }
+    },
+    "iso": "ES"
+  },
+  {
+    "id": "se-se",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "region": "Europe",
+    "currency": "SEK",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Stockholm.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Stockholm.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Stockholm.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Stockholm.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "SE"
+  },
+  {
+    "id": "ch-ch",
+    "country": "Switzerland",
+    "city": "Bern",
+    "region": "Europe",
+    "currency": "CHF",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Bern.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Bern.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Bern.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Bern.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "CH"
+  },
+  {
+    "id": "gb-gb",
+    "country": "United Kingdom",
+    "city": "London",
+    "region": "Europe",
+    "currency": "GBP",
+    "stages": {
+      "preArrival": {
+        "simple": "Direct booking on BA/easyJet. ETA required for most (free online). Maritime climate: 2°C to 22°C, rainy. Casual dress, pub culture.",
+        "detailed": "Flight Consolidators & Hub Routing: LHR (London Heathrow), LGW (Gatwick), MAN (Manchester) major hubs. British Airways (flag carrier), easyJet, Ryanair budget carriers. Direct booking typical. No regional consolidator standard.\n\nVisa & Legal Compliance: ETA (Electronic Travel Authorization) required for most visa-exempt nationalities (free online, 2 years). Visa required for others. Passport valid 6 months beyond stay. Not in Schengen.\n\nClimate & Weather: Maritime. London: 2°C (Jan) to 22°C (July). Edinburgh: 1°C to 19°C. Rain year-round. Pack waterproof jacket, layers. Weather unpredictable (bring options).\n\nApparel Sourcing: Casual pub culture acceptable. Business attire in cities. Religious sites: modest dress. Size system: UK sizing (different from US/EU). Outdoor gear: Regatta, Berghaus (UK brands)."
+      },
+      "arrival24h": {
+        "simple": "Power: 230V, 50Hz, Type G sockets (3 rectangular pins). 4G/5G excellent, eSIM available. NFC contactless ubiquitous. Heathrow Express/Elizabeth Line to London.",
+        "detailed": "Electrical Infrastructure: 230V, 50Hz. Type G (British 3-pin) sockets with fuse. Unique to UK/Ireland/Malaysia/Singapore. Visual reference: https://www.power-plugs-sockets.com/type-g/\n\nConnectivity & ISP: Average broadband 80+ Mbps. 4G coverage 99%, 5G extensive. ISPs: EE, Vodafone, Three, O2. Tourist eSIM: Airalo, Holafly. Local SIM: EE (~£30/week).\n\nFinancial Rails: NFC contactless payment universal (tap-to-pay, contactless cards limit £100). Apple Pay/Google Pay widely accepted. Cash declining but still used. No mobile money. Tipping: 10-15% for service.\n\nAirport-to-City: London LHR: Heathrow Express (£25, 15min) or Elizabeth Line (£10.80, 45min). Gatwick: Gatwick Express (£19.80, 30min) or Southern train (£5.50, 45min). Black cabs (£60-80 to center)."
+      },
+      "mobility": {
+        "simple": "London Tube (11 lines), buses. No informal transit. Uber/Bolt ride-hailing. Santander Cycles. Excellent walkability, drive on left.",
+        "detailed": "Urban Transit Grids: London: Tube (11 lines), buses, DLR, Overground. Contactless payment (Oyster card or tap card). Manchester: Metrolink trams. Apps: TfL Go, Citymapper. **Drive on left**.\n\nInformal Transit: Limited. Formal systems dominate. No Matatus/Marshrutka-style informal transit.\n\nMicro-Mobility & Ride-Hailing: Uber, Bolt dominant. FreeNow (black cab app). Bike-sharing: Santander Cycles (London), Nextbike (other cities). E-scooters: Lime, Tier (trial zones only).\n\nPedestrian Infrastructure: Excellent walkability in cities. Sidewalks well-maintained. Pedestrian crossings: zebra crossings with Belisha beacons, cars must stop. Look right first when crossing (traffic from right)."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Deliveroo, Just Eat, Uber Eats. Alcohol: supermarket sales, pub hours 11am-11pm. Pharmacy: many OTC, antibiotics Rx. Tap water safe. Pub culture.",
+        "detailed": "E-Commerce & Delivery: Dominant: Deliveroo, Just Eat, Uber Eats. Local: Frichti (London). Grocery delivery: Ocado, Tesco, Sainsbury's. Delivery hours limited on Sundays.\n\nRetail & Alcohol: Open sales in supermarkets, off-licenses, pubs. No state monopoly. Drinking age 18. Pub culture integral. Pubs close 11pm (some 1am). Service charge sometimes added.\n\nPharmacy: Many OTC medications. Antibiotics Rx-only. Pharmacies: Boots, Superdrug, Lloyds. Pharmacies in supermarkets (Tesco, Sainsbury's). 24h pharmacies in cities.\n\nBeverage & Dietary: Tap water potable nationwide, excellent quality. Zero-sugar options available. Local: tea (with milk), beer (ale, stout), gin. Full English breakfast. Fish and chips.\n\nBuffet Protocols: Hotel buffets: multi-plate common. Traditional: one-plate with refills. Carvery buffets popular. No restrictions on refills."
+      },
+      "socialCode": {
+        "simple": "Gifts: avoid white lilies (funerals), wine/chocolate OK. Shoes usually kept on. Dog-friendly (pubs allow). Queuing etiquette, politeness, understated humor.",
+        "detailed": "Gift-Giving Etiquette: Flowers: avoid white lilies (funerals). Odd numbers not significant. Wine, chocolate, high-quality items appropriate. Host gifts appreciated. Presentation modest.\n\nHousehold Norms: Shoes usually kept on, unless muddy. Follow host's lead.\n\nCompanion Pet Culture: Very dog-friendly. Dogs allowed in pubs (patios, some indoors). Service dogs allowed everywhere. Stray dogs rare. Cat culture present.\n\nBehavioral Matrix: Individualistic, politeness-focused. Queuing culture (queue jumping taboo). 'Please', 'thank you', 'sorry' used frequently. Indirect communication (understated). Punctuality: 5-10 min grace socially. Tipping: 10-15% for service (optional if service charge added). Personal space respected. Pub culture central to social life. Humor: dry, self-deprecating."
+      }
+    },
+    "iso": "GB"
+  },
+  {
+    "id": "va-va",
+    "country": "Vatican City",
+    "city": "Vatican City",
+    "region": "Europe",
+    "currency": "EUR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Vatican City.. Verify passport validity, visa requirements, and seasonal climate gear for Europe.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Vatican City.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Europe."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Vatican City.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Vatican City.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "VA"
+  }
+]

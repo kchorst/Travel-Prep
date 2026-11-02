@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Type I socket</title>
+  <rect width="128" height="128" rx="16" fill="#f1f5f9"/><circle cx="64" cy="62" r="43" fill="#fff" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="46" y="42" width="8" height="25" rx="4" transform="rotate(-28 50 54)" fill="#1f2937"/><rect x="74" y="42" width="8" height="25" rx="4" transform="rotate(28 78 54)" fill="#1f2937"/><rect x="60" y="70" width="8" height="23" rx="4" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+  <text x="64" y="119" text-anchor="middle" fill="#334155" font-family="sans-serif" font-size="12" font-weight="700">TYPE I</text>
+</svg>

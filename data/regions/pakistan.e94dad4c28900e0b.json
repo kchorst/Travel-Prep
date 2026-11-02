@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pk-pk",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "region": "Asia",
+    "currency": "PKR",
+    "stages": {
+      "preArrival": {
+        "simple": "Flight booking via Major international carriers & regional hubs connecting to Islamabad.. Verify passport validity, visa requirements, and seasonal climate gear for Asia.",
+        "detailed": "Flight Consolidators & Hub Routing: Major international carriers & regional hubs connecting to Islamabad.\n\nApparel Sourcing & Compliance: Verify passport validity, visa requirements, and seasonal climate gear for Asia."
+      },
+      "arrival24h": {
+        "simple": "Power: Standard regional electrical infrastructure active in Islamabad.. Connectivity: Local tourist SIM cards and eSIM data packages available upon arrival.",
+        "detailed": "Electrical Infrastructure: Standard regional electrical infrastructure active in Islamabad.\n\nConnectivity & ISP: Local tourist SIM cards and eSIM data packages available upon arrival."
+      },
+      "mobility": {
+        "simple": "Transit: Public municipal transit systems, licensed taxis, and ride-hailing networks.. Micro-mobility: Walking corridors and local micro-mobility transit options.",
+        "detailed": "Urban Transit Grids: Public municipal transit systems, licensed taxis, and ride-hailing networks.\n\nMicro-Mobility & Walkability: Walking corridors and local micro-mobility transit options."
+      },
+      "dailyLiving": {
+        "simple": "Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.. Local quirks: Standard local retail hours, tipping practices, and payment norms.",
+        "detailed": "E-Commerce & Delivery: Local grocery services, restaurant delivery networks, and pharmacy access.\n\nLocal Quirks & Payment Norms: Standard local retail hours, tipping practices, and payment norms."
+      },
+      "socialCode": {
+        "simple": "Respectful local etiquette, greeting customs, and cultural norms.",
+        "detailed": "Respectful local etiquette, greeting customs, and cultural norms."
+      }
+    },
+    "iso": "PK",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "D"
+      ],
+      "source": "https://www.power-plugs-sockets.com/pakistan/",
+      "lastChecked": "2026-11-02"
+    }
+  }
+]

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TravelPrep</title>
+  <link rel="manifest" href="./manifest.json">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
+  <header class="bg-slate-800 border-b border-slate-700 p-4 flex justify-between items-center shadow-md">
+    <h1 class="text-lg md:text-xl font-extrabold tracking-wider text-emerald-400">🧳 TRAVELPREP</h1>
+    <div class="flex items-center space-x-3">
+      <span id="offline-badge"
+        class="text-xs px-2 py-1 rounded bg-emerald-900 text-emerald-300 border border-emerald-700">Online</span>
+      <div id="status-indicator" class="w-3 h-3 rounded-full bg-emerald-500 shadow-[0_0_10px_#10b981]"
+        title="Online / Cached"></div>
+    </div>
+  </header>
+
+  <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
+    <p id="preview-banner" role="status" class="rounded border border-amber-700 bg-amber-950/60 px-3 py-2 text-xs text-amber-200">
+      Preview build. Some destination profiles are still being completed; verify current travel requirements with official sources.
+    </p>
+
+    <!-- Destination Selector Bar -->
+    <div
+      class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg flex flex-col sm:flex-row justify-between items-center gap-3">
+      <div>
+        <label for="destination-select"
+          class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-1">Select Destination
+          Country</label>
+        <select id="destination-select"
+          class="bg-slate-900 border border-slate-700 text-slate-100 rounded-lg px-3 py-2 font-medium focus:outline-none focus:border-emerald-500"></select>
+      </div>
+      <div class="flex flex-wrap gap-1 w-full sm:w-auto">
+        <button onclick="filterStage(event,'all')"
+          class="stage-btn px-3 py-1.5 text-xs rounded-lg bg-emerald-600 text-white font-semibold transition hover:bg-emerald-500">All</button>
+        <button onclick="filterStage(event,'preArrival')"
+          class="stage-btn px-3 py-1.5 text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Pre-Arrival</button>
+        <button onclick="filterStage(event,'arrival24h')"
+          class="stage-btn px-3 py-1.5 text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Arrival
+          24h</button>
+        <button onclick="filterStage(event,'mobility')"
+          class="stage-btn px-3 py-1.5 text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Mobility</button>
+        <button onclick="filterStage(event,'dailyLiving')"
+          class="stage-btn px-3 py-1.5 text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Living</button>
+        <button onclick="filterStage(event,'socialCode')"
+          class="stage-btn px-3 py-1.5 text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Social</button>
+      </div>
+    </div>
+
+    <!-- Operational Intelligence Container -->
+    <div id="destination-view" class="space-y-4"></div>
+  </main>
+
+  <script>
+    let destinationIndex = [];
+    let currentDestination = null;
+    let currentDestId = "al-al";
+    let activeStageFilter = "all";
+    const loadedShards = new Map();
+    const shardLoads = new Map();
+    let destinationLoadRequest = 0;
+
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./sw.js")
+        .then(() => console.log("Service Worker Registered"))
+        .catch((err) => console.log("SW Registration Failed:", err));
+    }
+
+    window.addEventListener("online", updateOnlineStatus);
+    window.addEventListener("offline", updateOnlineStatus);
+    function updateOnlineStatus() {
+      const badge = document.getElementById("offline-badge");
+      const indicator = document.getElementById("status-indicator");
+      if (navigator.onLine) {
+        badge.textContent = "Online";
+        badge.className = "text-xs px-2 py-1 rounded bg-emerald-900 text-emerald-300 border border-emerald-700";
+        indicator.className = "w-3 h-3 rounded-full bg-emerald-500 shadow-[0_0_10px_#10b981]";
+      } else {
+        badge.textContent = "Offline (Cached)";
+        badge.className = "text-xs px-2 py-1 rounded bg-amber-900 text-amber-300 border border-amber-700";
+        indicator.className = "w-3 h-3 rounded-full bg-amber-500 shadow-[0_0_10px_#f59e0b]";
+      }
+    }
+
+    fetch("./data/index.json")
+      .then(response => {
+        if (!response.ok) throw new Error("Destination index unavailable");
+        return response.json();
+      })
+      .then(index => {
+        destinationIndex = index.destinations;
+        window.destinationShardIndex = index.shards;
+        const completeProfiles = destinationIndex.filter(destination => destination.profileStatus === "complete").length;
+        document.getElementById("preview-banner").textContent =
+          `Preview build: ${completeProfiles} of ${destinationIndex.length} destination profiles are complete. Verify current travel requirements with official sources.`;
+        initSelector();
+        updateOnlineStatus();
+        return loadDestination(currentDestId);
+      })
+      .catch(() => {
+        document.getElementById("destination-view").textContent =
+          "Destination index is unavailable. Connect to the internet and reload.";
+      });
+
+    function initSelector() {
+      const select = document.getElementById("destination-select");
+      select.replaceChildren();
+      destinationIndex.forEach(destination => {
+        const option = document.createElement("option");
+        option.value = destination.id;
+        option.textContent = `${destination.country} (${destination.region})`;
+        select.append(option);
+      });
+      if (!destinationIndex.some(destination => destination.id === currentDestId)) {
+        currentDestId = destinationIndex[0]?.id;
+      }
+      select.value = currentDestId;
+      select.addEventListener("change", (e) => {
+        loadDestination(e.target.value);
+      });
+    }
+
+    async function loadDestination(id) {
+      const requestId = ++destinationLoadRequest;
+      const metadata = destinationIndex.find(destination => destination.id === id);
+      const container = document.getElementById("destination-view");
+      if (!metadata) return;
+
+      currentDestId = id;
+      currentDestination = null;
+      container.textContent = `Loading ${metadata.country}...`;
+
+      try {
+        let records = loadedShards.get(metadata.shard);
+        if (!records) {
+          let request = shardLoads.get(metadata.shard);
+          if (!request) {
+            const shard = window.destinationShardIndex[metadata.shard];
+            if (!shard) throw new Error("Destination shard is not listed in the index");
+            request = fetch(shard.url).then(response => {
+              if (!response.ok) throw new Error("Destination shard unavailable");
+              return response.json();
+            }).then(data => {
+              loadedShards.set(metadata.shard, data);
+              return data;
+            }).finally(() => shardLoads.delete(metadata.shard));
+            shardLoads.set(metadata.shard, request);
+          }
+          records = await request;
+        }
+
+        if (requestId !== destinationLoadRequest) return;
+        currentDestination = records.find(destination => destination.id === id);
+        if (!currentDestination) throw new Error("Destination is missing from its shard");
+        renderDestination();
+      } catch {
+        if (requestId !== destinationLoadRequest) return;
+        container.textContent = navigator.onLine
+          ? "This destination could not be loaded. Check your connection and try again."
+          : "This destination is not cached for offline use. Connect to download it, then try again.";
+      }
+    }
+
+    function filterStage(e, stage) {
+      activeStageFilter = stage;
+      document.querySelectorAll(".stage-btn").forEach(btn => {
+        btn.className = "stage-btn px-3 py-1.5 text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600";
+      });
+      e.target.className = "stage-btn px-3 py-1.5 text-xs rounded-lg bg-emerald-600 text-white font-semibold transition hover:bg-emerald-500";
+      renderDestination();
+    }
+
+    function escapeHTML(value) {
+      return String(value).replace(/[&<>"']/g, character => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;"
+      })[character]);
+    }
+
+    function renderDestination() {
+      const dest = currentDestination;
+      if (!dest) return;
+
+      const stagesMeta = [
+        { key: "preArrival", title: "1. Pre-Arrival & Planning", icon: "📋" },
+        { key: "arrival24h", title: "2. Arrival & First 24 Hours", icon: "⚡" },
+        { key: "mobility", title: "3. Local Travel & Mobility", icon: "🛴" },
+        { key: "dailyLiving", title: "4. Daily Immersion & Living", icon: "🍕" },
+        { key: "socialCode", title: "5. Being a Guest & Social Code", icon: "🤝" }
+      ];
+
+      const container = document.getElementById("destination-view");
+      const metadata = destinationIndex.find(destination => destination.id === dest.id);
+      const profileStatus = metadata?.profileStatus === "complete"
+        ? `<span class="text-xs text-emerald-300">Profile complete</span>`
+        : `<span class="text-xs text-amber-300">Profile in progress</span>`;
+      container.innerHTML = `
+        <div class="bg-slate-800 p-5 rounded-xl border border-slate-700 shadow-xl">
+          <div class="flex justify-between items-center mb-4 pb-3 border-b border-slate-700">
+            <div>
+              <div class="flex flex-wrap items-center gap-2">
+                <h2 class="text-2xl font-black text-emerald-400">${escapeHTML(dest.country)}</h2>
+                ${profileStatus}
+              </div>
+              <p class="text-xs text-slate-400">Region: ${dest.region} | ISO: ${dest.iso}</p>
+            </div>
+            <span class="text-xs bg-slate-900 border border-slate-700 px-3 py-1 rounded-full text-slate-300 font-mono">ID: ${dest.id}</span>
+          </div>
+          <div class="space-y-4">
+            ${stagesMeta.filter(s => activeStageFilter === "all" || activeStageFilter === s.key).map(s => {
+        const stageData = dest.stages[s.key] || {};
+        const simple = escapeHTML(stageData.simple || Object.values(stageData).join(" ") || "No data yet.");
+        const detailed = (stageData.detailed || "Detailed breakdown coming soon.")
+          .split(/\n\s*\n/)
+          .map(item => item.trim())
+          .filter(Boolean)
+          .map(item => `<li>${escapeHTML(item)}</li>`)
+          .join("");
+        const electrical = s.key === "arrival24h" ? dest.electrical : null;
+        const electricalMarkup = s.key !== "arrival24h" ? "" : electrical
+          ? `<figure class="border-t border-slate-700/50 pt-3">
+              <figcaption class="text-xs font-semibold text-slate-200">Socket type ${electrical.socketTypes.map(escapeHTML).join(" / ")} · ${escapeHTML(electrical.voltage)} V · ${escapeHTML(electrical.frequency)} Hz</figcaption>
+              <div class="mt-2 flex flex-wrap gap-2">${electrical.socketTypes.map(type => `<img class="h-24 w-24" src="./data/images/socket-type-${encodeURIComponent(type.toLowerCase())}.svg" alt="Type ${escapeHTML(type)} socket diagram" width="96" height="96">`).join("")}</div>
+              <a class="mt-1 inline-block text-xs text-emerald-300 underline" href="${escapeHTML(electrical.source)}" target="_blank" rel="noreferrer">Electrical reference</a>
+            </figure>`
+          : `<p class="border-t border-slate-700/50 pt-3 text-xs text-slate-400">Electrical plug diagram not yet verified for this destination.</p>`;
+        return `
+                <div class="bg-slate-900 p-4 rounded-lg border border-slate-700">
+                  <h3 class="text-sm font-bold uppercase tracking-wider text-emerald-300 mb-2">${s.icon} ${s.title}</h3>
+                  <div class="space-y-2 text-sm text-slate-300">
+                    <p class="bg-slate-800 p-2.5 rounded border border-slate-700/60"><strong>⚡ Quick Summary:</strong> ${simple}</p>
+                    ${electricalMarkup}
+                    <details class="group bg-slate-800/60 p-2.5 rounded border border-slate-700/40">
+                      <summary class="cursor-pointer text-xs font-semibold text-emerald-400 hover:text-emerald-300">Tap for Detailed Deep-Dive & Tactical Breakdown</summary>
+                      <ul class="mt-2 list-disc space-y-2 pl-5 text-xs text-slate-300 leading-relaxed border-t border-slate-700/50 pt-2">${detailed}</ul>
+                    </details>
+                  </div>
+                </div>
+              `;
+      }).join("")}
+          </div>
+        </div>
+      `;
+    }
+  </script>
+</body>
+
+</html>
