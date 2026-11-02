@@ -10,7 +10,7 @@ The app currently contains 196 destinations, but only profiles marked complete i
 
 The repository is `https://github.com/kchorst/Travel-Prep`. The workflow at `.github/workflows/pages.yml` builds and validates the data, packages only the current app shell and shards, and deploys on pushes to `main`. It can also be started manually from the repository's Actions tab.
 
-Set **Settings → Pages → Build and deployment → Source** to **GitHub Actions** if it is not already selected. After the initial push, GitHub Pages will publish at the URL above; subsequent pushes to `main` redeploy automatically.
+The workflow enables GitHub Pages on its first run. After that run succeeds, the site will be available at the URL above; subsequent pushes to `main` redeploy automatically.
 
 ## Offline Note
 
