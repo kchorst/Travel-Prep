@@ -11,7 +11,10 @@
 
 <body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
   <header class="bg-slate-800 border-b border-slate-700 p-4 flex justify-between items-center shadow-md">
-    <h1 class="text-lg md:text-xl font-extrabold tracking-wider text-emerald-400">🧳 TRAVELPREP</h1>
+    <div class="flex items-center gap-3">
+      <h1 class="text-lg md:text-xl font-extrabold tracking-wider text-emerald-400">🧳 TRAVELPREP</h1>
+      <span class="rounded border border-amber-500 bg-amber-950 px-2 py-1 text-[10px] font-black tracking-widest text-amber-300">PREVIEW</span>
+    </div>
     <div class="flex items-center space-x-3">
       <span id="offline-badge"
         class="text-xs px-2 py-1 rounded bg-emerald-900 text-emerald-300 border border-emerald-700">Online</span>
@@ -21,8 +24,8 @@
   </header>
 
   <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
-    <p id="preview-banner" role="status" class="rounded border border-amber-700 bg-amber-950/60 px-3 py-2 text-xs text-amber-200">
-      Preview build. Some destination profiles are still being completed; verify current travel requirements with official sources.
+    <p id="preview-banner" role="status" class="rounded border border-amber-700 bg-amber-950/60 px-3 py-2 text-sm text-amber-200">
+      <strong class="font-black tracking-wider">PREVIEW</strong> · Some destination profiles are still being completed; verify current travel requirements with official sources.
     </p>
 
     <!-- Destination Selector Bar -->
@@ -96,8 +99,8 @@
         destinationIndex = index.destinations;
         window.destinationShardIndex = index.shards;
         const completeProfiles = destinationIndex.filter(destination => destination.profileStatus === "complete").length;
-        document.getElementById("preview-banner").textContent =
-          `Preview build: ${completeProfiles} of ${destinationIndex.length} destination profiles are complete. Verify current travel requirements with official sources.`;
+        document.getElementById("preview-banner").innerHTML =
+          `<strong class="font-black tracking-wider">PREVIEW</strong> · ${completeProfiles} of ${destinationIndex.length} destination profiles are complete. Verify current travel requirements with official sources.`;
         initSelector();
         updateOnlineStatus();
         return loadDestination(currentDestId);
