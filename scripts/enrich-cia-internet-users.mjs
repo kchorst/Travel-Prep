@@ -139,4 +139,40 @@ const internetUseNotes = new Map([
   ["BY", "Internet use context: The Factbook Archive's 2025 edition reports that 92% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
   ["BE", "Internet use context: The Factbook Archive's 2025 edition reports that 95% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
   ["BA", "Internet use context: The Factbook Archive's 2025 edition reports that 83% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
-  ["BR", "Internet use context: The Factbook Archive's 2025 edition reports that 84% of the 
+  ["BR", "Internet use context: The Factbook Archive's 2025 edition reports that 84% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["CR", "Internet use context: The Factbook Archive's 2025 edition reports that 85% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["HR", "Internet use context: The Factbook Archive's 2025 edition reports that 83% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["CZ", "Internet use context: The Factbook Archive's 2025 edition reports that 86% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["DK", "Internet use context: The Factbook Archive's 2025 edition reports that 100% of the population used the internet (2024 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["SV", "Internet use context: The Factbook Archive's 2025 edition reports that 68% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["FI", "Internet use context: The Factbook Archive's 2025 edition reports that 94% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."],
+  ["GE", "Internet use context: The Factbook Archive's 2025 edition reports that 82% of the population used the internet (2023 estimate). This national adoption measure does not indicate mobile coverage, roaming access, or service at a particular address."]
+]);
+
+for (const [iso, note] of internetUseNotes) {
+  const destination = destinations.find((item) => item.iso === iso);
+  if (!destination) throw new Error(`Missing destination profile: ${iso}`);
+
+  const stage = destination.stages.arrival24h;
+  const paragraphs = stage.detailed.split("\n\n");
+  const existingIndex = paragraphs.findIndex((paragraph) => paragraph.startsWith("Internet use context:"));
+  if (existingIndex >= 0) paragraphs[existingIndex] = note;
+  else {
+    const connectivityIndex = paragraphs.findIndex((paragraph) => paragraph.startsWith("Connectivity"));
+    const broadbandIndex = paragraphs.findIndex((paragraph) => paragraph.startsWith("Broadband benchmark access:"));
+    const insertIndex = connectivityIndex >= 0 ? connectivityIndex + 1 : broadbandIndex >= 0 ? broadbandIndex : paragraphs.length;
+    paragraphs.splice(insertIndex, 0, note);
+  }
+  stage.detailed = paragraphs.join("\n\n");
+
+  const source = {
+    topic: `CIA World Factbook Archive 2025: ${destination.country} Internet users field`,
+    url: fieldUrl(iso)
+  };
+  if (!stage.sources.some((item) => item.url === source.url)) {
+    stage.sources.push({ ...source, lastChecked: checked });
+  }
+}
+
+writeFileSync(dataPath, `${JSON.stringify(destinations, null, 2)}\n`);
+console.log(`Added national internet-use context for ${internetUseNotes.size} least-complete profiles.`);
