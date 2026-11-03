@@ -120,7 +120,7 @@ const updates = {
     preArrival: {
       simple: "For low-cost European routes, try AZair; compare Google Flights/Skyscanner and Bratislava with Vienna Airport. Check Schengen entry rules for your passport.",
       detailed: "Flight search and routing: Bratislava Airport (BTS) publishes its current destinations, airlines, and transport links. AZair is useful for low-cost European combinations; compare results with Google Flights or Skyscanner and check Vienna Airport (VIE) as an alternative. Include the ground transfer and baggage costs, then verify with the airline.\n\nEntry: Slovakia is in the Schengen area. Short-stay rules and visa requirements depend on nationality and prior time spent in Schengen; use the European Commission's current guidance and the relevant consulate.\n\nClimate and packing: Slovakia has cold winters and warm summers, with colder conditions in mountain areas. Check the forecast for each region. Bring layers and suitable shoes for cobbled streets or hiking trails.",
-      sources: [source("European Commission Schengen visa policy", "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en"), source("Bratislava Airport routes and transport", "https://www.bts.aero/en/")]
+      sources: [source("European Commission Schengen visa policy", "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en"), source("Bratislava Airport routes and transport", "https://www.bts.aero/en/")]
     },
     arrival24h: {
       simple: "Slovakia uses 230 V / 50 Hz Type E sockets; euro and contactless payment are common. BTS publishes current airport bus, taxi, and shuttle options.",

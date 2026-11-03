@@ -1,70 +1,1973 @@
 {
-  "AL": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/albania/", "lastChecked": "2026-11-02"},
-  "BA": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/bosnia-and-herzegovina/", "lastChecked": "2026-11-02"},
-  "BG": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/bulgaria/", "lastChecked": "2026-11-02"},
-  "BY": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/belarus/", "lastChecked": "2026-11-02"},
-  "CZ": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "E"], "source": "https://www.power-plugs-sockets.com/czech-republic/", "lastChecked": "2026-11-02"},
-  "EE": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/estonia/", "lastChecked": "2026-11-02"},
-  "GR": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/greece/", "lastChecked": "2026-11-02"},
-  "HR": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/croatia/", "lastChecked": "2026-11-02"},
-  "HU": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/hungary/", "lastChecked": "2026-11-02"},
-  "LT": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/lithuania/", "lastChecked": "2026-11-02"},
-  "LV": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/latvia/", "lastChecked": "2026-11-02"},
-  "MD": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/moldova/", "lastChecked": "2026-11-02"},
-  "ME": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/montenegro/", "lastChecked": "2026-11-02"},
-  "MK": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/macedonia/", "lastChecked": "2026-11-02"},
-  "PK": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "D"], "source": "https://www.power-plugs-sockets.com/pakistan/", "lastChecked": "2026-11-02"},
-  "PL": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "E"], "source": "https://www.power-plugs-sockets.com/poland/", "lastChecked": "2026-11-02"},
-  "RO": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/romania/", "lastChecked": "2026-11-02"},
-  "RS": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/serbia/", "lastChecked": "2026-11-02"},
-  "RU": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/russia/", "lastChecked": "2026-11-02"},
-  "SI": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/slovenia/", "lastChecked": "2026-11-02"},
-  "SK": {"voltage": 230, "frequency": 50, "socketTypes": ["E"], "source": "https://www.power-plugs-sockets.com/slovakia/", "lastChecked": "2026-11-02"},
-  "TR": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/turkey/", "lastChecked": "2026-11-02"},
-  "UA": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/ukraine/", "lastChecked": "2026-11-02"},
-  "BR": {"voltage": "127 / 220", "frequency": 60, "socketTypes": ["N"], "source": "https://www.power-plugs-sockets.com/brazil/", "lastChecked": "2026-11-02"},
-  "VN": {"voltage": "110 / 220", "frequency": 50, "socketTypes": ["A", "C", "D"], "source": "https://www.power-plugs-sockets.com/vietnam/", "lastChecked": "2026-11-02"},
-  "TH": {"voltage": 220, "frequency": 50, "socketTypes": ["A", "B", "C", "F", "O"], "source": "https://www.power-plugs-sockets.com/thailand/", "lastChecked": "2026-11-02"},
-  "LA": {"voltage": 230, "frequency": 50, "socketTypes": ["A", "B", "C", "E", "F"], "source": "https://www.power-plugs-sockets.com/laos/", "lastChecked": "2026-11-02"},
-  "KH": {"voltage": 230, "frequency": 50, "socketTypes": ["A", "C", "G"], "source": "https://www.power-plugs-sockets.com/cambodia/", "lastChecked": "2026-11-02"},
-  "ZA": {"voltage": 230, "frequency": 50, "socketTypes": ["D", "M", "N"], "source": "https://www.power-plugs-sockets.com/south-africa/", "lastChecked": "2026-11-02"},
-  "RW": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "J"], "source": "https://www.power-plugs-sockets.com/rwanda/", "lastChecked": "2026-11-02"},
-  "ET": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "E", "F", "L"], "source": "https://www.power-plugs-sockets.com/ethiopia/", "lastChecked": "2026-11-02"},
-  "EG": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/egypt/", "lastChecked": "2026-11-02"},
-  "KE": {"voltage": 240, "frequency": 50, "socketTypes": ["G"], "source": "https://www.power-plugs-sockets.com/kenya/", "lastChecked": "2026-11-02"},
-  "UG": {"voltage": 240, "frequency": 50, "socketTypes": ["G"], "source": "https://www.power-plugs-sockets.com/uganda/", "lastChecked": "2026-11-02"},
-  "GH": {"voltage": 230, "frequency": 50, "socketTypes": ["D", "G"], "source": "https://www.power-plugs-sockets.com/ghana/", "lastChecked": "2026-11-02"},
-  "CV": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/cape-verde/", "lastChecked": "2026-11-02"},
-  "SN": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "D", "E", "K"], "source": "https://www.power-plugs-sockets.com/senegal/", "lastChecked": "2026-11-02"},
-  "MZ": {"voltage": 220, "frequency": 50, "socketTypes": ["C", "F", "M"], "source": "https://www.power-plugs-sockets.com/mozambique/", "lastChecked": "2026-11-02"},
-  "CN": {"voltage": 220, "frequency": 50, "socketTypes": ["A", "C", "I"], "source": "https://www.power-plugs-sockets.com/china/", "lastChecked": "2026-11-02"},
-  "PH": {"voltage": 220, "frequency": 60, "socketTypes": ["A", "B", "C"], "source": "https://www.power-plugs-sockets.com/philippines/", "lastChecked": "2026-11-02"},
-  "KR": {"voltage": 220, "frequency": 60, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/south-korea/", "lastChecked": "2026-11-02"},
-  "JP": {"voltage": 100, "frequency": "50 / 60", "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/japan/", "lastChecked": "2026-11-02"},
-  "ID": {"voltage": 230, "frequency": 50, "socketTypes": ["C", "F"], "source": "https://www.power-plugs-sockets.com/indonesia/", "lastChecked": "2026-11-02"},
-  "NA": {"voltage": 220, "frequency": 50, "socketTypes": ["D", "M"], "source": "https://www.power-plugs-sockets.com/namibia/", "lastChecked": "2026-11-02"},
-  "IT": {"voltage": 230, "frequency": 50, "socketTypes": ["F", "L"], "source": "https://www.power-plugs-sockets.com/italy/", "lastChecked": "2026-11-02"},
-  "FR": {"voltage": 230, "frequency": 50, "socketTypes": ["E"], "source": "https://www.power-plugs-sockets.com/france/", "lastChecked": "2026-11-02"},
-  "ES": {"voltage": 230, "frequency": 50, "socketTypes": ["F"], "source": "https://www.power-plugs-sockets.com/spain/", "lastChecked": "2026-11-02"},
-  "PT": {"voltage": 230, "frequency": 50, "socketTypes": ["F"], "source": "https://www.power-plugs-sockets.com/portugal/", "lastChecked": "2026-11-02"},
-  "BZ": {"voltage": 110, "frequency": 60, "socketTypes": ["A", "B", "G"], "source": "https://www.power-plugs-sockets.com/belize/", "lastChecked": "2026-11-02"},
-  "CR": {"voltage": 120, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/costa-rica/", "lastChecked": "2026-11-02"},
-  "SV": {"voltage": 115, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/el-salvador/", "lastChecked": "2026-11-02"},
-  "GT": {"voltage": 120, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/guatemala/", "lastChecked": "2026-11-02"},
-  "HN": {"voltage": 110, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/honduras/", "lastChecked": "2026-11-02"},
-  "NI": {"voltage": 120, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/nicaragua/", "lastChecked": "2026-11-02"},
-  "PA": {"voltage": 120, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/panama/", "lastChecked": "2026-11-02"},
-  "AG": {"voltage": 230, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/antigua-and-barbuda/", "lastChecked": "2026-11-02"},
-  "BS": {"voltage": 120, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/bahamas/", "lastChecked": "2026-11-02"},
-  "BB": {"voltage": 115, "frequency": 50, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/barbados/", "lastChecked": "2026-11-02"},
-  "CU": {"voltage": "110 / 220", "frequency": 60, "socketTypes": ["A", "B", "C", "L"], "source": "https://www.power-plugs-sockets.com/cuba/", "lastChecked": "2026-11-02"},
-  "DM": {"voltage": 230, "frequency": 50, "socketTypes": ["D", "G"], "source": "https://www.power-plugs-sockets.com/dominica/", "lastChecked": "2026-11-02"},
-  "DO": {"voltage": 120, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/dominican-republic/", "lastChecked": "2026-11-02"},
-  "GD": {"voltage": 230, "frequency": 50, "socketTypes": ["G"], "source": "https://www.power-plugs-sockets.com/grenada/", "lastChecked": "2026-11-02"},
-  "HT": {"voltage": 110, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/haiti/", "lastChecked": "2026-11-02"},
-  "JM": {"voltage": 110, "frequency": 50, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/jamaica/", "lastChecked": "2026-11-02"},
-  "KN": {"voltage": 230, "frequency": 60, "socketTypes": ["D", "G"], "source": "https://www.power-plugs-sockets.com/saint-kitts-and-nevis/", "lastChecked": "2026-11-02"},
-  "LC": {"voltage": 240, "frequency": 50, "socketTypes": ["G"], "source": "https://www.power-plugs-sockets.com/saint-lucia/", "lastChecked": "2026-11-02"},
-  "VC": {"voltage": 230, "frequency": 50, "socketTypes": ["A", "C", "E", "G"], "source": "https://www.power-plugs-sockets.com/saint-vincent-and-the-grenadines/", "lastChecked": "2026-11-02"},
-  "TT": {"voltage": 115, "frequency": 60, "socketTypes": ["A", "B"], "source": "https://www.power-plugs-sockets.com/trinidad-and-tobago/", "lastChecked": "2026-11-02"}
+  "AL": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/albania/",
+    "lastChecked": "2026-11-02"
+  },
+  "BA": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/bosnia-and-herzegovina/",
+    "lastChecked": "2026-11-02"
+  },
+  "BG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/bulgaria/",
+    "lastChecked": "2026-11-02"
+  },
+  "BY": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/belarus/",
+    "lastChecked": "2026-11-02"
+  },
+  "CZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "EE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GR": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/greece/",
+    "lastChecked": "2026-11-02"
+  },
+  "HR": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/croatia/",
+    "lastChecked": "2026-11-02"
+  },
+  "HU": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LT": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LV": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MD": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/moldova/",
+    "lastChecked": "2026-11-02"
+  },
+  "ME": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/montenegro/",
+    "lastChecked": "2026-11-02"
+  },
+  "MK": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/macedonia/",
+    "lastChecked": "2026-11-02"
+  },
+  "PK": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D"
+    ],
+    "source": "https://www.power-plugs-sockets.com/pakistan/",
+    "lastChecked": "2026-11-02"
+  },
+  "PL": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.power-plugs-sockets.com/poland/",
+    "lastChecked": "2026-11-02"
+  },
+  "RO": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/romania/",
+    "lastChecked": "2026-11-02"
+  },
+  "RS": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/serbia/",
+    "lastChecked": "2026-11-02"
+  },
+  "RU": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/russia/",
+    "lastChecked": "2026-11-02"
+  },
+  "SI": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/slovenia/",
+    "lastChecked": "2026-11-02"
+  },
+  "SK": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "E"
+    ],
+    "source": "https://www.power-plugs-sockets.com/slovakia/",
+    "lastChecked": "2026-11-02"
+  },
+  "TR": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/turkey/",
+    "lastChecked": "2026-11-02"
+  },
+  "UA": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/ukraine/",
+    "lastChecked": "2026-11-02"
+  },
+  "BR": {
+    "voltage": "127 / 220",
+    "frequency": 60,
+    "socketTypes": [
+      "N"
+    ],
+    "source": "https://www.power-plugs-sockets.com/brazil/",
+    "lastChecked": "2026-11-02"
+  },
+  "VN": {
+    "voltage": "110 / 220",
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "C",
+      "D"
+    ],
+    "source": "https://www.power-plugs-sockets.com/vietnam/",
+    "lastChecked": "2026-11-02"
+  },
+  "TH": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "O"
+    ],
+    "source": "https://www.power-plugs-sockets.com/thailand/",
+    "lastChecked": "2026-11-02"
+  },
+  "LA": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/laos/",
+    "lastChecked": "2026-11-02"
+  },
+  "KH": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "C",
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/cambodia/",
+    "lastChecked": "2026-11-02"
+  },
+  "ZA": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "D",
+      "M",
+      "N"
+    ],
+    "source": "https://www.power-plugs-sockets.com/south-africa/",
+    "lastChecked": "2026-11-02"
+  },
+  "RW": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "J"
+    ],
+    "source": "https://www.power-plugs-sockets.com/rwanda/",
+    "lastChecked": "2026-11-02"
+  },
+  "ET": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E",
+      "F",
+      "L"
+    ],
+    "source": "https://www.power-plugs-sockets.com/ethiopia/",
+    "lastChecked": "2026-11-02"
+  },
+  "EG": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/egypt/",
+    "lastChecked": "2026-11-02"
+  },
+  "KE": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/kenya/",
+    "lastChecked": "2026-11-02"
+  },
+  "UG": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/uganda/",
+    "lastChecked": "2026-11-02"
+  },
+  "GH": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "D",
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/ghana/",
+    "lastChecked": "2026-11-02"
+  },
+  "CV": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/cape-verde/",
+    "lastChecked": "2026-11-02"
+  },
+  "SN": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "E",
+      "K"
+    ],
+    "source": "https://www.power-plugs-sockets.com/senegal/",
+    "lastChecked": "2026-11-02"
+  },
+  "MZ": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "M"
+    ],
+    "source": "https://www.power-plugs-sockets.com/mozambique/",
+    "lastChecked": "2026-11-02"
+  },
+  "CN": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "C",
+      "I"
+    ],
+    "source": "https://www.power-plugs-sockets.com/china/",
+    "lastChecked": "2026-11-02"
+  },
+  "PH": {
+    "voltage": 220,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "source": "https://www.power-plugs-sockets.com/philippines/",
+    "lastChecked": "2026-11-02"
+  },
+  "KR": {
+    "voltage": 220,
+    "frequency": 60,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/south-korea/",
+    "lastChecked": "2026-11-02"
+  },
+  "JP": {
+    "voltage": 100,
+    "frequency": "50 / 60",
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/japan/",
+    "lastChecked": "2026-11-02"
+  },
+  "ID": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/indonesia/",
+    "lastChecked": "2026-11-02"
+  },
+  "NA": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "D",
+      "M"
+    ],
+    "source": "https://www.power-plugs-sockets.com/namibia/",
+    "lastChecked": "2026-11-02"
+  },
+  "IT": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "F",
+      "L"
+    ],
+    "source": "https://www.power-plugs-sockets.com/italy/",
+    "lastChecked": "2026-11-02"
+  },
+  "FR": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "E"
+    ],
+    "source": "https://www.power-plugs-sockets.com/france/",
+    "lastChecked": "2026-11-02"
+  },
+  "ES": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/spain/",
+    "lastChecked": "2026-11-02"
+  },
+  "PT": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "F"
+    ],
+    "source": "https://www.power-plugs-sockets.com/portugal/",
+    "lastChecked": "2026-11-02"
+  },
+  "BZ": {
+    "voltage": 110,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B",
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/belize/",
+    "lastChecked": "2026-11-02"
+  },
+  "CR": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/costa-rica/",
+    "lastChecked": "2026-11-02"
+  },
+  "SV": {
+    "voltage": 115,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/el-salvador/",
+    "lastChecked": "2026-11-02"
+  },
+  "GT": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/guatemala/",
+    "lastChecked": "2026-11-02"
+  },
+  "HN": {
+    "voltage": 110,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/honduras/",
+    "lastChecked": "2026-11-02"
+  },
+  "NI": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/nicaragua/",
+    "lastChecked": "2026-11-02"
+  },
+  "PA": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/panama/",
+    "lastChecked": "2026-11-02"
+  },
+  "AG": {
+    "voltage": 230,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/antigua-and-barbuda/",
+    "lastChecked": "2026-11-02"
+  },
+  "BS": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/bahamas/",
+    "lastChecked": "2026-11-02"
+  },
+  "BB": {
+    "voltage": 115,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/barbados/",
+    "lastChecked": "2026-11-02"
+  },
+  "CU": {
+    "voltage": "110 / 220",
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B",
+      "C",
+      "L"
+    ],
+    "source": "https://www.power-plugs-sockets.com/cuba/",
+    "lastChecked": "2026-11-02"
+  },
+  "DM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "D",
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/dominica/",
+    "lastChecked": "2026-11-02"
+  },
+  "DO": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/dominican-republic/",
+    "lastChecked": "2026-11-02"
+  },
+  "GD": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/grenada/",
+    "lastChecked": "2026-11-02"
+  },
+  "HT": {
+    "voltage": 110,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/haiti/",
+    "lastChecked": "2026-11-02"
+  },
+  "JM": {
+    "voltage": 110,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/jamaica/",
+    "lastChecked": "2026-11-02"
+  },
+  "KN": {
+    "voltage": 230,
+    "frequency": 60,
+    "socketTypes": [
+      "D",
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/saint-kitts-and-nevis/",
+    "lastChecked": "2026-11-02"
+  },
+  "LC": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/saint-lucia/",
+    "lastChecked": "2026-11-02"
+  },
+  "VC": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "C",
+      "E",
+      "G"
+    ],
+    "source": "https://www.power-plugs-sockets.com/saint-vincent-and-the-grenadines/",
+    "lastChecked": "2026-11-02"
+  },
+  "TT": {
+    "voltage": 115,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.power-plugs-sockets.com/trinidad-and-tobago/",
+    "lastChecked": "2026-11-02"
+  },
+  "AR": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "I"
+    ],
+    "source": "https://www.power-plugs-sockets.com/argentina/",
+    "lastChecked": "2026-11-02"
+  },
+  "BO": {
+    "voltage": "115 / 230",
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "C"
+    ],
+    "source": "https://www.power-plugs-sockets.com/bolivia/",
+    "lastChecked": "2026-11-02"
+  },
+  "CL": {
+    "voltage": 220,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "L"
+    ],
+    "source": "https://www.power-plugs-sockets.com/chile/",
+    "lastChecked": "2026-11-02"
+  },
+  "DZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AO": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BJ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BW": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "M"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BF": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BI": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CF": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TD": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "KM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CD": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CI": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "DJ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GQ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "ER": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E",
+      "L"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "M",
+      "N"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GA": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GN": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GW": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LS": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "M"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LR": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LY": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MW": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "ML": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MR": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MU": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MA": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "ST": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SC": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SL": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SO": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SS": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SD": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TN": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "ZM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "ZW": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AF": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BH": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BD": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "C",
+      "D",
+      "M",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BT": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "M"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BN": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "IN": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "D",
+      "M"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "IR": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "IQ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "IL": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "H"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "JO": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "KZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "KW": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "KG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LB": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MY": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MV": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MN": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NP": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "M"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "KP": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "OM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "PS": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "H"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "QA": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SA": {
+    "voltage": 230,
+    "frequency": 60,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SG": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LK": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SY": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E",
+      "F",
+      "L"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TW": {
+    "voltage": 110,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TJ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TL": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E",
+      "F",
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "UZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "YE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AD": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AT": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "BE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CY": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "DK": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "K"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "FI": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "DE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "IS": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "IE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LI": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "J"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "LU": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MT": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MC": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "E"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NL": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NO": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SM": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SE": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CH": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "J"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GB": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "G"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "VA": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "AU": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "FJ": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "KI": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MH": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "FM": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NR": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "NZ": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "PW": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "PG": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "WS": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SB": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TO": {
+    "voltage": 240,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "TV": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "VU": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "I"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CA": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "CO": {
+    "voltage": 110,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "EC": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "GY": {
+    "voltage": "110 / 220",
+    "frequency": "50 / 60",
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "MX": {
+    "voltage": 127,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "PY": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "A",
+      "B",
+      "C",
+      "N"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "PE": {
+    "voltage": 230,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "SR": {
+    "voltage": 110,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "US": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "UY": {
+    "voltage": 230,
+    "frequency": 50,
+    "socketTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  },
+  "VE": {
+    "voltage": 120,
+    "frequency": 60,
+    "socketTypes": [
+      "A",
+      "B"
+    ],
+    "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+    "lastChecked": "2026-11-02"
+  }
 }

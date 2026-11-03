@@ -1,9 +1,19 @@
-const SHELL_CACHE = "travel-engine-shell-v16";
+const SHELL_CACHE = "travel-engine-shell-v35";
 const DATA_CACHE = "travel-engine-data-v1";
 const SHELL_ASSETS = [
   "./",
   "./index.html",
   "./manifest.json",
+  "./styles.css",
+  "./data/world-countries.geojson",
+  "./vendor/leaflet/leaflet.css",
+  "./vendor/leaflet/leaflet.js",
+  "./vendor/leaflet/LICENSE",
+  "./vendor/leaflet/images/layers.png",
+  "./vendor/leaflet/images/layers-2x.png",
+  "./vendor/leaflet/images/marker-icon.png",
+  "./vendor/leaflet/images/marker-icon-2x.png",
+  "./vendor/leaflet/images/marker-shadow.png",
   "./icon-192.png",
   "./icon-512.png",
   "./data/images/socket-type-a.svg",
@@ -13,6 +23,7 @@ const SHELL_ASSETS = [
   "./data/images/socket-type-e.svg",
   "./data/images/socket-type-f.svg",
   "./data/images/socket-type-g.svg",
+  "./data/images/socket-type-h.svg",
   "./data/images/socket-type-i.svg",
   "./data/images/socket-type-j.svg",
   "./data/images/socket-type-k.svg",
@@ -80,6 +91,37 @@ self.addEventListener("activate", (event) => {
     )
   );
   self.clients.claim();
+});
+
+self.addEventListener("message", (event) => {
+  if (event.data?.type !== "CACHE_ALL_SHARDS") return;
+  const port = event.ports[0];
+  event.waitUntil((async () => {
+    try {
+      const index = await loadCachedIndex();
+      if (!index) throw new Error("Destination index is not cached yet.");
+      const cache = await caches.open(DATA_CACHE);
+      const shards = Object.entries(index.shards);
+      let completed = 0;
+
+      for (const [name, shard] of shards) {
+        const url = new URL(shard.url, self.registration.scope).href;
+        if (!await cache.match(url)) {
+          const response = await fetch(url);
+          if (!response.ok) throw new Error(`Unable to download ${name}.`);
+          await storeShard(cache, url, response, name, shard.sha256);
+        }
+        completed++;
+        port?.postMessage({ type: "CACHE_ALL_PROGRESS", completed, total: shards.length, region: name });
+      }
+
+      port?.postMessage({ type: "CACHE_ALL_COMPLETE", records: index.destinations.length });
+    } catch (error) {
+      port?.postMessage({ type: "CACHE_ALL_FAILED", message: error.message || "A profile region could not be cached." });
+    } finally {
+      port?.close();
+    }
+  })());
 });
 
 self.addEventListener("fetch", (event) => {

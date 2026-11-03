@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Type H socket</title>
+  <rect width="128" height="128" rx="16" fill="#f1f5f9"/>
+  <circle cx="64" cy="64" r="43" fill="#fff" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="43" y="58" width="12" height="25" rx="5" transform="rotate(-35 49 70.5)" fill="#1f2937"/>
+  <rect x="73" y="58" width="12" height="25" rx="5" transform="rotate(35 79 70.5)" fill="#1f2937"/>
+  <rect x="58" y="38" width="12" height="22" rx="5" fill="#1f2937"/>
+  <text x="64" y="119" text-anchor="middle" fill="#334155" font-family="sans-serif" font-size="12" font-weight="700">TYPE H</text>
+</svg>

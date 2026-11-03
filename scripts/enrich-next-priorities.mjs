@@ -8,7 +8,7 @@ const checked = "2026-11-02";
 const source = (topic, url) => ({ topic, url, lastChecked: checked });
 const stage = (simple, paragraphs, sources) => ({ simple, detailed: paragraphs.join("\n\n"), sources });
 const plugs = (slug) => source("Electrical standards and socket types", `https://www.power-plugs-sockets.com/${slug}/`);
-const schengen = source("European Commission Schengen visa policy", "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en");
+const schengen = source("European Commission Schengen visa policy", "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en");
 
 const updates = {
   SN: {

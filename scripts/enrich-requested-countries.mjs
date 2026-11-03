@@ -341,13 +341,14 @@ const updates = {
   },
   ET: {
     preArrival: stage(
-      "Addis Ababa is Ethiopian Airlines' main hub. Compare Google Flights/Skyscanner, then confirm routes directly; use Ethiopia's official eVisa site and watch for lookalike portals.",
+      "Addis Ababa is Ethiopian Airlines' main hub. Check the official eVisa portal and FCDO's region-specific travel warnings before booking; several border and regional areas have restrictions.",
       [
         "Flight routing: Addis Ababa (ADD) is the principal international gateway and Ethiopian Airlines' hub; domestic services connect regional centres. Compare broad searches, then verify itinerary and baggage with the carrier.",
         "Entry: Ethiopia offers an official government eVisa for eligible travelers and purposes. Check nationality-specific requirements, entry port, and visa terms at evisa.gov.et; the government warns about fraudulent lookalike sites.",
-        "Climate and packing: Addis Ababa's elevation brings cooler evenings; lowlands can be much hotter. Check region-specific forecasts, pack sun protection and layers, and verify seasonal road/park access."
+        "Climate and packing: Addis Ababa's elevation brings cooler evenings; lowlands can be much hotter. Check region-specific forecasts, pack sun protection and layers, and verify seasonal road/park access.",
+        "Regional security: FCDO advises against all travel to several regions and border zones, and against all but essential travel to parts of Afar and Somali regions. Check the exact route and current flight operations before travel."
       ],
-      [source("Official Ethiopia eVisa", "https://www.evisa.gov.et/"), source("Ethiopian Airlines", "https://www.ethiopianairlines.com/"), source("Ethiopia tourism portal", "https://visitethiopia.travel/")]
+      [source("Official Ethiopia eVisa", "https://www.evisa.gov.et/"), source("Ethiopian Airlines", "https://www.ethiopianairlines.com/"), source("FCDO Ethiopia regional travel advice", "https://www.gov.uk/foreign-travel-advice/ethiopia")]
     ),
     arrival24h: stage(
       "Ethiopia uses 220 V / 50 Hz Type C, E, F, and L sockets. Keep ETB cash; card and mobile-wallet access are more limited outside major hotels/cities.",
@@ -374,7 +375,7 @@ const updates = {
         "Health and water: Use sealed bottled or appropriately treated water. Carry essential medication in original packaging and verify import rules; stock and opening hours vary by city.",
         "Food and payment: Injera and shared platters are common, but ask about ingredients and dietary needs. ETB cash remains useful. Tipping and buffet practices depend on the venue."
       ],
-      [source("Ethiopia tourism portal", "https://visitethiopia.travel/"), source("Ethiopia official eVisa information", "https://www.evisa.gov.et/information")]
+      [source("FCDO Ethiopia health advice", "https://www.gov.uk/foreign-travel-advice/ethiopia/health"), source("Ethiopia official eVisa information", "https://www.evisa.gov.et/information")]
     ),
     socialCode: stage(
       "Ask before photographing people, religious services, or government sites. Follow hosts' cues at meals; fasting practices and greetings vary by community.",
@@ -383,7 +384,7 @@ const updates = {
         "Home and meals: Ask about footwear and dietary needs. Shared platters are common in some settings; use the serving practice offered by the host.",
         "Language and greetings: Amharic is widely used in Addis Ababa, with many regional languages elsewhere. Begin politely and ask which language is preferred; religious observance varies."
       ],
-      [source("Ethiopia tourism portal", "https://visitethiopia.travel/")]
+      [source("FCDO Ethiopia local laws and safety advice", "https://www.gov.uk/foreign-travel-advice/ethiopia/safety-and-security")]
     )
   },
   EG: {
@@ -394,7 +395,7 @@ const updates = {
         "Entry: Egypt's eVisa portal is official, but eligibility and visa type depend on nationality and trip. Check visa2egypt.gov.eg and the relevant embassy; do not assume visa-on-arrival is available to every traveler.",
         "Climate and packing: Desert heat, Nile Valley conditions, and coastal weather differ. Check forecasts and heat advisories. Bring sun protection, breathable layers, and modest clothing for religious sites."
       ],
-      [source("Official Egypt eVisa", "https://visa2egypt.gov.eg/"), source("EgyptAir", "https://www.egyptair.com/"), source("Egyptian Tourism Authority", "https://www.egypt.travel/")]
+      [source("Official Egypt eVisa", "https://visa2egypt.gov.eg/"), source("EgyptAir", "https://www.egyptair.com/"), source("Egypt Tourism Authority official visitor portal", "https://www.experienceegypt.eg/en")]
     ),
     arrival24h: stage(
       "Egypt uses 220 V / 50 Hz Type C and F sockets. Keep Egyptian pounds and confirm airport transfer details; SIM, card, and cash access vary by provider and venue.",
@@ -421,7 +422,7 @@ const updates = {
         "Health and water: Do not assume tap water is suitable for visitors; use sealed bottled water or suitable treatment. Carry essential medicines in original packaging and verify import rules.",
         "Food and payment: EGP cash remains useful alongside cards and local wallets. Ask about ingredients and dietary needs. Pharmacy hours and duty rotas are local; check nearby options after arrival."
       ],
-      [source("Talabat Egypt", "https://www.talabat.com/egypt"), source("Breadfast", "https://breadfast.com/"), source("Egyptian Tourism Authority", "https://www.egypt.travel/")]
+      [source("Talabat Egypt", "https://www.talabat.com/egypt"), source("Breadfast", "https://breadfast.com/"), source("Egypt Tourism Authority official visitor portal", "https://www.experienceegypt.eg/en")]
     ),
     socialCode: stage(
       "Dress modestly at religious sites, remove shoes where directed, and ask before photographing people. Use polite greetings and follow your host's cues.",
@@ -430,7 +431,7 @@ const updates = {
         "Home visits: Ask whether to remove shoes and whether a small food gift is welcome. Offer or receive items with the host's lead; customs vary.",
         "Public interaction: Greetings and expectations vary by setting. Be courteous, ask about dietary needs, and avoid assuming one social rule applies nationwide."
       ],
-      [source("Egyptian Tourism Authority visitor information", "https://www.egypt.travel/")]
+      [source("Egypt Tourism Authority official visitor portal", "https://www.experienceegypt.eg/en")]
     )
   },
   KE: {

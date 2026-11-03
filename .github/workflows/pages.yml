@@ -24,6 +24,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+      - name: Install build dependencies
+        run: npm ci
+      - name: Build local stylesheet
+        run: npm run build:css
       - name: Generate regional data
         run: node scripts/build-data-shards.mjs
       - name: Validate profiles and shards

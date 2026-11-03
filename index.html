@@ -6,14 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TravelPrep</title>
   <link rel="manifest" href="./manifest.json">
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="./vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 
 <body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
-  <header class="bg-slate-800 border-b border-slate-700 p-4 flex justify-between items-center shadow-md">
-    <div class="flex items-center gap-3">
-      <h1 class="text-lg md:text-xl font-extrabold tracking-wider text-emerald-400">🧳 TRAVELPREP</h1>
-      <span class="rounded border border-amber-500 bg-amber-950 px-2 py-1 text-[10px] font-black tracking-widest text-amber-300">PREVIEW</span>
+  <header class="bg-slate-800 border-b border-slate-700 p-4 flex flex-wrap justify-between items-center gap-y-2 shadow-md">
+    <div class="flex flex-wrap items-center gap-2">
+      <h1 class="text-base md:text-xl font-extrabold tracking-wider text-emerald-400 whitespace-nowrap">🧳 TRAVELPREP</h1>
+      <span class="rounded border border-amber-900/70 bg-slate-800 px-2 py-1 text-[10px] font-semibold tracking-wide text-amber-200/80">PREVIEW</span>
+      <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 0.1.0">v0.1.0</span>
     </div>
     <div class="flex items-center space-x-3">
       <span id="offline-badge"
@@ -24,19 +26,43 @@
   </header>
 
   <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
-    <p id="preview-banner" role="status" class="rounded border border-amber-700 bg-amber-950/60 px-3 py-2 text-sm text-amber-200">
-      <strong class="font-black tracking-wider">PREVIEW</strong> · Some destination profiles are still being completed; verify current travel requirements with official sources.
+    <p id="preview-banner" role="status" class="rounded border border-amber-900/60 bg-amber-950/20 px-3 py-2 text-sm text-slate-300">
+      <strong class="text-xs font-semibold tracking-wide text-amber-200/90">PREVIEW</strong> · Verify current entry, health, safety, and transport information with official sources before travel.
+    </p>
+    <p id="data-update-banner" role="status" aria-live="polite" hidden class="rounded border border-sky-700 bg-sky-950/60 px-3 py-2 text-sm text-sky-200">
+      Travel data has changed since your last visit. Verify current details with official sources before travel.
     </p>
 
     <!-- Destination Selector Bar -->
     <div
       class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg flex flex-col sm:flex-row justify-between items-center gap-3">
-      <div>
-        <label for="destination-select"
-          class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-1">Select Destination
-          Country</label>
-        <select id="destination-select"
-          class="bg-slate-900 border border-slate-700 text-slate-100 rounded-lg px-3 py-2 font-medium focus:outline-none focus:border-emerald-500"></select>
+      <div class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-end">
+        <div class="w-full sm:w-auto">
+          <span class="mb-1 block text-xs font-semibold uppercase tracking-wider text-slate-400">Browse order</span>
+          <div class="inline-flex rounded border border-slate-600 bg-slate-900 p-0.5" role="group" aria-label="Country browse order">
+            <button id="browse-mode-az" type="button" aria-pressed="true"
+              class="rounded px-3 py-2 text-xs font-semibold text-white bg-emerald-700">A–Z</button>
+            <button id="browse-mode-nearest" type="button" aria-pressed="false" title="Order countries by capital-to-capital distance from the current country"
+              class="rounded px-3 py-2 text-xs font-semibold text-slate-300 hover:bg-slate-700">Nearest</button>
+            <button id="browse-mode-trip" type="button" aria-pressed="false" disabled
+              class="rounded px-3 py-2 text-xs font-semibold text-slate-500 disabled:cursor-not-allowed">Trip</button>
+          </div>
+        </div>
+        <div class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-end">
+          <div class="w-full sm:w-auto">
+            <label for="destination-select"
+              class="block text-xs font-semibold uppercase tracking-wider text-slate-400 mb-1">Country</label>
+            <select id="destination-select"
+              class="w-full max-w-full sm:w-auto bg-slate-900 border border-slate-700 text-slate-100 rounded-lg px-3 py-2 font-medium focus:outline-none focus:border-emerald-500"></select>
+          </div>
+          <div class="flex items-center justify-end gap-2">
+            <button id="browse-previous" type="button" title="Previous country (left arrow)" aria-label="Previous country"
+              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">←</button>
+            <button id="browse-next" type="button" title="Next country (right arrow)" aria-label="Next country"
+              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">→</button>
+            <span id="browse-position" class="min-w-14 text-center text-xs tabular-nums text-slate-400" aria-live="polite"></span>
+          </div>
+        </div>
       </div>
       <div class="flex flex-wrap gap-1 w-full sm:w-auto">
         <button onclick="filterStage(event,'all')"
@@ -55,18 +81,97 @@
       </div>
     </div>
 
+    <section class="border-t border-slate-700 pt-3" aria-labelledby="trip-heading">
+      <div class="flex flex-wrap items-center justify-between gap-2">
+        <div class="flex items-baseline gap-2">
+          <h2 id="trip-heading" class="text-sm font-semibold text-slate-100">Trip itinerary</h2>
+          <span id="trip-summary" role="status" aria-live="polite" class="text-xs text-slate-400">No stops</span>
+        </div>
+        <div class="flex flex-wrap gap-2">
+          <button id="open-country-search" type="button"
+            disabled class="rounded border border-slate-600 bg-slate-800 px-3 py-2 text-xs font-semibold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 disabled:cursor-not-allowed disabled:opacity-50">Find countries</button>
+          <button id="trip-add-current" type="button" disabled
+            class="rounded border border-emerald-700 bg-emerald-950 px-3 py-2 text-xs font-semibold text-emerald-200 hover:bg-emerald-900 focus:outline-none focus:ring-2 focus:ring-emerald-500 disabled:cursor-not-allowed disabled:opacity-50">Add current country</button>
+          <button id="trip-clear" type="button" disabled
+            class="rounded border border-slate-700 px-3 py-2 text-xs font-semibold text-slate-400 hover:bg-slate-800 disabled:cursor-not-allowed disabled:opacity-50">Clear trip</button>
+        </div>
+      </div>
+      <ol id="trip-stops" class="mt-2 grid gap-1 sm:grid-cols-2" aria-label="Itinerary stops"></ol>
+    </section>
+
+    <div class="flex flex-wrap items-center gap-2">
+      <button id="download-all-profiles" type="button"
+        class="rounded border border-slate-600 bg-slate-800 px-3 py-2 text-xs font-semibold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">Save all profiles offline</button>
+      <span id="offline-download-status" role="status" aria-live="polite" class="text-xs text-slate-400"></span>
+    </div>
+
     <!-- Operational Intelligence Container -->
     <div id="destination-view" class="space-y-4"></div>
   </main>
 
+  <dialog id="country-search-dialog" aria-labelledby="country-search-title"
+    class="fixed inset-x-0 bottom-0 top-auto m-0 max-h-[85dvh] w-full max-w-2xl overflow-hidden rounded-t-lg border border-slate-700 bg-slate-900 p-0 text-slate-100 backdrop:bg-black/70 sm:inset-0 sm:m-auto sm:rounded-lg">
+    <div class="flex max-h-[85dvh] flex-col">
+      <div class="flex items-center justify-between border-b border-slate-700 p-4">
+        <h2 id="country-search-title" class="text-base font-semibold">Find countries</h2>
+        <button id="close-country-search" type="button" aria-label="Close country search"
+          class="h-9 w-9 rounded text-lg text-slate-300 hover:bg-slate-800">×</button>
+      </div>
+      <div class="grid gap-3 border-b border-slate-700 p-4 sm:grid-cols-3">
+        <label class="text-xs font-medium text-slate-300 sm:col-span-3">Country, capital, or code
+          <input id="country-search-query" type="search" autocomplete="off" placeholder="Search countries"
+            class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-3 py-2 text-sm text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-emerald-500">
+        </label>
+        <label class="text-xs font-medium text-slate-300">Region
+          <select id="country-search-region" class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-2 py-2 text-sm text-slate-100">
+            <option value="">All regions</option>
+          </select>
+        </label>
+        <label class="text-xs font-medium text-slate-300 sm:col-span-2">Trip
+          <select id="country-search-trip-filter" class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-2 py-2 text-sm text-slate-100">
+            <option value="all">All countries</option>
+            <option value="in-trip">In this trip</option>
+            <option value="not-in-trip">Not in this trip</option>
+          </select>
+        </label>
+      </div>
+      <div class="flex items-center justify-between px-4 py-2 text-xs text-slate-400">
+        <span id="country-search-count" role="status" aria-live="polite"></span>
+        <button id="country-search-select-visible" type="button" class="underline decoration-slate-500 underline-offset-2 hover:text-white">Select visible</button>
+      </div>
+      <ul id="country-search-results" class="min-h-24 flex-1 divide-y divide-slate-800 overflow-y-auto px-4" aria-label="Country search results"></ul>
+      <div class="flex justify-end gap-2 border-t border-slate-700 p-4">
+        <button id="country-search-add" type="button" disabled
+          class="rounded bg-emerald-700 px-3 py-2 text-xs font-semibold text-white hover:bg-emerald-600 disabled:cursor-not-allowed disabled:opacity-50">Add selected to trip</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="./vendor/leaflet/leaflet.js"></script>
   <script>
     let destinationIndex = [];
+    let alphabeticalDestinations = [];
+    let nearestDestinations = [];
+    let tripDestinationIds = [];
+    let selectedSearchIds = new Set();
+    let tripStorageReady = false;
+    let browseMode = "alphabetical";
     let currentDestination = null;
     let currentDestId = "al-al";
     let activeStageFilter = "all";
     const loadedShards = new Map();
     const shardLoads = new Map();
     let destinationLoadRequest = 0;
+    let activeCountryMap = null;
+    let countryMapRenderRequest = 0;
+    let worldMapDataRequest = null;
+    let storageDatabasePromise = null;
+    const DATA_VERSION_STORAGE_KEY = "travelprep-data-version";
+    const TRIP_DATABASE_NAME = "travelprep-storage";
+    const TRIP_DATABASE_VERSION = 1;
+    const TRIP_DATABASE_STORE = "itineraries";
+    const TRIP_DATABASE_KEY = "active-trip";
+    const LEGACY_TRIP_STORAGE_KEY = "travelprep-itinerary-v1";
 
     if ("serviceWorker" in navigator) {
       navigator.serviceWorker.register("./sw.js")
@@ -90,51 +195,538 @@
       }
     }
 
+    document.getElementById("download-all-profiles").addEventListener("click", async (event) => {
+      const button = event.currentTarget;
+      const status = document.getElementById("offline-download-status");
+      if (!navigator.onLine) {
+        status.textContent = "Connect to the internet before saving all profiles.";
+        return;
+      }
+
+      button.disabled = true;
+      status.textContent = "Preparing offline download...";
+      try {
+        const registration = await navigator.serviceWorker.ready;
+        const worker = navigator.serviceWorker.controller || registration.active;
+        if (!worker) throw new Error("Offline storage is unavailable in this browser.");
+
+        const channel = new MessageChannel();
+        channel.port1.onmessage = ({ data }) => {
+          if (data.type === "CACHE_ALL_PROGRESS") {
+            status.textContent = `Saving ${data.completed} of ${data.total} regions...`;
+          } else if (data.type === "CACHE_ALL_COMPLETE") {
+            status.textContent = `Saved all ${data.records} profiles for offline use.`;
+            button.disabled = false;
+          } else if (data.type === "CACHE_ALL_FAILED") {
+            status.textContent = `Download stopped: ${data.message}`;
+            button.disabled = false;
+          }
+        };
+        worker.postMessage({ type: "CACHE_ALL_SHARDS" }, [channel.port2]);
+      } catch (error) {
+        status.textContent = error.message || "Offline download could not start.";
+        button.disabled = false;
+      }
+    });
+
+    function checkForDataUpdate(index) {
+      if (!index.dataVersion) return;
+      try {
+        const previousVersion = localStorage.getItem(DATA_VERSION_STORAGE_KEY);
+        if (previousVersion && previousVersion !== index.dataVersion) {
+          document.getElementById("data-update-banner").hidden = false;
+        }
+        localStorage.setItem(DATA_VERSION_STORAGE_KEY, index.dataVersion);
+      } catch {
+        return;
+      }
+    }
+
     fetch("./data/index.json")
       .then(response => {
         if (!response.ok) throw new Error("Destination index unavailable");
         return response.json();
       })
       .then(index => {
+        checkForDataUpdate(index);
         destinationIndex = index.destinations;
         window.destinationShardIndex = index.shards;
         const completeProfiles = destinationIndex.filter(destination => destination.profileStatus === "complete").length;
         document.getElementById("preview-banner").innerHTML =
-          `<strong class="font-black tracking-wider">PREVIEW</strong> · ${completeProfiles} of ${destinationIndex.length} destination profiles are complete. Verify current travel requirements with official sources.`;
-        initSelector();
-        updateOnlineStatus();
-        return loadDestination(currentDestId);
+          `<strong class="text-xs font-semibold tracking-wide text-amber-200/90">PREVIEW</strong> · ${completeProfiles} of ${destinationIndex.length} profiles have sourced guidance. Verify current travel details with official sources.`;
+        return initSelector().then(() => {
+          updateOnlineStatus();
+          nearestDestinations = buildNearestRoute(currentDestId);
+          return loadDestination(currentDestId, { resetNearestRoute: true });
+        });
       })
       .catch(() => {
         document.getElementById("destination-view").textContent =
           "Destination index is unavailable. Connect to the internet and reload.";
       });
 
-    function initSelector() {
+    async function initSelector() {
       const select = document.getElementById("destination-select");
+      alphabeticalDestinations = [...destinationIndex].sort((a, b) =>
+        a.country.localeCompare(b.country, undefined, { sensitivity: "base" })
+      );
+      if (!destinationIndex.some(destination => destination.id === currentDestId)) {
+        currentDestId = destinationIndex[0]?.id;
+      }
+      nearestDestinations = buildNearestRoute(currentDestId);
+      renderDestinationOptions();
+      select.addEventListener("change", (e) => {
+        loadDestination(e.target.value, { resetNearestRoute: true });
+      });
+      document.getElementById("browse-previous").addEventListener("click", () => navigateDestination(-1));
+      document.getElementById("browse-next").addEventListener("click", () => navigateDestination(1));
+      document.getElementById("browse-mode-az").addEventListener("click", () => setBrowseMode("alphabetical"));
+      document.getElementById("browse-mode-nearest").addEventListener("click", () => setBrowseMode("nearest"));
+      document.getElementById("browse-mode-trip").addEventListener("click", () => setBrowseMode("trip"));
+      document.getElementById("trip-add-current").addEventListener("click", addCurrentToTrip);
+      document.getElementById("trip-clear").addEventListener("click", clearTrip);
+      tripDestinationIds = await loadSavedTrip();
+      tripStorageReady = true;
+      document.getElementById("open-country-search").disabled = false;
+      populateSearchRegions();
+      document.getElementById("open-country-search").addEventListener("click", openCountrySearch);
+      document.getElementById("close-country-search").addEventListener("click", () => document.getElementById("country-search-dialog").close());
+      document.getElementById("country-search-query").addEventListener("input", renderCountrySearch);
+      document.getElementById("country-search-region").addEventListener("change", renderCountrySearch);
+      document.getElementById("country-search-trip-filter").addEventListener("change", renderCountrySearch);
+      document.getElementById("country-search-select-visible").addEventListener("click", selectVisibleCountries);
+      document.getElementById("country-search-add").addEventListener("click", addSelectedCountriesToTrip);
+      renderTripPlanner();
+      updateBrowseModeButtons();
+      updateBrowsePosition();
+    }
+
+    function renderDestinationOptions() {
+      const select = document.getElementById("destination-select");
+      const order = activeDestinationOrder();
       select.replaceChildren();
-      destinationIndex.forEach(destination => {
+      order.forEach(destination => {
         const option = document.createElement("option");
         option.value = destination.id;
         option.textContent = `${destination.country} (${destination.region})`;
         select.append(option);
       });
-      if (!destinationIndex.some(destination => destination.id === currentDestId)) {
-        currentDestId = destinationIndex[0]?.id;
-      }
       select.value = currentDestId;
-      select.addEventListener("change", (e) => {
-        loadDestination(e.target.value);
+    }
+
+    function activeDestinationOrder() {
+      if (browseMode === "nearest") return nearestDestinations;
+      if (browseMode === "trip") return tripDestinationIds
+        .map(id => destinationIndex.find(destination => destination.id === id))
+        .filter(Boolean);
+      return alphabeticalDestinations;
+    }
+
+    function updateBrowseModeButtons() {
+      for (const [mode, buttonId] of [["alphabetical", "browse-mode-az"], ["nearest", "browse-mode-nearest"], ["trip", "browse-mode-trip"]]) {
+        const button = document.getElementById(buttonId);
+        const selected = browseMode === mode;
+        button.disabled = mode === "trip" && tripDestinationIds.length === 0;
+        button.setAttribute("aria-pressed", String(selected));
+        button.className = selected
+          ? "rounded px-3 py-2 text-xs font-semibold text-white bg-emerald-700"
+          : button.disabled
+            ? "rounded px-3 py-2 text-xs font-semibold text-slate-500 disabled:cursor-not-allowed"
+            : "rounded px-3 py-2 text-xs font-semibold text-slate-300 hover:bg-slate-700";
+      }
+    }
+
+    function setBrowseMode(mode) {
+      if (mode === browseMode) return;
+      if (mode === "trip" && tripDestinationIds.length === 0) return;
+      browseMode = mode;
+      if (browseMode === "nearest") nearestDestinations = buildNearestRoute(currentDestId);
+      renderDestinationOptions();
+      updateBrowseModeButtons();
+      updateBrowsePosition();
+    }
+
+    function openTravelPrepDatabase() {
+      if (!window.indexedDB) return Promise.reject(new Error("IndexedDB is unavailable."));
+      if (!storageDatabasePromise) {
+        storageDatabasePromise = new Promise((resolve, reject) => {
+          const request = indexedDB.open(TRIP_DATABASE_NAME, TRIP_DATABASE_VERSION);
+          request.onupgradeneeded = () => {
+            if (!request.result.objectStoreNames.contains(TRIP_DATABASE_STORE)) {
+              request.result.createObjectStore(TRIP_DATABASE_STORE);
+            }
+          };
+          request.onsuccess = () => {
+            request.result.onversionchange = () => request.result.close();
+            resolve(request.result);
+          };
+          request.onerror = () => reject(request.error || new Error("Could not open itinerary storage."));
+        }).catch(error => {
+          storageDatabasePromise = null;
+          throw error;
+        });
+      }
+      return storageDatabasePromise;
+    }
+
+    function filterKnownTripIds(savedIds) {
+      if (!Array.isArray(savedIds)) return [];
+      const knownIds = new Set(destinationIndex.map(destination => destination.id));
+      return [...new Set(savedIds.filter(id => typeof id === "string" && knownIds.has(id)))];
+    }
+
+    function readLegacyTrip() {
+      try {
+        return filterKnownTripIds(JSON.parse(localStorage.getItem(LEGACY_TRIP_STORAGE_KEY) || "[]"));
+      } catch {
+        return [];
+      }
+    }
+
+    function removeLegacyTrip() {
+      try {
+        localStorage.removeItem(LEGACY_TRIP_STORAGE_KEY);
+      } catch {
+        return;
+      }
+    }
+
+    async function readTripFromDatabase() {
+      const database = await openTravelPrepDatabase();
+      return new Promise((resolve, reject) => {
+        const transaction = database.transaction(TRIP_DATABASE_STORE, "readonly");
+        const request = transaction.objectStore(TRIP_DATABASE_STORE).get(TRIP_DATABASE_KEY);
+        request.onsuccess = () => resolve(request.result);
+        request.onerror = () => reject(request.error || new Error("Could not read the saved trip."));
+        transaction.onabort = () => reject(transaction.error || new Error("Trip storage transaction was aborted."));
       });
     }
 
-    async function loadDestination(id) {
+    async function writeTripToDatabase(savedIds) {
+      const database = await openTravelPrepDatabase();
+      return new Promise((resolve, reject) => {
+        const transaction = database.transaction(TRIP_DATABASE_STORE, "readwrite");
+        transaction.objectStore(TRIP_DATABASE_STORE).put([...savedIds], TRIP_DATABASE_KEY);
+        transaction.oncomplete = () => resolve();
+        transaction.onerror = () => reject(transaction.error || new Error("Could not save the trip."));
+        transaction.onabort = () => reject(transaction.error || new Error("Trip storage transaction was aborted."));
+      });
+    }
+
+    async function loadSavedTrip() {
+      const legacyIds = readLegacyTrip();
+      try {
+        const savedIds = await readTripFromDatabase();
+        if (Array.isArray(savedIds)) {
+          removeLegacyTrip();
+          return filterKnownTripIds(savedIds);
+        }
+        if (legacyIds.length) await writeTripToDatabase(legacyIds);
+        removeLegacyTrip();
+        return legacyIds;
+      } catch {
+        return legacyIds;
+      }
+    }
+
+    async function saveTrip() {
+      try {
+        await writeTripToDatabase(tripDestinationIds);
+        removeLegacyTrip();
+        return true;
+      } catch {
+        try {
+          localStorage.setItem(LEGACY_TRIP_STORAGE_KEY, JSON.stringify(tripDestinationIds));
+          return true;
+        } catch {
+          return false;
+        }
+      }
+    }
+
+    async function addCurrentToTrip() {
+      if (!tripStorageReady || tripDestinationIds.includes(currentDestId)) return;
+      tripDestinationIds.push(currentDestId);
+      const saved = await saveTrip();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      updateBrowseModeButtons();
+    }
+
+    async function clearTrip() {
+      tripDestinationIds = [];
+      const saved = await saveTrip();
+      if (browseMode === "trip") browseMode = "alphabetical";
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      renderDestinationOptions();
+      updateBrowseModeButtons();
+      updateBrowsePosition();
+    }
+
+    async function moveTripStop(id, direction) {
+      const index = tripDestinationIds.indexOf(id);
+      const target = index + direction;
+      if (index < 0 || target < 0 || target >= tripDestinationIds.length) return;
+      [tripDestinationIds[index], tripDestinationIds[target]] = [tripDestinationIds[target], tripDestinationIds[index]];
+      const saved = await saveTrip();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      if (browseMode === "trip") {
+        renderDestinationOptions();
+        updateBrowsePosition();
+      }
+    }
+
+    async function removeTripStop(id) {
+      const index = tripDestinationIds.indexOf(id);
+      if (index < 0) return;
+      tripDestinationIds.splice(index, 1);
+      const nextDestination = destinationIndex.find(destination => destination.id === tripDestinationIds[index]) ||
+        destinationIndex.find(destination => destination.id === tripDestinationIds[index - 1]);
+      const saved = await saveTrip();
+      if (browseMode === "trip" && tripDestinationIds.length === 0) browseMode = "alphabetical";
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      renderDestinationOptions();
+      updateBrowseModeButtons();
+      if (browseMode === "trip" && id === currentDestId && nextDestination) loadDestination(nextDestination.id);
+      else updateBrowsePosition();
+    }
+
+    function renderTripPlanner(message = "") {
+      const summary = document.getElementById("trip-summary");
+      const addButton = document.getElementById("trip-add-current");
+      const clearButton = document.getElementById("trip-clear");
+      document.getElementById("open-country-search").disabled = !tripStorageReady;
+      const list = document.getElementById("trip-stops");
+      const stops = tripDestinationIds
+        .map(id => destinationIndex.find(destination => destination.id === id))
+        .filter(Boolean);
+      summary.textContent = message || (stops.length === 0
+        ? "No stops"
+        : `${stops.length} ${stops.length === 1 ? "stop" : "stops"}`);
+      addButton.disabled = !tripStorageReady || !currentDestId || tripDestinationIds.includes(currentDestId);
+      addButton.textContent = addButton.disabled && currentDestId && tripDestinationIds.includes(currentDestId)
+        ? "Country added"
+        : "Add current country";
+      clearButton.disabled = stops.length === 0;
+      list.replaceChildren();
+
+      stops.forEach((destination, index) => {
+        const item = document.createElement("li");
+        item.className = "flex min-w-0 items-center gap-1 border-b border-slate-800 py-1";
+        const select = document.createElement("button");
+        select.type = "button";
+        select.className = "min-w-0 flex-1 truncate px-2 py-2 text-left text-xs text-slate-200 hover:text-emerald-300";
+        select.textContent = `${index + 1}. ${destination.country}`;
+        select.setAttribute("aria-current", destination.id === currentDestId ? "location" : "false");
+        select.addEventListener("click", () => loadDestination(destination.id));
+
+        const moveEarlier = document.createElement("button");
+        moveEarlier.type = "button";
+        moveEarlier.textContent = "↑";
+        moveEarlier.title = `Move ${destination.country} earlier`;
+        moveEarlier.setAttribute("aria-label", moveEarlier.title);
+        moveEarlier.disabled = index === 0;
+        moveEarlier.className = "h-8 w-8 rounded text-slate-300 hover:bg-slate-800 disabled:opacity-30";
+        moveEarlier.addEventListener("click", () => moveTripStop(destination.id, -1));
+
+        const moveLater = document.createElement("button");
+        moveLater.type = "button";
+        moveLater.textContent = "↓";
+        moveLater.title = `Move ${destination.country} later`;
+        moveLater.setAttribute("aria-label", moveLater.title);
+        moveLater.disabled = index === stops.length - 1;
+        moveLater.className = "h-8 w-8 rounded text-slate-300 hover:bg-slate-800 disabled:opacity-30";
+        moveLater.addEventListener("click", () => moveTripStop(destination.id, 1));
+
+        const remove = document.createElement("button");
+        remove.type = "button";
+        remove.textContent = "×";
+        remove.title = `Remove ${destination.country} from trip`;
+        remove.setAttribute("aria-label", remove.title);
+        remove.className = "h-8 w-8 rounded text-slate-400 hover:bg-rose-950 hover:text-rose-300";
+        remove.addEventListener("click", () => removeTripStop(destination.id));
+
+        item.append(select, moveEarlier, moveLater, remove);
+        list.append(item);
+      });
+    }
+
+    function populateSearchRegions() {
+      const select = document.getElementById("country-search-region");
+      const regions = [...new Set(destinationIndex.map(destination => destination.region))]
+        .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
+      regions.forEach(region => {
+        const option = document.createElement("option");
+        option.value = region;
+        option.textContent = region;
+        select.append(option);
+      });
+    }
+
+    function openCountrySearch() {
+      selectedSearchIds.clear();
+      document.getElementById("country-search-query").value = "";
+      document.getElementById("country-search-region").value = "";
+      document.getElementById("country-search-trip-filter").value = "all";
+      renderCountrySearch();
+      document.getElementById("country-search-dialog").showModal();
+      document.getElementById("country-search-query").focus();
+    }
+
+    function getCountrySearchMatches() {
+      const query = document.getElementById("country-search-query").value.trim().toLocaleLowerCase();
+      const region = document.getElementById("country-search-region").value;
+      const tripFilter = document.getElementById("country-search-trip-filter").value;
+      const inTrip = new Set(tripDestinationIds);
+      return alphabeticalDestinations.filter(destination => {
+        const fields = [destination.country, destination.capital, destination.iso, destination.region]
+          .filter(Boolean).join(" ").toLocaleLowerCase();
+        return (!query || fields.includes(query)) &&
+          (!region || destination.region === region) &&
+          (tripFilter === "all" || (tripFilter === "in-trip") === inTrip.has(destination.id));
+      });
+    }
+
+    function renderCountrySearch() {
+      const matches = getCountrySearchMatches();
+      const inTrip = new Set(tripDestinationIds);
+      const list = document.getElementById("country-search-results");
+      list.replaceChildren();
+      matches.forEach(destination => {
+        const item = document.createElement("li");
+        const label = document.createElement("label");
+        label.className = "flex cursor-pointer items-center gap-3 py-3 text-sm hover:text-emerald-200";
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = selectedSearchIds.has(destination.id);
+        checkbox.className = "h-4 w-4 accent-emerald-500";
+        checkbox.addEventListener("change", () => {
+          if (checkbox.checked) selectedSearchIds.add(destination.id);
+          else selectedSearchIds.delete(destination.id);
+          updateCountrySearchSelection(matches.length);
+        });
+        const name = document.createElement("span");
+        name.className = "min-w-0 flex-1";
+        name.textContent = destination.country;
+        const detail = document.createElement("span");
+        detail.className = "text-xs text-slate-500";
+        detail.textContent = `${destination.capital ? `${destination.capital} · ` : ""}${destination.region}${inTrip.has(destination.id) ? " · In trip" : ""}`;
+        label.append(checkbox, name, detail);
+        item.append(label);
+        list.append(item);
+      });
+      if (matches.length === 0) {
+        const empty = document.createElement("li");
+        empty.className = "py-8 text-center text-sm text-slate-400";
+        empty.textContent = "No countries match these filters.";
+        list.append(empty);
+      }
+      updateCountrySearchSelection(matches.length);
+    }
+
+    function updateCountrySearchSelection(visibleCount) {
+      const selectedCount = selectedSearchIds.size;
+      document.getElementById("country-search-count").textContent =
+        `${visibleCount} ${visibleCount === 1 ? "country" : "countries"} · ${selectedCount} selected`;
+      const addButton = document.getElementById("country-search-add");
+      addButton.disabled = selectedCount === 0;
+      addButton.textContent = selectedCount ? `Add ${selectedCount} to trip` : "Add selected to trip";
+    }
+
+    function selectVisibleCountries() {
+      getCountrySearchMatches().forEach(destination => selectedSearchIds.add(destination.id));
+      renderCountrySearch();
+    }
+
+    async function addSelectedCountriesToTrip() {
+      const selected = new Set(selectedSearchIds);
+      alphabeticalDestinations.forEach(destination => {
+        if (selected.has(destination.id) && !tripDestinationIds.includes(destination.id)) {
+          tripDestinationIds.push(destination.id);
+        }
+      });
+      const saved = await saveTrip();
+      selectedSearchIds.clear();
+      document.getElementById("country-search-dialog").close();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      updateBrowseModeButtons();
+      if (browseMode === "trip") {
+        renderDestinationOptions();
+        updateBrowsePosition();
+      }
+    }
+
+    function greatCircleDistanceKm(origin, destination) {
+      const radians = degrees => degrees * Math.PI / 180;
+      const latitudeDelta = radians(destination.latitude - origin.latitude);
+      const longitudeDelta = radians(destination.longitude - origin.longitude);
+      const originLatitude = radians(origin.latitude);
+      const destinationLatitude = radians(destination.latitude);
+      const value = Math.sin(latitudeDelta / 2) ** 2 +
+        Math.cos(originLatitude) * Math.cos(destinationLatitude) * Math.sin(longitudeDelta / 2) ** 2;
+      return 6371 * 2 * Math.atan2(Math.sqrt(value), Math.sqrt(1 - value));
+    }
+
+    function buildNearestRoute(startId) {
+      const sorted = [...destinationIndex].sort((a, b) =>
+        a.country.localeCompare(b.country, undefined, { sensitivity: "base" })
+      );
+      const start = sorted.find(destination => destination.id === startId &&
+        Number.isFinite(destination.latitude) && Number.isFinite(destination.longitude)) || sorted[0];
+      if (!start) return [];
+
+      const route = [start];
+      const remaining = new Map(sorted
+        .filter(destination => destination.id !== start.id &&
+          Number.isFinite(destination.latitude) && Number.isFinite(destination.longitude))
+        .map(destination => [destination.id, destination]));
+      while (remaining.size) {
+        const last = route[route.length - 1];
+        const next = [...remaining.values()].sort((a, b) => {
+          const distanceDelta = greatCircleDistanceKm(last, a) - greatCircleDistanceKm(last, b);
+          return Math.abs(distanceDelta) > 0.001
+            ? distanceDelta
+            : a.country.localeCompare(b.country, undefined, { sensitivity: "base" });
+        })[0];
+        route.push(next);
+        remaining.delete(next.id);
+      }
+
+      route.push(...sorted.filter(destination =>
+        !Number.isFinite(destination.latitude) || !Number.isFinite(destination.longitude)
+      ));
+      return route;
+    }
+
+    function updateBrowsePosition() {
+      const order = activeDestinationOrder();
+      const position = order.findIndex(destination => destination.id === currentDestId);
+      document.getElementById("browse-position").textContent = position < 0
+        ? ""
+        : `${position + 1} / ${order.length}`;
+    }
+
+    function navigateDestination(direction) {
+      const order = activeDestinationOrder();
+      const position = order.findIndex(destination => destination.id === currentDestId);
+      if (position < 0 || order.length < 2) return;
+      const nextPosition = (position + direction + order.length) % order.length;
+      loadDestination(order[nextPosition].id);
+    }
+
+    async function loadDestination(id, { resetNearestRoute = false } = {}) {
       const requestId = ++destinationLoadRequest;
       const metadata = destinationIndex.find(destination => destination.id === id);
       const container = document.getElementById("destination-view");
       if (!metadata) return;
 
       currentDestId = id;
+      if (resetNearestRoute && browseMode === "nearest") {
+        nearestDestinations = buildNearestRoute(id);
+        renderDestinationOptions();
+      }
+      document.getElementById("destination-select").value = id;
+      updateBrowsePosition();
+      renderTripPlanner();
       currentDestination = null;
       container.textContent = `Loading ${metadata.country}...`;
 
@@ -188,6 +780,75 @@
       })[character]);
     }
 
+    function mapFeatureIso(feature) {
+      const properties = feature.properties || {};
+      const code = properties.ISO_A2_EH || properties.ISO_A2 || properties["ISO3166-1-Alpha-2"];
+      return code === "CN-TW" ? "TW" : code;
+    }
+
+    function getWorldMapData() {
+      if (!worldMapDataRequest) {
+        worldMapDataRequest = fetch("./data/world-countries.geojson")
+          .then(response => {
+            if (!response.ok) throw new Error("Country boundary data is unavailable");
+            return response.json();
+          })
+          .catch(error => {
+            worldMapDataRequest = null;
+            throw error;
+          });
+      }
+      return worldMapDataRequest;
+    }
+
+    async function renderCountryMap(destination) {
+      const requestId = ++countryMapRenderRequest;
+      if (activeCountryMap) {
+        activeCountryMap.remove();
+        activeCountryMap = null;
+      }
+      const element = document.getElementById("country-map");
+      if (!element) return;
+
+      try {
+        const geoJson = await getWorldMapData();
+        if (requestId !== countryMapRenderRequest || !element.isConnected) return;
+        const map = L.map(element, { scrollWheelZoom: false, attributionControl: false });
+        activeCountryMap = map;
+        const countryLayer = L.geoJSON(geoJson, {
+          style: feature => {
+            const iso = mapFeatureIso(feature);
+            const selected = iso === destination.iso;
+            return {
+              className: `country-boundary${iso ? ` country-${iso.toLowerCase()}` : ""}`,
+              color: selected ? "#047857" : "#64748b",
+              weight: selected ? 1.5 : 0.5,
+              fillColor: selected ? "#34d399" : "#cbd5e1",
+              fillOpacity: selected ? 0.9 : 0.72
+            };
+          },
+          onEachFeature: (feature, layer) => {
+            const iso = mapFeatureIso(feature);
+            const metadata = destinationIndex.find(item => item.iso === iso);
+            if (!metadata) return;
+            layer.bindTooltip(`${metadata.country} (${metadata.iso})`);
+            layer.on("click", () => loadDestination(metadata.id, { resetNearestRoute: true }));
+          }
+        }).addTo(map);
+
+        let selectedBounds = null;
+        countryLayer.eachLayer(layer => {
+          if (mapFeatureIso(layer.feature) === destination.iso) selectedBounds = layer.getBounds();
+        });
+        if (selectedBounds?.isValid()) map.fitBounds(selectedBounds.pad(0.55), { maxZoom: 5 });
+        else map.setView([destination.latitude, destination.longitude], 3);
+      } catch {
+        if (requestId === countryMapRenderRequest && element.isConnected) {
+          element.textContent = "Country map unavailable. Reconnect and reload to try again.";
+        }
+      }
+    }
+
     function renderDestination() {
       const dest = currentDestination;
       if (!dest) return;
@@ -202,6 +863,9 @@
 
       const container = document.getElementById("destination-view");
       const metadata = destinationIndex.find(destination => destination.id === dest.id);
+      const mapCity = metadata?.capital || metadata?.city || dest.city || dest.country;
+      const mapQuery = encodeURIComponent(`${mapCity}, ${dest.country}`);
+      const mapUrl = `https://www.google.com/maps/search/?api=1&query=${mapQuery}`;
       const profileStatus = metadata?.profileStatus === "complete"
         ? `<span class="text-xs text-emerald-300">Profile complete</span>`
         : `<span class="text-xs text-amber-300">Profile in progress</span>`;
@@ -209,14 +873,22 @@
         <div class="bg-slate-800 p-5 rounded-xl border border-slate-700 shadow-xl">
           <div class="flex justify-between items-center mb-4 pb-3 border-b border-slate-700">
             <div>
-              <div class="flex flex-wrap items-center gap-2">
+                <div class="flex flex-wrap items-center gap-2">
                 <h2 class="text-2xl font-black text-emerald-400">${escapeHTML(dest.country)}</h2>
                 ${profileStatus}
+                <a class="text-xs font-semibold text-cyan-300 underline decoration-cyan-700 underline-offset-2 hover:text-cyan-200" href="${mapUrl}" target="_blank" rel="noopener noreferrer" aria-label="Open map of ${escapeHTML(mapCity)}, ${escapeHTML(dest.country)}">Open map</a>
               </div>
               <p class="text-xs text-slate-400">Region: ${dest.region} | ISO: ${dest.iso}</p>
             </div>
             <span class="text-xs bg-slate-900 border border-slate-700 px-3 py-1 rounded-full text-slate-300 font-mono">ID: ${dest.id}</span>
           </div>
+          <figure class="mb-4 border-b border-slate-700 pb-4">
+            <figcaption class="mb-2 flex flex-wrap items-baseline justify-between gap-2 text-xs text-slate-300">
+              <span><strong class="text-slate-100">${escapeHTML(mapCity)}</strong> · ${escapeHTML(dest.country)}</span>
+              <span>Boundaries: <a class="text-cyan-300 underline" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener noreferrer">Natural Earth</a></span>
+            </figcaption>
+            <div id="country-map" class="h-64 w-full overflow-hidden rounded border border-slate-600 bg-sky-50 sm:h-72" role="application" aria-label="Country boundaries centered on ${escapeHTML(dest.country)}"></div>
+          </figure>
           <div class="space-y-4">
             ${stagesMeta.filter(s => activeStageFilter === "all" || activeStageFilter === s.key).map(s => {
         const stageData = dest.stages[s.key] || {};
@@ -227,6 +899,12 @@
           .filter(Boolean)
           .map(item => `<li>${escapeHTML(item)}</li>`)
           .join("");
+        const connectivityNote = s.key !== "arrival24h" ? "" : `
+                    <aside class="rounded border border-cyan-800/60 bg-cyan-950/30 p-2.5 text-xs leading-relaxed text-slate-300">
+                      <strong class="text-cyan-200">Phone &amp; data planning:</strong>
+                      At many airports, mobile-provider counters or shops are in or near arrivals, but availability, hours, stock, and SIM-registration rules vary. Some home carriers offer monthly plans that include roaming in supported destinations, which can avoid separate per-use data-roaming charges; call rates, speed or fair-use limits, and extended-use restrictions may still apply. Check your exact plan and destination, compare the total cost with a local SIM/eSIM, and confirm your phone is unlocked and eSIM-compatible before departure.
+                      <a class="ml-1 text-cyan-200 underline" href="https://www.t-mobile.com/coverage/roaming" target="_blank" rel="noreferrer">T-Mobile plan example and terms</a>
+                    </aside>`;
         const electrical = s.key === "arrival24h" ? dest.electrical : null;
         const electricalMarkup = s.key !== "arrival24h" ? "" : electrical
           ? `<figure class="border-t border-slate-700/50 pt-3">
@@ -240,6 +918,7 @@
                   <h3 class="text-sm font-bold uppercase tracking-wider text-emerald-300 mb-2">${s.icon} ${s.title}</h3>
                   <div class="space-y-2 text-sm text-slate-300">
                     <p class="bg-slate-800 p-2.5 rounded border border-slate-700/60"><strong>⚡ Quick Summary:</strong> ${simple}</p>
+                    ${connectivityNote}
                     ${electricalMarkup}
                     <details class="group bg-slate-800/60 p-2.5 rounded border border-slate-700/40">
                       <summary class="cursor-pointer text-xs font-semibold text-emerald-400 hover:text-emerald-300">Tap for Detailed Deep-Dive & Tactical Breakdown</summary>
@@ -252,7 +931,34 @@
           </div>
         </div>
       `;
+      renderCountryMap(dest);
     }
+
+    document.addEventListener("keydown", (event) => {
+      if (event.altKey || event.ctrlKey || event.metaKey || event.target.closest("input, textarea, select, button, .leaflet-container, [contenteditable='true']")) return;
+      if (event.key === "ArrowLeft") navigateDestination(-1);
+      if (event.key === "ArrowRight") navigateDestination(1);
+    });
+
+    let swipeStart = null;
+    const destinationView = document.getElementById("destination-view");
+    destinationView.addEventListener("touchstart", (event) => {
+      if (event.target.closest(".leaflet-container")) {
+        swipeStart = null;
+        return;
+      }
+      if (event.touches.length === 1) {
+        swipeStart = { x: event.touches[0].clientX, y: event.touches[0].clientY };
+      }
+    }, { passive: true });
+    destinationView.addEventListener("touchend", (event) => {
+      if (!swipeStart || event.changedTouches.length !== 1) return;
+      const deltaX = event.changedTouches[0].clientX - swipeStart.x;
+      const deltaY = event.changedTouches[0].clientY - swipeStart.y;
+      swipeStart = null;
+      if (Math.abs(deltaX) < 72 || Math.abs(deltaX) < Math.abs(deltaY) * 1.3) return;
+      navigateDestination(deltaX < 0 ? 1 : -1);
+    }, { passive: true });
   </script>
 </body>
 

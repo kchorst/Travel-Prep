@@ -391,29 +391,29 @@ const updates = {
   },
   HT: {
     preArrival: stage(
-      "Before planning travel, review current official advisories and entry requirements; route and service availability can change rapidly. Verify any flight with the carrier and airport authority.",
-      ["Security and routes: Conditions can change quickly and affect flights, roads, hotels, and public services. Review your government's latest travel advice and consult official Haitian authorities before deciding whether to travel.", "Entry: Visa and document rules depend on nationality and purpose. Check Haiti's Ministry of Foreign Affairs or nearest embassy and the airline's boarding requirements.", "Preparation: Confirm accommodation, ground transport, communications, medical access, and contingency plans directly with trusted local contacts. Do not rely on generic schedules or app coverage."],
-      [source("Haiti Ministry of Foreign Affairs", "https://mfa.gouv.ht/"), source("Haiti tourism information", "https://haititourisme.org/")]
+      "FCDO advises against all travel to Haiti as of 2026-11-02. Do not treat this as a routine itinerary; verify current security, entry, and departure conditions before any travel.",
+      ["Current advisory: FCDO advises against all travel to Haiti because of the volatile security situation and severely limited consular support.", "Entry: Haiti's Foreign Affairs Ministry announced that the electronic I-Kat traveller form is mandatory for people travelling to or from Haiti from 1 October 2026. Confirm the latest instructions, passport-specific requirements, and airline boarding rules before departure.", "Preparation: Confirm accommodation, ground transport, communications, medical access, and contingency plans directly with trusted local contacts. Do not rely on generic schedules or app coverage."],
+      [source("FCDO Haiti entry requirements", "https://www.gov.uk/foreign-travel-advice/haiti/entry-requirements"), source("Haiti Ministry of Foreign Affairs traveller-form notice via its US embassy", "https://ambetatsunis.gouv.ht/missions/actualites/maec-hq-f40418ef354f98e3-avis-aux-ressortissants-haitiens-et-aux-voyageurs"), source("FCDO Haiti travel warning", "https://www.gov.uk/foreign-travel-advice/haiti"), source("Haiti tourism information", "https://haititourisme.org/")]
     ),
     arrival24h: stage(
-      "Haiti uses 110 V / 60 Hz Type A/B sockets, with local variation and power interruptions. Confirm electricity, communications, payment, and transfer arrangements in advance.",
+      "Haiti uses 110 V / 60 Hz Type A/B sockets, with local variation and power interruptions. FCDO advises against all travel; airport operations and local services may change rapidly.",
       ["Power: 110 V / 60 Hz, Type A and B sockets are reported; outages and voltage variation can occur. Check lodging backup power and device requirements.", "Connectivity and money: Carrier coverage and card/ATM access are variable. Confirm working arrangements with your local contact and carry only the amount of cash needed for the planned route.", "Arrival: Airport operations and transport availability may change. Pre-arrange a trusted pickup through your accommodation/local contact and verify current official notices before departure."],
-      [plugs("haiti"), source("Haiti Ministry of Foreign Affairs", "https://mfa.gouv.ht/"), source("Haiti tourism information", "https://haititourisme.org/")]
+      [plugs("haiti"), source("FCDO Haiti airport and security advice", "https://www.gov.uk/foreign-travel-advice/haiti"), source("Haiti Ministry of Foreign Affairs traveller-form notice", "https://ambetatsunis.gouv.ht/missions/actualites/maec-hq-f40418ef354f98e3-avis-aux-ressortissants-haitiens-et-aux-voyageurs"), source("Haiti tourism information", "https://haititourisme.org/")]
     ),
     mobility: stage(
       "Do not assume normal public transit or ride-hailing is operating. Check current advisories and locally verified transport for each trip; avoid publishing sensitive routes.",
       ["Service status: Public transport, roads, and commercial services can be disrupted. Verify each journey with trusted local contacts and current official notices.", "Transport arrangements: If travel proceeds, use a known, pre-arranged driver and confirm route/time shortly before departure. Do not rely on an unverified app listing.", "Walking and safety: Follow local security guidance and avoid routes or times advised against by authorities. Keep plans flexible and maintain communications with your host/contact."],
-      [source("Haiti Ministry of Public Works, Transport and Communications", "https://mtptc.gouv.ht/"), source("Haiti Ministry of Foreign Affairs", "https://mfa.gouv.ht/")]
+      [source("Haiti Ministry of Public Works, Transport and Communications", "https://mtptc.gouv.ht/"), source("FCDO Haiti safety and transport advice", "https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security")]
     ),
     dailyLiving: stage(
       "Assume delivery, pharmacy, water, and payment availability are location- and security-dependent. Confirm essentials through accommodation or trusted local contacts before travel.",
       ["Food and delivery: Do not rely on delivery apps or normal business hours without current local confirmation. Arrange meals and supplies through a trusted contact.", "Water and health: Use sealed water. Confirm clinic/pharmacy operating status and bring essential medication in original packaging, subject to import rules.", "Payments and connectivity: Card networks, ATMs, mobile service, and cash availability can be disrupted. Confirm lawful, safe payment arrangements and carry contingency supplies appropriate to official advice."],
-      [source("Haiti Ministry of Public Health", "https://mspp.gouv.ht/"), source("Haiti Ministry of Foreign Affairs", "https://mfa.gouv.ht/")]
+      [source("Haiti Ministry of Public Health", "https://mspp.gouv.ht/"), source("FCDO Haiti health advice", "https://www.gov.uk/foreign-travel-advice/haiti/health")]
     ),
     socialCode: stage(
       "Follow local hosts' and authorities' direction. Ask before photos; avoid photographing security activity, infrastructure, or people without consent.",
       ["Visits: Use a trusted local intermediary where appropriate. Ask about greetings, shoes, gifts, and language preferences; customs vary by household.", "Language: Haitian Creole is widely used; French is also used in formal contexts. Ask which language is preferred.", "Photography and privacy: Seek consent before photographing people or property. Respect security, privacy, and community guidance, especially during sensitive events."],
-      [source("Haiti tourism information", "https://haititourisme.org/"), source("Haiti Ministry of Foreign Affairs", "https://mfa.gouv.ht/")]
+      [source("Haiti tourism information", "https://haititourisme.org/"), source("FCDO Haiti local laws and safety advice", "https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security")]
     )
   },
   JM: {
@@ -447,7 +447,7 @@ const updates = {
     preArrival: stage(
       "Robert L. Bradshaw (SKB) and Nevis (NEV) serve different islands; compare regional flights and ferry connections. Check St Kitts and Nevis entry rules by passport.",
       ["Flight routing: SKB serves St Kitts; NEV has a smaller network for Nevis. Compare regional flights with ferry transfer time and operating days included.", "Entry: Visa requirements depend on nationality and stay. Check St Kitts and Nevis Immigration before booking and verify onward/return document requirements.", "Climate and packing: Tropical heat and storm season affect flights and ferries. Monitor official weather notices and bring sun/rain protection."],
-      [source("St Kitts and Nevis Immigration", "https://www.gov.kn/"), source("Robert L. Bradshaw Airport", "https://www.sknairport.com/"), source("St Kitts Tourism Authority", "https://www.visitstkitts.com/")]
+      [source("St Kitts and Nevis Immigration", "https://www.gov.kn/"), source("Robert L. Bradshaw Airport", "https://www.sknairport.com/"), source("St Kitts Tourism Authority", "https://visitstkitts.kn/")]
     ),
     arrival24h: stage(
       "St Kitts and Nevis uses 230 V / 60 Hz Type D/G sockets and East Caribbean dollars. Confirm SIM, airport taxi, and ferry details before landing.",
@@ -457,17 +457,17 @@ const updates = {
     mobility: stage(
       "Local buses and taxis serve St Kitts/Nevis; the inter-island ferry links Basseterre and Charlestown. Confirm return schedules and last service.",
       ["On-island: Public buses run on major roads, with route and frequency varying. Ask locally about stops and last departures; taxis are available at visitor hubs.", "Between islands: Ferry service connects Basseterre and Charlestown. Confirm timetable, fare, port, and weather notices before planning a connection.", "Walking: Roads can be narrow with limited sidewalks. Use caution in heat and at night; confirm safe pedestrian routes locally."],
-      [source("St Kitts Nevis Ferry", "https://www.sknferry.com/"), source("St Kitts tourism visitor information", "https://www.visitstkitts.com/")]
+      [source("St Kitts Nevis Ferry", "https://www.sknferry.com/"), source("St Kitts tourism visitor information", "https://visitstkitts.kn/")]
     ),
     dailyLiving: stage(
       "Restaurant delivery is limited and address-specific. Ask lodging about water, groceries, and pharmacy access before visiting Nevis or remote beaches.",
       ["Delivery and shops: Contact businesses directly to confirm delivery area, phone, hours, and payment; app coverage is limited.", "Health and water: Ask accommodation about local water advice and the nearest pharmacy. Bring essential prescriptions; stock is limited outside main towns.", "Money and dining: XCD is used; USD may be accepted in tourist businesses. Check menus for allergens and the bill for service charge."],
-      [source("St Kitts tourism information", "https://www.visitstkitts.com/"), source("Nevis tourism information", "https://www.nevisisland.com/")]
+      [source("St Kitts tourism information", "https://visitstkitts.kn/"), source("Nevis tourism information", "https://www.nevisisland.com/")]
     ),
     socialCode: stage(
       "Use a courteous greeting, ask before photography, and follow host cues on shoes and gifts. Island customs vary between St Kitts and Nevis.",
       ["Home visits: Ask whether to remove shoes and whether a small food gift is welcome.", "Public settings: English is official. Ask permission before photographing people or private property.", "Inter-island: Follow local rules at beaches, churches, and community events; customs differ by household."],
-      [source("St Kitts tourism visitor information", "https://www.visitstkitts.com/"), source("Nevis tourism information", "https://www.nevisisland.com/")]
+      [source("St Kitts tourism visitor information", "https://visitstkitts.kn/"), source("Nevis tourism information", "https://www.nevisisland.com/")]
     )
   },
   LC: {

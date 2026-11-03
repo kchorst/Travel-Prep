@@ -7,7 +7,7 @@ const dataPath = path.join(root, "data", "destinations.json");
 const checked = "2026-11-02";
 const source = (topic, url) => ({ topic, url, lastChecked: checked });
 const stage = (simple, paragraphs, sources) => ({ simple, detailed: paragraphs.join("\n\n"), sources });
-const schengen = source("European Commission: Schengen visa policy", "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en");
+const schengen = source("European Commission: Schengen visa policy", "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en");
 const plugs = (country) => source("Electrical standards and socket types", `https://www.power-plugs-sockets.com/${country}/`);
 
 const updates = {
@@ -94,7 +94,7 @@ const updates = {
         "Pharmacy and water: Ask your accommodation about the nearest open pharmacy and local water notices. Carry prescriptions in original packaging and verify medicine import rules before travel.",
         "Food and payment: Try shopska salad, banitsa, or regional dishes; confirm ingredients and dietary needs. Euro is the currency. Service charges and tipping vary by venue; review the bill."
       ],
-      [source("Glovo service availability", "https://glovoapp.com/"), source("eBag Bulgaria grocery delivery", "https://www.ebag.bg/"), source("Bulgarian tourism information", "https://bulgariatravel.org/en/")]
+      [source("Glovo service availability", "https://glovoapp.com/"), source("eBag Bulgaria grocery delivery", "https://www.ebag.bg/"), source("Bulgarian tourism information", "https://visitbulgaria.com/")]
     ),
     socialCode: stage(
       "Ask before photographing people or religious services, and follow site dress rules. At a home visit, ask about shoes and gifts rather than relying on folk generalizations.",
@@ -103,7 +103,7 @@ const updates = {
         "Religious sites: Follow posted rules on clothing, photography, and services. Ask permission before photographing people or private property.",
         "Conversation: Bulgarian is the official language; English use varies by age and location. Start courteously and ask which language is comfortable."
       ],
-      [source("Bulgarian tourism information", "https://bulgariatravel.org/en/")]
+      [source("Bulgarian tourism information", "https://visitbulgaria.com/")]
     )
   },
   HR: {
@@ -255,7 +255,7 @@ const updates = {
         "Entry rules: North Macedonia is outside Schengen. Visa eligibility and stay limits depend on passport nationality; verify with the Ministry of Foreign Affairs or the relevant embassy before travel.",
         "Climate and clothing: Skopje has cold winters and hot summers; Ohrid and mountain areas differ. Check forecasts and pack layers, sun protection, and walking shoes."
       ],
-      [source("North Macedonia Ministry of Foreign Affairs", "https://mfa.gov.mk/en"), source("Skopje International Airport destinations and passenger guide", "https://skp.airports.com.mk/en-EN/")]
+      [source("North Macedonia Ministry of Foreign Affairs", "https://mfa.gov.mk/en"), source("Skopje International Airport passenger guide and transport", "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport")]
     ),
     arrival24h: stage(
       "North Macedonia uses denar (MKD) and 230 V / 50 Hz Type C/F sockets. Skopje Airport posts current transport choices; carry some cash for small purchases.",
@@ -302,7 +302,7 @@ const updates = {
         "Entry rules: Romania is in Schengen. Short-stay eligibility depends on nationality and days already spent in the area; check the European Commission's current guidance and consular instructions.",
         "Climate and packing: Romania has cold winters and warm summers, with mountain weather changing quickly. Check forecasts for city and rural legs; pack layers and suitable shoes for cobbles or hiking."
       ],
-      [schengen, source("Bucharest Airports passenger information", "https://bucharestairports.ro/en/"), source("Romanian National Tourism Authority", "https://romania.travel/")]
+      [schengen, source("Bucharest Airports passenger information", "https://bucharestairports.ro/en/"), source("FCDO Romania entry and travel advice", "https://www.gov.uk/foreign-travel-advice/romania")]
     ),
     arrival24h: stage(
       "Romania uses 230 V / 50 Hz Type C/F sockets and the leu (RON). OTP has rail and bus connections; check current airport and operator notices.",
@@ -329,7 +329,7 @@ const updates = {
         "Health and water: Ask locally about building plumbing and municipal notices; use sealed or treated water if uncertain. Locate a duty pharmacy and bring prescriptions in original packaging.",
         "Food and payment: Try sarmale, mici, or regional soups; ask about ingredients and allergens. The leu is used; tipping and service charges vary, so review the receipt. Buffet rules are venue-specific."
       ],
-      [source("Glovo service availability", "https://glovoapp.com/"), source("Wolt Romania", "https://wolt.com/en/rou"), source("Romanian National Tourism Authority", "https://romania.travel/")]
+      [source("Glovo service availability", "https://glovoapp.com/"), source("Wolt Romania", "https://wolt.com/en/rou"), source("FCDO Romania health guidance", "https://www.gov.uk/foreign-travel-advice/romania/health")]
     ),
     socialCode: stage(
       "At churches, follow posted clothing and photography rules. For home visits, ask about shoes and gifts; household practices vary.",
@@ -338,7 +338,7 @@ const updates = {
         "Religious and heritage sites: Follow posted dress, photography, and service rules; ask before photographing people or ceremonies.",
         "Conversation: Romanian is the official language; English familiarity varies by place and person. Ask politely which language is comfortable and avoid broad claims about national character."
       ],
-      [source("Romanian National Tourism Authority", "https://romania.travel/")]
+      [source("FCDO Romania local laws and safety advice", "https://www.gov.uk/foreign-travel-advice/romania/safety-and-security")]
     )
   },
   RS: {

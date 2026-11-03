@@ -6,6 +6,8 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const sourcePath = path.join(root, "data", "destinations.json");
 const electricalPath = path.join(root, "data", "electrical-standards.json");
+const capitalCoordinatesPath = path.join(root, "data", "capital-coordinates.json");
+const worldMapPath = path.join(root, "data", "world-countries.geojson");
 const outputDirectory = path.join(root, "data", "regions");
 const indexPath = path.join(root, "data", "index.json");
 const stageKeys = ["preArrival", "arrival24h", "mobility", "dailyLiving", "socialCode"];
@@ -14,6 +16,11 @@ const easternEuropeIsoCodes = new Set([
   "MD", "ME", "MK", "PL", "RO", "RS", "RU", "SI", "SK", "TR", "UA"
 ]);
 const firstInstallShards = ["eastern-europe", "pakistan"];
+const requiredDailySections = [
+  /^Beverage and dietary norms:/im,
+  /^Alcohol retail:/im,
+  /^Buffet and meal pricing:/im
+];
 
 function hash(value) {
   return createHash("sha256").update(value).digest("hex");
@@ -32,13 +39,20 @@ function profileStatus(destination) {
   );
   const electricalComplete = Array.isArray(electricalStandards[destination.iso]?.socketTypes) &&
     electricalStandards[destination.iso].socketTypes.length > 0;
-  return stagesComplete && electricalComplete ? "complete" : "in-progress";
+  const dailyLivingComplete = requiredDailySections.every((pattern) =>
+    pattern.test(destination.stages.dailyLiving.detailed)
+  );
+  return stagesComplete && electricalComplete && dailyLivingComplete ? "complete" : "in-progress";
 }
 
 const sourceText = readFileSync(sourcePath, "utf8");
 const destinations = JSON.parse(sourceText);
 const electricalText = readFileSync(electricalPath, "utf8");
 const electricalStandards = JSON.parse(electricalText);
+const capitalCoordinatesText = readFileSync(capitalCoordinatesPath, "utf8");
+const capitalCoordinates = JSON.parse(capitalCoordinatesText);
+const worldMapText = readFileSync(worldMapPath, "utf8");
+const worldMap = JSON.parse(worldMapText);
 if (!Array.isArray(destinations) || destinations.length === 0) {
   throw new Error("destinations.json must contain a non-empty array");
 }
@@ -46,10 +60,22 @@ if (!Array.isArray(destinations) || destinations.length === 0) {
 const ids = new Set();
 const isoCodes = new Set();
 const grouped = new Map();
+const mapIsoCodes = new Set(worldMap.features.map((feature) => {
+  const properties = feature.properties || {};
+  const iso = properties.ISO_A2_EH || properties.ISO_A2 || properties["ISO3166-1-Alpha-2"];
+  return iso === "CN-TW" ? "TW" : iso;
+}).filter((iso) => iso && iso !== "-99"));
 for (const destination of destinations) {
   if (!destination.id || !destination.iso || ids.has(destination.id) || isoCodes.has(destination.iso)) {
     throw new Error(`Missing or duplicate destination identity: ${destination.id}/${destination.iso}`);
   }
+  const coordinates = capitalCoordinates.destinations?.[destination.iso];
+  if (!coordinates || !coordinates.capital || !coordinates.source?.startsWith("https://") ||
+      !Number.isFinite(coordinates.latitude) || Math.abs(coordinates.latitude) > 90 ||
+      !Number.isFinite(coordinates.longitude) || Math.abs(coordinates.longitude) > 180) {
+    throw new Error(`Missing or invalid capital coordinates for ${destination.iso}`);
+  }
+  if (!mapIsoCodes.has(destination.iso)) throw new Error(`Country map boundary missing for ${destination.iso}`);
   ids.add(destination.id);
   isoCodes.add(destination.iso);
   for (const stageKey of stageKeys) {
@@ -104,14 +130,20 @@ for (const [name, records] of grouped) {
 }
 
 const index = {
-  schemaVersion: 2,
-  dataVersion: hash(`${sourceText}\n${electricalText}`),
+  schemaVersion: 4,
+  dataVersion: hash(`${sourceText}\n${electricalText}\n${capitalCoordinatesText}\n${worldMapText}`),
+  coordinateAttribution: capitalCoordinates.attribution,
+  mapAttribution: "Natural Earth 1:50m Admin-0 boundaries, public domain; country codes normalized from ISO_A2_EH.",
   defaultShards: firstInstallShards,
   shards,
   destinations: destinations.map((destination) => ({
     id: destination.id,
     country: destination.country,
     city: destination.city,
+    capital: capitalCoordinates.destinations[destination.iso].capital,
+    latitude: capitalCoordinates.destinations[destination.iso].latitude,
+    longitude: capitalCoordinates.destinations[destination.iso].longitude,
+    capitalSource: capitalCoordinates.destinations[destination.iso].source,
     region: destination.region,
     currency: destination.currency,
     iso: destination.iso,
