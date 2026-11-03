@@ -1,0 +1,177 @@
+[
+  {
+    "id": "pk-pk",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "region": "Asia",
+    "currency": "PKR",
+    "stages": {
+      "preArrival": {
+        "simple": "Compare fares on Google Flights/Skyscanner and Pakistan's Sastaticket.pk, then confirm baggage and ticket terms with the airline. Check the official NADRA visa portal for your passport.",
+        "detailed": "Flight search and routing: Islamabad (ISB), Karachi (KHI), and Lahore (LHE) are major gateways. Google Flights and Skyscanner help compare international options; Sastaticket.pk is a Pakistan-focused booking platform. Compare the final fare, baggage, change rules, and payment method, then verify with the operating airline.\n\nEntry: Pakistan's official Online Visa System is managed through NADRA. Eligibility and documents depend on nationality and visa category; apply only through the official portal and wait for the required approval before travel.\n\nClimate and packing: Conditions range from high mountains to hot plains and coast. Check the forecast for each region and season. Pack modest, breathable clothing for cities and sun protection; add warm layers for northern or winter trips.",
+        "sources": [
+          {
+            "topic": "Pakistan Online Visa System",
+            "url": "https://visa.nadra.gov.pk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Islamabad International Airport",
+            "url": "https://islamabadairport.com.pk/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Pakistan uses 230 V / 50 Hz Type C and D sockets. Confirm visitor SIM rules and card acceptance; keep PKR cash for small purchases or outages. How to pay: Carry PKR cash for small merchants; a travel guide reports major credit cards at larger hotels, restaurants, and shops. Foreign debit, contactless, and online-card acceptance need confirmation. How to pay: Wikivoyage reports that major credit cards are accepted at large department stores, souvenir shops, and upscale restaurants and hotels; it also says small businesses and family-run shops often do not accept cards. Treat this as a venue-size pattern, not a guarantee for a particular merchant or foreign-issued card. Carry local currency as a backup. Emergency: Police 15; ambulance or fire 1122.",
+        "detailed": "Power: 230 V / 50 Hz, Type C and D sockets. The local diagram appears above; check your device label and bring a suitable adapter.\n\nConnectivity and money: Check visitor SIM registration and eSIM eligibility with the carrier before travel; coverage differs by region. Easypaisa and JazzCash are important domestic payment services, but do not assume a visitor can activate them or that international cards will work everywhere. Keep Pakistani rupees (PKR) available and confirm your bank's international-use settings.\n\nAirport transfer: Islamabad Airport provides current flight and passenger information. Use clearly marked airport transport or a verified ride booking; confirm the vehicle, destination, and fare before departure.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Pakistan; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.\n\nPhone and watch wallets:  NFCW also lists Huawei Pay in this market; confirm current support with the provider. Country availability does not guarantee that your specific card, issuer, device, or watch is eligible. The merchant must also accept contactless on your card network. Keep a physical Visa/Mastercard and modest local-currency cash as backups.\n\nIn-person card acceptance: Wikivoyage reports that major credit cards are accepted at large department stores, souvenir shops, and upscale restaurants and hotels; it also says small businesses and family-run shops often do not accept cards. Treat this as a venue-size pattern, not a guarantee for a particular merchant or foreign-issued card.\n\nCredit/debit distinction: The cited travel guidance discusses major credit cards but does not establish whether foreign-issued debit cards are accepted on the same terms. Confirm your card type and network with the venue and issuer before relying on it.\n\nCash acceptance: Use Pakistani rupees (PKR) as the reliable fallback, especially at small shops and markets. Keep small notes; the guide notes that merchants and drivers may not have change for large bills.\n\nMerchant NFC acceptance: The sources reviewed do not establish countrywide contactless-terminal acceptance for foreign cards. Do not infer NFC acceptance from a phone wallet alone; confirm that the merchant accepts contactless on your card network.\n\nOnline card use: The sources reviewed do not establish countrywide acceptance of foreign-issued cards for online purchases. Check the specific airline, hotel, or booking checkout and your issuer before relying on a card.\n\nLocal wallets: Easypaisa and JazzCash are domestic payment services. Their provider sites describe local payment products but do not establish that overseas visitors can register; confirm eligibility with the provider before relying on either service.\n\nHow to pay: Wikivoyage reports that major credit cards are accepted at large department stores, souvenir shops, and upscale restaurants and hotels; it also says small businesses and family-run shops often do not accept cards. Treat this as a venue-size pattern, not a guarantee for a particular merchant or foreign-issued card. Carry local currency as a backup.\n\nEmergency response: Police: 15. Ambulance or fire: 1122.",
+        "sources": [
+          {
+            "topic": "Pakistan electrical standards",
+            "url": "https://www.power-plugs-sockets.com/pakistan/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Islamabad International Airport",
+            "url": "https://islamabadairport.com.pk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "NFCW OEM Pay country availability directory",
+            "url": "https://www.nfcw.com/oem-pay-availability/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Pakistan travel guide: money, card acceptance, and cash use",
+            "url": "https://en.wikivoyage.org/wiki/Pakistan#Money",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "UK FCDO Pakistan travel advice: credit-card fraud warning",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/safety-and-security",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Easypaisa official consumer payment services",
+            "url": "https://easypaisa.com.pk/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "JazzCash official consumer payment services",
+            "url": "https://www.jazzcash.com.pk/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "UK Government: Pakistan emergency services",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/getting-help",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Islamabad, Lahore, and Karachi have different metro/BRT systems. Use current city operator information; ride-hailing and shared options vary by city.",
+        "detailed": "Urban transit: Islamabad has Metrobus service; Lahore has Metrobus and Orange Line Metro Train; Karachi has the Green Line BRT. Check each operator's latest route, fare, and ticket guidance rather than expecting one national pass.\n\nShared and app-based trips: Intercity buses, vans, and city-specific ride-hailing options fill gaps in the formal networks. Check current app availability and vehicle details in the city where you are staying; confirm the fare and pickup point.\n\nWalking: Heat, traffic, and sidewalk continuity vary sharply by district. Plan short walks in daylight where appropriate, use marked crossings, and choose a car or transit for exposed or high-speed roads.",
+        "sources": [
+          {
+            "topic": "Islamabad Capital Development Authority",
+            "url": "https://cda.gov.pk/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Foodpanda operates in major Pakistani cities, but check address coverage. Use sealed or treated water unless a trusted local source confirms otherwise.",
+        "detailed": "Delivery: Foodpanda and grocery services are available in many urban areas; confirm the exact address, phone requirements, cash/card options, and delivery hours in the app. Availability is thinner outside major cities.\n\nFood, pharmacies, and water: Halal food is widely available, but ask about ingredients and dietary needs. Do not assume tap water is potable; use sealed bottled or properly treated water. Carry essential medication in original packaging with a prescription and check import rules.\n\nPayments and dining: Cash, cards, and domestic wallets are used differently by merchant and city. Confirm service charges before tipping. Buffet rules are venue-specific; follow posted plate or weight-based pricing rather than assuming unlimited refills.\n\nDrinking-water source access: The 2025 Factbook field classifies 90.6% of the population as having an improved source (urban 92.9%, rural 89.3%; 2022 estimate); 9.4% overall are classified as unimproved. This does not establish safety at a specific tap.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "Foodpanda Pakistan",
+            "url": "https://www.foodpanda.pk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Pakistan tourism information",
+            "url": "https://tourism.gov.pk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Pakistan drinking-water-source field",
+            "url": "https://worldfactbookarchive.org/archive/field/PK/Drinking%20water%20source",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Dress modestly in public and at religious sites; ask before photographing people. At a home visit, follow your host on shoes, greetings, and shared-dish etiquette.",
+        "detailed": "Dress and greetings: Expectations vary by region and setting. Modest clothing is a considerate default, especially in religious spaces; follow posted rules. Use a polite greeting and let the other person set the level of formality or physical contact.\n\nHome and meals: Ask whether to remove shoes. When sharing food, observe the host's practice; some settings favor using the right hand. Ask about dietary needs and avoid assuming every household follows the same custom.\n\nPhotography and behavior: Ask permission before photographing people, homes, or religious ceremonies, and follow restrictions at security-sensitive locations. Avoid broad assumptions about gender, language, or religious practice.\n\nDog culture: Public access, leash expectations, and attitudes toward companion dogs vary by locality and venue. Check transport, park, and accommodation rules; do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Ask an owner or caretaker before feeding or handling an unfamiliar cat, and check accommodation pet policies.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official requirements before travelling with a pet bird.\n\nDining interface: Eating with the right hand is common; bread such as naan or roti may be torn and used to scoop food, while a spoon is commonly used for rice dishes. Practices vary by dish and setting; follow the host's lead.\n\nHofstede cultural dimensions: The Culture Factor reports these country-comparison scores for Pakistan: power distance score as 55; individualism 5; motivation toward achievement and success 50; uncertainty avoidance 70; long-term orientation 19; indulgence 0. The source says scores are updated when published research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. These are broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: Urdu is the national language and English is official; the Factbook notes English is a lingua franca of elites and most government ministries. It also lists Punjabi 38.8%, Pashto 18.2%, Sindhi 14.6%, and Saraiki 12.2% as mother tongues; English access varies by setting.",
+        "sources": [
+          {
+            "topic": "Wikivoyage Pakistan dining-interface guidance",
+            "url": "https://en.wikivoyage.org/wiki/Pakistan#Eat",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Pakistan tourism information",
+            "url": "https://tourism.gov.pk/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Hofstede framework and interpretation caveats",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Pakistan Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/PK",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "PK",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "C",
+        "D"
+      ],
+      "source": "https://www.power-plugs-sockets.com/pakistan/",
+      "lastChecked": "2026-11-02"
+    }
+  }
+]

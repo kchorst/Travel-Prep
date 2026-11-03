@@ -1,0 +1,1956 @@
+[
+  {
+    "id": "au-au",
+    "country": "Australia",
+    "city": "Canberra",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Sydney (SYD), Melbourne (MEL), Brisbane (BNE), and Perth (PER) are major gateways; choose based on your route. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Sydney (SYD), Melbourne (MEL), Brisbane (BNE), and Perth (PER) are major gateways; choose based on your route. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Distances and seasonal hazards vary by region; verify current state-level advisories, road closures, and park access before booking remote travel.\n\nClimate and timing: Australia spans tropical north, temperate south, desert interior, and alpine regions; seasons are opposite the Northern Hemisphere. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Plan for strong sun, regional heat, bushfire or cyclone seasons, and long distances; check the forecast for each state and territory. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Australia uses Type I sockets, 230 V / 50 Hz. Carry AUD and confirm mobile, payment, and airport-transfer arrangements. How to pay: Apple lists Apple Pay as available; Google lists Wallet tap-to-pay support in Australia. NFCW also lists Samsung Wallet, Garmin Pay in this market; confirm current support with the provider. Your specific issuer/card and the merchant's terminal must also support the payment; carry a physical card and local cash as backups. Emergency: Call 000 for police, fire, or ambulance; 112 also works from mobile phones.",
+        "detailed": "How to pay: Apple lists Apple Pay as available; Google lists Wallet tap-to-pay support in Australia. NFCW also lists Samsung Wallet, Garmin Pay in this market; confirm current support with the provider. Your specific issuer/card and the merchant's terminal must also support the payment; carry a physical card and local cash as backups.\n\nPower: The listed supply is 230 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Sydney (SYD), Melbourne (MEL), Brisbane (BNE), and Perth (PER) are major gateways; choose based on your route. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Australia; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.\n\nPhone and watch wallets: Apple lists Apple Pay as available; Google lists Wallet tap-to-pay support in Australia. NFCW also lists Samsung Wallet, Garmin Pay in this market; confirm current support with the provider. Country availability does not guarantee that your specific card, issuer, device, or watch is eligible. The merchant must also accept contactless on your card network. Keep a physical Visa/Mastercard and modest local-currency cash as backups.\n\nEmergency response: Call Triple Zero (000) for police, fire, or ambulance. From a mobile phone, 112 reaches the same service; it cannot be called from a fixed landline or satellite phone. If there is no mobile coverage on any network, you cannot reach 000 by mobile.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Apple Pay supported countries and regions",
+            "url": "https://support.apple.com/en-us/102775",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Apple Pay participating banks and card issuers",
+            "url": "https://support.apple.com/en-us/109516",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Google Wallet country-specific tap-to-pay support for Australia",
+            "url": "https://support.google.com/wallet/answer/12060037?hl=en&co=GENIE.CountryCode%3DAU",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "NFCW OEM Pay country availability directory",
+            "url": "https://www.nfcw.com/oem-pay-availability/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Garmin Pay participating banks and cards",
+            "url": "https://www.garmin.com/en-GB/garminpay/banks/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Australian Government: Triple Zero (000)",
+            "url": "https://www.infrastructure.gov.au/triple-zero",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Major cities have separate train, tram, bus, and ticket systems; regional travel relies on long-distance coaches, selected rail, and domestic flights. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Major cities have separate train, tram, bus, and ticket systems; regional travel relies on long-distance coaches, selected rail, and domestic flights. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method. Uber Eats lists delivery in more than 500 Australian cities; check your exact address and hours in the app. Menulog has closed. Local soft-drink brand example: Kirks appears in Coca-Cola Australia's brand catalogue; check local flavours and labels. Payment rail: PayID is part of Australian online banking and is linked to a bank account; it is not a general visitor wallet. Keep a card or cash backup.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.\n\nFood delivery: Uber Eats' Australian site lists more than 500 cities, but restaurant and grocery availability depends on the exact address and time. Enter your accommodation postcode before relying on delivery. Menulog's official site says the service has closed and directs customers to Uber Eats; older Menulog listings are stale.\n\nLocal drink example: Coca-Cola Australia's current brand catalogue includes Kirks. Product selection and sugar or sweetener variants depend on the retailer; check the specific package rather than assuming a standard formula.\n\nPayments: PayID uses an email address, mobile number, ABN, or other identifier linked to an account at a participating financial institution. It operates through online banking, so visitors without an eligible Australian bank account should not plan on using it. Check merchant card acceptance and keep a backup payment method.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uber Eats Australia city and address-based delivery listings",
+            "url": "https://www.ubereats.com/au/location",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Menulog Australia service closure notice",
+            "url": "https://www.menulog.com.au/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Coca-Cola Australia official brands catalogue listing Kirks",
+            "url": "https://www.coca-cola.com/au/en/brands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Australian Payments Plus official PayID service description",
+            "url": "https://www.auspayplus.com.au/solutions/payid",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "English is widely used alongside many community languages; follow local guidance and respect Traditional Owners and First Nations places. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: English is widely used alongside many community languages; follow local guidance and respect Traditional Owners and First Nations places. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor reports these country-comparison scores for Australia: power distance score as 38; individualism 73; motivation toward achievement and success 61; uncertainty avoidance 51; long-term orientation 56; indulgence 71. The source says scores are updated when published research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. These are broad comparisons, not predictions about individuals or subnational groups.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "AU",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "fj-fj",
+    "country": "Fiji",
+    "city": "Suva",
+    "region": "Oceania",
+    "currency": "FJD",
+    "stages": {
+      "preArrival": {
+        "simple": "Nadi (NAN) is the main international gateway; Suva (SUV) serves the capital region. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Nadi (NAN) is the main international gateway; Suva (SUV) serves the capital region. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Transfers depend on island and weather; arrange the ferry or flight before booking a remote stay and check cyclone advisories.\n\nClimate and timing: Fiji is tropical and humid, with cyclone risk and wetter summer months; conditions vary among the islands. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection, light rainwear, and reef-safe gear; modest clothing is expected when visiting villages and religious sites. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Fiji uses Type I sockets, 240 V / 50 Hz. Carry FJD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 240 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Nadi (NAN) is the main international gateway; Suva (SUV) serves the capital region. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Fiji; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Buses and taxis serve Viti Levu; ferries and domestic flights connect islands. Confirm the exact island, port, luggage rules, and last connection. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Buses and taxis serve Viti Levu; ferries and domestic flights connect islands. Confirm the exact island, port, luggage rules, and last connection. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "English, iTaukei, and Fiji Hindi are official; language and customs vary between communities and islands. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: English, iTaukei, and Fiji Hindi are official; language and customs vary between communities and islands. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor reports these country-comparison scores for Fiji: power distance score as 78; individualism 14; motivation toward achievement and success 46; uncertainty avoidance 48. The source says scores are updated when published research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. These are broad comparisons, not predictions about individuals or subnational groups. No published long-term orientation, indulgence score is shown for this country.\n\nLanguage landscape: English, iTaukei, and Fiji Hindi are official languages. The Factbook gives no usage shares; ask which language a person prefers, especially outside visitor-facing services.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Fiji Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/FJ",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "FJ",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ki-ki",
+    "country": "Kiribati",
+    "city": "Tarawa Atoll",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Bonriki International (TRW) on South Tarawa; outer-island access is limited and schedule-dependent. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Bonriki International (TRW) on South Tarawa; outer-island access is limited and schedule-dependent. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Atoll services and medical facilities are limited; verify outer-island transport and water availability before departure.\n\nClimate and timing: Kiribati is equatorial and maritime, with heat, humidity, drought exposure, and changing sea conditions. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring strong sun protection, light rainwear, drinking-water planning, and reef-safe equipment. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Kiribati uses Type I sockets, 240 V / 50 Hz. Carry AUD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 240 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Bonriki International (TRW) on South Tarawa; outer-island access is limited and schedule-dependent. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Kiribati; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "South Tarawa has buses, minibuses, and taxis; outer atolls rely on infrequent domestic flights and ships. Confirm return service, fuel, and local communications. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: South Tarawa has buses, minibuses, and taxis; outer atolls rely on infrequent domestic flights and ships. Confirm return service, fuel, and local communications. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Gilbertese (I-Kiribati) and English are official; Gilbertese is widely used in daily life. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Gilbertese (I-Kiribati) and English are official; Gilbertese is widely used in daily life. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Kiribati as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "KI",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "mh-mh",
+    "country": "Marshall Islands",
+    "city": "Majuro",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Amata Kabua International (MAJ) on Majuro; inter-island air routes are limited. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Amata Kabua International (MAJ) on Majuro; inter-island air routes are limited. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Medical care, fuel, and transport outside Majuro are limited; plan communications and onward travel in advance.\n\nClimate and timing: The Marshall Islands are tropical and oceanic, with hot humid weather and seasonal storm risk. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection, light rainwear, reef-safe gear, and enough essential supplies for remote atoll travel. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Marshall Islands uses Type A / Type B sockets, 120 V / 60 Hz. Carry USD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 120 V / 60 Hz with Type A and Type B sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Amata Kabua International (MAJ) on Majuro; inter-island air routes are limited. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Marshall Islands; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Majuro uses taxis and shared vehicles; outer atolls depend on scheduled flights and ships. Confirm return connections and weather status directly. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Majuro uses taxis and shared vehicles; outer atolls depend on scheduled flights and ships. Confirm return connections and weather status directly. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Marshallese and English are official; Marshallese is widely used in local communities. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Marshallese and English are official; Marshallese is widely used in local communities. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Marshall Islands as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "MH",
+    "electrical": {
+      "voltage": 120,
+      "frequency": 60,
+      "socketTypes": [
+        "A",
+        "B"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "fm-fm",
+    "country": "Micronesia",
+    "city": "Palikir",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Pohnpei (PNI) and other island airports; international connections and island-hopping routes are limited. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Pohnpei (PNI) and other island airports; international connections and island-hopping routes are limited. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. The four states are widely separated; do not assume same-day connections or consistent mobile and medical services.\n\nClimate and timing: The Federated States of Micronesia are equatorial and humid, with heavy rainfall and changing sea conditions. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring rain protection, sun protection, reef-safe gear, and sufficient medication for remote-island itineraries. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Micronesia uses Type A / Type B sockets, 120 V / 60 Hz. Carry USD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 120 V / 60 Hz with Type A and Type B sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Pohnpei (PNI) and other island airports; international connections and island-hopping routes are limited. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Micronesia; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Local taxis and small buses serve some towns; inter-island travel relies on flights and ships with limited frequency. Check each state's route and return schedule. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Local taxis and small buses serve some towns; inter-island travel relies on flights and ships with limited frequency. Check each state's route and return schedule. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "English is official; Chuukese, Pohnpeian, Yapese, Kosraean, and other local languages are used by state. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: English is official; Chuukese, Pohnpeian, Yapese, Kosraean, and other local languages are used by state. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Micronesia as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: English is official and common; the Factbook also lists Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, and Kapingamarangi. Ask locally which language is preferred; usage varies across the islands.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Micronesia Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/FM",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "FM",
+    "electrical": {
+      "voltage": 120,
+      "frequency": 60,
+      "socketTypes": [
+        "A",
+        "B"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "nr-nr",
+    "country": "Nauru",
+    "city": "Yaren District",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Nauru International (INU), with limited flight frequency. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Nauru International (INU), with limited flight frequency. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Flights and accommodation capacity are limited; confirm a return itinerary and local transport before travel.\n\nClimate and timing: Nauru is tropical, hot, and humid, with rainfall and sea conditions affecting island travel. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection, light rainwear, and enough essential medication for a short-supply island environment. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Nauru uses Type I sockets, 240 V / 50 Hz. Carry AUD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 240 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Nauru International (INU), with limited flight frequency. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Nauru; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "There is no extensive public-transit network; taxis, arranged vehicles, and short road trips serve the island. Confirm airport pickup before arrival. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: There is no extensive public-transit network; taxis, arranged vehicles, and short road trips serve the island. Confirm airport pickup before arrival. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Nauruan and English are official; English is widely used for government and visitor services. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Nauruan and English are official; English is widely used for government and visitor services. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Nauru as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: Nauruan is the main home language. The Factbook's 2011 estimates list Nauruan 93% and English 2% as main home languages; a separate note says English is widely understood and used in government and commerce. Those are different measures, not individual fluency guarantees.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Nauru Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/NR",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "NR",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "nz-nz",
+    "country": "New Zealand",
+    "city": "Wellington",
+    "region": "Oceania",
+    "currency": "NZD",
+    "stages": {
+      "preArrival": {
+        "simple": "Auckland (AKL) is the main international gateway; Wellington (WLG) and Christchurch (CHC) serve other routes. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Auckland (AKL) is the main international gateway; Wellington (WLG) and Christchurch (CHC) serve other routes. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Check road and ferry updates before connections; complete required traveller declarations and follow strict biosecurity rules for outdoor gear.\n\nClimate and timing: New Zealand has changeable maritime weather; the North and South Islands, coasts, and alpine regions differ, and seasons are opposite the Northern Hemisphere. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring layers and waterproof footwear; check track, road, and weather conditions for hikes and winter travel. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "New Zealand uses Type I sockets, 230 V / 50 Hz. Carry NZD and confirm mobile, payment, and airport-transfer arrangements. How to pay: Apple lists Apple Pay as available; Google lists Wallet tap-to-pay support in New Zealand. NFCW also lists Garmin Pay in this market; confirm current support with the provider. Your specific issuer/card and the merchant's terminal must also support the payment; carry a physical card and local cash as backups. Emergency: Call 111 for Police, Fire, or Ambulance; calls are free, even from a mobile with no credit.",
+        "detailed": "How to pay: Apple lists Apple Pay as available; Google lists Wallet tap-to-pay support in New Zealand. NFCW also lists Garmin Pay in this market; confirm current support with the provider. Your specific issuer/card and the merchant's terminal must also support the payment; carry a physical card and local cash as backups.\n\nPower: The listed supply is 230 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Auckland (AKL) is the main international gateway; Wellington (WLG) and Christchurch (CHC) serve other routes. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for New Zealand; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.\n\nPhone and watch wallets: Apple lists Apple Pay as available; Google lists Wallet tap-to-pay support in New Zealand. NFCW also lists Garmin Pay in this market; confirm current support with the provider. Country availability does not guarantee that your specific card, issuer, device, or watch is eligible. The merchant must also accept contactless on your card network. Keep a physical Visa/Mastercard and modest local-currency cash as backups.\n\nEmergency response: Call 111 for Police, Fire, or Ambulance; the operator asks which service you need and connects you. Calls are free, including from a mobile phone with no credit.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Apple Pay supported countries and regions",
+            "url": "https://support.apple.com/en-us/102775",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Apple Pay participating banks and card issuers",
+            "url": "https://support.apple.com/en-us/109516",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Google Wallet country-specific tap-to-pay support for New Zealand",
+            "url": "https://support.google.com/wallet/answer/12060037?hl=en&co=GENIE.CountryCode%3DNZ",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "NFCW OEM Pay country availability directory",
+            "url": "https://www.nfcw.com/oem-pay-availability/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Garmin Pay participating banks and cards",
+            "url": "https://www.garmin.com/en-GB/garminpay/banks/",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "New Zealand Police: 111 Emergency Services",
+            "url": "https://www.police.govt.nz/call-111",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Auckland and Wellington have bus and rail networks; coaches, domestic flights, and Cook Strait ferries connect regions. Driving is on the left and rural roads can be slow or winding. Check current routes, fares, operating hours, and service alerts before setting out. Ride-hailing: Bolt's live directory lists city pages for Auckland; check whether car rides are currently offered for your exact location.",
+        "detailed": "Urban transport: Auckland and Wellington have bus and rail networks; coaches, domestic flights, and Cook Strait ferries connect regions. Driving is on the left and rural roads can be slow or winding. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.\n\nRide-hailing: Bolt's live location directory lists Auckland. City listings and service types vary; check whether car rides are available for your exact destination and trip time, verify airport pickup rules and the fare in-app, and keep a local taxi or transit option as backup.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Bolt official live city directory and current service locations",
+            "url": "https://bolt.eu/en/cities/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method. Uber Eats lists delivery in New Zealand cities including Auckland, Christchurch, and Queenstown; check your exact address.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.\n\nFood delivery: Uber Eats' New Zealand site lists city coverage including Auckland, Christchurch, Dunedin, and Queenstown. Restaurant and shop availability, opening hours, and fees depend on the exact address; confirm delivery to your accommodation.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Uber Eats New Zealand city and address-based delivery listings",
+            "url": "https://www.ubereats.com/nz/",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "English, te reo Māori, and New Zealand Sign Language are official; Māori customs vary among iwi and communities. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: English, te reo Māori, and New Zealand Sign Language are official; Māori customs vary among iwi and communities. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor reports these country-comparison scores for New Zealand: power distance score as 22; individualism 69; motivation toward achievement and success 58; uncertainty avoidance 49; long-term orientation 55; indulgence 75. The source says scores are updated when published research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. These are broad comparisons, not predictions about individuals or subnational groups.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "NZ",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "pw-pw",
+    "country": "Palau",
+    "city": "Ngerulmud",
+    "region": "Oceania",
+    "currency": "USD",
+    "stages": {
+      "preArrival": {
+        "simple": "Roman Tmetuchl International (ROR) on Babeldaob, serving Koror and the Rock Islands. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Roman Tmetuchl International (ROR) on Babeldaob, serving Koror and the Rock Islands. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Marine access is regulated and weather-sensitive; verify permits and protected-area rules before boating, fishing, or diving.\n\nClimate and timing: Palau is tropical, hot, and humid, with heavy rain and storm risk varying by season. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection, reef-safe equipment, rainwear, and modest attire for local communities. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Palau uses Type A / Type B sockets, 120 V / 60 Hz. Carry USD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 120 V / 60 Hz with Type A and Type B sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Roman Tmetuchl International (ROR) on Babeldaob, serving Koror and the Rock Islands. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Palau; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Taxis and shuttles serve Koror; boats and tour operators provide access to islands and dive sites. Confirm permits, operator, and return arrangements. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Taxis and shuttles serve Koror; boats and tour operators provide access to islands and dive sites. Confirm permits, operator, and return arrangements. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Palauan and English are official; Japanese and Sonsorolese are also used in some communities. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Palauan and English are official; Japanese and Sonsorolese are also used in some communities. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Palau as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: Palauan and English are official on most islands. The Factbook's 2015 estimates list Palauan 65.2%, English 19.1%, and Filipino 9.9%; official-language arrangements vary on Sonsorol, Tobi, and Angaur.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/palau/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Palau Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/PW",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "PW",
+    "electrical": {
+      "voltage": 120,
+      "frequency": 60,
+      "socketTypes": [
+        "A",
+        "B"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "pg-pg",
+    "country": "Papua New Guinea",
+    "city": "Port Moresby",
+    "region": "Oceania",
+    "currency": "PGK",
+    "stages": {
+      "preArrival": {
+        "simple": "Port Moresby (POM); many regional destinations require separate domestic flights. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Port Moresby (POM); many regional destinations require separate domestic flights. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. FCDO advises against all but essential travel to Hela, Southern Highlands, and most of Enga Province as of 2026-11-02. Water and electricity interruptions can occur in urban centres.\n\nClimate and timing: Papua New Guinea is tropical and humid, with cooler highlands, heavy seasonal rain, and earthquake exposure. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring rainwear, insect protection, and essential medication; highland and remote-area trips need route-specific preparation. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Papua New Guinea uses Type I sockets, 240 V / 50 Hz. Carry PGK and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 240 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Port Moresby (POM); many regional destinations require separate domestic flights. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Papua New Guinea; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Port Moresby uses taxis and PMVs (public motor vehicles); intercity travel may require domestic flights or arranged vehicles. Roads and services vary sharply by province. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Port Moresby uses taxis and PMVs (public motor vehicles); intercity travel may require domestic flights or arranged vehicles. Roads and services vary sharply by province. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "English, Tok Pisin, and Hiri Motu are official; hundreds of local languages are used. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: English, Tok Pisin, and Hiri Motu are official; hundreds of local languages are used. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Papua New Guinea as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "PG",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "ws-ws",
+    "country": "Samoa",
+    "city": "Apia",
+    "region": "Oceania",
+    "currency": "WST",
+    "stages": {
+      "preArrival": {
+        "simple": "Faleolo International (APW) on Upolu; Savai'i requires a separate ferry transfer. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Faleolo International (APW) on Upolu; Savai'i requires a separate ferry transfer. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Sunday services and public holidays can affect business and transport hours; confirm ferry schedules and village protocols.\n\nClimate and timing: Samoa is tropical and humid, with cyclone risk and a wetter season; sea conditions affect inter-island travel. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection and rainwear; dress modestly in villages and follow local guidance at churches and community spaces. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Samoa uses Type I sockets, 230 V / 50 Hz. Carry WST and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 230 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Faleolo International (APW) on Upolu; Savai'i requires a separate ferry transfer. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Samoa; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Buses and taxis serve Upolu; ferries connect Upolu and Savai'i, with limited rural schedules. Check the last return service and weather alerts. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Buses and taxis serve Upolu; ferries connect Upolu and Savai'i, with limited rural schedules. Check the last return service and weather alerts. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Samoan and English are official; Samoan is widely used in village life. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Samoan and English are official; Samoan is widely used in village life. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Samoa as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: Samoan and English are official. The Factbook's 2006 estimates list Samoan as the main home language for 91.1% and Samoan/English for 6.7%; the old home-language figures don't measure English comprehension.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Samoa Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/WS",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "WS",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "sb-sb",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "region": "Oceania",
+    "currency": "SBD",
+    "stages": {
+      "preArrival": {
+        "simple": "Honiara (HIR) on Guadalcanal; many outer islands require domestic flights or boats. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Honiara (HIR) on Guadalcanal; many outer islands require domestic flights or boats. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Check cyclone, earthquake, and volcanic alerts; medical and communications services are limited outside Honiara.\n\nClimate and timing: The Solomon Islands are tropical and humid, with heavy rain, cyclone risk, earthquakes, and volcanic activity. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring rainwear, sun protection, insect protection, and suitable footwear for wet roads and remote sites. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Solomon Islands uses Type I sockets, 230 V / 50 Hz. Carry SBD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 230 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Honiara (HIR) on Guadalcanal; many outer islands require domestic flights or boats. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Solomon Islands; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Honiara uses taxis and minibuses; inter-island travel is by domestic flight or boat and can be weather-dependent. Confirm operator, route, and daylight arrival. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Honiara uses taxis and minibuses; inter-island travel is by domestic flight or boat and can be weather-dependent. Confirm operator, route, and daylight arrival. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "English is official; Solomon Islands Pijin and many local languages are widely used. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: English is official; Solomon Islands Pijin and many local languages are widely used. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Solomon Islands as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "SB",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "to-to",
+    "country": "Tonga",
+    "city": "Nukuʻalofa",
+    "region": "Oceania",
+    "currency": "TOP",
+    "stages": {
+      "preArrival": {
+        "simple": "Fua'amotu International (TBU) on Tongatapu; outer islands require domestic flights or ferries. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Fua'amotu International (TBU) on Tongatapu; outer islands require domestic flights or ferries. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Cyclones, volcanic activity, and ferry schedules can disrupt travel; monitor official alerts and allow connection buffers.\n\nClimate and timing: Tonga is tropical and maritime, with cyclone season, high humidity, and changing sea conditions. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection and rainwear; choose modest clothing and observe Sunday and church customs. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Tonga uses Type I sockets, 240 V / 50 Hz. Carry TOP and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 240 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Fua'amotu International (TBU) on Tongatapu; outer islands require domestic flights or ferries. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Tonga; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Taxis and buses serve Tongatapu; ferries and domestic flights connect islands. Confirm schedules, luggage limits, and the final return sailing. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Taxis and buses serve Tongatapu; ferries and domestic flights connect islands. Confirm schedules, luggage limits, and the final return sailing. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Tongan and English are official; Tongan is widely used in community life. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Tongan and English are official; Tongan is widely used in community life. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Tonga as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: The Factbook's 2021 estimates for people aged 5+ list Tongan only at 85%, Tongan plus another language at 13.9%, and Tongan not used at home at 1.1%. These describe home use, not English ability.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Tonga Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/TO",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "TO",
+    "electrical": {
+      "voltage": 240,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "tv-tv",
+    "country": "Tuvalu",
+    "city": "Funafuti",
+    "region": "Oceania",
+    "currency": "AUD",
+    "stages": {
+      "preArrival": {
+        "simple": "Funafuti International (FUN); flights are limited and weather-dependent. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Funafuti International (FUN); flights are limited and weather-dependent. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Medical, water, and transport services are limited; build flexibility into travel dates and verify service status before departure.\n\nClimate and timing: Tuvalu is tropical and oceanic, with heat, humidity, drought exposure, and sea-level and storm-surge risks. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun protection, light rainwear, reef-safe gear, and any essential medicines. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Tuvalu uses Type I sockets, 230 V / 50 Hz. Carry AUD and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 230 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Funafuti International (FUN); flights are limited and weather-dependent. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Tuvalu; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Funafuti has limited local transport; outer atolls depend on infrequent ships. Confirm the return flight or vessel and local water availability. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Funafuti has limited local transport; outer atolls depend on infrequent ships. Confirm the return flight or vessel and local water availability. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Tuvaluan and English are official; Tuvaluan is widely used in daily life. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Tuvaluan and English are official; Tuvaluan is widely used in daily life. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Tuvalu as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: Tuvaluan and English are official; Samoan and Kiribati are also listed, with Kiribati on Nui. The Factbook gives no shares, so check which language is preferred on the island you're visiting.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/tuvalu/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Tuvalu Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/TV",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "TV",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  },
+  {
+    "id": "vu-vu",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "region": "Oceania",
+    "currency": "VUV",
+    "stages": {
+      "preArrival": {
+        "simple": "Port Vila (VLI) on Efate; Luganville (SON) serves Espiritu Santo and other islands require onward travel. Check visa and entry conditions for your passport, current official travel advice, and seasonal conditions before booking.",
+        "detailed": "Flight routing: Port Vila (VLI) on Efate; Luganville (SON) serves Espiritu Santo and other islands require onward travel. Compare the arrival airport with your actual destination and ground transfer; check baggage, connection time, and operating carrier before purchasing.\n\nEntry and safety: Requirements depend on nationality, purpose, and route. Read the current destination-specific entry and safety guidance, then confirm document rules with the destination's immigration authority or nearest embassy. Natural hazards can interrupt flights, roads, water, and power; confirm local authority guidance and onward connections.\n\nClimate and timing: Vanuatu is tropical, with cyclone season, heavy rain, earthquakes, and active volcanoes. Check regional forecasts and seasonal service changes close to departure; conditions can differ substantially between gateway cities and remote destinations.\n\nApparel and preparation: Bring sun and rain protection, sturdy footwear, and reef-safe gear; heed volcano and cyclone alerts. Carry essential medication in original packaging, keep copies of travel documents, and confirm insurance covers your planned activities.",
+        "sources": [
+          {
+            "topic": "FCDO entry requirements and travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/entry-requirements",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO safety and regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "arrival24h": {
+        "simple": "Vanuatu uses Type I sockets, 230 V / 50 Hz. Carry VUV and confirm mobile, payment, and airport-transfer arrangements.",
+        "detailed": "Power: The listed supply is 230 V / 50 Hz with Type I sockets. Check the accommodation outlet and device input label; a plug adapter does not convert voltage.\n\nConnectivity and payments: Confirm roaming or local SIM registration, coverage, and payment requirements with your provider. Keep offline copies of addresses and tickets; retain a backup payment method and local cash because card, ATM, and mobile-payment access vary by location.\n\nAirport transfer: Port Vila (VLI) on Efate; Luganville (SON) serves Espiritu Santo and other islands require onward travel. Confirm the terminal, official pickup point, transfer operator, and fare before leaving the airport. Verify service hours for late arrivals, island transfers, and remote destinations.\n\nBroadband benchmark access: Ookla's Speedtest Global Index compares mobile and fixed-broadband speeds monthly using a rolling three-month sample. Search for Vanuatu; either category may be N/A when it misses the precision threshold. This national result is not a forecast for a particular address, hotel, or provider.",
+        "sources": [
+          {
+            "topic": "WorldStandards country plug, voltage, and frequency table",
+            "url": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index country rankings",
+            "url": "https://www.speedtest.net/global-index",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "Ookla Speedtest Global Index methodology and reporting period",
+            "url": "https://www.speedtest.net/global-index/about",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      },
+      "mobility": {
+        "simple": "Port Vila and Luganville use buses and taxis; inter-island travel relies on domestic flights and boats. Check volcanic alerts, ferry schedules, and weather conditions. Check current routes, fares, operating hours, and service alerts before setting out.",
+        "detailed": "Urban transport: Port Vila and Luganville use buses and taxis; inter-island travel relies on domestic flights and boats. Check volcanic alerts, ferry schedules, and weather conditions. Check the local operator for current stops, ticketing, and disruptions; do not assume one national ticket covers municipal and regional services.\n\nIntercity and local travel: Coaches, rail, ferries, and domestic flights operate only on selected routes. Confirm the departure point, baggage conditions, travel time, and return service directly with the operator; leave buffers for weather and road disruption.\n\nWalking and hired vehicles: Sidewalks, lighting, traffic, and ride-hailing coverage vary by neighborhood and town. Use locally recommended licensed transport, verify the vehicle and fare, and check road notices before remote or cross-border routes.",
+        "sources": [
+          {
+            "topic": "FCDO safety, regional-risk, and local-travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel information",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "dailyLiving": {
+        "simple": "Delivery, pharmacy hours, water advice, and payment options vary by location. Check exact service coverage and local opening hours; keep a backup payment method.",
+        "detailed": "Delivery and retail: App and grocery coverage is address-specific, especially outside major cities and island hubs. Confirm phone, payment, and delivery requirements before relying on an app; check public-holiday hours.\n\nHealth and water: Follow current local health guidance and accommodation advice. Carry essential medication and prescriptions, and locate a pharmacy before remote, island, or rural travel. Review insurance and emergency-service details offline.\n\nPayments, alcohol, and dining: Check current card, cash, ATM, alcohol-sale, and licensed-hours rules rather than assuming they match neighboring countries. Ask about ingredients and allergens, and confirm whether a meal is priced per plate, buffet, or weight before ordering.\n\nContingencies: Keep emergency contacts and travel documents available offline. Recheck service availability during severe weather, strikes, utility interruptions, or other disruptions.\n\nBeverage and dietary norms: Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain. Check labels for ingredients and added sugar, and ask specifically for unsweetened or zero-sugar options because names and formulas vary. Confirm allergens and dietary needs directly with the venue.\n\nAlcohol retail: Minimum age, retail hours, import limits, public-consumption rules, and availability differ by country and sometimes by region or holiday. Check current local law and venue policy; do not assume alcohol is sold in supermarkets or served at every restaurant.\n\nBuffet and meal pricing: Confirm whether pricing is per dish, fixed-price buffet, or by weight. Ask whether drinks, service charges, refills, or leftovers are included, and follow the venue's food-safety and serving rules rather than assuming an all-you-can-eat format.",
+        "sources": [
+          {
+            "topic": "FCDO health guidance for visitors",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/health",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "FCDO destination travel advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO drinking-water guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "WHO healthy-diet and free-sugar guidance",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+            "lastChecked": "2026-11-02"
+          }
+        ]
+      },
+      "socialCode": {
+        "simple": "Bislama, English, and French are official; local languages vary by island. Ask before assuming etiquette, household, or companion-animal norms; customs and access rules differ among communities and venues.",
+        "detailed": "Language and hosting: Bislama, English, and French are official; local languages vary by island. Begin with a polite greeting, ask which language is preferred, and follow the host's cues on formality, shoes, shared food, and photography. Gift preferences vary by household; ask rather than relying on a nationwide taboo list.\n\nDog culture: Dogs may be pets, working animals, or free-roaming animals. Public access, leash expectations, and attitudes vary by locality; check venue and accommodation rules and do not approach an unfamiliar dog without its handler's permission.\n\nCat culture: Household cats and free-roaming cats may be encountered, but local practices differ. Do not feed or handle an unfamiliar cat without the owner's or caretaker's permission; check pet rules before arranging accommodation.\n\nBird culture: Treat native and wild birds as wildlife, not pets. Do not feed, capture, buy, or remove wild birds; follow protected-area rules and check official animal-health and wildlife requirements before travelling with a pet bird.\n\nHofstede cultural dimensions: The Culture Factor public comparison tool lists no country score for Vanuatu as of 2026-11-03. Do not treat this as a zero score or infer values from a neighboring country. Where scores are published, the source says they are updated when research becomes available and lists 16 October 2023 as its latest update for individualism and long-term orientation. The framework describes broad comparisons, not predictions about individuals or subnational groups.\n\nLanguage landscape: Vanuatu has more than 100 Indigenous languages; Bislama, English, and French are official. The Factbook's 2020 first-language estimates for ages 3+ are Indigenous languages 82.6%, Bislama 14.5%, English 2.1%, and French 0.8%; these aren't fluency rates.",
+        "sources": [
+          {
+            "topic": "FCDO local laws, customs, and safety advice",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor country-comparison framework",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-02"
+          },
+          {
+            "topic": "The Culture Factor six-dimension country-comparison scores",
+            "url": "https://www.theculturefactor.com/country-comparison-tool",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "The Culture Factor score sources and update history",
+            "url": "https://www.theculturefactor.com/frequently-asked-questions",
+            "lastChecked": "2026-11-03"
+          },
+          {
+            "topic": "CIA World Factbook Archive 2025: Vanuatu Languages",
+            "url": "https://worldfactbookarchive.org/archive/2025/VU",
+            "lastChecked": "2026-11-03"
+          }
+        ]
+      }
+    },
+    "iso": "VU",
+    "electrical": {
+      "voltage": 230,
+      "frequency": 50,
+      "socketTypes": [
+        "I"
+      ],
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/",
+      "lastChecked": "2026-11-02"
+    }
+  }
+]

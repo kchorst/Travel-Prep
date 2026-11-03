@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "dataVersion": "53eaeb859069484db8fbd00950bff63fddac3b234e73ed6b0ba8a2cb3953b5bf",
+  "dataVersion": "f078408f36be51eaeee9de8e237cf37f712dc714ac3580fa46d1a84f794a2853",
   "coordinateAttribution": "Capital names and point coordinates from Wikidata structured data, licensed CC0 1.0.",
   "mapAttribution": "Natural Earth 1:50m Admin-0 boundaries, public domain; country codes normalized from ISO_A2_EH.",
   "defaultShards": [
@@ -9,38 +9,38 @@
   ],
   "shards": {
     "asia": {
-      "url": "./data/regions/asia.1cd899d5e49d8061.json",
-      "sha256": "1cd899d5e49d8061905eda90fcab2b0119f94fe10f0c1f29c1788e0d5a66ee2b",
+      "url": "./data/regions/asia.6a21c5b492b6d295.json",
+      "sha256": "6a21c5b492b6d295ec36c823c3923404ec886762c1b516df3772fb177be8d2cf",
       "records": 46
     },
     "eastern-europe": {
-      "url": "./data/regions/eastern-europe.59cdf3a02a481a60.json",
-      "sha256": "59cdf3a02a481a604b69b36dbcf7a66994ae77b53658e1018c5731e7add18441",
+      "url": "./data/regions/eastern-europe.1ba8b6fa126710bf.json",
+      "sha256": "1ba8b6fa126710bf834a0a2bd707ac224191df2cb539a04aa5a924a2a5dece5c",
       "records": 22
     },
     "africa": {
-      "url": "./data/regions/africa.a8542f43a420cae0.json",
-      "sha256": "a8542f43a420cae0088b30303e0695ff514c7f20b79fe4faaf1e97639286c38f",
+      "url": "./data/regions/africa.71ac9f6a2a535c91.json",
+      "sha256": "71ac9f6a2a535c91b6764847cc4562ad3036a5c9633b9748d6b34a261bc370ce",
       "records": 54
     },
     "europe": {
-      "url": "./data/regions/europe.10965404b74789d4.json",
-      "sha256": "10965404b74789d40d3beae1ef35d1ac626f8653a6d5b0279cb65b328d52d185",
+      "url": "./data/regions/europe.06101655ff1d03c0.json",
+      "sha256": "06101655ff1d03c0155dddfe4f5514a8c63fc6e73e3d7d6c95ac7a7aa6fb18c8",
       "records": 24
     },
     "americas": {
-      "url": "./data/regions/americas.e6395de2a6384e83.json",
-      "sha256": "e6395de2a6384e837541c03c72908dcb77b2a9822d96d21fa8f2388e37619740",
+      "url": "./data/regions/americas.bb560bb46c4c774b.json",
+      "sha256": "bb560bb46c4c774be4cd69ad1f945fac9cb74c86b93315ad1d80cff520429ee8",
       "records": 35
     },
     "oceania": {
-      "url": "./data/regions/oceania.40365719fd009eaf.json",
-      "sha256": "40365719fd009eafa14aed199198d215912299d69011b8c5acbafd6c586fcbf2",
+      "url": "./data/regions/oceania.f8819267f7a59941.json",
+      "sha256": "f8819267f7a599410fc330d38b04117e764df866e268c4d281186156718da2ae",
       "records": 14
     },
     "pakistan": {
-      "url": "./data/regions/pakistan.60c999e9803cfce6.json",
-      "sha256": "60c999e9803cfce651a0cf0089882716128d11eca83dd1cf348370eb625011ad",
+      "url": "./data/regions/pakistan.072103ee411eb862.json",
+      "sha256": "072103ee411eb8626d8b1ad0570bdf604ba94e92e060eb0f0750a1d92e5e3d2c",
       "records": 1
     }
   },
