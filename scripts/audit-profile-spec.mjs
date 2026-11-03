@@ -49,7 +49,7 @@ const profileChecks = [
   ["dailyLiving", "Buffet and meal-pricing guidance", /^Buffet and meal pricing:/im],
   ["dailyLiving", "Country-specific weight pricing", /comida por quilo|priced by weight|sold by weight|price per kilo/i],
   ["socialCode", "Gift-giving guidance", /gift|flowers|present/i],
-  ["socialCode", "Household norms", /household norms|shoes.*home|remove shoes/i],
+  ["socialCode", "Household norms", /household norms|household context|shoes.*home|remove shoes|\bHome (?:visits?|invitations?)\b|\bShared meals?\b|\bGuest interactions?(?: in [^:]+)?:|\bVillage visits?(?: and gifts)?:|\bDining interface:[^\n]*\bhome\b/i],
   ["socialCode", "Dog culture", /^Dog culture:/im],
   ["socialCode", "Cat culture", /^Cat culture:/im],
   ["socialCode", "Bird culture", /^Bird culture:/im],

@@ -1,0 +1,19 @@
+{
+  "destinations": 196,
+  "indexBytes": 53581,
+  "completeProfiles": 196,
+  "electricalProfiles": 196,
+  "shards": {
+    "asia": 46,
+    "eastern-europe": 22,
+    "africa": 54,
+    "europe": 24,
+    "americas": 35,
+    "oceania": 14,
+    "pakistan": 1
+  },
+  "firstInstallShards": [
+    "eastern-europe",
+    "pakistan"
+  ]
+}
