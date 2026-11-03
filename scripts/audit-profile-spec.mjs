@@ -17,7 +17,19 @@ const profileChecks = [
   ["arrival24h", "Electrical standards", /voltage|volt|socket|outlet/i],
   ["arrival24h", "SIM/eSIM and roaming mention", /\b(?:4g|5g|mobile data|mobile network|sim(?:s| cards?)?|esims?|roaming|connectivity)\b/i],
   ["arrival24h", "Broadband benchmark source access", /broadband benchmark access:/i],
+  ["arrival24h", "Country-specific emergency response guidance", /^Emergency response:/im],
   ["arrival24h", "Financial rails and mobile money", /contactless|mobile money|mobile wallet|m-pesa|promptpay|pix|payid|interac|upi|qris|easypaisa|jazzcash|paynow|alipay|wechat\s?pay|blik|t-?money|gcash|kakao.?pay|\bic cards?\b|atm access/i],
+  ["arrival24h", "Country-specific How to pay guidance", /^How to pay:/im],
+  ["arrival24h", "Country-specific phone and watch wallet availability", /^Phone and watch wallets:/im],
+  ["arrival24h", "Countrywide foreign-card ATM guidance", /^ATM access:/im],
+  ["arrival24h", "Countrywide in-person card guidance", /^In-person card acceptance:/im],
+  ["arrival24h", "Countrywide credit-card guidance", /^Credit-card acceptance:/im],
+  ["arrival24h", "Countrywide debit-card guidance", /^Debit-card acceptance:/im],
+  ["arrival24h", "Countrywide merchant NFC/contactless status", /^Merchant NFC acceptance:/im],
+  ["arrival24h", "Countrywide cash-payment guidance", /^Cash acceptance:/im],
+  ["arrival24h", "Credit/debit distinction documented", /^Credit\/debit distinction:/im],
+  ["arrival24h", "Country-specific in-person card/cash mix", /^In-person card and cash:/im],
+  ["arrival24h", "Countrywide online foreign-card status", /^Online card use:/im],
   ["arrival24h", "Airport transfer", /airport transfer|airport.*(?:rail|bus|taxi|pickup)|terminal.*pickup/i],
   ["arrival24h", "Named airport express rail", /airport express|airport rail|express rail|airport train|gautrain/i],
   ["mobility", "Formal transit/ticketing or service caution", /metro|subway|tram|trolleybus|bus|rail|train|ticket|public transit|transit.*(?:unavailable|not operating)/i],
@@ -40,8 +52,10 @@ const profileChecks = [
   ["socialCode", "Cat culture", /^Cat culture:/im],
   ["socialCode", "Bird culture", /^Bird culture:/im],
   ["socialCode", "Hofstede dimensions", /^Hofstede cultural dimensions:/im],
-  ["socialCode", "Country-specific Hofstede score", /power.distance score(?: as|:|=)\s*\d+/i],
-  ["socialCode", "Eating-interface norms", /chopsticks|right hand|cutlery|serving utensils/i],
+  ["socialCode", "Published country-specific Hofstede score", /power.distance score(?: as|:|=)\s*\d+/i],
+  ["socialCode", "Hofstede score availability annotated", /The Culture Factor public comparison tool lists no country score for/i],
+  ["socialCode", "Hofstede score coverage (published or unavailable)", /power.distance score(?: as|:|=)\s*\d+|The Culture Factor public comparison tool lists no country score for/i],
+  ["socialCode", "Eating-interface norms", /chopsticks|right hand|cutlery|serving utensils|utensils?/i],
   ["socialCode", "Country-specific dining interface note", /^Dining interface:/im],
   ["socialCode", "Dress and headwear norms", /sunglasses|headwear|modest clothing|dress rules/i]
 ];
@@ -101,6 +115,15 @@ for (const [stageName, label, pattern] of profileChecks) {
   });
   console.log(`- ${label}: ${matched.length}/${destinations.length}; missing ${missing.length}${missing.length ? ` [${missing.map((item) => item.iso).join(", ")}]` : ""}`);
 }
+
+const genericWaterGuidance = "Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain.";
+const specificWaterPattern = /(tap[- ]water|drinking water).{0,160}(safe|unsafe|potable|drinkable|avoid|boil|filter|treat)|(safe|unsafe|potable|drinkable|avoid|boil|filter|treat).{0,160}(tap[- ]water|drinking water)/i;
+const waterGuidance = destinations.filter((destination) => {
+  const detailed = (destination.stages.dailyLiving.detailed || "").replace(genericWaterGuidance, "");
+  return /^Tap-water safety:/im.test(detailed) || specificWaterPattern.test(detailed);
+});
+const missingWaterGuidance = destinations.filter((destination) => !waterGuidance.includes(destination));
+console.log(`- Country-specific tap-water safety: ${waterGuidance.length}/${destinations.length}; missing ${missingWaterGuidance.length}${missingWaterGuidance.length ? ` [${missingWaterGuidance.map((item) => item.iso).join(", ")}]` : ""}`);
 
 console.log("\nApp feature coverage:");
 for (const [label, pattern] of appChecks) {
