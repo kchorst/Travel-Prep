@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "dataVersion": "5bf81d70213988bc95793d05eb9872097df4d2fc6f8a372d944357071c63c81c",
+  "dataVersion": "1dbeb2577b71892ce5a079963e2d167246d021e4106758b2ee7ae7282d2bbdc0",
   "coordinateAttribution": "Capital names and point coordinates from Wikidata structured data, licensed CC0 1.0.",
   "mapAttribution": "Natural Earth 1:50m Admin-0 boundaries, public domain; country codes normalized from ISO_A2_EH.",
   "defaultShards": [
@@ -9,28 +9,28 @@
   ],
   "shards": {
     "asia": {
-      "url": "./data/regions/asia.a54546a5d3d54c31.json",
-      "sha256": "a54546a5d3d54c318cbd459983a56245a23a95fe53587643c82e9b20467d7fef",
+      "url": "./data/regions/asia.572b161c40ceedc6.json",
+      "sha256": "572b161c40ceedc6247b3c931e4ce1dfd6a0bb0392832d87186c3076777ebd9c",
       "records": 46
     },
     "eastern-europe": {
-      "url": "./data/regions/eastern-europe.41d8399a9c72cb6b.json",
-      "sha256": "41d8399a9c72cb6b792bca5cb815fa440e64c6527d321783cd3ea252224b5d45",
+      "url": "./data/regions/eastern-europe.92edb3fef579edf9.json",
+      "sha256": "92edb3fef579edf9b504a8f99a66302268d80225e85fc2e8b4cbaea6df9a1354",
       "records": 22
     },
     "africa": {
-      "url": "./data/regions/africa.923e708929eecbf3.json",
-      "sha256": "923e708929eecbf3fc1a4c6c15fd8628e9fbed84acce369cb353a06e39831db9",
+      "url": "./data/regions/africa.83e15a678492d706.json",
+      "sha256": "83e15a678492d7068f9fdd16f11176c0d77e49a6b6eed5397ba38995a9d2aaa5",
       "records": 54
     },
     "europe": {
-      "url": "./data/regions/europe.28f5e874c094f54c.json",
-      "sha256": "28f5e874c094f54cdd8acf9e19b3774e23c4720a253371437f2146fac3fc7e40",
+      "url": "./data/regions/europe.64d3c29eb2dd0f47.json",
+      "sha256": "64d3c29eb2dd0f47c484ef08292ecca72846f6262dc9d796f871ade7c44e5e2a",
       "records": 24
     },
     "americas": {
-      "url": "./data/regions/americas.a2510f9a2c5ffc22.json",
-      "sha256": "a2510f9a2c5ffc225c56b408dfc34af0d2019b5d02f35569a4aa9ae365c97a47",
+      "url": "./data/regions/americas.8b874daa19d34f60.json",
+      "sha256": "8b874daa19d34f6046916abf9de58ad984c36a28e69aaddb6f684f87dc0421c9",
       "records": 35
     },
     "oceania": {

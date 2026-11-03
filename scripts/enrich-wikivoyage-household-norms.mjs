@@ -543,6 +543,114 @@ const notes = new Map([
   ["VU", {
     text: "Village visits and gifts: Wikivoyage says gifts are appreciated in Vanuatu. For a village chief, a bag of rice may be received with gratitude, while a much larger cash gift can seem patronizing and create the wrong expectation. Ask a local host or guide about protocol before giving anything.",
     url: "https://en.wikivoyage.org/wiki/Vanuatu#Buy"
+  }],
+  ["RO", {
+    text: "Home visits: Wikivoyage says guests are expected to remove their shoes when entering someone's house; leaving them on may disappoint the host. Follow the household's directions.",
+    url: "https://en.wikivoyage.org/wiki/Romania#Respect",
+    topic: "Wikivoyage Romania: footwear in homes",
+    append: true
+  }],
+  ["RU", {
+    text: "Home visits: Wikivoyage advises bringing a gift such as food or a beverage when invited to a Russian home, removing shoes before entering, and dressing modestly (noting this may not apply to young people). If bringing flowers, use an odd number and avoid yellow flowers, which are associated with infidelity. Gift and dress preferences can vary, so follow your host's cues.",
+    url: "https://en.wikivoyage.org/wiki/Russia#Home_etiquette",
+    topic: "Wikivoyage Russia: home-visit gifts, footwear, and dress",
+    append: true
+  }],
+  ["SA", {
+    text: "Home visits and shared meals: Wikivoyage advises bringing a small gift when invited to a Saudi home; avoid extravagant or romantic gifts, and notes that an individual man and woman should not exchange gifts. At a meal, wait until invited to eat (the oldest person usually starts), use the right hand, and sample the dishes. Hosts may offer repeated helpings as a sign of respect; the guide also describes socializing before the meal and guests leaving after it. Follow the host's cues and account for dietary needs.",
+    url: "https://en.wikivoyage.org/wiki/Saudi_Arabia#Home_etiquette",
+    topic: "Wikivoyage Saudi Arabia: home visits and shared meals",
+    append: true
+  }],
+  ["SK", {
+    text: "Home visits: Wikivoyage advises taking off outdoor shoes in the hallway when entering a Slovak home; hosts will usually offer slippers. If invited for a meal, a small gift such as wine, spirits, chocolates, or flowers is appreciated, but money can make it seem as though you are paying for the hospitality.",
+    url: "https://en.wikivoyage.org/wiki/Slovakia#Respect",
+    topic: "Wikivoyage Slovakia: home-visit gifts and footwear",
+    append: true
+  }],
+  ["SI", {
+    text: "Home visits: Wikivoyage advises bringing a bottle of good wine when invited to dinner at someone's home and complimenting the cook before being asked whether you liked the meal. It also recommends removing your shoes on entry; hosts may offer slippers or tell you to keep your shoes on.",
+    url: "https://en.wikivoyage.org/wiki/Slovenia#Respect",
+    topic: "Wikivoyage Slovenia: dinner gifts, thanks, and footwear",
+    append: true
+  }],
+  ["RS", {
+    text: "Home visits: Wikivoyage advises bringing a gift on a first visit to a Serbian home; flowers, chocolate, or something representative of your country are examples. In a rural home, remove your shoes unless the owner says otherwise. Hosts will generally offer food or drink, and it is polite to ask for a glass of water if you are thirsty.",
+    url: "https://en.wikivoyage.org/wiki/Serbia#Respect",
+    topic: "Wikivoyage Serbia: first-visit gifts and home footwear",
+    append: true
+  }],
+  ["KR", {
+    text: "Home visits: Wikivoyage says you are expected to remove your shoes when entering a South Korean home; indoor slippers may be provided. Follow the household's directions about footwear.",
+    url: "https://en.wikivoyage.org/wiki/South_Korea#Respect",
+    topic: "Wikivoyage South Korea: footwear in homes",
+    append: true
+  }],
+  ["TH", {
+    text: "Home visits: Wikivoyage says removing your shoes before entering a private home is mandatory etiquette. It also advises not to visibly sniff food when eating in someone's home, even if you mean it as appreciation.",
+    url: "https://en.wikivoyage.org/wiki/Thailand#Respect",
+    topic: "Wikivoyage Thailand: shoes and food manners in homes",
+    append: true
+  }],
+  ["TR", {
+    text: "Home visits: Wikivoyage advises bringing a gift when invited to a Turkish home; flowers, chocolate, or something representative of your country are examples, while alcohol may be inappropriate if you do not know whether the host drinks. Remove your shoes at or just inside the door unless the host explicitly says otherwise. Do not smoke unless the host does first, and ask permission before smoking.",
+    url: "https://en.wikivoyage.org/wiki/Turkey#Respect",
+    topic: "Wikivoyage Turkey: home-visit gifts, footwear, and smoking",
+    append: true
+  }],
+  ["VN", {
+    text: "Home visits: Wikivoyage says it is customary to remove your shoes before entering people's homes.",
+    url: "https://en.wikivoyage.org/wiki/Vietnam#Respect",
+    topic: "Wikivoyage Vietnam: footwear in homes",
+    append: true
+  }],
+  ["ID", {
+    text: "Home visits: Wikivoyage advises removing your footwear outside before entering a house, unless the owner explicitly allows you to keep it on. It also recommends using the right hand when handing something to someone; if you need to use the left hand, apologize politely.",
+    url: "https://en.wikivoyage.org/wiki/Indonesia#Respect",
+    topic: "Wikivoyage Indonesia: footwear and passing items at home",
+    append: true
+  }],
+  ["JP", {
+    text: "Home visits: Wikivoyage says that if you are invited to a Japanese home, bringing a small gift is essentially mandatory; something shareable and consumable from your home country is suggested. Gifts are generally opened after the giver has left unless invited otherwise. Remove your shoes before entering a private home. The guide notes that Japanese people rarely invite guests to their homes, so accept an invitation as a meaningful gesture.",
+    url: "https://en.wikivoyage.org/wiki/Japan#Respect",
+    topic: "Wikivoyage Japan: home invitations, gifts, and footwear",
+    append: true
+  }],
+  ["LA", {
+    text: "Home visits: Wikivoyage says to remove your shoes before entering a private house in Laos. Follow your host's directions about footwear.",
+    url: "https://en.wikivoyage.org/wiki/Laos#Respect",
+    topic: "Wikivoyage Laos: footwear in private homes",
+    append: true
+  }],
+  ["GR", {
+    text: "Home hospitality: Wikivoyage advises guests to sample everything on their plate when offered food by Greek hosts.",
+    url: "https://en.wikivoyage.org/wiki/Greece#Respect",
+    topic: "Wikivoyage Greece: food offered by home hosts",
+    append: true
+  }],
+  ["JM", {
+    text: "Home visits: Wikivoyage notes that Jamaicans generally do not invite people they do not know well to their homes. If invited, remove your shoes before entering.",
+    url: "https://en.wikivoyage.org/wiki/Jamaica#Respect",
+    topic: "Wikivoyage Jamaica: home invitations and footwear",
+    append: true
+  }],
+  ["PL", {
+    text: "Home visits: Wikivoyage advises bringing a gift when invited to a Polish home; flowers are a common choice, and bouquets should have an odd number of flowers. Alcohol may suit some hosts, but depends on their preferences and your familiarity. Ask whether you should remove your shoes; hosts may not mind, but appreciate being asked.",
+    url: "https://en.wikivoyage.org/wiki/Poland#Respect",
+    topic: "Wikivoyage Poland: home-visit gifts and footwear",
+    append: true
+  }],
+  ["ES", {
+    text: "Home stays: Wikivoyage advises bringing indoor shoes, such as slippers, when staying in a Spanish home. Walking barefoot is considered unsanitary; socks may be acceptable in a close friend's home, but ask first.",
+    url: "https://en.wikivoyage.org/wiki/Spain#Respect",
+    topic: "Wikivoyage Spain: indoor footwear in a host's home",
+    append: true
+  }],
+  ["KE", {
+    text: "Home visits: Wikivoyage advises bringing a small gift suited to the occasion when invited to a Kenyan home. It is considered disrespectful to reject food offered to you; visitors are commonly offered tea and chapati or mandazi.",
+    url: "https://en.wikivoyage.org/wiki/Kenya#Respect",
+    topic: "Wikivoyage Kenya: home-visit gifts and food",
+    append: true
   }]
 ]);
 
