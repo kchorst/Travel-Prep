@@ -6,6 +6,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = path.join(root, "data", "destinations.json");
 const destinations = JSON.parse(readFileSync(dataPath, "utf8"));
 const checked = "2026-11-03";
+const targetIsos = new Set(process.argv.slice(2).flatMap((value) => value.split(",")).filter(Boolean));
 const fieldUrl = (iso) => `https://worldfactbookarchive.org/archive/field/${iso}/Drinking%20water%20source`;
 
 const accessNotes = new Map([
@@ -196,7 +197,9 @@ const accessNotes = new Map([
   ["VN", "Drinking-water source access: The 2025 Factbook field classifies 98% of the population as having an improved source (urban 99.1%, rural 97.2%; 2022 estimate); 2% overall are classified as unimproved. This is not a local safety test."]
 ]);
 
+let updated = 0;
 for (const [iso, note] of accessNotes) {
+  if (targetIsos.size && !targetIsos.has(iso)) continue;
   const destination = destinations.find((item) => item.iso === iso);
   if (!destination) throw new Error(`Missing destination profile: ${iso}`);
 
@@ -219,7 +222,8 @@ for (const [iso, note] of accessNotes) {
   if (!stage.sources.some((item) => item.url === source.url)) {
     stage.sources.push({ ...source, lastChecked: checked });
   }
+  updated++;
 }
 
 writeFileSync(dataPath, `${JSON.stringify(destinations, null, 2)}\n`);
-console.log(`Added drinking-water source access context for ${accessNotes.size} least-covered profiles.`);
+console.log(`Added drinking-water source access context for ${updated} selected profiles.`);

@@ -130,9 +130,9 @@ const updates = {
       [plugs("honduras"), source("InterAirports Honduras passenger information", "https://www.interairports.hn/"), source("Honduras tourism authority", "https://www.iht.hn/")]
     ),
     mobility: stage(
-      "Mainland cities use buses and taxis; intercity coaches connect major towns. Bay Islands transport is local and ferry-dependent; verify schedules before connecting.",
-      ["Urban transit: Buses and taxis provide most city transport; routes and payment vary. Ask accommodation for current stops and known operators.", "Intercity and islands: Scheduled coaches serve mainland routes; ferries and small aircraft connect Bay Islands. Check operator notices, weather, and last departures before booking onward travel.", "App rides and walking: Availability varies by city. Confirm fare and pickup with a verified service; use marked crossings and plan for heat and limited sidewalks."],
-      [source("Honduras tourism authority transportation information", "https://www.iht.hn/"), source("InterAirports Honduras", "https://www.interairports.hn/")]
+      "Mainland cities use buses, shared minibuses known locally as rapiditos, and taxis; intercity coaches connect major towns. Bay Islands transport is local and ferry-dependent; verify schedules before connecting.",
+      ["Urban shared transit: Some urban routes use shared minibuses known as rapiditos. Routes, boarding points, and operating conditions vary; ask accommodation for current local guidance and check current security advice before using public transport.", "Intercity and islands: Scheduled coaches serve mainland routes; ferries and small aircraft connect Bay Islands. Check operator notices, weather, and last departures before booking onward travel.", "App rides and walking: Availability varies by city. Confirm fare and pickup with a verified service; use marked crossings and plan for heat and limited sidewalks."],
+      [source("Honduras tourism authority transportation information", "https://www.iht.hn/"), source("InterAirports Honduras", "https://www.interairports.hn/"), { topic: "Wikivoyage Honduras: local bus transport and rapiditos", url: "https://en.wikivoyage.org/wiki/Honduras#Get_around", lastChecked: "2026-11-04" }]
     ),
     dailyLiving: stage(
       "Delivery options are concentrated in Tegucigalpa, San Pedro Sula, and tourist areas. Use bottled or treated water and plan pharmacy access outside cities.",

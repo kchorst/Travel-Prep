@@ -8,7 +8,7 @@ The app contains 196 destination profiles. A profile is marked complete when it 
 
 ## Version and Data Updates
 
-The header displays the app version (`v0.1.0` in `index.html`). Bump this label for an app release, and bump `SHELL_CACHE` in `sw.js` when changing the app shell or its cached assets.
+The current preview version is `0.1.0` in `index.html`, `package.json`, and `package-lock.json`. In semantic versioning, `0.1.0` is minor version one; `0.10.0` would be minor version ten. There are no release tags in the repository yet. Keep `0.1.0` during the current preview; use `0.2.0` for the next preview milestone, then `1.0.0` when the app exits preview and is ready for its first stable release. Keep all three version fields in sync at release time. Bump `SHELL_CACHE` in `sw.js` when changing the app shell or its cached assets.
 
 The build script generates `dataVersion` from canonical destination, electrical, capital-coordinate, and country-boundary data. The app stores the last-seen value in the browser and shows a notice when a later visit finds a different data version. Data changes deploy through the same Pages workflow as app changes.
 

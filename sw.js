@@ -1,4 +1,4 @@
-const SHELL_CACHE = "travel-engine-shell-v35";
+const SHELL_CACHE = "travel-engine-shell-v36";
 const DATA_CACHE = "travel-engine-data-v1";
 const SHELL_ASSETS = [
   "./",
@@ -57,6 +57,11 @@ async function storeShard(cache, url, response, name, expectedHash) {
     }
   }
   return response;
+}
+
+async function notifyUpdateCheck(type) {
+  const clients = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+  clients.forEach(client => client.postMessage({ type }));
 }
 
 self.addEventListener("install", (event) => {
@@ -134,8 +139,10 @@ self.addEventListener("fetch", (event) => {
         if (!response.ok) throw new Error("Destination index request failed");
         const cache = await caches.open(SHELL_CACHE);
         await cache.put(INDEX_URL, response.clone());
+        await notifyUpdateCheck("UPDATE_CHECK_SUCCEEDED");
         return response;
       } catch {
+        await notifyUpdateCheck("UPDATE_CHECK_FAILED");
         return await caches.match(INDEX_URL) || Response.error();
       }
     })());

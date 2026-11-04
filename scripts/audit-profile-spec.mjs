@@ -34,7 +34,7 @@ const profileChecks = [
   ["arrival24h", "Airport transfer", /airport transfer|airport.*(?:rail|bus|taxi|pickup)|terminal.*pickup/i],
   ["arrival24h", "Named airport express rail", /airport express|airport rail|express rail|airport train|gautrain/i],
   ["mobility", "Formal transit/ticketing or service caution", /metro|subway|tram|trolleybus|bus|rail|train|ticket|public transit|transit.*(?:unavailable|not operating)/i],
-  ["mobility", "Informal and shared transit", /shared|informal|minibus|colectivo|marshrutka|matatu|pmv|dala-dala|candongueiro|zemidjan|kombis/i],
+  ["mobility", "Informal and shared transit", /shared|informal|community bus|minibus|minivans?|microbus|micros|combis|coasters|colectivo|marshrutka|matatu|pmv|dala-dala|candongueiro|zemidjan|kombis|jitneys?|route taxis?|maxi[- ]taxis?|jeepneys?|moto[- ]taxis?|motorcycle taxis?|songthaews?|dolm[uü]ş|angkot|ojeks?|por puestos?|alternativos?/i],
   ["mobility", "Named ride-hailing operators", /\b(?:uber|lyft|bolt|grab|yego|safeboda|pickme|yassir|gojek|go.?taxi|didi|careem|ola|free.?now|cabify|heetch|gett|bitaksi|yango|yandex(?: go)?|indrive|maxim|99)\b/i],
   ["mobility", "Micro-mobility operators", /micro.mobility|e-scooter|shared bike|bike.share|lime|bird/i],
   ["mobility", "Pedestrian infrastructure", /sidewalk|pavement|walkability|pedestrian|crossing/i],
@@ -119,6 +119,17 @@ for (const [stageName, label, pattern] of profileChecks) {
   });
   console.log(`- ${label}: ${matched.length}/${destinations.length}; missing ${missing.length}${missing.length ? ` [${missing.map((item) => item.iso).join(", ")}]` : ""}`);
 }
+
+const airportTransportPattern = /\b(?:walk|walking|taxi|bus|metro|rail|train|shuttle|coach|ferry|rideshare|ride.?hail|van|car)\b/i;
+const airportTransferOptions = destinations.filter((destination) => {
+  const stage = destination.stages.arrival24h;
+  const paragraphs = [stage.simple, stage.detailed]
+    .filter(Boolean)
+    .flatMap((text) => text.split(/\n\s*\n/));
+  return paragraphs.some((paragraph) => /airport/i.test(paragraph) && airportTransportPattern.test(paragraph));
+});
+const missingAirportTransferOptions = destinations.filter((destination) => !airportTransferOptions.includes(destination));
+console.log(`- Airport transfer names a transport option: ${airportTransferOptions.length}/${destinations.length}; missing ${missingAirportTransferOptions.length}${missingAirportTransferOptions.length ? ` [${missingAirportTransferOptions.map((item) => item.iso).join(", ")}]` : ""}`);
 
 const genericWaterGuidance = "Tap-water safety varies by locality and building; follow local health guidance and ask your accommodation, using sealed or properly treated water if uncertain.";
 const specificWaterPattern = /(tap[- ]water|drinking water).{0,160}(safe|unsafe|potable|drinkable|avoid|boil|filter|treat)|(safe|unsafe|potable|drinkable|avoid|boil|filter|treat).{0,160}(tap[- ]water|drinking water)/i;

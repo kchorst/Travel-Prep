@@ -6,7 +6,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const destinationsPath = path.join(root, "data", "destinations.json");
 const electricalPath = path.join(root, "data", "electrical-standards.json");
 const checked = "2026-11-02";
-const source = (topic, url) => ({ topic, url, lastChecked: checked });
+const source = (topic, url, lastChecked = checked) => ({ topic, url, lastChecked });
 const stage = (simple, paragraphs, sources) => ({ simple, detailed: paragraphs.join("\n\n"), sources });
 const plugs = (slug) => source("Electrical standards and socket types", `https://www.power-plugs-sockets.com/${slug}/`);
 
@@ -31,13 +31,13 @@ const updates = {
       [plugs("argentina"), source("Buenos Aires Subte routes, service and fares", "https://buenosaires.gob.ar/subte"), source("Argentina SUBE transit card", "https://www.argentina.gob.ar/sube")]
     ),
     mobility: stage(
-      "Buenos Aires has Subte, buses, and commuter rail; other cities have their own systems. For intercity travel, compare flights, long-distance coaches, and rail routes, checking the exact terminal and current timetable.",
+      "Buenos Aires has Subte, colectivos (city buses), and commuter rail; other cities have their own systems. For intercity travel, compare flights, long-distance coaches, and rail routes, checking the exact terminal and current timetable.",
       [
-        "Buenos Aires: The Subte and Premetro connect central corridors; buses and commuter trains extend coverage. Check current service status and fare/payment rules, and allow extra time during disruptions or peak periods.",
+        "Buenos Aires: The Subte and Premetro connect central corridors; buses, commonly called colectivos or bondis, and commuter trains extend coverage. Check current service status and fare/payment rules, and allow extra time during disruptions or peak periods. BA Como Llego is a local route planner; Moovit and Treep list public-transport planning in several cities. Coverage and features vary, so confirm current routes and boarding details locally.",
         "Regional travel: Long-distance coaches and domestic flights serve different corridors; rail is available on selected routes. Compare total journey time, station or airport location, baggage rules, and overnight travel conditions before booking.",
         "Local trips: Licensed taxis and app-based services operate in major cities, with availability varying elsewhere. Confirm the vehicle and fare before departure. In high-altitude or remote areas, check road and weather conditions before setting out."
       ],
-      [source("Buenos Aires Subte", "https://buenosaires.gob.ar/subte"), source("Argentina Ministry of Transport", "https://www.argentina.gob.ar/transporte"), source("Argentina National Directorate of Migration travel information", "https://www.argentina.gob.ar/migraciones")]
+      [source("Buenos Aires Subte", "https://buenosaires.gob.ar/subte"), source("Argentina Ministry of Transport", "https://www.argentina.gob.ar/transporte"), source("Argentina National Directorate of Migration travel information", "https://www.argentina.gob.ar/migraciones"), source("Wikivoyage Argentina: colectivos and public-transport planners", "https://en.wikivoyage.org/wiki/Argentina#Get_around", "2026-11-04")]
     ),
     dailyLiving: stage(
       "Delivery, pharmacy hours, and water guidance vary by city and address. Use ARS for everyday purchases, check the exact delivery zone, and ask locally about tap water and medication access.",

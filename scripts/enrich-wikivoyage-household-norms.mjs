@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = path.join(root, "data", "destinations.json");
 const destinations = JSON.parse(readFileSync(dataPath, "utf8"));
-const checked = "2026-11-03";
+const checked = "2026-11-04";
 
 const notes = new Map([
   ["BA", {
@@ -651,10 +651,61 @@ const notes = new Map([
     url: "https://en.wikivoyage.org/wiki/Kenya#Respect",
     topic: "Wikivoyage Kenya: home-visit gifts and food",
     append: true
+  }],
+  ["BR", {
+    text: "Home visits: Wikivoyage says Brazilians normally keep their shoes on at home and do not expect visitors to remove theirs. Remove your shoes if your hosts ask or you see them doing so.",
+    url: "https://en.wikivoyage.org/wiki/Brazil#Respect",
+    topic: "Wikivoyage Brazil: footwear in a host's home",
+    append: true
+  }],
+  ["AR", {
+    text: "Home visits: Wikivoyage notes that at an Argentinian home, hosts will have Fernet and Coke to offer; Fernet is commonly mixed with Coke.",
+    url: "https://en.wikivoyage.org/wiki/Argentina#Respect",
+    topic: "Wikivoyage Argentina: Fernet and Coke offered at home",
+    append: true
+  }],
+  ["PH", {
+    text: "Home visits and shared meals: Wikivoyage advises removing your shoes when entering a home unless your hosts say otherwise; they may provide slippers. At a meal, wait until the host invites you to start eating. Refusing food the host offers or leaving while someone is still eating is considered impolite.",
+    url: "https://en.wikivoyage.org/wiki/Philippines#Respect",
+    topic: "Wikivoyage Philippines: home footwear and host-led meals",
+    additionalSources: [{
+      url: "https://en.wikivoyage.org/wiki/Philippines#Eat",
+      topic: "Wikivoyage Philippines: host-led meal etiquette"
+    }],
+    refreshSources: true,
+    removeText: ["Home and religious visits: Ask whether to remove shoes and whether a small gift is welcome. Follow church dress rules and the host's lead at meals."],
+    append: true
+  }],
+  ["PK", {
+    text: "Home visits: Wikivoyage notes that guests entering a Pakistani home may be offered tea, sweets, snacks, or gifts, and that refusing them may offend the hosts. It advises not arriving empty-handed; a simple gift such as sweets is enough. Hosts may encourage second helpings as a sign of respect, so follow their cues. If you have dietary or health restrictions, explain them politely rather than accepting unsafe food.",
+    url: "https://en.wikivoyage.org/wiki/Pakistan#Respect",
+    topic: "Wikivoyage Pakistan: refreshments and home hospitality",
+    append: true
+  }],
+  ["AF", {
+    text: "Home visits: When invited to an Afghan home, Wikivoyage says guests may be offered tea, sweets, snacks, and gifts; refusing them can leave a bad impression. Hosts may encourage second helpings as a sign of respect. If full or managing a dietary or health restriction, explain politely and follow the host's cues; the source does not establish a single utensil practice across Afghanistan's diverse communities.",
+    url: "https://en.wikivoyage.org/wiki/Afghanistan#Respect",
+    topic: "Wikivoyage Afghanistan: invited-home hospitality",
+    refreshSources: true,
+    removeText: ["Dining interface: Wikivoyage describes Afghan home hospitality as including repeated offers of tea, sweets, snacks, and second helpings. It does not establish one utensil practice across the country's varied communities; follow the host's lead with shared dishes and ask if unsure. If full, thank the host and say so, since a clean plate may invite another serving. Customs vary by household."],
+    append: true
+  }],
+  ["BG", {
+    text: "Home invitations: Wikivoyage notes that in smaller Bulgarian towns, people may invite visitors for lunch or dinner, or even to stay overnight. This is a possibility, not a universal expectation; confirm arrangements with your host.",
+    url: "https://en.wikivoyage.org/wiki/Bulgaria#Respect",
+    topic: "Wikivoyage Bulgaria: invitations in smaller towns",
+    append: true
+  }],
+  ["TT", {
+    text: "Home visits: Wikivoyage advises bringing a small gift to show appreciation when welcomed into a local home. It notes that visitors may end up visiting or staying with locals without having planned to, so treat this as a reminder to be gracious, not a suggestion to arrive uninvited. Hospitality may be especially strong with guests who share a religion, but customs vary by household.",
+    url: "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago#Respect",
+    topic: "Wikivoyage Trinidad and Tobago: gifts for local hosts",
+    removeText: ["Home visits: Ask about footwear and whether a small food gift is welcome. Customs vary by household and religious practice."],
+    append: true
   }]
 ]);
 
-for (const [iso, { text, url, topic, additionalSources = [], removeText = [], append = false }] of notes) {
+for (const [iso, { text, url, topic, additionalSources = [], removeText = [], append = false, refreshSources = false }] of notes) {
   const destination = destinations.find((item) => item.iso === iso);
   if (!destination) throw new Error(`Missing destination profile: ${iso}`);
 
@@ -688,8 +739,11 @@ for (const [iso, { text, url, topic, additionalSources = [], removeText = [], ap
     ...additionalSources
   ];
   for (const source of sources) {
-    if (!stage.sources.some((existingSource) => existingSource.url === source.url)) {
+    const existingSource = stage.sources.find((item) => item.url === source.url);
+    if (!existingSource) {
       stage.sources.push({ ...source, lastChecked: checked });
+    } else if (refreshSources) {
+      existingSource.lastChecked = checked;
     }
   }
 }
