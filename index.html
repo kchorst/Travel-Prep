@@ -14,7 +14,7 @@
   <header class="bg-slate-800 border-b border-slate-700 p-4 flex flex-wrap justify-between items-center gap-y-2 shadow-md">
     <div class="flex flex-wrap items-center gap-2">
       <h1 class="text-base md:text-xl font-extrabold tracking-wider text-emerald-400 whitespace-nowrap">🧳 TRAVELPREP</h1>
-      <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 1.0.0">v1.0.0</span>
+      <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 1.0">v1.0</span>
     </div>
     <div class="flex items-center space-x-3">
       <span id="offline-badge" hidden role="status" aria-live="polite"
@@ -26,10 +26,6 @@
     <p id="data-update-banner" role="status" aria-live="polite" hidden class="rounded border border-sky-700 bg-sky-950/60 px-3 py-2 text-sm text-sky-200">
       Travel data has changed since your last visit. Verify current details with official sources before travel.
     </p>
-    <p id="app-update-banner" role="status" aria-live="polite" hidden class="flex flex-wrap items-center gap-2 text-xs text-slate-400">
-      <span>App update ready.</span>
-      <button id="reload-app" type="button" aria-label="Reload to apply the app update" title="Reload to apply the app update" class="font-medium text-slate-400 underline underline-offset-2 hover:text-slate-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-400">Reload</button>
-    </p>
     <p id="reconnect-reminder" role="status" aria-live="polite" hidden class="rounded border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-300"></p>
 
     <!-- Destination Selector Bar -->
@@ -38,13 +34,17 @@
       <div class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-end">
         <div class="w-full sm:w-auto">
           <span class="mb-1 block text-xs font-semibold uppercase tracking-wider text-slate-400">Country browse order</span>
-          <div class="inline-flex rounded border border-slate-600 bg-slate-900 p-0.5" role="group" aria-label="Country browse order">
-            <button id="browse-mode-az" type="button" aria-pressed="true"
-              class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-white bg-emerald-700">A–Z</button>
-            <button id="browse-mode-nearest" type="button" aria-pressed="false" title="Order countries by capital-to-capital distance from the current country"
-              class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-300 hover:bg-slate-700">Nearest</button>
-            <button id="browse-mode-trip" type="button" aria-pressed="false" disabled
-              class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-500 disabled:cursor-not-allowed">Trip</button>
+          <div class="flex flex-wrap items-center gap-2">
+            <div class="inline-flex rounded border border-slate-600 bg-slate-900 p-0.5" role="group" aria-label="Country browse order">
+              <button id="browse-mode-az" type="button" aria-pressed="true"
+                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-white bg-emerald-700">A–Z</button>
+              <button id="browse-mode-nearest" type="button" aria-pressed="false" title="Order countries by capital-to-capital distance from the current country"
+                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-300 hover:bg-slate-700">Nearest</button>
+              <button id="browse-mode-trip" type="button" aria-pressed="false" disabled
+                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-500 disabled:cursor-not-allowed">Trip</button>
+            </div>
+            <button id="reload-app" type="button" aria-label="Reload to apply the app update" title="Reload to apply the app update" hidden
+              class="px-1 py-1 text-xs text-slate-500 hover:text-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-400">Reload</button>
           </div>
         </div>
         <div class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-end">
@@ -191,7 +191,7 @@
       navigator.serviceWorker.addEventListener("controllerchange", () => {
         const nextController = navigator.serviceWorker.controller;
         if (currentServiceWorkerController && nextController !== currentServiceWorkerController) {
-          document.getElementById("app-update-banner").hidden = false;
+          document.getElementById("reload-app").hidden = false;
         }
         currentServiceWorkerController = nextController;
       });
