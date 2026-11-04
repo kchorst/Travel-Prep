@@ -14,8 +14,7 @@
   <header class="bg-slate-800 border-b border-slate-700 p-4 flex flex-wrap justify-between items-center gap-y-2 shadow-md">
     <div class="flex flex-wrap items-center gap-2">
       <h1 class="text-base md:text-xl font-extrabold tracking-wider text-emerald-400 whitespace-nowrap">🧳 TRAVELPREP</h1>
-      <span class="rounded border border-amber-900/70 bg-slate-800 px-2 py-1 text-[10px] font-semibold tracking-wide text-amber-200/80">PREVIEW</span>
-      <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 0.1.0">v0.1.0</span>
+      <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 1.0.0">v1.0.0</span>
     </div>
     <div class="flex items-center space-x-3">
       <span id="offline-badge" hidden role="status" aria-live="polite"
@@ -24,14 +23,12 @@
   </header>
 
   <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
-    <p id="preview-banner" role="status" class="rounded border border-amber-900/60 bg-amber-950/20 px-3 py-2 text-sm text-slate-300">
-      <strong class="text-xs font-semibold tracking-wide text-amber-200/90">PREVIEW</strong> · Verify current entry, health, safety, and transport information with official sources before travel.
-    </p>
     <p id="data-update-banner" role="status" aria-live="polite" hidden class="rounded border border-sky-700 bg-sky-950/60 px-3 py-2 text-sm text-sky-200">
       Travel data has changed since your last visit. Verify current details with official sources before travel.
     </p>
-    <p id="app-update-banner" role="status" aria-live="polite" hidden class="flex flex-wrap items-center gap-2 rounded border border-emerald-800 bg-emerald-950/40 px-3 py-2 text-sm text-emerald-100">
-      <button id="reload-app" type="button" aria-label="Reload to apply the app update" title="Reload to apply the app update" class="rounded border border-emerald-700 px-2 py-1 text-xs font-semibold hover:bg-emerald-900">Reload</button>
+    <p id="app-update-banner" role="status" aria-live="polite" hidden class="flex flex-wrap items-center gap-2 text-xs text-slate-400">
+      <span>App update ready.</span>
+      <button id="reload-app" type="button" aria-label="Reload to apply the app update" title="Reload to apply the app update" class="font-medium text-slate-400 underline underline-offset-2 hover:text-slate-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-400">Reload</button>
     </p>
     <p id="reconnect-reminder" role="status" aria-live="polite" hidden class="rounded border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-300"></p>
 
@@ -365,9 +362,6 @@
           // Use the default destination when browser storage is unavailable.
         }
         window.destinationShardIndex = index.shards;
-        const completeProfiles = destinationIndex.filter(destination => destination.profileStatus === "complete").length;
-        document.getElementById("preview-banner").innerHTML =
-          `<strong class="text-xs font-semibold tracking-wide text-amber-200/90">PREVIEW</strong> · ${completeProfiles} of ${destinationIndex.length} profiles have sourced guidance. Verify current travel details with official sources.`;
         return initSelector().then(() => {
           updateOnlineStatus();
           nearestDestinations = buildNearestRoute(currentDestId);

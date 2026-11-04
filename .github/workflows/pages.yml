@@ -1,4 +1,4 @@
-name: Deploy TravelPrep preview
+name: Deploy TravelPrep
 
 on:
   push:

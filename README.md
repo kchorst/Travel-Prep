@@ -2,11 +2,11 @@
 
 TravelPrep is an offline-capable travel reference and trip-planning app for 196 destinations. Browse sourced country profiles, compare travel-preparation guidance by stage, build a country itinerary, and save profile data for offline use.
 
-> **Preview:** Travel information can change. Verify current entry, health, safety, transportation, and other time-sensitive details with official sources before travel. A profile marked complete means it meets this project's data-coverage checks; it is not a guarantee that every fact or external link is current.
+Travel information can change. Verify current entry, health, safety, transportation, and other time-sensitive details with official sources before travel. A profile marked complete means it meets this project's data-coverage checks; it is not a guarantee that every fact or external link is current.
 
 ## Try It
 
-The preview is published at [kchorst.github.io/Travel-Prep](https://kchorst.github.io/Travel-Prep/). The app is a static Progressive Web App and can also be hosted from any HTTPS static host. Service workers require HTTPS, except on localhost.
+The app is published at [kchorst.github.io/Travel-Prep](https://kchorst.github.io/Travel-Prep/). The app is a static Progressive Web App and can also be hosted from any HTTPS static host. Service workers require HTTPS, except on localhost.
 
 See the [User Guide](USER_GUIDE.md) for browsing, trip planning, maps, installation, and offline use.
 
