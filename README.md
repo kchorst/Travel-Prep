@@ -10,6 +10,16 @@ The app is published at [kchorst.github.io/Travel-Prep](https://kchorst.github.i
 
 See the [User Guide](USER_GUIDE.md) for browsing, trip planning, maps, installation, and offline use.
 
+## Use on Mobile
+
+1. Open the [TravelPrep app](https://kchorst.github.io/Travel-Prep/) in your mobile browser. Use this Pages link, not the GitHub repository's source-code page.
+2. To add an app icon, use **Share → Add to Home Screen** in iPhone/iPad Safari, or **Install app** / **Add to Home screen** in Android Chrome. Menu wording can vary by browser.
+3. Open TravelPrep once while online. To prepare for offline use, select **Save all profiles offline** and wait for its completion status. Cached profiles and the itinerary stay on that browser and device; they do not sync across devices.
+
+## License
+
+TravelPrep is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). Third-party components and source-derived materials remain subject to their own license terms; see [Leaflet's license](vendor/leaflet/LICENSE) and the attribution links in [PUBLISHING.md](PUBLISHING.md).
+
 ## Features
 
 - 196 destination profiles, organized into five preparation stages.
