@@ -43,7 +43,7 @@
               <button id="browse-mode-trip" type="button" aria-pressed="false" disabled
                 class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-500 disabled:cursor-not-allowed">Trip</button>
             </div>
-            <button id="reload-app" type="button" aria-label="Reload to apply the app update" title="Reload to apply the app update" hidden
+            <button id="reload-app" type="button" aria-label="Reload the app" title="Reload the app"
               class="px-1 py-1 text-xs text-slate-500 hover:text-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-400">Reload</button>
           </div>
         </div>
@@ -177,7 +177,6 @@
     const UPDATE_REMINDER_INTERVAL_STORAGE_KEY = "travelprep-update-reminder-interval";
     const UPDATE_REMINDER_DEFAULT_DAYS = 30;
     let updateCheckFailed = false;
-    let currentServiceWorkerController = navigator.serviceWorker?.controller || null;
     const TRIP_DATABASE_NAME = "travelprep-storage";
     const TRIP_DATABASE_VERSION = 1;
     const TRIP_DATABASE_STORE = "itineraries";
@@ -188,13 +187,6 @@
       navigator.serviceWorker.register("./sw.js")
         .then(() => console.log("Service Worker Registered"))
         .catch((err) => console.log("SW Registration Failed:", err));
-      navigator.serviceWorker.addEventListener("controllerchange", () => {
-        const nextController = navigator.serviceWorker.controller;
-        if (currentServiceWorkerController && nextController !== currentServiceWorkerController) {
-          document.getElementById("reload-app").hidden = false;
-        }
-        currentServiceWorkerController = nextController;
-      });
     }
     document.getElementById("reload-app").addEventListener("click", () => location.reload());
 
