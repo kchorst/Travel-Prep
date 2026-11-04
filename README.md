@@ -55,6 +55,7 @@ Canonical destination and electrical data live under `data/`; regional profile s
 
 ```powershell
 node scripts/enrich-wikivoyage-household-norms.mjs
+node scripts/reformat-profile-summaries.mjs
 node scripts/audit-profile-spec.mjs
 node scripts/build-data-shards.mjs
 node scripts/validate-data-shards.mjs
