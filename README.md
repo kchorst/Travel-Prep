@@ -18,18 +18,18 @@ See the [User Guide](USER_GUIDE.md) for browsing, trip planning, maps, installat
 
 ## License
 
-TravelPrep is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). Third-party components and source-derived materials remain subject to their own license terms; see [Leaflet's license](vendor/leaflet/LICENSE) and the attribution links in [PUBLISHING.md](PUBLISHING.md).
+TravelPrep is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). The license permits noncommercial purposes and other uses described in its terms; read the full license for permissions and limitations. Third-party components and source-derived materials remain subject to their own license terms; see [Leaflet's license](vendor/leaflet/LICENSE) and the attribution links in [PUBLISHING.md](PUBLISHING.md).
 
 ## Features
 
 - 196 destination profiles, organized into five preparation stages.
 - Quick summaries and expandable profile detail. Profile citation records are maintained in the data; electrical reference links are shown where available.
 - Interactive country-boundary map; select a country to open its profile, or open a Google Maps search for the destination.
-- Country selector browsing in A–Z order, by a nearest-capital sequence from the selected country, or by the stop order of the saved itinerary. Nearest is a browsing order, not a recommended travel route.
-- Search and open countries by name, capital, region, or ISO code; filter and add search results to a trip.
-- Multiple named, locally saved trips, with add, reorder, remove, and clear controls.
+- Country selector browsing in A–Z order, by distance from the selected capital, or by the stop order of the saved itinerary. Nearest is the default: arrows select the closest capital east or west; this is not a recommended travel route.
+- Search countries by name, capital, region, or ISO code and select a result to open its profile. An optional selection mode adds multiple results to a trip.
+- A collapsed-by-default itinerary with multiple named, locally saved trips and add, reorder, remove, and clear controls.
 - Offline app shell, map boundaries, and priority profiles, with an option to cache every profile.
-- Daily, weekly, or monthly reconnect reminders, a persistent offline-data update notice, and a reload control for app-shell updates.
+- Daily, weekly, or monthly reconnect reminders, an offline-download button that indicates available data updates, and a reload control for app-shell updates.
 - Electrical standards and socket diagrams in the arrival guidance.
 
 ## Run Locally

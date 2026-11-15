@@ -34,7 +34,7 @@
 
   <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
     <p id="data-update-banner" role="status" aria-live="polite" hidden class="rounded border border-sky-700 bg-sky-950/60 px-3 py-2 text-sm text-sky-200">
-      Travel data has changed. Select Save offline to update all profiles for offline use. Verify current details with official sources before travel.
+      Travel data has changed. Select Update available to refresh profiles for offline use. Verify current details with official sources before travel.
     </p>
     <p id="reconnect-reminder" role="status" aria-live="polite" hidden class="rounded border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-300"></p>
 
@@ -46,15 +46,24 @@
           <span class="mb-1 block text-xs font-semibold uppercase tracking-wider text-slate-400">Country browse order</span>
           <div class="flex flex-wrap items-center gap-2">
             <div class="inline-flex rounded border border-slate-600 bg-slate-900 p-0.5" role="group" aria-label="Country browse order">
-              <button id="browse-mode-az" type="button" aria-pressed="true"
-                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-white bg-emerald-700">A–Z</button>
-              <button id="browse-mode-nearest" type="button" aria-pressed="false" title="Order countries by capital-to-capital distance from the current country"
-                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-300 hover:bg-slate-700">Nearest</button>
+              <button id="browse-mode-az" type="button" aria-pressed="false"
+                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-300 hover:bg-slate-700">A–Z</button>
+              <button id="browse-mode-nearest" type="button" aria-pressed="true" title="Browse nearby capitals east or west"
+                class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-white bg-emerald-700">Nearest</button>
               <button id="browse-mode-trip" type="button" aria-pressed="false" disabled
                 class="rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-500 disabled:cursor-not-allowed">Trip</button>
             </div>
             <button id="reload-app" type="button" aria-label="Reload the app" title="Reload the app"
               class="px-1 py-1 text-xs text-slate-500 hover:text-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-400">Reload</button>
+          </div>
+          <div class="mt-2 flex items-center gap-2">
+            <button id="open-country-search" type="button" title="Find a country" aria-label="Find a country" disabled
+              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg text-slate-200 hover:bg-slate-700 disabled:opacity-50">&#128269;</button>
+            <button id="browse-previous" type="button" title="Previous country (left arrow)" aria-label="Previous country"
+              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">←</button>
+            <button id="browse-next" type="button" title="Next country (right arrow)" aria-label="Next country"
+              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">→</button>
+            <span id="browse-position" class="min-w-14 text-center text-xs tabular-nums text-slate-400" aria-live="polite"></span>
           </div>
         </div>
         <div class="flex w-full flex-col items-stretch gap-2 sm:flex-1 sm:flex-row sm:items-end">
@@ -63,15 +72,6 @@
               class="block text-xs font-semibold uppercase tracking-wider text-slate-400 mb-1">Country</label>
             <select id="destination-select"
               class="w-full max-w-full min-w-0 bg-slate-900 border border-slate-700 text-slate-100 rounded-lg px-3 py-2 font-medium focus:outline-none focus:border-emerald-500"></select>
-          </div>
-          <div class="flex shrink-0 items-center justify-end gap-2">
-            <button id="open-country-search" type="button" title="Find a country" aria-label="Find a country" disabled
-              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg text-slate-200 hover:bg-slate-700 disabled:opacity-50">&#128269;</button>
-            <button id="browse-previous" type="button" title="Previous country (left arrow)" aria-label="Previous country"
-              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">←</button>
-            <button id="browse-next" type="button" title="Next country (right arrow)" aria-label="Next country"
-              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">→</button>
-            <span id="browse-position" class="min-w-14 text-center text-xs tabular-nums text-slate-400" aria-live="polite"></span>
           </div>
         </div>
       </div>
@@ -91,12 +91,11 @@
       </div>
     </div>
 
-    <section class="border-t border-slate-700 pt-3" aria-labelledby="trip-heading">
-      <div class="flex flex-wrap items-center justify-between gap-2">
-        <div class="flex items-baseline gap-2">
-          <h2 id="trip-heading" class="text-sm font-semibold text-slate-100">Trip itinerary</h2>
-          <span id="trip-summary" role="status" aria-live="polite" class="text-xs text-slate-400">No stops</span>
-        </div>
+    <details class="border-t border-slate-700 pt-3">
+      <summary class="cursor-pointer text-sm font-semibold text-slate-100">
+        Trip itinerary <span id="trip-summary" role="status" aria-live="polite" class="ml-2 text-xs font-normal text-slate-400">No stops</span>
+      </summary>
+      <div class="mt-3">
         <div class="flex flex-wrap gap-2">
           <label class="sr-only" for="trip-select">Saved trip</label>
           <select id="trip-select" disabled class="max-w-40 rounded border border-slate-600 bg-slate-900 px-2 py-2 text-xs text-slate-200"></select>
@@ -110,7 +109,7 @@
         </div>
       </div>
       <ol id="trip-stops" class="mt-2 grid gap-1 sm:grid-cols-2" aria-label="Itinerary stops"></ol>
-    </section>
+    </details>
 
     <!-- Operational Intelligence Container -->
     <div id="destination-view" class="space-y-4"></div>
@@ -124,32 +123,37 @@
         <button id="close-country-search" type="button" aria-label="Close country search"
           class="h-9 w-9 rounded text-lg text-slate-300 hover:bg-slate-800">×</button>
       </div>
-      <div class="grid gap-3 border-b border-slate-700 p-4 sm:grid-cols-3">
-        <label class="text-xs font-medium text-slate-300 sm:col-span-3">Country, capital, or code
-          <input id="country-search-query" type="search" autocomplete="off" placeholder="Search countries"
-            class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-3 py-2 text-sm text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-emerald-500">
-        </label>
+      <div class="grid grid-cols-2 gap-3 border-b border-slate-700 p-4">
         <label class="text-xs font-medium text-slate-300">Region
           <select id="country-search-region" class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-2 py-2 text-sm text-slate-100">
             <option value="">All regions</option>
           </select>
         </label>
-        <label class="text-xs font-medium text-slate-300 sm:col-span-2">Trip
+        <label class="text-xs font-medium text-slate-300">Trip
           <select id="country-search-trip-filter" class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-2 py-2 text-sm text-slate-100">
             <option value="all">All countries</option>
             <option value="in-trip">In this trip</option>
             <option value="not-in-trip">Not in this trip</option>
           </select>
         </label>
+        <label class="col-span-2 text-xs font-medium text-slate-300">Country, capital, or code
+          <input id="country-search-query" type="search" autocomplete="off" placeholder="Search countries"
+            class="mt-1 w-full rounded border border-slate-600 bg-slate-950 px-3 py-2 text-sm text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-emerald-500">
+        </label>
       </div>
       <div class="flex items-center justify-between px-4 py-2 text-xs text-slate-400">
         <span id="country-search-count" role="status" aria-live="polite"></span>
-        <button id="country-search-select-visible" type="button" class="underline decoration-slate-500 underline-offset-2 hover:text-white">Select visible</button>
+        <div class="flex items-center gap-3">
+          <button id="country-search-select-visible" type="button" hidden class="underline decoration-slate-500 underline-offset-2 hover:text-white">Select visible</button>
+          <button id="country-search-mode" type="button" aria-pressed="false" class="font-semibold text-emerald-300 hover:text-emerald-100">Select for trip</button>
+        </div>
       </div>
       <ul id="country-search-results" class="min-h-24 flex-1 divide-y divide-slate-800 overflow-y-auto px-4" aria-label="Country search results"></ul>
-      <div class="flex justify-end gap-2 border-t border-slate-700 p-4">
-        <button id="country-search-add" type="button" disabled
-          class="rounded bg-emerald-700 px-3 py-2 text-xs font-semibold text-white hover:bg-emerald-600 disabled:cursor-not-allowed disabled:opacity-50">Add selected to trip</button>
+      <div id="country-search-trip-actions" hidden class="border-t border-slate-700 p-4">
+        <div class="flex justify-end gap-2">
+          <button id="country-search-add" type="button" disabled
+            class="rounded bg-emerald-700 px-3 py-2 text-xs font-semibold text-white hover:bg-emerald-600 disabled:cursor-not-allowed disabled:opacity-50">Add selected to trip</button>
+        </div>
       </div>
     </div>
   </dialog>
@@ -164,8 +168,9 @@
     let activeTripId = "";
     let tripSaveQueue = Promise.resolve();
     let selectedSearchIds = new Set();
+    let selectingSearchForTrip = false;
     let tripStorageReady = false;
-    let browseMode = "alphabetical";
+    let browseMode = "nearest";
     let currentDestination = null;
     let currentDestId = "al-al";
     let activeStageFilter = "all";
@@ -318,7 +323,7 @@
             try {
               if (data.dataVersion === localStorage.getItem(DATA_VERSION_STORAGE_KEY)) {
                 localStorage.removeItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY);
-                document.getElementById("data-update-banner").hidden = true;
+                setOfflineUpdateAvailable(false);
               }
             } catch {}
             button.disabled = false;
@@ -334,6 +339,17 @@
       }
     });
 
+    function setOfflineUpdateAvailable(available) {
+      const button = document.getElementById("download-all-profiles");
+      button.textContent = available ? "Update available" : "Save offline";
+      button.title = available ? "Download updated profiles for offline use" : "Save all profiles offline";
+      button.classList.toggle("border-amber-500", available);
+      button.classList.toggle("text-amber-300", available);
+      button.classList.toggle("border-slate-600", !available);
+      button.classList.toggle("text-slate-200", !available);
+      document.getElementById("data-update-banner").hidden = !available;
+    }
+
     function checkForDataUpdate(index) {
       if (!index.dataVersion) return;
       try {
@@ -341,7 +357,7 @@
         if (previousVersion && previousVersion !== index.dataVersion) {
           localStorage.setItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY, index.dataVersion);
         }
-        document.getElementById("data-update-banner").hidden = !localStorage.getItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY);
+        setOfflineUpdateAvailable(Boolean(localStorage.getItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY)));
         localStorage.setItem(DATA_VERSION_STORAGE_KEY, index.dataVersion);
       } catch {
         return;
@@ -411,6 +427,7 @@
       document.getElementById("country-search-query").addEventListener("input", renderCountrySearch);
       document.getElementById("country-search-region").addEventListener("change", renderCountrySearch);
       document.getElementById("country-search-trip-filter").addEventListener("change", renderCountrySearch);
+      document.getElementById("country-search-mode").addEventListener("click", toggleCountrySearchMode);
       document.getElementById("country-search-select-visible").addEventListener("click", selectVisibleCountries);
       document.getElementById("country-search-add").addEventListener("click", addSelectedCountriesToTrip);
       renderTripPlanner();
@@ -451,6 +468,11 @@
             ? "rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-500 disabled:cursor-not-allowed"
             : "rounded px-3 py-2 text-xs whitespace-nowrap font-semibold text-slate-300 hover:bg-slate-700";
       }
+          for (const [id, label] of [["browse-previous", browseMode === "nearest" ? "Nearest country west" : "Previous country"], ["browse-next", browseMode === "nearest" ? "Nearest country east" : "Next country"]]) {
+            const button = document.getElementById(id);
+            button.title = label;
+            button.setAttribute("aria-label", label);
+          }
     }
 
     function setBrowseMode(mode) {
@@ -751,12 +773,19 @@
 
     function openCountrySearch() {
       selectedSearchIds.clear();
+      selectingSearchForTrip = false;
       document.getElementById("country-search-query").value = "";
       document.getElementById("country-search-region").value = "";
       document.getElementById("country-search-trip-filter").value = "all";
       renderCountrySearch();
       document.getElementById("country-search-dialog").showModal();
       document.getElementById("country-search-query").focus();
+    }
+
+    function toggleCountrySearchMode() {
+      selectingSearchForTrip = !selectingSearchForTrip;
+      if (!selectingSearchForTrip) selectedSearchIds.clear();
+      renderCountrySearch();
     }
 
     function getCountrySearchMatches() {
@@ -780,37 +809,35 @@
       list.replaceChildren();
       matches.forEach(destination => {
         const item = document.createElement("li");
-        const label = document.createElement("label");
-        label.className = "flex cursor-pointer items-center gap-3 py-3 text-sm hover:text-emerald-200";
-        const checkbox = document.createElement("input");
-        checkbox.type = "checkbox";
-        checkbox.checked = selectedSearchIds.has(destination.id);
-        checkbox.className = "h-4 w-4 accent-emerald-500";
-        checkbox.addEventListener("change", () => {
-          if (checkbox.checked) selectedSearchIds.add(destination.id);
-          else selectedSearchIds.delete(destination.id);
-          updateCountrySearchSelection(matches.length);
-        });
+        const result = document.createElement(selectingSearchForTrip ? "label" : "button");
+        result.className = "flex w-full cursor-pointer items-center gap-3 py-3 text-left text-sm hover:text-emerald-200";
+        if (selectingSearchForTrip) {
+          const checkbox = document.createElement("input");
+          checkbox.type = "checkbox";
+          checkbox.checked = selectedSearchIds.has(destination.id);
+          checkbox.className = "h-4 w-4 accent-emerald-500";
+          checkbox.addEventListener("change", () => {
+            if (checkbox.checked) selectedSearchIds.add(destination.id);
+            else selectedSearchIds.delete(destination.id);
+            updateCountrySearchSelection(matches.length);
+          });
+          result.append(checkbox);
+        } else {
+          result.type = "button";
+          result.addEventListener("click", () => {
+            document.getElementById("country-search-dialog").close();
+            if (browseMode === "trip" && !tripDestinationIds.includes(destination.id)) setBrowseMode("alphabetical");
+            loadDestination(destination.id, { resetNearestRoute: true });
+          });
+        }
         const name = document.createElement("span");
         name.className = "min-w-0 flex-1";
         name.textContent = destination.country;
         const detail = document.createElement("span");
         detail.className = "text-xs text-slate-500";
         detail.textContent = `${destination.capital ? `${destination.capital} · ` : ""}${destination.region}${inTrip.has(destination.id) ? " · In trip" : ""}`;
-        label.append(checkbox, name, detail);
-        const open = document.createElement("button");
-        open.type = "button";
-        open.textContent = "Open";
-        open.className = "shrink-0 px-3 py-2 text-xs font-semibold text-emerald-300 hover:text-emerald-100";
-        open.setAttribute("aria-label", `Open ${destination.country}`);
-        open.addEventListener("click", () => {
-          document.getElementById("country-search-dialog").close();
-          if (browseMode === "trip" && !tripDestinationIds.includes(destination.id)) setBrowseMode("alphabetical");
-          loadDestination(destination.id, { resetNearestRoute: true });
-        });
-        item.className = "flex items-center gap-2";
-        label.classList.add("min-w-0", "flex-1");
-        item.append(label, open);
+        result.append(name, detail);
+        item.append(result);
         list.append(item);
       });
       if (matches.length === 0) {
@@ -825,7 +852,12 @@
     function updateCountrySearchSelection(visibleCount) {
       const selectedCount = selectedSearchIds.size;
       document.getElementById("country-search-count").textContent =
-        `${visibleCount} ${visibleCount === 1 ? "country" : "countries"} · ${selectedCount} selected`;
+        `${visibleCount} ${visibleCount === 1 ? "country" : "countries"}${selectingSearchForTrip ? ` · ${selectedCount} selected` : ""}`;
+      const modeButton = document.getElementById("country-search-mode");
+      modeButton.textContent = selectingSearchForTrip ? "Done selecting" : "Select for trip";
+      modeButton.setAttribute("aria-pressed", String(selectingSearchForTrip));
+      document.getElementById("country-search-select-visible").hidden = !selectingSearchForTrip;
+      document.getElementById("country-search-trip-actions").hidden = !selectingSearchForTrip;
       const addButton = document.getElementById("country-search-add");
       addButton.disabled = selectedCount === 0;
       addButton.textContent = selectedCount ? `Add ${selectedCount} to trip` : "Add selected to trip";
@@ -872,28 +904,11 @@
       const start = sorted.find(destination => destination.id === startId &&
         Number.isFinite(destination.latitude) && Number.isFinite(destination.longitude)) || sorted[0];
       if (!start) return [];
-
-      const route = [start];
-      const remaining = new Map(sorted
-        .filter(destination => destination.id !== start.id &&
-          Number.isFinite(destination.latitude) && Number.isFinite(destination.longitude))
-        .map(destination => [destination.id, destination]));
-      while (remaining.size) {
-        const last = route[route.length - 1];
-        const next = [...remaining.values()].sort((a, b) => {
-          const distanceDelta = greatCircleDistanceKm(last, a) - greatCircleDistanceKm(last, b);
-          return Math.abs(distanceDelta) > 0.001
-            ? distanceDelta
-            : a.country.localeCompare(b.country, undefined, { sensitivity: "base" });
-        })[0];
-        route.push(next);
-        remaining.delete(next.id);
-      }
-
-      route.push(...sorted.filter(destination =>
-        !Number.isFinite(destination.latitude) || !Number.isFinite(destination.longitude)
-      ));
-      return route;
+      return [start, ...sorted.filter(destination => destination.id !== start.id).sort((a, b) => {
+        const distanceA = Number.isFinite(a.latitude) && Number.isFinite(a.longitude) ? greatCircleDistanceKm(start, a) : Infinity;
+        const distanceB = Number.isFinite(b.latitude) && Number.isFinite(b.longitude) ? greatCircleDistanceKm(start, b) : Infinity;
+        return distanceA - distanceB || a.country.localeCompare(b.country, undefined, { sensitivity: "base" });
+      })];
     }
 
     function updateBrowsePosition() {
@@ -901,10 +916,21 @@
       const position = order.findIndex(destination => destination.id === currentDestId);
       document.getElementById("browse-position").textContent = position < 0
         ? ""
-        : `${position + 1} / ${order.length}`;
+        : browseMode === "nearest" ? "Nearby" : `${position + 1} / ${order.length}`;
     }
 
     function navigateDestination(direction) {
+      if (browseMode === "nearest") {
+        const current = destinationIndex.find(destination => destination.id === currentDestId);
+        if (!current || !Number.isFinite(current.longitude)) return;
+        const next = buildNearestRoute(currentDestId).find(destination => {
+          if (destination.id === currentDestId || !Number.isFinite(destination.latitude) || !Number.isFinite(destination.longitude)) return false;
+          const longitudeDelta = ((destination.longitude - current.longitude + 540) % 360) - 180;
+          return direction > 0 ? longitudeDelta > 0 : longitudeDelta < 0;
+        });
+        if (next) loadDestination(next.id, { resetNearestRoute: true });
+        return;
+      }
       const order = activeDestinationOrder();
       const position = order.findIndex(destination => destination.id === currentDestId);
       if (position < 0 || order.length < 2) return;

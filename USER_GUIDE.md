@@ -4,15 +4,15 @@ TravelPrep is a travel-planning reference, not an official source of travel auth
 
 ## Choose a Destination
 
-Use the **Country** selector to choose a destination. The search button beside it finds countries by name, capital, region, or ISO code; choose **Open** to view a result. **Country browse order** changes which countries appear in the selector and in what order:
+Use the **Country** selector to choose a destination. The search button under **Country browse order** finds countries by name, capital, region, or ISO code; select a result to view its profile. **Country browse order** changes which countries appear in the selector and in what order:
 
 TravelPrep remembers the last selected country in this browser and opens it next time. A first visit with no saved choice starts at Albania.
 
 - **A–Z** lists destinations alphabetically.
-- **Nearest** starts with the selected country and repeatedly places the closest capital next. This is a country browsing order, not a recommended travel route.
+- **Nearest** is the default and lists countries by distance from the selected capital. The right arrow opens the closest capital east, and the left arrow opens the closest capital west, using longitude around the globe. This is not a border map or a recommended travel route.
 - **Trip** shows only countries in your saved itinerary, in stop order. This option is available after adding at least one stop; add, remove, and reorder stops in the separate **Trip itinerary** section.
 
-The previous and next buttons move through the active order. On a keyboard, the left and right arrow keys also browse destinations unless focus is in a control or on the map. On touch screens, swipe horizontally over the profile to move between destinations.
+In A–Z and Trip modes, the previous and next buttons move through the active order. On a keyboard, the left and right arrow keys also browse destinations unless focus is in a control or on the map. On touch screens, swipe horizontally over the profile to move between destinations.
 
 ## Read a Profile
 
@@ -26,7 +26,7 @@ The map displays country boundaries and highlights the selected destination. Sel
 
 ## Build a Trip
 
-Choose a saved trip in the itinerary section. Use **+** to create a named trip, the pencil button to rename it, and **×** to delete it after confirmation. A previous single itinerary appears as **My trip**. Use **Add country to trip** to add the selected destination. To add other destinations, open the country search beside the selector and select one or more results. The region and trip filters can narrow the results; **Select visible** selects every result currently shown. Choose **Add selected to trip** to add the selection to the active trip.
+Expand **Trip itinerary** to access its controls. Choose a saved trip, or use **+** to create a named trip, the pencil button to rename it, and **×** to delete it after confirmation. A previous single itinerary appears as **My trip**. Use **Add country to trip** to add the selected destination. To add several destinations, open the country search, choose **Select for trip**, and tick the results. The region and trip filters can narrow the results; **Select visible** selects every result currently shown. Choose **Add selected to trip** to add the selection to the active trip. Choose **Done selecting** to return to opening profiles.
 
 Trip stops appear in itinerary order. Select a stop to open its profile; use the up and down buttons to reorder it, or the remove button to delete it. **Clear trip** removes all stops from the active trip. Trips are saved automatically in this browser and are not synced between devices.
 
@@ -36,7 +36,7 @@ The app shell, styles, map library and boundaries, and priority profile data are
 
 To save every profile, connect to the internet and select **Save offline** beside the version number. Keep the page open until the status confirms that all profiles have been saved. Cached profiles are available offline in the same browser on the same device.
 
-Choose a **Reminder** interval beside the version number: daily, weekly, or monthly (monthly by default). This interval controls when an offline reconnect reminder appears; it does not schedule background connections. TravelPrep checks for updates when opened online and when connectivity returns while it is open. Browsers do not reliably run scheduled checks while the app is closed. If a data update is found, the notice remains until **Save offline** completes for the current version; select **Reload** to use a newly installed app-shell update.
+Choose a **Reminder** interval beside the version number: daily, weekly, or monthly (monthly by default). This interval controls when an offline reconnect reminder appears; it does not schedule background connections. TravelPrep checks for updates when opened online and when connectivity returns while it is open. Browsers do not reliably run scheduled checks while the app is closed. If a data update is found, the offline button shows **Update available** until the current version has been saved; select **Reload** to use a newly installed app-shell update.
 
 For a more app-like launch, use your browser's **Install app** or **Add to Home Screen** option when available. Installation and offline caching require the hosted HTTPS site or a local development server at `localhost`; opening the HTML file directly does not support service workers.
 
