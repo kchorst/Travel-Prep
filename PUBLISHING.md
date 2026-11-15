@@ -25,3 +25,5 @@ Before the first deployment, open **Settings → Pages → Build and deployment 
 ## Offline Note
 
 The service worker caches the app shell, generated stylesheet, local Leaflet library, Natural Earth country boundaries, and priority data packs. The map uses no external tile server. Natural Earth 1:50m boundaries are public domain; see [Natural Earth's terms](https://www.naturalearthdata.com/about/terms-of-use/) and the [boundary source](https://github.com/nvkelso/natural-earth-vector/tree/master/geojson). The bundled polygons cover all 196 destination ISO codes; Taiwan's Natural Earth `CN-TW` identifier is matched to the app's `TW` profile code.
+
+Capital names and point coordinates are from [Wikidata](https://www.wikidata.org/) structured data under CC0 1.0; individual source links are recorded in `data/capital-coordinates.json`. The bundled Leaflet library is covered by its [BSD 2-Clause license](vendor/leaflet/LICENSE).

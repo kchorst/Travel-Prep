@@ -20,6 +20,8 @@ See the [User Guide](USER_GUIDE.md) for browsing, trip planning, maps, installat
 
 TravelPrep is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). The license permits noncommercial purposes and other uses described in its terms; read the full license for permissions and limitations. Third-party components and source-derived materials remain subject to their own license terms; see [Leaflet's license](vendor/leaflet/LICENSE) and the attribution links in [PUBLISHING.md](PUBLISHING.md).
 
+Map boundaries are from [Natural Earth](https://www.naturalearthdata.com/), and capital names and coordinates are from [Wikidata](https://www.wikidata.org/) structured data (CC0 1.0). The map uses [Leaflet](https://leafletjs.com/), distributed under its [BSD 2-Clause license](vendor/leaflet/LICENSE).
+
 ## Features
 
 - 196 destination profiles, organized into five preparation stages.
