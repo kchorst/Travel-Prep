@@ -14,7 +14,7 @@ See the [User Guide](USER_GUIDE.md) for browsing, trip planning, maps, installat
 
 1. Open the [TravelPrep app](https://kchorst.github.io/Travel-Prep/) in your mobile browser. Use this Pages link, not the GitHub repository's source-code page.
 2. To add an app icon, use **Share → Add to Home Screen** in iPhone/iPad Safari, or **Install app** / **Add to Home screen** in Android Chrome. Menu wording can vary by browser.
-3. Open TravelPrep once while online. To prepare for offline use, select **Save all profiles offline** and wait for its completion status. Cached profiles and the itinerary stay on that browser and device; they do not sync across devices.
+3. Open TravelPrep once while online. To prepare for offline use, select **Save offline** beside the version number and wait for its completion status. Cached profiles and trips stay on that browser and device; they do not sync across devices.
 
 ## License
 
@@ -26,10 +26,10 @@ TravelPrep is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.
 - Quick summaries and expandable profile detail. Profile citation records are maintained in the data; electrical reference links are shown where available.
 - Interactive country-boundary map; select a country to open its profile, or open a Google Maps search for the destination.
 - Country selector browsing in A–Z order, by a nearest-capital sequence from the selected country, or by the stop order of the saved itinerary. Nearest is a browsing order, not a recommended travel route.
-- Search and filter countries by name, capital, region, ISO code, or trip membership.
-- Local itinerary storage, with add, reorder, remove, and clear controls.
+- Search and open countries by name, capital, region, or ISO code; filter and add search results to a trip.
+- Multiple named, locally saved trips, with add, reorder, remove, and clear controls.
 - Offline app shell, map boundaries, and priority profiles, with an option to cache every profile.
-- Daily, weekly, or monthly reconnect reminders, plus a reload prompt when an app-shell update is installed.
+- Daily, weekly, or monthly reconnect reminders, a persistent offline-data update notice, and a reload control for app-shell updates.
 - Electrical standards and socket diagrams in the arrival guidance.
 
 ## Run Locally

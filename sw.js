@@ -1,4 +1,4 @@
-const SHELL_CACHE = "travel-engine-shell-v40";
+const SHELL_CACHE = "travel-engine-shell-v44";
 const DATA_CACHE = "travel-engine-data-v1";
 const SHELL_ASSETS = [
   "./",
@@ -67,7 +67,7 @@ async function notifyUpdateCheck(type) {
 self.addEventListener("install", (event) => {
   event.waitUntil((async () => {
     const shellCache = await caches.open(SHELL_CACHE);
-    await shellCache.addAll(SHELL_ASSETS);
+    await shellCache.addAll(SHELL_ASSETS.map(url => new Request(url, { cache: "reload" })));
 
     const indexResponse = await fetch(INDEX_URL, { cache: "no-cache" });
     if (!indexResponse.ok) throw new Error("Unable to fetch destination index");
@@ -120,7 +120,7 @@ self.addEventListener("message", (event) => {
         port?.postMessage({ type: "CACHE_ALL_PROGRESS", completed, total: shards.length, region: name });
       }
 
-      port?.postMessage({ type: "CACHE_ALL_COMPLETE", records: index.destinations.length });
+      port?.postMessage({ type: "CACHE_ALL_COMPLETE", records: index.destinations.length, dataVersion: index.dataVersion });
     } catch (error) {
       port?.postMessage({ type: "CACHE_ALL_FAILED", message: error.message || "A profile region could not be cached." });
     } finally {

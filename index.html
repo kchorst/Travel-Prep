@@ -15,6 +15,16 @@
     <div class="flex flex-wrap items-center gap-2">
       <h1 class="text-base md:text-xl font-extrabold tracking-wider text-emerald-400 whitespace-nowrap">🧳 TRAVELPREP</h1>
       <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 1.1">v1.1</span>
+      <button id="download-all-profiles" type="button" title="Save all profiles offline"
+        class="rounded border border-slate-600 px-2 py-1 text-xs text-slate-200 hover:bg-slate-700 disabled:opacity-50">Save offline</button>
+      <label for="update-reminder-interval" class="flex items-center gap-1 text-xs text-slate-400">Reminder
+        <select id="update-reminder-interval" class="rounded border border-slate-600 bg-slate-900 px-1 py-1 text-slate-200">
+          <option value="1">Daily</option>
+          <option value="7">Weekly</option>
+          <option value="30" selected>Monthly</option>
+        </select>
+      </label>
+      <span id="offline-download-status" role="status" aria-live="polite" class="text-xs text-slate-400"></span>
     </div>
     <div class="flex items-center space-x-3">
       <span id="offline-badge" hidden role="status" aria-live="polite"
@@ -24,14 +34,14 @@
 
   <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
     <p id="data-update-banner" role="status" aria-live="polite" hidden class="rounded border border-sky-700 bg-sky-950/60 px-3 py-2 text-sm text-sky-200">
-      Travel data has changed since your last visit. Verify current details with official sources before travel.
+      Travel data has changed. Select Save offline to update all profiles for offline use. Verify current details with official sources before travel.
     </p>
     <p id="reconnect-reminder" role="status" aria-live="polite" hidden class="rounded border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-300"></p>
 
     <!-- Destination Selector Bar -->
     <div
-      class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg flex flex-col sm:flex-row justify-between items-center gap-3">
-      <div class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-end">
+      class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg flex flex-col gap-3">
+      <div class="flex w-full flex-col gap-2 sm:flex-row sm:items-end">
         <div class="w-full sm:w-auto">
           <span class="mb-1 block text-xs font-semibold uppercase tracking-wider text-slate-400">Country browse order</span>
           <div class="flex flex-wrap items-center gap-2">
@@ -47,14 +57,16 @@
               class="px-1 py-1 text-xs text-slate-500 hover:text-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-400">Reload</button>
           </div>
         </div>
-        <div class="flex w-full flex-row items-end gap-2 sm:w-auto">
-          <div class="min-w-0 flex-1 sm:flex-none">
+        <div class="flex w-full flex-col items-stretch gap-2 sm:flex-1 sm:flex-row sm:items-end">
+          <div class="min-w-0 flex-1">
             <label for="destination-select"
               class="block text-xs font-semibold uppercase tracking-wider text-slate-400 mb-1">Country</label>
             <select id="destination-select"
-              class="w-full max-w-full min-w-0 sm:w-auto bg-slate-900 border border-slate-700 text-slate-100 rounded-lg px-3 py-2 font-medium focus:outline-none focus:border-emerald-500"></select>
+              class="w-full max-w-full min-w-0 bg-slate-900 border border-slate-700 text-slate-100 rounded-lg px-3 py-2 font-medium focus:outline-none focus:border-emerald-500"></select>
           </div>
-          <div class="flex shrink-0 items-center gap-2">
+          <div class="flex shrink-0 items-center justify-end gap-2">
+            <button id="open-country-search" type="button" title="Find a country" aria-label="Find a country" disabled
+              class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg text-slate-200 hover:bg-slate-700 disabled:opacity-50">&#128269;</button>
             <button id="browse-previous" type="button" title="Previous country (left arrow)" aria-label="Previous country"
               class="h-10 w-10 shrink-0 rounded border border-slate-600 bg-slate-900 text-lg font-bold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">←</button>
             <button id="browse-next" type="button" title="Next country (right arrow)" aria-label="Next country"
@@ -63,19 +75,19 @@
           </div>
         </div>
       </div>
-      <div class="grid w-full grid-cols-3 gap-1 sm:flex sm:w-auto sm:flex-wrap">
+      <div class="grid w-full grid-cols-3 gap-1 sm:grid-cols-6">
         <button onclick="filterStage(event,'preArrival')"
-          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600 sm:w-auto">Plan</button>
+          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Plan</button>
         <button onclick="filterStage(event,'arrival24h')"
-          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600 sm:w-auto">Arrive</button>
+          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Arrive</button>
         <button onclick="filterStage(event,'mobility')"
-          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600 sm:w-auto">Move</button>
+          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Move</button>
         <button onclick="filterStage(event,'dailyLiving')"
-          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600 sm:w-auto">Live</button>
+          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Live</button>
         <button onclick="filterStage(event,'socialCode')"
-          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600 sm:w-auto">Connect</button>
+          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-slate-700 text-slate-300 font-semibold transition hover:bg-slate-600">Connect</button>
         <button onclick="filterStage(event,'all')"
-          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-emerald-600 text-white font-semibold transition hover:bg-emerald-500 sm:w-auto">All</button>
+          class="stage-btn w-full whitespace-nowrap px-3 py-1.5 text-center text-xs rounded-lg bg-emerald-600 text-white font-semibold transition hover:bg-emerald-500">All</button>
       </div>
     </div>
 
@@ -86,8 +98,11 @@
           <span id="trip-summary" role="status" aria-live="polite" class="text-xs text-slate-400">No stops</span>
         </div>
         <div class="flex flex-wrap gap-2">
-          <button id="open-country-search" type="button"
-            disabled class="rounded border border-slate-600 bg-slate-800 px-3 py-2 text-xs font-semibold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 disabled:cursor-not-allowed disabled:opacity-50">Find countries</button>
+          <label class="sr-only" for="trip-select">Saved trip</label>
+          <select id="trip-select" disabled class="max-w-40 rounded border border-slate-600 bg-slate-900 px-2 py-2 text-xs text-slate-200"></select>
+          <button id="trip-create" type="button" title="New trip" aria-label="New trip" disabled class="h-9 w-9 rounded border border-slate-600 text-lg text-slate-200 disabled:opacity-50">+</button>
+          <button id="trip-rename" type="button" title="Rename trip" aria-label="Rename trip" disabled class="h-9 w-9 rounded border border-slate-600 text-sm text-slate-200 disabled:opacity-50">&#9998;</button>
+          <button id="trip-delete" type="button" title="Delete trip" aria-label="Delete trip" disabled class="h-9 w-9 rounded border border-slate-600 text-lg text-slate-200 disabled:opacity-50">&#215;</button>
           <button id="trip-add-current" type="button" disabled
             class="rounded border border-emerald-700 bg-emerald-950 px-3 py-2 text-xs font-semibold text-emerald-200 hover:bg-emerald-900 focus:outline-none focus:ring-2 focus:ring-emerald-500 disabled:cursor-not-allowed disabled:opacity-50">Add country to trip</button>
           <button id="trip-clear" type="button" disabled
@@ -96,19 +111,6 @@
       </div>
       <ol id="trip-stops" class="mt-2 grid gap-1 sm:grid-cols-2" aria-label="Itinerary stops"></ol>
     </section>
-
-    <div class="flex flex-wrap items-center gap-2">
-      <button id="download-all-profiles" type="button"
-        class="rounded border border-slate-600 bg-slate-800 px-3 py-2 text-xs font-semibold text-slate-200 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500">Save all profiles offline</button>
-      <span id="offline-download-status" role="status" aria-live="polite" class="text-xs text-slate-400"></span>
-      <label for="update-reminder-interval" class="flex items-center gap-2 text-xs text-slate-400">Reconnect reminder
-        <select id="update-reminder-interval" class="rounded border border-slate-600 bg-slate-900 px-2 py-2 text-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500">
-          <option value="1">Daily</option>
-          <option value="7">Weekly</option>
-          <option value="30" selected>Monthly</option>
-        </select>
-      </label>
-    </div>
 
     <!-- Operational Intelligence Container -->
     <div id="destination-view" class="space-y-4"></div>
@@ -158,6 +160,9 @@
     let alphabeticalDestinations = [];
     let nearestDestinations = [];
     let tripDestinationIds = [];
+    let savedTrips = [];
+    let activeTripId = "";
+    let tripSaveQueue = Promise.resolve();
     let selectedSearchIds = new Set();
     let tripStorageReady = false;
     let browseMode = "alphabetical";
@@ -172,6 +177,7 @@
     let worldMapDataRequest = null;
     let storageDatabasePromise = null;
     const DATA_VERSION_STORAGE_KEY = "travelprep-data-version";
+    const OFFLINE_UPDATE_PENDING_STORAGE_KEY = "travelprep-offline-update-pending";
     const CURRENT_DESTINATION_STORAGE_KEY = "travelprep-current-destination";
     const UPDATE_CHECKED_AT_STORAGE_KEY = "travelprep-update-checked-at";
     const UPDATE_REMINDER_INTERVAL_STORAGE_KEY = "travelprep-update-reminder-interval";
@@ -309,6 +315,12 @@
             status.textContent = `Saving ${data.completed} of ${data.total} regions...`;
           } else if (data.type === "CACHE_ALL_COMPLETE") {
             status.textContent = `Saved all ${data.records} profiles for offline use.`;
+            try {
+              if (data.dataVersion === localStorage.getItem(DATA_VERSION_STORAGE_KEY)) {
+                localStorage.removeItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY);
+                document.getElementById("data-update-banner").hidden = true;
+              }
+            } catch {}
             button.disabled = false;
           } else if (data.type === "CACHE_ALL_FAILED") {
             status.textContent = `Download stopped: ${data.message}`;
@@ -327,8 +339,9 @@
       try {
         const previousVersion = localStorage.getItem(DATA_VERSION_STORAGE_KEY);
         if (previousVersion && previousVersion !== index.dataVersion) {
-          document.getElementById("data-update-banner").hidden = false;
+          localStorage.setItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY, index.dataVersion);
         }
+        document.getElementById("data-update-banner").hidden = !localStorage.getItem(OFFLINE_UPDATE_PENDING_STORAGE_KEY);
         localStorage.setItem(DATA_VERSION_STORAGE_KEY, index.dataVersion);
       } catch {
         return;
@@ -385,8 +398,12 @@
       document.getElementById("browse-mode-trip").addEventListener("click", () => setBrowseMode("trip"));
       document.getElementById("trip-add-current").addEventListener("click", addCurrentToTrip);
       document.getElementById("trip-clear").addEventListener("click", clearTrip);
-      tripDestinationIds = await loadSavedTrip();
+      await loadSavedTrip();
       tripStorageReady = true;
+      document.getElementById("trip-select").addEventListener("change", switchTrip);
+      document.getElementById("trip-create").addEventListener("click", createTrip);
+      document.getElementById("trip-rename").addEventListener("click", renameTrip);
+      document.getElementById("trip-delete").addEventListener("click", deleteTrip);
       document.getElementById("open-country-search").disabled = false;
       populateSearchRegions();
       document.getElementById("open-country-search").addEventListener("click", openCountrySearch);
@@ -477,9 +494,9 @@
 
     function readLegacyTrip() {
       try {
-        return filterKnownTripIds(JSON.parse(localStorage.getItem(LEGACY_TRIP_STORAGE_KEY) || "[]"));
+        return JSON.parse(localStorage.getItem(LEGACY_TRIP_STORAGE_KEY) || "null");
       } catch {
-        return [];
+        return null;
       }
     }
 
@@ -502,11 +519,11 @@
       });
     }
 
-    async function writeTripToDatabase(savedIds) {
+    async function writeTripToDatabase(data) {
       const database = await openTravelPrepDatabase();
       return new Promise((resolve, reject) => {
         const transaction = database.transaction(TRIP_DATABASE_STORE, "readwrite");
-        transaction.objectStore(TRIP_DATABASE_STORE).put([...savedIds], TRIP_DATABASE_KEY);
+        transaction.objectStore(TRIP_DATABASE_STORE).put(data, TRIP_DATABASE_KEY);
         transaction.oncomplete = () => resolve();
         transaction.onerror = () => reject(transaction.error || new Error("Could not save the trip."));
         transaction.onabort = () => reject(transaction.error || new Error("Trip storage transaction was aborted."));
@@ -514,34 +531,93 @@
     }
 
     async function loadSavedTrip() {
-      const legacyIds = readLegacyTrip();
+      let data = readLegacyTrip();
       try {
-        const savedIds = await readTripFromDatabase();
-        if (Array.isArray(savedIds)) {
-          removeLegacyTrip();
-          return filterKnownTripIds(savedIds);
-        }
-        if (legacyIds.length) await writeTripToDatabase(legacyIds);
-        removeLegacyTrip();
-        return legacyIds;
-      } catch {
-        return legacyIds;
+        const databaseData = await readTripFromDatabase();
+        if (data == null && databaseData != null) data = databaseData;
+      } catch {}
+      if (Array.isArray(data)) {
+        savedTrips = [{ id: "default", name: "My trip", destinations: filterKnownTripIds(data) }];
+      } else if (data && Array.isArray(data.trips)) {
+        savedTrips = data.trips.filter(trip => trip && typeof trip.id === "string" && typeof trip.name === "string")
+          .map(trip => ({ id: trip.id, name: trip.name, destinations: filterKnownTripIds(trip.destinations) }));
+        activeTripId = data.activeTripId;
       }
+      if (!savedTrips.length) savedTrips = [{ id: "default", name: "My trip", destinations: [] }];
+      if (!savedTrips.some(trip => trip.id === activeTripId)) activeTripId = savedTrips[0].id;
+      tripDestinationIds = [...savedTrips.find(trip => trip.id === activeTripId).destinations];
     }
 
     async function saveTrip() {
-      try {
-        await writeTripToDatabase(tripDestinationIds);
-        removeLegacyTrip();
-        return true;
-      } catch {
+      const activeTrip = savedTrips.find(trip => trip.id === activeTripId);
+      if (activeTrip) activeTrip.destinations = [...tripDestinationIds];
+      const data = { activeTripId, trips: savedTrips.map(trip => ({ ...trip, destinations: [...trip.destinations] })) };
+      tripSaveQueue = tripSaveQueue.then(async () => {
         try {
-          localStorage.setItem(LEGACY_TRIP_STORAGE_KEY, JSON.stringify(tripDestinationIds));
+          await writeTripToDatabase(data);
+          removeLegacyTrip();
           return true;
         } catch {
-          return false;
+          try {
+            localStorage.setItem(LEGACY_TRIP_STORAGE_KEY, JSON.stringify(data));
+            return true;
+          } catch {
+            return false;
+          }
         }
-      }
+      });
+      return tripSaveQueue;
+    }
+
+    function refreshTripNavigation() {
+      if (browseMode === "trip" && !tripDestinationIds.includes(currentDestId)) browseMode = "alphabetical";
+      renderDestinationOptions();
+      updateBrowseModeButtons();
+      updateBrowsePosition();
+    }
+
+    async function switchTrip(event) {
+      const selected = savedTrips.find(trip => trip.id === event.target.value);
+      if (!selected) return;
+      activeTripId = selected.id;
+      tripDestinationIds = [...selected.destinations];
+      const saved = await saveTrip();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      refreshTripNavigation();
+    }
+
+    async function createTrip() {
+      const name = window.prompt("Name the new trip:")?.trim();
+      if (!name) return;
+      const id = globalThis.crypto?.randomUUID?.() || `trip-${Date.now()}-${Math.random().toString(36).slice(2)}`;
+      savedTrips.push({ id, name, destinations: [] });
+      activeTripId = id;
+      tripDestinationIds = [];
+      const saved = await saveTrip();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      refreshTripNavigation();
+    }
+
+    async function renameTrip() {
+      const trip = savedTrips.find(item => item.id === activeTripId);
+      if (!trip) return;
+      const name = window.prompt("Rename trip:", trip.name)?.trim();
+      if (!name) return;
+      trip.name = name;
+      const saved = await saveTrip();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+    }
+
+    async function deleteTrip() {
+      const trip = savedTrips.find(item => item.id === activeTripId);
+      if (!trip || !window.confirm(`Delete trip "${trip.name}" and its stops?`)) return;
+      savedTrips = savedTrips.filter(item => item.id !== activeTripId);
+      if (!savedTrips.length) savedTrips = [{ id: "default", name: "My trip", destinations: [] }];
+      activeTripId = savedTrips[0].id;
+      tripDestinationIds = [...savedTrips[0].destinations];
+      const saved = await saveTrip();
+      renderTripPlanner(saved ? "" : "Trip could not be saved in this browser.");
+      refreshTripNavigation();
     }
 
     async function addCurrentToTrip() {
@@ -592,6 +668,17 @@
 
     function renderTripPlanner(message = "") {
       const summary = document.getElementById("trip-summary");
+      const tripSelect = document.getElementById("trip-select");
+      tripSelect.replaceChildren();
+      savedTrips.forEach(trip => {
+        const option = document.createElement("option");
+        option.value = trip.id;
+        option.textContent = trip.name;
+        tripSelect.append(option);
+      });
+      tripSelect.value = activeTripId;
+      tripSelect.disabled = !tripStorageReady;
+      for (const id of ["trip-create", "trip-rename", "trip-delete"]) document.getElementById(id).disabled = !tripStorageReady;
       const addButton = document.getElementById("trip-add-current");
       const clearButton = document.getElementById("trip-clear");
       document.getElementById("open-country-search").disabled = !tripStorageReady;
@@ -711,7 +798,19 @@
         detail.className = "text-xs text-slate-500";
         detail.textContent = `${destination.capital ? `${destination.capital} · ` : ""}${destination.region}${inTrip.has(destination.id) ? " · In trip" : ""}`;
         label.append(checkbox, name, detail);
-        item.append(label);
+        const open = document.createElement("button");
+        open.type = "button";
+        open.textContent = "Open";
+        open.className = "shrink-0 px-3 py-2 text-xs font-semibold text-emerald-300 hover:text-emerald-100";
+        open.setAttribute("aria-label", `Open ${destination.country}`);
+        open.addEventListener("click", () => {
+          document.getElementById("country-search-dialog").close();
+          if (browseMode === "trip" && !tripDestinationIds.includes(destination.id)) setBrowseMode("alphabetical");
+          loadDestination(destination.id, { resetNearestRoute: true });
+        });
+        item.className = "flex items-center gap-2";
+        label.classList.add("min-w-0", "flex-1");
+        item.append(label, open);
         list.append(item);
       });
       if (matches.length === 0) {
