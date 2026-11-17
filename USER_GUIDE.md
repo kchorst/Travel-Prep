@@ -8,6 +8,8 @@ Use the **Country** selector to choose a destination. The search button under **
 
 TravelPrep remembers the last selected country in this browser and opens it next time. A first visit with no saved choice starts at Albania.
 
+A destination link from VisaBrowser opens that country’s TravelPrep profile when available. If TravelPrep has no profile for that destination, it displays a notice above the country selector.
+
 - **A–Z** lists destinations alphabetically.
 - **Nearest** is the default and lists countries by distance from the selected capital. The right arrow opens the closest capital east, and the left arrow opens the closest capital west, using longitude around the globe. This is not a border map or a recommended travel route.
 - **Trip** shows only countries in your saved itinerary, in stop order. This option is available after adding at least one stop; add, remove, and reorder stops in the separate **Trip itinerary** section.
