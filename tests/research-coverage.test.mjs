@@ -45,3 +45,10 @@ test('a reviewed but inconclusive cell needs provenance, not just a confident no
   rows[0].scope_note='No official restriction text surfaced after search';
   assert.ok(auditResearchCoverage(rows,manifest).errors.some(x=>x.includes('authority HTTPS')));
 });
+
+test('an impossible calendar date prevents research signoff', () => {
+  const rows = [make('RW', 'before_go', 'PLASTICS', 'VERIFIED_RESTRICTION')];
+  rows[0].source_date_checked = '2026-02-30';
+  rows[0].source_url = 'https://authority.gov/example';
+  assert.ok(auditResearchCoverage(rows, manifest).errors.some(error => error.includes('valid check date')));
+});

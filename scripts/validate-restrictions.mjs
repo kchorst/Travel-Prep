@@ -33,12 +33,15 @@ export function validateRestrictions(payload, validDestinations = null) {
     if (!Array.isArray(r.sources)) errors.push(`${path}: sources must be an array`);
     else for (const [j,s] of r.sources.entries()) {
       if (typeof s?.authority !== 'string' || !s.authority.trim()) errors.push(`${path}.sources[${j}]: missing authority`);
-      try { const u = new URL(s?.url); if (u.protocol !== 'https:') throw Error(); }
-      catch { errors.push(`${path}.sources[${j}]: invalid HTTPS URL`); }
+      try {
+        const url = new URL(s?.url);
+        if (url.protocol !== 'https:' || !url.hostname || url.username || url.password) throw new Error();
+      } catch { errors.push(`${path}.sources[${j}]: invalid HTTPS URL`); }
     }
     if (r.status === 'verified' || r.status === 'conditional') {
-      if (!/^\d{4}-\d{2}-\d{2}$/.test(r.checkedAt ?? '') ||
-          !Number.isFinite(Date.parse(r.checkedAt))) errors.push(`${path}: verified/conditional claim requires valid checkedAt`);
+      if (typeof r.checkedAt !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(r.checkedAt) ||
+          !Number.isFinite(Date.parse(r.checkedAt)) || !new Date(r.checkedAt).toISOString().startsWith(r.checkedAt))
+        errors.push(`${path}: verified/conditional claim requires valid checkedAt`);
       if (!Array.isArray(r.sources) || r.sources.length === 0) errors.push(`${path}: verified/conditional claim needs source`);
     }
     if (r.visabrowser_alert === true) {

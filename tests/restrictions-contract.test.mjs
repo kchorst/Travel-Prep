@@ -37,3 +37,12 @@ test('approved datasets must have pinned, non-draft versions',()=>{
   const p=base();p.publicationStatus='approved';p.datasetVersion='DRAFT-BAD';
   assert.ok(validateRestrictions(p).some(x=>x.includes('non-draft version')));
 });
+
+test('producer and consumer reject impossible dates and source URLs with credentials', () => {
+  const payload = base();
+  payload.records[0].checkedAt = '2026-02-30';
+  payload.records[0].sources[0].url = 'https://user@example.gov/rule';
+  const errors = validateRestrictions(payload);
+  assert.ok(errors.some(error => error.includes('valid checkedAt')));
+  assert.ok(errors.some(error => error.includes('invalid HTTPS URL')));
+});

@@ -60,7 +60,8 @@ export function auditResearchCoverage(rows, manifest) {
     if (completedStatuses.has(status)) {
       // Even unresolved research requires a dated investigation and a clear explanation.
       const date = r.source_date_checked;
-      if (!/^\d{4}-\d{2}-\d{2}$/.test(date||'') || Number.isNaN(Date.parse(date)))
+      if (typeof date !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(date) ||
+          Number.isNaN(Date.parse(date)) || !new Date(date).toISOString().startsWith(date))
         errors.push(`Row ${i+2}: reviewed cell has no valid check date`);
       if (typeof r.scope_note !== 'string' || !r.scope_note.trim())
         errors.push(`Row ${i+2}: reviewed cell lacks scoped investigation notes`);
