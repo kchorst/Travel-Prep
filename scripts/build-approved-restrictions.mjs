@@ -6,14 +6,12 @@ import {createHash} from 'node:crypto';
 import {readFileSync,writeFileSync} from 'node:fs';
 import {pathToFileURL} from 'node:url';
 import {validateRestrictions} from './validate-restrictions.mjs';
-
-const isDate = (x) => typeof x === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(x) &&
-  !Number.isNaN(Date.parse(x)) && new Date(x).toISOString().startsWith(x);
+import {isIsoDate} from './restrictions-applicability.mjs';
 
 export function buildApprovedRestrictions(source, destinationCodes) {
   if (!source || source.publicationStatus !== 'approved' || !source.approvalId ||
       typeof source.approvalId !== 'string' || !source.approvalId.trim() ||
-      !isDate(source.approvedAt)) {
+      !isIsoDate(source.approvedAt)) {
     throw new Error('Explicit approval ID and approval date required before compiling');
   }
   if (!Array.isArray(destinationCodes) || !destinationCodes.length ||
@@ -26,7 +24,6 @@ export function buildApprovedRestrictions(source, destinationCodes) {
   if (records.some(r=>r.publicationStatus !== 'approved' ||
       !['verified','conditional'].includes(r.status)))
     throw new Error('Only individually approved and verified/conditional records may ship');
-  records.sort((a,b)=>a.id.localeCompare(b.id));
   const canonical = {
     schemaVersion:1, publicationStatus:'approved',
     approvalId:source.approvalId,approvedAt:source.approvedAt,
@@ -35,6 +32,11 @@ export function buildApprovedRestrictions(source, destinationCodes) {
   // Validate legal-source metadata before calculating version. No Phase 1 completion implied.
   const errors = validateRestrictions({...canonical,datasetVersion:'pending'},destinationCodes);
   if (errors.length) throw new Error('Invalid release data: '+errors.join('; '));
+  const checkedAfterApproval = records.find(record => record.checkedAt > source.approvedAt);
+  if (checkedAfterApproval) {
+    throw new Error(`Source check for ${checkedAfterApproval.id} is later than snapshot approval`);
+  }
+  records.sort((a,b)=>a.id.localeCompare(b.id));
   const bytes=JSON.stringify(canonical);
   const digest=createHash('sha256').update(bytes).digest('hex');
   return {...canonical,datasetVersion:'sha256-'+digest,integrity:{algorithm:'SHA-256',hex:digest}};

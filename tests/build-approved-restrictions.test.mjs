@@ -34,6 +34,14 @@ test('requires distinct destination identifiers',()=>{
  assert.throws(()=>buildApprovedRestrictions(source(),['RW','RW']),/unique/);
 });
 
+test('snapshot approval must be on or after every record’s source check', () => {
+  const rechecked = { ...rule(), checkedAt: '2026-11-23' };
+  assert.throws(() => buildApprovedRestrictions(source([rechecked]), ['RW']),
+    /Source check for sample is later than snapshot approval/);
+  const approved = { ...source([rechecked]), approvedAt: '2026-11-23' };
+  assert.equal(buildApprovedRestrictions(approved, ['RW']).records[0].checkedAt, approved.approvedAt);
+});
+
 test('producer emits the snapshot used by the VisaBrowser interoperability tests', async () => {
   const { readFile } = await import('node:fs/promises');
   const readFixture = async (name) =>

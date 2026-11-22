@@ -50,6 +50,10 @@ live entry eligibility results.
 
 ## Effective dates and source review
 
+The snapshot approval date must be on or after every record's source check
+date. A source check performed after approval requires a new approval and
+snapshot. A notice may still have a future effective date.
+
 Optional `effectiveFrom` and `effectiveUntil` bound a notice to a legal
 date window, including both endpoints. An optional `reviewBy` gives the first
 day the source must be rechecked. VisaBrowser suppresses the notice from that
