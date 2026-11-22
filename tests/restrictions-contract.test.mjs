@@ -6,7 +6,7 @@ const base = () => ({
   records:[{id:'a',destination:'RW',phase:'before_go',category:'customs',title:'Title',
     rule:'Rule',status:'verified',jurisdiction:'Rwanda',scope:'nationwide',
     checkedAt:'2026-11-22',sources:[{authority:'Authority',url:'https://example.gov/rule'}],
-    relevance:['customs'],visabrowser_alert:true}]
+    relevance:['customs'],visabrowser_alert:true,publicationStatus:'approved'}]
 });
 test('accepts sourced scoped records',()=>assert.deepEqual(validateRestrictions(base()),[]));
 test('rejects unverified VisaBrowser warning',()=>{
@@ -27,4 +27,13 @@ test('requires official-style source metadata and validation date',()=>{
 test('rejects unsafe source links',()=>{
   const p=base();p.records[0].sources[0].url='javascript:alert(1)';
   assert.ok(validateRestrictions(p).some(x=>x.includes('invalid HTTPS URL')));
+});
+
+test('unapproved border notices cannot be published',()=>{
+  const p=base();p.records[0].publicationStatus='research_only';
+  assert.ok(validateRestrictions(p).some(x=>x.includes('explicit approval')));
+});
+test('approved datasets must have pinned, non-draft versions',()=>{
+  const p=base();p.publicationStatus='approved';p.datasetVersion='DRAFT-BAD';
+  assert.ok(validateRestrictions(p).some(x=>x.includes('non-draft version')));
 });
