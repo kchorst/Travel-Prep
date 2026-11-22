@@ -7,6 +7,9 @@ on:
       - 'scripts/audit-destination-parity.mjs'
       - 'tests/restrictions-contract.test.mjs'
       - 'tests/destination-parity.test.mjs'
+      - 'scripts/audit-research-coverage.mjs'
+      - 'tests/research-coverage.test.mjs'
+      - 'research/destination-category-manifest.v1.json'
       - 'research/restrictions.contract.example.json'
       - '.github/workflows/restrictions-draft-checks.yml'
   workflow_dispatch:
@@ -25,4 +28,4 @@ jobs:
       - name: Validate example record contract
         run: node scripts/validate-restrictions.mjs research/restrictions.contract.example.json
       - name: Test draft validators and parity checks
-        run: node --test tests/restrictions-contract.test.mjs tests/destination-parity.test.mjs
+        run: node --test tests/restrictions-contract.test.mjs tests/destination-parity.test.mjs tests/research-coverage.test.mjs
