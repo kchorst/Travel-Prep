@@ -3,16 +3,16 @@
   "categories": 35,
   "total_checks": 9625,
   "prior_cell_statuses": {
-    "NOT_YET_VERIFIED": 8583,
-    "PARTIAL_EVIDENCE_RECORDED": 1042
-  },
-  "current_cell_statuses": {
     "NOT_YET_VERIFIED": 8559,
     "PARTIAL_EVIDENCE_RECORDED": 1066
   },
-  "new_cells_with_partial_evidence": 24,
-  "distinct_scoped_findings": 1380,
-  "distinct_destinations_with_partial_evidence": 162,
+  "current_cell_statuses": {
+    "NOT_YET_VERIFIED": 8534,
+    "PARTIAL_EVIDENCE_RECORDED": 1091
+  },
+  "new_cells_with_partial_evidence": 25,
+  "distinct_scoped_findings": 1406,
+  "distinct_destinations_with_partial_evidence": 165,
   "baseline_geographic_scope_independently_closed": false,
   "publication_status": "research_only",
   "fully_reviewed_cells": 0,
@@ -35,7 +35,7 @@
     "tci-equality-cash-source-conflict-TC",
     "vu-customs-currency-VU"
   ],
-  "archive_sha256": "9389e7d8b9e812d9782c555d175563edf652769c11a4afb69cf7854b4950e254",
+  "archive_sha256": "6bdfea75f85b45d184de3b6a7d6afd46c22fb3606977a69332d111ec9c266550",
   "reconciled_prior_git_revision": "66a4ae448f6527e82664193f27a88d8542587e40",
   "reconciled_library_versions": {
     "matrix": 12,

@@ -14,6 +14,7 @@ on:
       - 'tests/research-coverage.test.mjs'
       - 'research/destination-category-manifest.v1.json'
       - 'research/restrictions.contract.example.json'
+      - 'research/phase1/**'
       - 'docs/RESTRICTIONS-INTEGRATION-DRAFT-2026-11-22.md'
       - 'tests/fixtures/approved-restrictions-*.json'
       - '.github/workflows/restrictions-draft-checks.yml'
@@ -34,3 +35,19 @@ jobs:
         run: node scripts/validate-restrictions.mjs research/restrictions.contract.example.json
       - name: Test draft validators and parity checks
         run: node --test tests/restrictions-contract.test.mjs tests/destination-parity.test.mjs tests/research-coverage.test.mjs tests/build-approved-restrictions.test.mjs
+      - name: Audit Phase 1 register integrity
+        if: ${{ hashFiles('research/phase1/register.zip') != '' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          phase1_dir=$(mktemp -d)
+          unzip -q research/phase1/register.zip -d "$phase1_dir"
+          phase1_hash=$(jq -er .archive_sha256 research/phase1/coverage-checkpoint-2026-11-22.json)
+          printf '%s  %s\n' "$phase1_hash" research/phase1/register.zip | sha256sum --check
+          node scripts/audit-research-coverage.mjs "$phase1_dir/country_category_research_matrix.csv" \
+            research/destination-category-manifest.v1.json > "$phase1_dir/coverage.json"
+          cat "$phase1_dir/coverage.json"
+          jq -e '.errors | length == 0' "$phase1_dir/coverage.json"
+          jq -es '.[0].byStatus == .[1].current_cell_statuses' "$phase1_dir/coverage.json" \
+            research/phase1/coverage-checkpoint-2026-11-22.json
+          python3 research/phase1/audit-evidence.py "$phase1_dir"
