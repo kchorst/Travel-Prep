@@ -22,14 +22,14 @@ test('unverified and reviewed-with-gaps are distinct',()=>{
  const rows=[];
  for(const dest of manifest.destinations) for(const cat of manifest.categories)
    rows.push(make(dest,cat.phase,cat.code,'INCONCLUSIVE_REVIEWED'));
- for(const r of rows){r.scope_note='Reviewed official portals; jurisdiction-specific documents not found';r.source_date_checked='2026-11-22';}
+ for(const r of rows){r.scope_note='Reviewed official portals; jurisdiction-specific documents not found';r.source_date_checked='2026-11-22';r.source_url='https://authority.gov/example';}
  const summary=auditResearchCoverage(rows,manifest);
  assert.equal(summary.complete,true);assert.equal(summary.reviewed,4);
 });
 test('verified claims require official URL and checked date',()=>{
  const rows=[make('RW','before_go','PLASTICS','VERIFIED_RESTRICTION')];
  const out=auditResearchCoverage(rows,manifest);
- assert.ok(out.errors.some(e=>e.includes('HTTPS')));
+ assert.ok(out.errors.some(e=>e.includes('authority HTTPS')));
  assert.ok(out.errors.some(e=>e.includes('date')));
 });
 test('duplicates and unknown research categories block signoff',()=>{
@@ -37,4 +37,11 @@ test('duplicates and unknown research categories block signoff',()=>{
  const summary=auditResearchCoverage(rows,manifest);
  assert.ok(summary.errors.some(e=>e.includes('Duplicate cell')));
  assert.ok(summary.errors.some(e=>e.includes('unknown category')));
+});
+
+test('a reviewed but inconclusive cell needs provenance, not just a confident note',()=>{
+  const rows=[make('RW','before_go','PLASTICS','INCONCLUSIVE_REVIEWED')];
+  rows[0].source_date_checked='2026-11-22';
+  rows[0].scope_note='No official restriction text surfaced after search';
+  assert.ok(auditResearchCoverage(rows,manifest).errors.some(x=>x.includes('authority HTTPS')));
 });
