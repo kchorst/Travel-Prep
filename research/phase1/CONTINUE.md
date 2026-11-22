@@ -19,3 +19,11 @@ Use the latest archive as input for `reconcile-register.py`. Pass the matrix CSV
 5. Reconcile the pending geographic entries in the inventory review and run a final audit of cell coverage, duplicate jurisdictions, source sufficiency, time-sensitive rules, and contradictory evidence before writing the completion report.
 
 Only a final review of the full cell can close it. Research evidence here requires separate approval before it can enter either application's dataset.
+
+## Batch research by source collection
+
+Start from the latest matrix and choose related open checks across a set of destinations. Discover an official collection that actually covers those cells. Retrieve its relevant pages together, then review the passages and record the applicable jurisdiction, source type, dates and limitations claim by claim. Compare against the register before appending. The FCDO pilot screened 32 destination documents from the GOV.UK Content API and added initial evidence to 56 cells across 24 destinations. See [the pilot records](fcdo-priority-intake-2026-11-22.json).
+
+For FCDO intake, use the [official destination index](https://www.gov.uk/foreign-travel-advice) to match the destination and page slug. Read `https://www.gov.uk/api/content/foreign-travel-advice/<slug>`; the named chapters are in `details.parts`. Preserve the human-readable chapter URL for each finding. Combined pages require explicit territorial scoping. The FCDO records remain official consular advice or secondary evidence of a local rule. Follow links and confirm legal claims against the destination authority as a separate pass. Page publication dates and research check dates describe different events.
+
+Count first-evidence cells, existing cells expanded, and full reviews independently. An advisory or shared source can accelerate first evidence, while full review still depends on the category scope and adequate verification. Save the archive and checkpoint on the research draft branch, then update the two cumulative CSVs using their current versions.
