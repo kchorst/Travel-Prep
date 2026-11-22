@@ -1,0 +1,28 @@
+name: Draft restrictions contract checks
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/validate-restrictions.mjs'
+      - 'scripts/audit-destination-parity.mjs'
+      - 'tests/restrictions-contract.test.mjs'
+      - 'tests/destination-parity.test.mjs'
+      - 'research/restrictions.contract.example.json'
+      - '.github/workflows/restrictions-draft-checks.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-draft-contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate example record contract
+        run: node scripts/validate-restrictions.mjs research/restrictions.contract.example.json
+      - name: Test draft validators and parity checks
+        run: node --test tests/restrictions-contract.test.mjs tests/destination-parity.test.mjs
