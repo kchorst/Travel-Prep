@@ -61,7 +61,7 @@ def reconcile(baseline, findings_file, sources, manifest_file, output):
             row['category_code'] = 'CUSTOMS'
         candidate = rows_by_cell.get(cell(row), {})
         confirmed_date = row.get('source_date_checked', '') or (candidate.get('source_date_checked', '') if (
-            candidate.get('source_url') == row['official_or_government_url']
+            not row.get('finding_id') and candidate.get('source_url') == row['official_or_government_url']
         ) else '')
         add_finding(row, confirmed_date, row.get('finding_id'))
 
