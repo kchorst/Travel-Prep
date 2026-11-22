@@ -51,12 +51,12 @@ test('applicability accepts supported selectors and rejects incomplete or unknow
   const payload = base();
   for (const applicability of [
     null, {}, { passportCodes: [] }, { arrivalModes: ['rail'] },
-    { arrivalModes: ['air', 'air'] }, { passportCodes: [' gb'] }, { origins: ['GB'] },
+    { arrivalModes: ['air', 'air'] }, { departureModes: ['rail'] }, { passportCodes: [' gb'] }, { origins: ['GB'] },
   ]) {
     payload.records[0].applicability = applicability;
     assert.ok(validateRestrictions(payload).some(error => error.includes('invalid applicability')));
   }
-  payload.records[0].applicability = { passportCodes: ['GB', 'X-NCY'], arrivalModes: ['air', 'land'] };
+  payload.records[0].applicability = { passportCodes: ['GB', 'X-NCY'], arrivalModes: ['air', 'land'], departureModes: ['sea'] };
   assert.deepEqual(validateRestrictions(payload), []);
 });
 

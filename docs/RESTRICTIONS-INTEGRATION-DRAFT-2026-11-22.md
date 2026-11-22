@@ -74,3 +74,17 @@ the visa or entry decision. Carrier policies and general official guidance
 belong in Travel-Prep even when a carrier checks them before boarding.
 Legacy draft fixtures require classification and a new snapshot digest
 before they can be used as approved data.
+
+## Separate travel legs and verified snapshots
+
+Use `departureModes` for rules tied to an outbound air, land, or sea leg.
+When the trip has no departure mode, suppress notices that require one.
+Arrival and departure selectors refer to different journey legs. A notice
+with both selectors is eligible only when both match. A transit rule that
+depends on changing terminals or clearing border controls still requires
+route-specific research and additional context before publication.
+
+VisaBrowser renders notices from the loader's verified snapshot. The
+draft loader preserves that verification after loading by making the
+snapshot and records immutable. A copied or reconstructed snapshot must
+pass through verification before it can supply notices.

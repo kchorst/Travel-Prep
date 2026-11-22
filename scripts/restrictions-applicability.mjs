@@ -4,6 +4,7 @@ const modes = new Set(['air', 'land', 'sea']);
 const selectors = new Map([
   ['passportCodes', isPassportCode],
   ['arrivalModes', (value) => modes.has(value)],
+  ['departureModes', (value) => modes.has(value)],
 ]);
 
 export function isValidApplicability(value) {
