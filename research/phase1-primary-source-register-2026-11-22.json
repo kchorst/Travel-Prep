@@ -1,0 +1,115 @@
+{
+  "schema": "phase1-research-register-v1",
+  "coverageStatement": "Scoped findings only. All unresearched destination-category pairs remain unknown, not unrestricted.",
+  "records": [
+    {
+      "id": "JP-before_go-medicines_import",
+      "destination": "JP",
+      "phase": "before_go",
+      "category": "medicines_import",
+      "claim": "Personal medicine imports have quantity exceptions: generally less than one month for prescriptions and less than two months for other medicines; ingredient-specific restrictions apply.",
+      "status": "verified_scoped",
+      "scope": "national customs; substance and quantity-specific",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "url": "https://www.customs.go.jp/english/c-answer_e/sonota/9005_e.htm",
+          "authority": "www.customs.go.jp"
+        }
+      ],
+      "gaps": "Controlled medicines and import certifications need individual checks.",
+      "publicationStatus": "research_only"
+    },
+    {
+      "id": "JP-during_visit-drone_operation",
+      "destination": "JP",
+      "phase": "during_visit",
+      "category": "drone_operation",
+      "claim": "Outdoor drones 100g or more require Japanese registration, registration ID and remote ID; some operations require flight permission.",
+      "status": "verified_scoped",
+      "scope": "Japan; Civil Aeronautics Act; outdoor 100g threshold",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "url": "https://www.mlit.go.jp/en/koku/uas.html",
+          "authority": "www.mlit.go.jp"
+        }
+      ],
+      "gaps": "Foreign registration is insufficient; customs import remains a separate question.",
+      "publicationStatus": "research_only"
+    },
+    {
+      "id": "SG-before_go-arrival_declaration",
+      "destination": "SG",
+      "phase": "before_go",
+      "category": "arrival_declaration",
+      "claim": "SG Arrival Card generally required within three days including arrival day; residents entering by land are exempt.",
+      "status": "verified_scoped",
+      "scope": "Singapore; immigration; traveler and arrival mode exceptions",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/sg-arrival-card-with-electronic-health-declaration",
+          "authority": "www.ica.gov.sg"
+        }
+      ],
+      "gaps": "Not a visa; visa requirements are separate.",
+      "publicationStatus": "research_only"
+    },
+    {
+      "id": "SG-before_go-vape_import",
+      "destination": "SG",
+      "phase": "before_go",
+      "category": "vape_import",
+      "claim": "Importation of e-vaporisers and related components is prohibited.",
+      "status": "verified_scoped",
+      "scope": "Singapore; national border",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "url": "https://www.hsa.gov.sg/tobacco-regulation/vaping-enforcement/",
+          "authority": "www.hsa.gov.sg"
+        }
+      ],
+      "gaps": "Penalties vary by product and have changed.",
+      "publicationStatus": "research_only"
+    },
+    {
+      "id": "SG-during_visit-vape_possession_use",
+      "destination": "SG",
+      "phase": "during_visit",
+      "category": "vape_possession_use",
+      "claim": "Possession, purchase and use of e-vaporisers are prohibited.",
+      "status": "verified_scoped",
+      "scope": "Singapore; national in-country",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "url": "https://www.hsa.gov.sg/tobacco-regulation/vaping-enforcement/",
+          "authority": "www.hsa.gov.sg"
+        }
+      ],
+      "gaps": "Do not conflate regular vaping and etomidate offences.",
+      "publicationStatus": "research_only"
+    },
+    {
+      "id": "SG-before_go-customs_controlled_goods",
+      "destination": "SG",
+      "phase": "before_go",
+      "category": "customs_controlled_goods",
+      "claim": "Prohibited goods cannot be imported; controlled goods require approvals/permits and red-channel declaration.",
+      "status": "verified_scoped",
+      "scope": "Singapore; national customs; item dependent",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "url": "https://www.customs.gov.sg/at-customs/travel-rules-and-penalties/",
+          "authority": "www.customs.gov.sg"
+        }
+      ],
+      "gaps": "Does not establish restrictions for every individual product.",
+      "publicationStatus": "research_only"
+    }
+  ],
+  "updatedAt": "2026-11-22"
+}
