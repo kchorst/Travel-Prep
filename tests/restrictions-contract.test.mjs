@@ -4,7 +4,7 @@ import {validateRestrictions} from '../scripts/validate-restrictions.mjs';
 const base = () => ({
   schemaVersion:1, destinations:['RW'],
   records:[{id:'a',destination:'RW',phase:'before_go',category:'customs',title:'Title',
-    rule:'Rule',status:'verified',jurisdiction:'Rwanda',scope:'nationwide',
+    rule:'Rule',status:'verified',noticeKind:'legal_requirement',jurisdiction:'Rwanda',scope:'nationwide',
     checkedAt:'2026-11-22',sources:[{authority:'Authority',url:'https://example.gov/rule'}],
     relevance:['customs'],visabrowser_alert:true,publicationStatus:'approved'}]
 });
@@ -73,5 +73,23 @@ test('effective dates are calendar days and review deadlines must follow the che
     assert.ok(validateRestrictions(payload).some(error => error.includes('invalid effective or review dates')));
   }
   payload.records[0] = { ...rule, effectiveFrom: '2026-12-01', effectiveUntil: '2026-12-01', reviewBy: '2026-12-02' };
+  assert.deepEqual(validateRestrictions(payload), []);
+});
+
+test('approved records declare whether they are law, advisory, guidance or carrier policy', () => {
+  const payload = base();
+  const rule = payload.records[0];
+  for (const noticeKind of [undefined, null, 'unknown']) {
+    rule.noticeKind = noticeKind;
+    assert.ok(validateRestrictions(payload).some(error => error.includes('invalid noticeKind')));
+  }
+
+  rule.noticeKind = 'carrier_policy';
+  assert.ok(validateRestrictions(payload).some(error => error.includes('VisaBrowser alert requires a legal requirement')));
+  rule.visabrowser_alert = false;
+  assert.deepEqual(validateRestrictions(payload), []);
+
+  rule.noticeKind = 'official_advisory';
+  rule.visabrowser_alert = true;
   assert.deepEqual(validateRestrictions(payload), []);
 });

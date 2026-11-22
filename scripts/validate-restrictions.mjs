@@ -17,6 +17,8 @@ export function validateRestrictions(payload, validDestinations = null) {
 
   const allowedStatus = new Set(['verified','conditional','unverified','conflicting','not_applicable']);
   const allowedPhases = new Set(['before_go','during_visit']);
+  const borderKinds = new Set(['legal_requirement', 'official_advisory']);
+  const noticeKinds = new Set([...borderKinds, 'carrier_policy', 'official_guidance']);
   const borderRelevance = new Set(['entry','transit','customs','departure']);
   const destinationList = validDestinations ?? (Array.isArray(payload.destinations) ? payload.destinations : null);
   const destinationSet = destinationList && new Set(destinationList);
@@ -33,6 +35,9 @@ export function validateRestrictions(payload, validDestinations = null) {
     if (!allowedStatus.has(r.status)) errors.push(`${path}: invalid status`);
     if (r.applicability !== undefined && !isValidApplicability(r.applicability))
       errors.push(`${path}: invalid applicability selectors`);
+    if ((r.noticeKind !== undefined || r.publicationStatus === 'approved' ||
+        payload.publicationStatus === 'approved') && !noticeKinds.has(r.noticeKind))
+      errors.push(`${path}: missing or invalid noticeKind`);
     if (!hasValidDates(r)) errors.push(`${path}: invalid effective or review dates`);
     if (!Array.isArray(r.sources)) errors.push(`${path}: sources must be an array`);
     else for (const [j,s] of r.sources.entries()) {
@@ -48,6 +53,8 @@ export function validateRestrictions(payload, validDestinations = null) {
       if (!Array.isArray(r.sources) || r.sources.length === 0) errors.push(`${path}: verified/conditional claim needs source`);
     }
     if (r.visabrowser_alert === true) {
+      if (!borderKinds.has(r.noticeKind))
+        errors.push(`${path}: VisaBrowser alert requires a legal requirement or official advisory`);
       if (r.publicationStatus !== 'approved') errors.push(`${path}: VisaBrowser alert requires explicit approval`);
       if (!Array.isArray(r.relevance) || !r.relevance.some(v => borderRelevance.has(v))) errors.push(`${path}: VisaBrowser alert requires border relevance`);
       if (r.status !== 'verified' && r.status !== 'conditional') errors.push(`${path}: VisaBrowser alert must be verified or conditional`);

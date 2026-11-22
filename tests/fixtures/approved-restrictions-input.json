@@ -24,7 +24,8 @@
         "customs"
       ],
       "visabrowser_alert": true,
-      "publicationStatus": "approved"
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
     },
     {
       "id": "synthetic-local-driving",
@@ -47,7 +48,8 @@
         "driving"
       ],
       "visabrowser_alert": false,
-      "publicationStatus": "approved"
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
     },
     {
       "id": "synthetic-territory-scoped",
@@ -78,7 +80,8 @@
         "arrivalModes": [
           "air"
         ]
-      }
+      },
+      "noticeKind": "legal_requirement"
     }
   ]
 }

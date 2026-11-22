@@ -59,3 +59,18 @@ reader evaluates an explicit date when provided and otherwise uses the current
 UTC date. If a future UI needs destination-local dates near midnight, pass
 the applicable date explicitly. A suppressed notice does not establish that
 the underlying rule has ended or that the traveler is cleared.
+
+## Legal requirements, advisories and carrier policies
+
+Every approved record must declare `noticeKind` as `legal_requirement`,
+`official_advisory`, `carrier_policy`, or `official_guidance`. This describes
+the nature of the claim. The existing verification status describes the
+quality of the supporting evidence. Keep both when rendering a notice.
+
+Travel-Prep may show any approved type in the appropriate travel stage.
+VisaBrowser can surface explicitly approved border-relevant legal requirements
+and official advisories. Label an advisory as such, and keep it separate from
+the visa or entry decision. Carrier policies and general official guidance
+belong in Travel-Prep even when a carrier checks them before boarding.
+Legacy draft fixtures require classification and a new snapshot digest
+before they can be used as approved data.

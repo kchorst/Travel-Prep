@@ -4,7 +4,7 @@ import {buildApprovedRestrictions} from '../scripts/build-approved-restrictions.
 
 const rule=(id='sample')=>({
  id,destination:'RW',phase:'before_go',category:'PLASTICS',title:'Scoped example',
- rule:'Illustrative only, not real-world legal advice',status:'verified',publicationStatus:'approved',
+ rule:'Illustrative only, not real-world legal advice',status:'verified',noticeKind:'legal_requirement',publicationStatus:'approved',
  jurisdiction:'Rwanda',scope:'national',checkedAt:'2026-11-22',
  sources:[{authority:'Test authority',url:'https://example.gov/requirements'}],
  relevance:['customs'],visabrowser_alert:true

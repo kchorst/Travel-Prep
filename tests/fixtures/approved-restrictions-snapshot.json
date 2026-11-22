@@ -29,7 +29,8 @@
         "driving"
       ],
       "visabrowser_alert": false,
-      "publicationStatus": "approved"
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
     },
     {
       "id": "synthetic-territory-customs",
@@ -52,7 +53,8 @@
         "customs"
       ],
       "visabrowser_alert": true,
-      "publicationStatus": "approved"
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
     },
     {
       "id": "synthetic-territory-scoped",
@@ -83,12 +85,13 @@
         "arrivalModes": [
           "air"
         ]
-      }
+      },
+      "noticeKind": "legal_requirement"
     }
   ],
-  "datasetVersion": "sha256-4ed4a0b1f912c32f477665a7589decba5d2d3d40523af80e9a5f4b7ed6a1a8a9",
+  "datasetVersion": "sha256-6449aa5448049c1d6d096b1d39df831e603e33113f860c1a54ba14ae91fe9cf4",
   "integrity": {
     "algorithm": "SHA-256",
-    "hex": "4ed4a0b1f912c32f477665a7589decba5d2d3d40523af80e9a5f4b7ed6a1a8a9"
+    "hex": "6449aa5448049c1d6d096b1d39df831e603e33113f860c1a54ba14ae91fe9cf4"
   }
 }
