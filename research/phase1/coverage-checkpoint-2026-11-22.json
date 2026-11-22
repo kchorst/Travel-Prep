@@ -1,0 +1,22 @@
+{
+  "destinations": 275,
+  "categories": 35,
+  "total_checks": 9625,
+  "prior_cell_statuses": {
+    "NOT_YET_VERIFIED": 9559,
+    "PARTIAL_EVIDENCE_RECORDED": 66
+  },
+  "current_cell_statuses": {
+    "NOT_YET_VERIFIED": 9305,
+    "PARTIAL_EVIDENCE_RECORDED": 320
+  },
+  "new_cells_with_partial_evidence": 254,
+  "distinct_scoped_findings": 365,
+  "distinct_destinations_with_partial_evidence": 81,
+  "baseline_geographic_scope_independently_closed": false,
+  "publication_status": "research_only",
+  "first_pass_cells_with_no_evidence": 9305,
+  "fully_reviewed_cells": 0,
+  "documented_iso_3166_alpha2_matches": 249,
+  "archive_sha256": "5071c60de36777d482c2e0c782ed7cffc389d1ad9c84758a0f5653f4264c0fab"
+}
