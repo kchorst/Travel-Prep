@@ -7,16 +7,16 @@
     "PARTIAL_EVIDENCE_RECORDED": 66
   },
   "current_cell_statuses": {
-    "NOT_YET_VERIFIED": 9131,
-    "PARTIAL_EVIDENCE_RECORDED": 494
+    "NOT_YET_VERIFIED": 9075,
+    "PARTIAL_EVIDENCE_RECORDED": 550
   },
-  "new_cells_with_partial_evidence": 428,
-  "distinct_scoped_findings": 578,
-  "distinct_destinations_with_partial_evidence": 97,
+  "new_cells_with_partial_evidence": 484,
+  "distinct_scoped_findings": 638,
+  "distinct_destinations_with_partial_evidence": 105,
   "baseline_geographic_scope_independently_closed": false,
   "publication_status": "research_only",
-  "cells_new_this_batch": 101,
+  "cells_new_this_batch": 56,
   "fully_reviewed_cells": 0,
   "documented_iso_3166_alpha2_matches": 249,
-  "archive_sha256": "64073b00216e0629b68da022f3c5a7ccfff935f93ab09aba1b6c242f9ffff539"
+  "archive_sha256": "ddd79eb21de140d41f94dbec96696995514bb677c22c99450c7b574b3b262137"
 }
