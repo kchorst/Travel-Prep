@@ -59,3 +59,19 @@ test('applicability accepts supported selectors and rejects incomplete or unknow
   payload.records[0].applicability = { passportCodes: ['GB', 'X-NCY'], arrivalModes: ['air', 'land'] };
   assert.deepEqual(validateRestrictions(payload), []);
 });
+
+test('effective dates are calendar days and review deadlines must follow the check date', () => {
+  const payload = base();
+  const rule = payload.records[0];
+  for (const dates of [
+    { effectiveFrom: '2026-02-30' },
+    { effectiveFrom: '2026-12-02', effectiveUntil: '2026-12-01' },
+    { reviewBy: '2026-11-22' },
+    { effectiveUntil: null },
+  ]) {
+    payload.records[0] = { ...rule, ...dates };
+    assert.ok(validateRestrictions(payload).some(error => error.includes('invalid effective or review dates')));
+  }
+  payload.records[0] = { ...rule, effectiveFrom: '2026-12-01', effectiveUntil: '2026-12-01', reviewBy: '2026-12-02' };
+  assert.deepEqual(validateRestrictions(payload), []);
+});

@@ -47,3 +47,15 @@ origin, transit, permit status, or prior travel, in the scoped source
 record. They require an explicit design decision before use as targeted
 VisaBrowser notices. Confirm applicability before any integration with
 live entry eligibility results.
+
+## Effective dates and source review
+
+Optional `effectiveFrom` and `effectiveUntil` bound a notice to a legal
+date window, including both endpoints. An optional `reviewBy` gives the first
+day the source must be rechecked. VisaBrowser suppresses the notice from that
+day until the review is completed and a new snapshot is approved. Snapshot
+integrity and offline availability do not extend either deadline. The draft
+reader evaluates an explicit date when provided and otherwise uses the current
+UTC date. If a future UI needs destination-local dates near midnight, pass
+the applicable date explicitly. A suppressed notice does not establish that
+the underlying rule has ended or that the traveler is cleared.

@@ -13,3 +13,14 @@ export function isValidApplicability(value) {
     selectors.has(key) && Array.isArray(allowed) && allowed.length > 0 &&
     new Set(allowed).size === allowed.length && allowed.every(selectors.get(key)));
 }
+
+export function isIsoDate(value) {
+  return typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value) &&
+    Number.isFinite(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;
+}
+
+export function hasValidDates({ checkedAt, effectiveFrom, effectiveUntil, reviewBy }) {
+  return [effectiveFrom, effectiveUntil, reviewBy].every(date => date === undefined || isIsoDate(date)) &&
+    (effectiveFrom === undefined || effectiveUntil === undefined || effectiveFrom <= effectiveUntil) &&
+    (reviewBy === undefined || (isIsoDate(checkedAt) && checkedAt < reviewBy));
+}
