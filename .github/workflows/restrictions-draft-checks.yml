@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - 'scripts/validate-restrictions.mjs'
+      - 'scripts/restrictions-applicability.mjs'
       - 'scripts/audit-destination-parity.mjs'
       - 'tests/restrictions-contract.test.mjs'
       - 'tests/destination-parity.test.mjs'

@@ -33,3 +33,17 @@ As of 2026-11-22 the VisaBrowser inventory has 275 destination codes; Travel-Pre
 
 ## Exit criteria
 Phase 1 verified inventory and category research -> Phase 2 finalized UI and field specification -> Phase 3 implementation/tests -> explicit approval before release. Draft branches stay out of `main` until those checks are satisfied.
+
+## Passport and arrival-mode conditions
+
+An approved record may carry `applicability.passportCodes` and
+`applicability.arrivalModes`. Either selector can be omitted. A listed
+selector uses exact matches, and a rule with both selectors requires both
+matches. A missing itinerary input suppresses notices that depend on it.
+Arrival modes are `air`, `land`, and `sea`. Passport codes identify the
+document used for the trip, independently of the destination or residence.
+Keep conditions the app cannot evaluate, such as goods, carrier,
+origin, transit, permit status, or prior travel, in the scoped source
+record. They require an explicit design decision before use as targeted
+VisaBrowser notices. Confirm applicability before any integration with
+live entry eligibility results.

@@ -3,6 +3,7 @@
 // Usage: node scripts/validate-restrictions.mjs path/to/restrictions.json
 import { readFileSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
+import { isValidApplicability } from './restrictions-applicability.mjs';
 
 export function validateRestrictions(payload, validDestinations = null) {
   const errors = [];
@@ -30,6 +31,8 @@ export function validateRestrictions(payload, validDestinations = null) {
     if (typeof r.destination === 'string' && destinationSet && !destinationSet.has(r.destination)) errors.push(`${path}: unknown destination ${r.destination}`);
     if (!allowedPhases.has(r.phase)) errors.push(`${path}: invalid phase`);
     if (!allowedStatus.has(r.status)) errors.push(`${path}: invalid status`);
+    if (r.applicability !== undefined && !isValidApplicability(r.applicability))
+      errors.push(`${path}: invalid applicability selectors`);
     if (!Array.isArray(r.sources)) errors.push(`${path}: sources must be an array`);
     else for (const [j,s] of r.sources.entries()) {
       if (typeof s?.authority !== 'string' || !s.authority.trim()) errors.push(`${path}.sources[${j}]: missing authority`);

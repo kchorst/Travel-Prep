@@ -46,3 +46,16 @@ test('producer and consumer reject impossible dates and source URLs with credent
   assert.ok(errors.some(error => error.includes('valid checkedAt')));
   assert.ok(errors.some(error => error.includes('invalid HTTPS URL')));
 });
+
+test('applicability accepts supported selectors and rejects incomplete or unknown ones', () => {
+  const payload = base();
+  for (const applicability of [
+    null, {}, { passportCodes: [] }, { arrivalModes: ['rail'] },
+    { arrivalModes: ['air', 'air'] }, { passportCodes: [' gb'] }, { origins: ['GB'] },
+  ]) {
+    payload.records[0].applicability = applicability;
+    assert.ok(validateRestrictions(payload).some(error => error.includes('invalid applicability')));
+  }
+  payload.records[0].applicability = { passportCodes: ['GB', 'X-NCY'], arrivalModes: ['air', 'land'] };
+  assert.deepEqual(validateRestrictions(payload), []);
+});

@@ -53,11 +53,42 @@
       ],
       "visabrowser_alert": true,
       "publicationStatus": "approved"
+    },
+    {
+      "id": "synthetic-territory-scoped",
+      "destination": "TEST-TERRITORY",
+      "phase": "before_go",
+      "category": "CUSTOMS",
+      "title": "Synthetic territory customs example",
+      "rule": "Example for interoperability testing only.",
+      "status": "conditional",
+      "jurisdiction": "Synthetic territory",
+      "scope": "Synthetic border scope",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/customs"
+        }
+      ],
+      "relevance": [
+        "customs"
+      ],
+      "visabrowser_alert": true,
+      "publicationStatus": "approved",
+      "applicability": {
+        "passportCodes": [
+          "GB"
+        ],
+        "arrivalModes": [
+          "air"
+        ]
+      }
     }
   ],
-  "datasetVersion": "sha256-d57c70584fe31b402fe22a4415f2a27049f0f01a1ff6d00fc5162c1442016b2d",
+  "datasetVersion": "sha256-4ed4a0b1f912c32f477665a7589decba5d2d3d40523af80e9a5f4b7ed6a1a8a9",
   "integrity": {
     "algorithm": "SHA-256",
-    "hex": "d57c70584fe31b402fe22a4415f2a27049f0f01a1ff6d00fc5162c1442016b2d"
+    "hex": "4ed4a0b1f912c32f477665a7589decba5d2d3d40523af80e9a5f4b7ed6a1a8a9"
   }
 }
