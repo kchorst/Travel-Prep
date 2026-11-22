@@ -1,0 +1,43 @@
+{
+  "destinations": 275,
+  "categories": 35,
+  "total_checks": 9625,
+  "prior_cell_statuses": {
+    "NOT_YET_VERIFIED": 8639,
+    "PARTIAL_EVIDENCE_RECORDED": 986
+  },
+  "current_cell_statuses": {
+    "NOT_YET_VERIFIED": 8583,
+    "PARTIAL_EVIDENCE_RECORDED": 1042
+  },
+  "new_cells_with_partial_evidence": 56,
+  "distinct_scoped_findings": 1353,
+  "distinct_destinations_with_partial_evidence": 151,
+  "baseline_geographic_scope_independently_closed": false,
+  "publication_status": "research_only",
+  "fully_reviewed_cells": 0,
+  "documented_iso_3166_alpha2_matches": 249,
+  "total_open_cells": 9625,
+  "legacy_findings_without_check_date": [
+    "prior-476bbb23e6b811d2",
+    "prior-e7936c92a18a4494",
+    "prior-f3f920e519c0425e",
+    "prior-f6f9a21c4b26659b"
+  ],
+  "conflicting_findings": [
+    "ae-legacy-cash-conflict-AE",
+    "gb-cash-threshold-page-conflict-GB",
+    "in-mumbai-drone-conflict-IN",
+    "manx-cash-overview-IM",
+    "manx-cash-threshold-IM",
+    "ph-etravel-timing-crosscheck-PH",
+    "pw-entry-form-timing-PW",
+    "vu-customs-currency-VU"
+  ],
+  "archive_sha256": "fb4a5bd82dcc8ac979356204a3e46f4bd649de62b0af05ee511032773c336ed5",
+  "reconciled_prior_git_revision": "66a4ae448f6527e82664193f27a88d8542587e40",
+  "reconciled_library_versions": {
+    "matrix": 12,
+    "findings": 12
+  }
+}
