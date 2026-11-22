@@ -88,3 +88,15 @@ VisaBrowser renders notices from the loader's verified snapshot. The
 draft loader preserves that verification after loading by making the
 snapshot and records immutable. A copied or reconstructed snapshot must
 pass through verification before it can supply notices.
+
+## Empty notice results
+
+The VisaBrowser adapter distinguishes an unavailable approved snapshot, a
+destination absent from that snapshot, a covered destination with no matching
+notices, and a covered destination with matching notices. An approved snapshot
+may contain only curated notices. A covered destination with no matching
+notice does not establish that the destination has no restrictions.
+Communicate whether a result came from an offline copy independently of its
+notice state. Applicability, effective dates, review deadlines, and the
+traveler's context still apply. Reserve visa and ETA outcomes for the
+existing entry decision.
