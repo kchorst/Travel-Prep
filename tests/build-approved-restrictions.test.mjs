@@ -33,3 +33,12 @@ test('rejects destinations not in supported inventory and unsafe official source
 test('requires distinct destination identifiers',()=>{
  assert.throws(()=>buildApprovedRestrictions(source(),['RW','RW']),/unique/);
 });
+
+test('producer emits the snapshot used by the VisaBrowser interoperability tests', async () => {
+  const { readFile } = await import('node:fs/promises');
+  const readFixture = async (name) =>
+    JSON.parse(await readFile(new URL('./fixtures/' + name, import.meta.url), 'utf8'));
+  const source = await readFixture('approved-restrictions-input.json');
+  const expected = await readFixture('approved-restrictions-snapshot.json');
+  assert.deepEqual(buildApprovedRestrictions(source, ['TEST-TERRITORY', 'TEST-MAINLAND']), expected);
+});

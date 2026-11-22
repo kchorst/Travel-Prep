@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "publicationStatus": "approved",
+  "approvalId": "SYNTHETIC-CROSS-APP-TEST",
+  "approvedAt": "2026-11-22",
+  "destinations": [
+    "TEST-MAINLAND",
+    "TEST-TERRITORY"
+  ],
+  "records": [
+    {
+      "id": "synthetic-local-driving",
+      "destination": "TEST-MAINLAND",
+      "phase": "during_visit",
+      "category": "DRIVING",
+      "title": "Synthetic driving example",
+      "rule": "Example for interoperability testing only.",
+      "status": "verified",
+      "jurisdiction": "Synthetic mainland",
+      "scope": "Synthetic local rule",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/driving"
+        }
+      ],
+      "relevance": [
+        "driving"
+      ],
+      "visabrowser_alert": false,
+      "publicationStatus": "approved"
+    },
+    {
+      "id": "synthetic-territory-customs",
+      "destination": "TEST-TERRITORY",
+      "phase": "before_go",
+      "category": "CUSTOMS",
+      "title": "Synthetic territory customs example",
+      "rule": "Example for interoperability testing only.",
+      "status": "conditional",
+      "jurisdiction": "Synthetic territory",
+      "scope": "Synthetic border scope",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/customs"
+        }
+      ],
+      "relevance": [
+        "customs"
+      ],
+      "visabrowser_alert": true,
+      "publicationStatus": "approved"
+    }
+  ],
+  "datasetVersion": "sha256-d57c70584fe31b402fe22a4415f2a27049f0f01a1ff6d00fc5162c1442016b2d",
+  "integrity": {
+    "algorithm": "SHA-256",
+    "hex": "d57c70584fe31b402fe22a4415f2a27049f0f01a1ff6d00fc5162c1442016b2d"
+  }
+}
