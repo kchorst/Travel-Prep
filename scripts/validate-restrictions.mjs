@@ -32,7 +32,7 @@ export function validateRestrictions(payload, validDestinations = null) {
       catch { errors.push(`${path}.sources[${j}]: invalid HTTPS URL`); }
     }
     if (r.status === 'verified' || r.status === 'conditional') {
-      if (!/^\\d{4}-\\d{2}-\\d{2}$/.test(r.checkedAt ?? '') ||
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(r.checkedAt ?? '') ||
           !Number.isFinite(Date.parse(r.checkedAt))) errors.push(`${path}: verified/conditional claim requires valid checkedAt`);
       if (!Array.isArray(r.sources) || r.sources.length === 0) errors.push(`${path}: verified/conditional claim needs source`);
     }
@@ -50,6 +50,6 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
   try { dataset = JSON.parse(readFileSync(process.argv[2], 'utf8')); }
   catch (error) { console.error(String(error)); process.exit(2); }
   const errors = validateRestrictions(dataset);
-  if (errors.length) { console.error(errors.join('\\n')); process.exit(1); }
+  if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
   console.log(`Restriction contract OK: ${dataset.records.length} records. This does NOT verify laws or country coverage.`);
 }
