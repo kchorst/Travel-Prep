@@ -21,3 +21,11 @@ Research caveats:
 - Keep source records evidence-first and never imply that an unmentioned country allows a restricted item.
 
 This document is research provenance, *not published travel guidance*. It is intentionally excluded from the app bundle and from VisaBrowser's UI.
+
+## Additional primary-source cross-checks (2026-11-22)
+
+1. **ICAO global flight framework (power banks):** The official announcement confirms two power banks per passenger and the prohibition on recharging power banks in flight effective 27 March 2026. The technical-instructions addendum specifies carry-on transport, short-circuit protection, and the distinction between charging *a power bank* and using one to charge other equipment (the latter is stated as "should not"). Record these as different modalities rather than labeling every in-flight device charge as unconditionally prohibited. Sources: https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation and https://www.icao.int/sites/default/files/publications/DocSeries/9284_2025_2026_add_01_en.pdf
+2. **EASA non-EASA resident drone operations:** A visiting operator who plans to fly a drone in an EASA member state generally registers with the aviation authority of the first participating state where operation is intended. Registration alone is not an authorization to fly in restricted airspace. Validate jurisdiction membership and operation category before country-by-country attribution. Source: https://www.easa.europa.eu/en/light/topics/travelling-drones
+3. **United Kingdom's independent drone system:** UK rules should not be assumed identical to the current EASA visitor registration scheme. Compare registration/competency with UK CAA and UK legislation on a separate GB record. Source: https://www.legislation.gov.uk/eur/2019/947/body/2026-09-30?timeline=false
+
+**Classification note:** The first record is a cross-border aviation framework, not 275 verified national laws; the second is a jurisdiction framework requiring member-state mapping, not approval to import a drone.
