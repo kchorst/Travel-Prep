@@ -8,6 +8,8 @@ on:
       - 'tests/restrictions-contract.test.mjs'
       - 'tests/destination-parity.test.mjs'
       - 'scripts/audit-research-coverage.mjs'
+      - 'scripts/build-approved-restrictions.mjs'
+      - 'tests/build-approved-restrictions.test.mjs'
       - 'tests/research-coverage.test.mjs'
       - 'research/destination-category-manifest.v1.json'
       - 'research/restrictions.contract.example.json'
@@ -28,4 +30,4 @@ jobs:
       - name: Validate example record contract
         run: node scripts/validate-restrictions.mjs research/restrictions.contract.example.json
       - name: Test draft validators and parity checks
-        run: node --test tests/restrictions-contract.test.mjs tests/destination-parity.test.mjs tests/research-coverage.test.mjs
+        run: node --test tests/restrictions-contract.test.mjs tests/destination-parity.test.mjs tests/research-coverage.test.mjs tests/build-approved-restrictions.test.mjs
