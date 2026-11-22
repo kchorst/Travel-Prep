@@ -27,3 +27,11 @@ Start from the latest matrix and choose related open checks across a set of dest
 For FCDO intake, use the [official destination index](https://www.gov.uk/foreign-travel-advice) to match the destination and page slug. Read `https://www.gov.uk/api/content/foreign-travel-advice/<slug>`; the named chapters are in `details.parts`. Preserve the human-readable chapter URL for each finding. Combined pages require explicit territorial scoping. The FCDO records remain official consular advice or secondary evidence of a local rule. Follow links and confirm legal claims against the destination authority as a separate pass. Page publication dates and research check dates describe different events.
 
 Count first-evidence cells, existing cells expanded, and full reviews independently. An advisory or shared source can accelerate first evidence, while full review still depends on the category scope and adequate verification. Save the archive and checkpoint on the research draft branch, then update the two cumulative CSVs using their current versions.
+
+## Parallel verification
+
+Partition checks by the exact destination, phase and category. Give each worker a disjoint assignment of 25–50 cells and ask for structured findings, a disposition for each cell, and elapsed review time from start to handoff. A single reconciler merges the findings, checks every proposed full review against its evidence, and writes the archive and the two cumulative files. Reusable shared rules stay in one grouped source record with an explicit applicability list. Record local exceptions independently.
+
+Use [the pilot outcomes](parallel-review-outcomes-2026-11-22.csv) to resume unfinished cells. Use [the deferred queue](parallel-review-deferred-2026-11-22.csv) for outdated, inaccessible, conflicting or materially incomplete sources that require follow-up. A deferred cell can still contribute verified evidence within the confirmed scope. Review it separately from the active routine batch.
+
+Use [the measured pilot](parallel-review-metrics-2026-11-22.json) to compare completed cells per hour across cohorts. Sum worker start-to-handoff time when research runs in parallel. Track reconciliation separately. A rate from one subject mix is not a completion forecast for all 35 categories.

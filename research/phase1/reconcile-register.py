@@ -87,17 +87,17 @@ def reconcile(baseline, findings_file, sources, manifest_file, output):
     if len({row['finding_id'] for row in finding_rows}) != len(finding_rows):
         raise ValueError('Finding IDs must be unique')
     for key, row in rows_by_cell.items():
-        if key not in evidence_by_cell or row['research_status'] not in {
-            'NOT_YET_VERIFIED', 'PARTIAL_EVIDENCE_RECORDED',
-        }:
+        if key not in evidence_by_cell:
             continue
         records = evidence_by_cell[key]
+        row['finding_id'] = '|'.join(record['finding_id'] for record in records)
+        if row['research_status'] not in {'NOT_YET_VERIFIED', 'PARTIAL_EVIDENCE_RECORDED'}:
+            continue
         row['research_status'] = 'PARTIAL_EVIDENCE_RECORDED'
         first_source = next(
             (record for record in reversed(records) if record['source_date_checked']),
             records[0],
         )
-        row['finding_id'] = '|'.join(record['finding_id'] for record in records)
         row['source_url'] = first_source['official_or_government_url']
         row['source_date_checked'] = first_source['source_date_checked']
         row['scope_note'] = 'Scoped evidence only; see linked findings for claims, limits and gaps.'
