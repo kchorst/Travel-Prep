@@ -9,6 +9,11 @@ export function validateRestrictions(payload, validDestinations = null) {
   if (!payload || typeof payload !== 'object' || Array.isArray(payload)) return ['dataset must be an object'];
   if (payload.schemaVersion !== 1) errors.push('schemaVersion must be 1');
   if (!Array.isArray(payload.records)) return [...errors, 'records must be an array'];
+  if (payload.publicationStatus === 'approved' &&
+      (typeof payload.datasetVersion !== 'string' || !payload.datasetVersion.trim() ||
+       payload.datasetVersion.startsWith('DRAFT')))
+    errors.push('Approved dataset needs non-draft version');
+
   const allowedStatus = new Set(['verified','conditional','unverified','conflicting','not_applicable']);
   const allowedPhases = new Set(['before_go','during_visit']);
   const borderRelevance = new Set(['entry','transit','customs','departure']);
@@ -37,6 +42,7 @@ export function validateRestrictions(payload, validDestinations = null) {
       if (!Array.isArray(r.sources) || r.sources.length === 0) errors.push(`${path}: verified/conditional claim needs source`);
     }
     if (r.visabrowser_alert === true) {
+      if (r.publicationStatus !== 'approved') errors.push(`${path}: VisaBrowser alert requires explicit approval`);
       if (!Array.isArray(r.relevance) || !r.relevance.some(v => borderRelevance.has(v))) errors.push(`${path}: VisaBrowser alert requires border relevance`);
       if (r.status !== 'verified' && r.status !== 'conditional') errors.push(`${path}: VisaBrowser alert must be verified or conditional`);
     }
