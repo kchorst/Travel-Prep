@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "publicationStatus": "approved",
+  "audience": "visa-browser",
   "approvalId": "SYNTHETIC-CROSS-APP-TEST",
   "approvedAt": "2026-11-22",
   "destinations": [
@@ -8,30 +9,6 @@
     "TEST-TERRITORY"
   ],
   "records": [
-    {
-      "id": "synthetic-local-driving",
-      "destination": "TEST-MAINLAND",
-      "phase": "during_visit",
-      "category": "DRIVING",
-      "title": "Synthetic driving example",
-      "rule": "Example for interoperability testing only.",
-      "status": "verified",
-      "jurisdiction": "Synthetic mainland",
-      "scope": "Synthetic local rule",
-      "checkedAt": "2026-11-22",
-      "sources": [
-        {
-          "authority": "Synthetic authority",
-          "url": "https://example.invalid/driving"
-        }
-      ],
-      "relevance": [
-        "driving"
-      ],
-      "visabrowser_alert": false,
-      "publicationStatus": "approved",
-      "noticeKind": "legal_requirement"
-    },
     {
       "id": "synthetic-territory-customs",
       "destination": "TEST-TERRITORY",
@@ -89,9 +66,9 @@
       "noticeKind": "legal_requirement"
     }
   ],
-  "datasetVersion": "sha256-6449aa5448049c1d6d096b1d39df831e603e33113f860c1a54ba14ae91fe9cf4",
+  "datasetVersion": "sha256-b46625593b75da5e877bea56b01cdc4b55a93981f793e4941de053b2f40059a3",
   "integrity": {
     "algorithm": "SHA-256",
-    "hex": "6449aa5448049c1d6d096b1d39df831e603e33113f860c1a54ba14ae91fe9cf4"
+    "hex": "b46625593b75da5e877bea56b01cdc4b55a93981f793e4941de053b2f40059a3"
   }
 }

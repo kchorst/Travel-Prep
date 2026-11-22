@@ -48,5 +48,14 @@ test('producer emits the snapshot used by the VisaBrowser interoperability tests
     JSON.parse(await readFile(new URL('./fixtures/' + name, import.meta.url), 'utf8'));
   const source = await readFixture('approved-restrictions-input.json');
   const expected = await readFixture('approved-restrictions-snapshot.json');
-  assert.deepEqual(buildApprovedRestrictions(source, ['TEST-TERRITORY', 'TEST-MAINLAND']), expected);
+  const destinations = ['TEST-TERRITORY', 'TEST-MAINLAND'];
+  const travelSnapshot = buildApprovedRestrictions(source, destinations);
+  const borderSnapshot = buildApprovedRestrictions(source, destinations, 'visa-browser');
+  assert.equal(travelSnapshot.audience, 'travel-prep');
+  assert.equal(travelSnapshot.records.length, 3);
+  assert.equal(borderSnapshot.records.length, 2);
+  assert.ok(borderSnapshot.records.every(record => record.visabrowser_alert === true));
+  assert.notEqual(travelSnapshot.datasetVersion, borderSnapshot.datasetVersion);
+  assert.deepEqual(borderSnapshot, expected);
+  assert.throws(() => buildApprovedRestrictions(source, destinations, 'unrecognized'), /audience/);
 });

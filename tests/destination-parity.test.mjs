@@ -20,5 +20,13 @@ test('exact inventory parity is the only success',()=>{
 });
 test('rejects malformed inventories',()=>{
   assert.ok(auditDestinationParity({destinations:[]},null).errors.length);
-  assert.ok(auditDestinationParity({destinations:[{}]},{destinations:[]}).errors.length);
+  assert.ok(auditDestinationParity({destinations:[]},{destinations:[]}).errors.length);
+  const result = auditDestinationParity(
+    { destinations: [{ iso: 'RW' }, {}] },
+    { destinations: ['RW', null, ' RW', 'rw', 42] },
+  );
+  assert.equal(result.parity, false);
+  assert.equal(result.errors.length, 5);
+  assert.equal(result.travelPrepCount, 1);
+  assert.equal(result.visaBrowserCount, 1);
 });

@@ -6,7 +6,16 @@
 - **Travel-Prep** owns the complete Before You Go and During Your Visit restrictions register. It is authoritative for the *curated data records*, not for law itself; authority must always be attributed to official sources.
 - **VisaBrowser** imports only records explicitly flagged `visabrowser_alert` and relevant to entry, transit, customs, or departure. Visa/ETA classification remains managed by VisaBrowser, not the restrictions register.
 - Both apps share destination identifiers from a reconciled destination inventory. Do not silently fall back from a territory to its administering state's rules.
-- Browser consumption should use a **versioned, immutable, validated JSON artifact** built in Travel-Prep; never hot-link an unverified editable research spreadsheet.
+- Build a **versioned, immutable, validated JSON artifact** for each app. The `travel-prep` audience receives the comprehensive approved collection. The `visa-browser` audience receives only the validated, individually approved border subset. Do not publish the research register or hand the larger dataset to VisaBrowser for browser-side filtering.
+
+The packaging command accepts `travel-prep` (default) or `visa-browser` as
+its final argument. The artifact's audience is part of the SHA-256 digest.
+The two artifacts share the approval identifier and approval date when built
+from the same source. Their version hashes are separate pins and must be
+managed together as part of the release decision. The VisaBrowser reader
+rejects a Travel-Prep or pre-audience draft snapshot even when the supplied
+pin matches. Older offline draft caches need the newly approved VisaBrowser
+pin and artifact before they can supply results.
 
 ## Record contract
 See `research/restrictions.contract.example.json` and `scripts/validate-restrictions.mjs`.
@@ -25,6 +34,14 @@ Status values: `verified`, `conditional`, `unverified`, `conflicting`, `not_appl
 
 ## Geographic inventory reconciliation
 As of 2026-11-22 the VisaBrowser inventory has 275 destination codes; Travel-Prep has 196, all among VisaBrowser's current codes. The 79 missing Travel-Prep entries are not automatically supported by existing Travel-Prep profile structures. Special X-* destinations need explicit legal and geographic scoping. Inventory parity and genuine coverage are separate requirements.
+
+Run the parity checker with both repositories checked out, using
+`node scripts/audit-destination-parity.mjs data/index.json ../VisaBrowser/site/data/index.json`.
+The branches currently return exit code 1 for the 79 missing Travel-Prep
+profiles. Use the output as the exact reconciliation queue. Resolve each
+code against the Phase 1 jurisdiction and author an explicit destination
+profile or document its disposition before enabling a destination link.
+Reject missing, malformed, and duplicate IDs from either inventory.
 
 ## Future user experience (design only)
 - Travel-Prep country detail: collapsible **Before You Go** and **During Your Visit** sections, grouped by category, with an official-source link, review date, exceptions, and legal scope.

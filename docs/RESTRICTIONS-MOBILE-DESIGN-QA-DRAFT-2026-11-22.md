@@ -14,7 +14,7 @@ Travel-Prep is the comprehensive travel-preparation reference. VisaBrowser is th
 - For countries with partial legal coverage, show a succinct "Not all categories verified" note and links to independent primary authorities. No empty category may imply clearance.
 
 ## VisaBrowser integration (proposed)
-- On country detail, show a bounded **Important border and customs restrictions** accordion only when a source-backed, release-approved relevant rule exists; also show a direct country-specific Travel-Prep link regardless of available alerts.
+- On country detail, show a bounded **Important border and customs restrictions** accordion when a source-backed, release-approved relevant rule exists. Offer the country-specific Travel-Prep link whenever the exact destination has a verified deep link. For a destination without a Travel-Prep profile, offer the Travel-Prep destination search and indicate that the dedicated profile is unavailable.
 - Only import records flagged for **entry, transit, customs, departure**. Local photography rules, driving behavior and ordinary etiquette stay in Travel-Prep.
 - Critical notices must not change visa/ETA classifications or the meaning of the existing **NO ISSUES** indicator. The indicator refers to visa/authorization obstacles, not all local laws.
 - A traveler with an unrecognized territory ID receives a **coverage not verified** message and a matching destination search link. Never silently substitute a parent country.
@@ -26,6 +26,18 @@ Travel-Prep is the comprehensive travel-preparation reference. VisaBrowser is th
 - A long official URL displays as an accessible **View official rule** link; do not introduce sideways scrolling. Titles, dates and jurisdiction badges must wrap.
 - Preserve scroll on return to a destination selection list, but start newly opened destination pages at the top; distinguish restoring the old view from navigating to a new one.
 - Offline mode must show the **data snapshot date and version** and an unobtrusive "Rules may have changed" notice. Never claim a cache refresh when only the service-worker shell updates.
+
+| VisaBrowser result | Proposed message | Interaction |
+| --- | --- | --- |
+| Approved data unavailable | “Border notices are unavailable. Check official sources before travel.” | Keep the preparation link and existing visa result accessible. |
+| Destination missing from approved snapshot | “Border notices have not been verified for this destination.” | Use the exact destination link when available, otherwise link to the Travel-Prep search. |
+| Included destination with no matching notices | “No published border notices match this trip.” | Keep the preparation link and show the selected itinerary context. |
+| Included destination with matching notices | Show each notice title, notice kind, jurisdiction and review date. | Give each authority link a destination- or rule-specific accessible name. |
+
+Announce changed notice results in a polite status region after itinerary
+filters update. Keep focus on the changed input when the same destination
+remains open. On navigation to a new detail view, focus its heading and move to
+the top. Read the availability message and offline status independently.
 
 ## Draft QA / acceptance matrix
 | Scenario | Acceptance criterion |
@@ -53,4 +65,8 @@ Travel-Prep is the comprehensive travel-preparation reference. VisaBrowser is th
 4. User explicitly authorizes merging draft PRs and publishing. Until then, **no production UI or Pages deployment**.
 
 ## Explicitly untested
-No device-level mobile, screen-reader, offline cache and visual QA has yet been run on this proposed UI because it has not been implemented. The current draft validator/bridge Node tests are useful scaffolding but cannot certify these user-experience behaviors.
+The proposed presentation still needs device-level mobile, screen-reader and
+visual QA. The VisaBrowser draft browser test exercises only the data loader
+with synthetic records and Cache Storage. Its online and offline checks do
+not cover a rendered restriction notice, focus management, real links, or the
+existing apps' service-worker update lifecycle.
