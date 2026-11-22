@@ -64,10 +64,13 @@ export function auditResearchCoverage(rows, manifest) {
         errors.push(`Row ${i+2}: reviewed cell has no valid check date`);
       if (typeof r.scope_note !== 'string' || !r.scope_note.trim())
         errors.push(`Row ${i+2}: reviewed cell lacks scoped investigation notes`);
-      if (status.startsWith('VERIFIED_')) {
-        try { if (new URL(r.source_url).protocol !== 'https:') throw new Error(); }
-        catch { errors.push(`Row ${i+2}: verified cell requires HTTPS source`); }
-      }
+      // Closed cells must retain primary-source provenance, including inconclusive
+      // investigations and not-applicable determinations. A date and assertion alone
+      // are not sufficient evidence that an investigation occurred.
+      try {
+        const u = new URL(r.source_url);
+        if (u.protocol !== 'https:' || !u.hostname || u.username || u.password) throw new Error();
+      } catch { errors.push(`Row ${i+2}: reviewed cell requires authority HTTPS source`); }
       reviewed.push(key);
     } else pending.push(key);
   }
