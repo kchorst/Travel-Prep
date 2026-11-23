@@ -12,7 +12,7 @@ const index = JSON.parse(readFileSync(path.join(root, "data", "index.json"), "ut
 
 mkdirSync(outputRegions, { recursive: true });
 mkdirSync(outputLeafletImages, { recursive: true });
-for (const asset of ["index.html", "manifest.json", "sw.js", "styles.css", "icon-192.png", "icon-512.png"]) {
+for (const asset of ["index.html", "manifest.json", "sw.js", "travel-restrictions.js", "styles.css", "icon-192.png", "icon-512.png"]) {
   copyFileSync(path.join(root, asset), path.join(output, asset));
 }
 copyFileSync(path.join(root, "data", "index.json"), path.join(outputData, "index.json"));

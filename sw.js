@@ -1,8 +1,9 @@
-const SHELL_CACHE = "travel-engine-shell-v52";
+const SHELL_CACHE = "travel-engine-shell-v53";
 const DATA_CACHE = "travel-engine-data-v1";
 const SHELL_ASSETS = [
   "./",
   "./index.html",
+  "./travel-restrictions.js",
   "./manifest.json",
   "./styles.css",
   "./data/world-countries.geojson",

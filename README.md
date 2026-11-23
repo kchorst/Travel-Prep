@@ -4,6 +4,10 @@ TravelPrep is an offline-capable travel reference and trip-planning app for 196 
 
 Travel information can change. Verify current entry, health, safety, transportation, and other time-sensitive details with official sources before travel. A profile marked complete means it meets this project's data-coverage checks; it is not a guarantee that every fact or external link is current.
 
+## What's new in v1.2.2
+
+France, Spain, the United States, China, Italy, Türkiye, Mexico, the United Kingdom, Japan and Germany have an expandable **Travel restrictions** section. It includes source links and check dates for selected border, packing, conduct and local access rules. See the [Sprint 1 release notes](docs/Release-Notes-v1.2.2.md).
+
 ## Try It
 
 The app is published at [kchorst.github.io/Travel-Prep](https://kchorst.github.io/Travel-Prep/). The app is a static Progressive Web App and can also be hosted from any HTTPS static host. Service workers require HTTPS, except on localhost.

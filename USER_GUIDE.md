@@ -1,4 +1,4 @@
-# TravelPrep User Guide
+# TravelPrep v1.2.2 User Guide
 
 TravelPrep is a travel-planning reference, not an official source of travel authorization or live conditions. Check official government and provider sources for current requirements and conditions before departure.
 
@@ -21,6 +21,10 @@ In A–Z and Trip modes, the previous and next buttons move through the active o
 Each profile groups guidance into five stages: **Plan**, **Arrive**, **Move**, **Live**, and **Connect**. Select a stage to filter the profile, or select **All** to show every stage. Expand **Tap for Detailed Deep-Dive & Tactical Breakdown** for more detail. Citation records are maintained in the profile data but are not currently displayed as clickable source links in the profile view. An electrical reference link is shown where available.
 
 The profile label indicates whether the destination meets the project's profile-completeness criteria. It does not certify that details are current or replace checking official sources.
+
+### Travel restrictions
+
+On a supported profile, expand **Travel restrictions**. **Before you go** covers selected rules for arrival, baggage and items you carry. **During your visit** covers selected rules for local conduct, activities and site access. Check each note's scope and date, then follow its source link for more detail. The notes are available offline when the profile is cached. Source links need internet access.
 
 ## Use the Map
 
