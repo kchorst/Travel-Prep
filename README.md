@@ -4,6 +4,12 @@ TravelPrep is an offline-capable travel reference and trip-planning app for 196 
 
 Travel information can change. Verify current entry, health, safety, transportation, and other time-sensitive details with official sources before travel. A profile marked complete means it meets this project's data-coverage checks; it is not a guarantee that every fact or external link is current.
 
+## What's new in v1.2.3
+
+**Preliminary travel alerts** lets you select from 275 researched destinations, including places without a full TravelPrep profile. The 2,780 checks cover preparation and activities, retain source links and scan status, and are also available on matching profiles. They are first-scan leads, not confirmed rules or a complete list; generic research prompts are labeled separately. Fifty destinations remain partial scans. Passport- and visa-specific checks appear in [VisaBrowser](https://kchorst.github.io/VisaBrowser/).
+
+The source research and destination coverage are in `research/first-scan/`. Conflicting guidance is presented as a check rather than a disputed threshold. Confirm applicability, exceptions and current rules with the cited authority.
+
 ## What's new in v1.2.2
 
 France, Spain, the United States, China, Italy, Türkiye, Mexico, the United Kingdom, Japan and Germany have an expandable **Travel restrictions** section. It includes source links and check dates for selected border, packing, conduct and local access rules. See the [Sprint 1 release notes](docs/Release-Notes-v1.2.2.md).

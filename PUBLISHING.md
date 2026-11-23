@@ -8,7 +8,9 @@ The app contains 196 destination profiles. A profile is marked complete when it 
 
 ## Version and Data Updates
 
-The current app version is `1.2.1` in `index.html`, `package.json`, and `package-lock.json`. Keep these fields in sync before tagging future releases. Bump `SHELL_CACHE` in `sw.js` whenever the app shell or its cached assets change so installed clients can receive the update.
+The current app version is `1.2.3` in `index.html`, `package.json`, and `package-lock.json`. Keep these fields in sync before tagging future releases. Bump `SHELL_CACHE` in `sw.js` whenever the app shell or its cached assets change so installed clients can receive the update.
+
+Preliminary first-scan source files are in `research/first-scan/`. After updating them, run `python scripts/build-first-scan-alerts.py <VisaBrowser-site-directory>` and update both apps together. The generated alert assets are part of each app shell and available offline.
 
 The build script generates `dataVersion` from canonical destination, electrical, capital-coordinate, and country-boundary data. The app stores the last-seen value in the browser and shows a notice when a later visit finds a different data version. Data changes deploy through the same Pages workflow as app changes.
 

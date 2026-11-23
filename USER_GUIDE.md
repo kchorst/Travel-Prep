@@ -1,4 +1,4 @@
-# TravelPrep v1.2.2 User Guide
+# TravelPrep v1.2.3 User Guide
 
 TravelPrep is a travel-planning reference, not an official source of travel authorization or live conditions. Check official government and provider sources for current requirements and conditions before departure.
 
@@ -25,6 +25,8 @@ The profile label indicates whether the destination meets the project's profile-
 ### Travel restrictions
 
 On a supported profile, expand **Travel restrictions**. **Before you go** covers selected rules for arrival, baggage and items you carry. **During your visit** covers selected rules for local conduct, activities and site access. Check each note's scope and date, then follow its source link for more detail. The notes are available offline when the profile is cached. Source links need internet access.
+
+Expand **Preliminary travel alerts** and select any of the 275 destinations, even when it has no full profile. Matching profiles also have a **Preliminary first-scan alerts** panel. The scan status, research prompts, unresolved conflicts, sources and dates indicate what still needs checking; they do not prove a restriction applies or that unlisted issues do not exist. Source links need internet access.
 
 ## Use the Map
 

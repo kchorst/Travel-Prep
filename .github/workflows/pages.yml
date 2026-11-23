@@ -33,6 +33,8 @@ jobs:
         run: node scripts/build-data-shards.mjs
       - name: Validate profiles and shards
         run: node scripts/validate-data-shards.mjs
+      - name: Validate preliminary alerts
+        run: python scripts/test-first-scan-alerts.py
       - name: Prepare Pages artifact
         run: node scripts/prepare-pages-artifact.mjs
       - name: Configure GitHub Pages
