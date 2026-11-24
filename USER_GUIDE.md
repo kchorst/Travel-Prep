@@ -1,4 +1,4 @@
-# TravelPrep v1.2.3 User Guide
+# TravelPrep v1.2.4 User Guide
 
 TravelPrep is a travel-planning reference, not an official source of travel authorization or live conditions. Check official government and provider sources for current requirements and conditions before departure.
 
@@ -19,6 +19,8 @@ In A–Z and Trip modes, the previous and next buttons move through the active o
 ## Read a Profile
 
 Each profile groups guidance into five stages: **Plan**, **Arrive**, **Move**, **Live**, and **Connect**. Select a stage to filter the profile, or select **All** to show every stage. Expand **Tap for Detailed Deep-Dive & Tactical Breakdown** for more detail. Citation records are maintained in the profile data but are not currently displayed as clickable source links in the profile view. An electrical reference link is shown where available.
+
+The **Pre-Arrival & Planning** section links to the same destination in VisaBrowser for passport and visa checks. The link needs internet access.
 
 The profile label indicates whether the destination meets the project's profile-completeness criteria. It does not certify that details are current or replace checking official sources.
 
