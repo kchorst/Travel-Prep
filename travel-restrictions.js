@@ -1184,5 +1184,679 @@ globalThis.travelRestrictions = {
       "url": "https://nationalpark-berchtesgaden.bayern.de/erlebnis/regeln_hinweise/verhaltensregeln/index.htm",
       "checked": "2026-11-23"
     }
+  ],
+  "SA": [
+    {
+      "id": "s2-20261126-sa-plant-quarantine-baggage",
+      "phase": "before_go",
+      "title": "Plants and produce in passenger baggage",
+      "text": "Saudi Arabia inspects accompanied plant products for personal consumption even when they are exempt from a phytosanitary certificate. The passenger allowances include up to 10 kg of fruit and vegetables excluding potatoes, and up to 30 kg of dates. Propagation seedlings must have a phytosanitary certificate, use a soil substitute and be of a permitted type. Permitted seeds must be packaged and sealed at origin, up to five packets of no more than 5 g each.",
+      "scope": "National inbound accompanied baggage; agricultural and veterinary quarantine guide, Chapter 5, Article 18. Decision 25083389 effective upon publication on 14 November 2025.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Environment, Water and Agriculture (official Umm Al-Qura gazette, issue 5122, via ILO NATLEX)",
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/119026/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF%205122.pdf%D8%A7%D9%84%D8%B9%D8%AF%D8%AF%205122.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-pet-entry-permit",
+      "phase": "before_go",
+      "title": "Entry permits for cats and dogs",
+      "text": "Visitors can apply to the Saudi Ministry of Environment, Water and Agriculture for entry permits for cats and dogs through the National Platform. Request clearance before traveling and check current breed eligibility, veterinary documentation and entry arrangements.",
+      "scope": "National visitor pet entry; National Platform expressly includes visitors, cats and dogs.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi National Platform / Ministry of Environment, Water and Agriculture",
+      "url": "https://my.gov.sa/en/services/319217",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-wildlife-product-import",
+      "phase": "before_go",
+      "title": "Importing protected wildlife products",
+      "text": "Saudi wildlife regulations list importing, exporting, re-exporting or transiting with covered wildlife specimens, products or derivatives without a licence as violations. Confirm the species and licences before traveling with wildlife-derived souvenirs.",
+      "scope": "National border; Executive Regulation on the Protection of Wildlife, Wildlife Products and Derivatives, table 1, for specimens on convention and designated national lists.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Environment, Water and Agriculture / National Center for Wildlife (Umm Al-Qura official gazette)",
+      "url": "https://www.uqn.gov.sa/details?p=25433",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-media-customs",
+      "phase": "before_go",
+      "title": "Books and publications at customs",
+      "text": "Saudi customs lists books and publications that violate Ministry of Media regulations among travelers' prohibited goods. Confirm questionable titles or materials with Saudi customs before packing them.",
+      "scope": "National passenger customs ports; books and publications covered by media regulations.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Zakat, Tax and Customs Authority",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/Prohibited-goods.aspx",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-tobacco-customs",
+      "phase": "before_go",
+      "title": "Cigarette duty and approval thresholds",
+      "text": "Saudi customs exempts up to 200 regular cigarettes from customs duties and taxes. For quantities above 200 and below 2,400, its guidance requires Saudi Food and Drug Authority approval and applies duties and taxes to the whole quantity. Check separate customs rules for vapes and refills.",
+      "scope": "National inbound accompanied regular cigarettes; traveler guidance updated 26 August 2026.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Zakat, Tax and Customs Authority",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/Travel-pages/Quantity-Tobaacco.aspx",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-recognized-driving-license",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "Article 42 of the Traffic Law limits recognized foreign or international driving licence validity to one year after entry or the licence expiry date, whichever comes first. Verify recognition and any rental or insurer requirements before driving.",
+      "scope": "National driving documentation; Articles 37 and 42, Traffic Law.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi National Center for Archives and Records / Traffic Law",
+      "url": "https://ncar.gov.sa/api/index.php/resource/eyJpdiI6IjduUnZhakJmcXFMRTNTVDJuNmt4SFE9PSIsInZhbHVlIjoiWGVIZmZwTkQ0QUVObkxmcXB6SWNtdz09IiwibWFjIjoiZjc4MmYzNzViNzA1ZmQ5MTgwYjcxMGY4YmI2MWRkMDZhNDMzZDVhMWViNWMzNWRhZGI5OGIwM2QzMjQ2ZWUxYiIsInRhZyI6IiJ9/Documents/TranslatedAttachPath",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-antiquity-reexport-approval",
+      "phase": "before_go",
+      "title": "Taking a registered antiquity back out",
+      "text": "If you brought an antiquity or heritage item into Saudi Arabia, Article 40 requires a customs declaration and registration within three weeks after entry. Approval from the heritage authority is needed to take that item back out.",
+      "scope": "National re-export of previously imported antiquities or heritage items; Law of Antiquities, Museums and Urban Heritage, Article 40.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Bureau of Experts at the Council of Ministers",
+      "url": "https://laws.boe.gov.sa/Files/Download/?attId=72fb80f1-ae9e-49e6-9b9d-adbb01088bad",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-underwater-archaeology",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Leave underwater archaeological sites, shipwrecks and movable antiquities where they are and report discoveries promptly to the heritage authority or nearest government authority. The law requires accidentally recovered antiquities to be reported and handed over within one week.",
+      "scope": "National waters under Saudi sovereignty or jurisdiction; Law of Antiquities, Museums and Urban Heritage, Article 27.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Bureau of Experts at the Council of Ministers",
+      "url": "https://laws.boe.gov.sa/Files/Download/?attId=72fb80f1-ae9e-49e6-9b9d-adbb01088bad",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-controlled-prescriptions-in-country",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Saudi drug law allows a patient to possess controlled narcotic or psychotropic medicine prescribed by a licensed physician under the law and prohibits transferring it to others. Keep the approval and prescription documentation for any controlled medicine cleared by SFDA for personal travel.",
+      "scope": "National in-country personal possession; Narcotics and Psychotropics Control Law, Article 35.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Food and Drug Authority",
+      "url": "https://beta.sfda.gov.sa/sites/default/files/2023-05/Drug12112023a1_0.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-valid-license-carry",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Carry a valid driving licence while driving in Saudi Arabia. Traffic Law Article 33 permits law enforcement to inspect it.",
+      "scope": "National on-road conduct; Traffic Law, Articles 32 and 33.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi National Center for Archives and Records / Traffic Law",
+      "url": "https://ncar.gov.sa/api/index.php/resource/eyJpdiI6IjduUnZhakJmcXFMRTNTVDJuNmt4SFE9PSIsInZhbHVlIjoiWGVIZmZwTkQ0QUVObkxmcXB6SWNtdz09IiwibWFjIjoiZjc4MmYzNzViNzA1ZmQ5MTgwYjcxMGY4YmI2MWRkMDZhNDMzZDVhMWViNWMzNWRhZGI5OGIwM2QzMjQ2ZWUxYiIsInRhZyI6IiJ9/Documents/TranslatedAttachPath",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-protected-area-waste",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Saudi protected-area regulations list leaving, throwing away, burying or burning waste in a protected area without National Center for Wildlife authorization as a violation. Follow the reserve's waste instructions and take your waste out when facilities are unavailable.",
+      "scope": "Saudi protected areas governed by this regulation; violations table, item 15.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Environment, Water and Agriculture / National Center for Wildlife (Umm Al-Qura official gazette)",
+      "url": "https://www.uqn.gov.sa/details?p=25439",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-protected-area-wildlife-collection",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Do not collect products or derivatives of threatened or prohibited wildlife in Saudi protected areas. Collecting other covered wildlife specimens, products or derivatives in these areas requires a licence.",
+      "scope": "Saudi protected areas governed by this regulation; violations table, items 7 and 8.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Environment, Water and Agriculture / National Center for Wildlife (Umm Al-Qura official gazette)",
+      "url": "https://www.uqn.gov.sa/details?p=25439",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-reserve-camping-and-tracks",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "In protected areas designated by the National Center for Wildlife, use designated vehicle tracks and obtain a licence before camping. The Saudi protected-area regulation lists breaches as violations.",
+      "scope": "National Center for Wildlife designated protected areas; violations table, items 13 and 14.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Environment, Water and Agriculture / National Center for Wildlife (Umm Al-Qura official gazette)",
+      "url": "https://www.uqn.gov.sa/details?p=25439",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-accommodation-check-in-id",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Saudi Ministry of Tourism guidance requires guests to present identification to tourist accommodation for verification and recordkeeping. Visitors should bring their passport to check-in.",
+      "scope": "National tourist accommodation establishments; accepted identification includes passport, national ID or residence permit.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Tourism",
+      "url": "https://cdn.mt.gov.sa/files/A360/TouristsRights-EN.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-holy-mosque-access",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "Saudi tourist eVisa terms state that non-Muslims may not enter the Holy Mosque or its premises in Makkah or the Prophet's Mosque or its premises in Madinah.",
+      "scope": "Saudi tourist eVisa terms, §12; specified holy sites and premises.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi official tourist eVisa portal",
+      "url": "https://visa.visitsaudi.com/Home/TermsConditions",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sa-accommodation-card-payments",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Saudi Ministry of Tourism guidance says licensed tourist accommodation should offer Visa or Mastercard credit-card payment or other options approved in the Kingdom. Confirm the property's accepted payment methods and booking conditions before you pay.",
+      "scope": "National tourist accommodation; payment guidance applies to hospitality services.",
+      "type": "Official rule or guidance",
+      "authority": "Saudi Ministry of Tourism",
+      "url": "https://cdn.mt.gov.sa/files/A360/TouristsRights-EN.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "CA": [
+    {
+      "id": "s2-20261126-ca-quarantine-disclosure",
+      "phase": "before_go",
+      "title": "Health disclosures at the border",
+      "text": "Quarantine Act section 15 requires travellers to answer relevant screening or quarantine officer questions, provide reasonably required information or records in their possession, and comply with reasonable disease-control measures ordered by those officers. Disclose reasonable suspicion of a disease listed in the Act, vector infestation, or qualifying recent close proximity.",
+      "scope": "Canada federal quarantine screening, including at ports of entry. The disclosure duty applies to the statutory circumstances.",
+      "type": "Official rule or guidance",
+      "authority": "Department of Justice Canada, Quarantine Act section 15",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/q-1.1/section-15.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ca-immigration-medical-exam",
+      "phase": "before_go",
+      "title": "Medical exams for some immigration applications",
+      "text": "Immigration medical examinations generally are not required for visits of six months or less, with exceptions for certain jobs. For stays over six months, an examination can be required based on documented residence or travel history in designated places, protected public-health occupations, or a parent and grandparent super visa.",
+      "scope": "Canada immigration applications for temporary residents including visitors, students and workers.",
+      "type": "Official rule or guidance",
+      "authority": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-temporary-residents.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ca-military-uniform-wear",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "Canada's Criminal Code makes wearing a military uniform without lawful authority an offence. The provision also covers a uniform likely to be mistaken for one and specifies related restrictions on wearing certain military decorations or imitations.",
+      "scope": "Canada federal law, in-country wearing of military uniforms and specified decorations without lawful authority.",
+      "type": "Official rule or guidance",
+      "authority": "Department of Justice Canada, Criminal Code section 419",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/section-419.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ca-controlled-drug-possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Canada generally prohibits possession of substances listed in Schedules I to III of the Controlled Drugs and Substances Act unless authorized by regulations.",
+      "scope": "Canada federal possession law, specified controlled substances in country.",
+      "type": "Official rule or guidance",
+      "authority": "Department of Justice Canada, Controlled Drugs and Substances Act section 4",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/section-4.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ca-ontario-guest-register",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Ontario hotels must keep a guest register that includes one guest's name, residence details and primary phone number, plus details of guest vehicles parked on the premises. Covered online platforms instead record the person making a short-term reservation and their billing address and phone number, plus vehicle details if known at reservation.",
+      "scope": "Ontario only. Accommodation-provider and covered online-platform recordkeeping, effective January 1, 2026.",
+      "type": "Official rule or guidance",
+      "authority": "Ontario e-Laws, O. Reg. 292/25 and Accommodation Sector Registration of Guests Act, 2021",
+      "url": "https://www.ontario.ca/laws/regulation/250292",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ca-bc-emergency-travel-orders",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "British Columbia emergency powers allow authorities to limit or prohibit travel to or from a specified area and require evacuation. Check active orders before travelling in affected areas and follow the issuing authority's directions.",
+      "scope": "British Columbia only; restrictions depend on a currently applicable order or emergency instrument, its geography, duration and exceptions.",
+      "type": "Official rule or guidance",
+      "authority": "British Columbia Laws, Emergency and Disaster Management Act sections 77, 78 and 107",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/23037",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ca-retail-payment-methods",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Canadian notes and coins are legal tender, but the Bank of Canada says merchants may choose how to take payment. Confirm accepted methods before relying on cash alone.",
+      "scope": "Canada, ordinary retail payment methods accepted by merchants.",
+      "type": "Official rule or guidance",
+      "authority": "Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2021/01/about-legal-tender/",
+      "checked": "2026-11-26"
+    }
+  ],
+  "MY": [
+    {
+      "id": "s2-20261126-my-penang-plastic-bags",
+      "phase": "before_go",
+      "title": "Plastic bags, disposable products and packaging",
+      "text": "Bring a reusable shopping bag in Penang. The state campaign guidelines call for a phased rollout from 1 September 2025 under which eight types of locally registered retail premises stop supplying single-use plastic carrier bags daily. Product, food and drink wrappers are outside the campaign definition.",
+      "scope": "Penang retail premises covered by local licensing guidance.",
+      "type": "Official rule or guidance",
+      "authority": "Penang state campaign guidelines published by Seberang Perai City Council",
+      "url": "https://www.mbsp.gov.my/brgonline/garispanduan/pelesenan/begplastik.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-customs-vaping-alcohol",
+      "phase": "before_go",
+      "title": "Vaping, tobacco and alcohol allowances",
+      "text": "Royal Malaysian Customs excludes cigarettes, tobacco products, electronic cigarettes and their liquid or gel preparations from the general passenger duty-free allowance for both air and non-air arrivals. Its passenger guide separately lists a combined one-litre duty and tax exemption for wine, spirits, beer or malt liquor, subject to the exemption conditions. Ask Customs about duty and applicable product rules before carrying these items.",
+      "scope": "Passenger imports into Malaysia by air and non-air routes, customs duty and tax treatment.",
+      "type": "Official rule or guidance",
+      "authority": "Royal Malaysian Customs Department",
+      "url": "https://www.customs.gov.my/en/individu/pengembara/travelers-guide?highlight=WzQsMV0%3D",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-symbolic-cloth-import",
+      "phase": "before_go",
+      "title": "Textiles printed with Quranic verses",
+      "text": "The First Schedule of Malaysia’s 2023 Customs (Prohibition of Imports) Order includes cloth and animal skin printed with Quranic verses among goods prohibited from import, regardless of origin. Check with Royal Malaysian Customs before packing garments or textiles that fall under that description.",
+      "scope": "Malaysia customs imports of cloth or animal skin bearing printed or reproduced Quranic verses, First Schedule item 3.",
+      "type": "Official rule or guidance",
+      "authority": "Malaysia federal gazette, published by Royal Malaysian Customs Department",
+      "url": "https://www.customs.gov.my/ms/pg/Perintah%20Kastam/PU%28A%29%20117-%20Perintah%20Kastam%20%28Larangan%20Mengenai%20Import%29%202023.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-media-import",
+      "phase": "before_go",
+      "title": "Obscene material at customs",
+      "text": "The First Schedule of Malaysia’s 2023 Customs (Prohibition of Imports) Order prohibits import of material classified as indecent or obscene, including covered books, photographs, films and other media. If unsure how an item is classified, check with Royal Malaysian Customs before carrying it.",
+      "scope": "Malaysia customs imports from all origins under First Schedule item 5.",
+      "type": "Official rule or guidance",
+      "authority": "Malaysia federal gazette, published by Royal Malaysian Customs Department",
+      "url": "https://www.customs.gov.my/ms/pg/Perintah%20Kastam/PU%28A%29%20117-%20Perintah%20Kastam%20%28Larangan%20Mengenai%20Import%29%202023.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-heritage-site-protection",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "At protected heritage sites in Malaysia, leave monuments and site materials in place. National Heritage Act section 112 requires the Commissioner’s written approval to mark, disturb, modify or remove a monument in a heritage site or to excavate in a heritage site or conservation area.",
+      "scope": "Statutory heritage sites, monuments and conservation areas within the scope of Malaysia’s National Heritage Act 2005.",
+      "type": "Official rule or guidance",
+      "authority": "Department of National Heritage, Malaysia",
+      "url": "https://www.heritage.gov.my/en/jwn-info/policy-and-legislation.html?download=46%3Anational-heritage-act-2005",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-religious-propagation-framework",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "Check the rules of the Malaysian state or Federal Territory before planning religious outreach to Muslims. Federal Constitution Article 11(4) allows state law, and federal law in Kuala Lumpur, Labuan and Putrajaya, to control or restrict propagation of religious doctrines to people professing Islam.",
+      "scope": "Constitutional authority for jurisdiction-specific restrictions on religious propagation in Malaysia.",
+      "type": "Official rule or guidance",
+      "authority": "Federal Constitution, published by Malaysia’s Judicial Appointments Commission",
+      "url": "https://jac.gov.my/sites/default/files/documents/Federal%20Constitution.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-lodging-guest-register",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Have your passport details available at paid accommodation check-in. Section 3 of the Registration of Guests Act 1965 requires covered operators to record qualifying guests aged 12 or over and collect passport particulars when the guest has no identity card. Covered guests must furnish the required details and sign the register.",
+      "scope": "Malaysia paid lodging premises and guests covered by Act 381 section 3; children under 12 and servants of the keeper are excluded from the cited requirement.",
+      "type": "Official rule or guidance",
+      "authority": "Malaysia federal statute (Act 381), reproduced by China’s Ministry of Commerce policy portal",
+      "url": "https://images.policy.mofcom.gov.cn/flaw/201411/12D92EB6-BF24-4E31-BFA6-492BA2D7B63E.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-amateur-radio-reciprocity",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "If you plan to transmit on amateur radio in Malaysia, check authorization with MCMC before operating. Where a reciprocal arrangement exists, eligible foreign operators may apply for a reciprocal assignment. Other cases are handled through special arrangements on application.",
+      "scope": "Operation of amateur radio stations in Malaysia by visiting foreign amateur radio operators.",
+      "type": "Official rule or guidance",
+      "authority": "Malaysian Communications and Multimedia Commission, Amateur Radio Service Guidelines, sections 41–44",
+      "url": "https://www.mcmc.gov.my/skmmgovmy/media/General/pdf2/Guidelines-for-Amateur-Radio-Service-in-Malaysia-3rd-Edition.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-resident-ringgit-payments",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Bank Negara Malaysia’s Foreign Exchange Policy Notice 4 allows a nonresident to make or receive ringgit payments in Malaysia for local expenses and qualifying purchases of goods or services. Confirm the merchant’s accepted payment method before relying on a particular card or digital wallet.",
+      "scope": "Domestic payments in ringgit by nonresidents in Malaysia, Notice 4 Part B paragraph 2.",
+      "type": "Official rule or guidance",
+      "authority": "Bank Negara Malaysia",
+      "url": "https://amlcft.bnm.gov.my/documents/20124/60360/Consolidated%2BForeign%2BExchange%2BPolicy%2BNotices_2%2BOct%2B2025_Update.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-my-heritage-item-export",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "Before taking an antique or possible heritage item out of Peninsular Malaysia or Labuan, ask the Department of National Heritage whether it is a statutory heritage item. Section 83 of the National Heritage Act requires an export licence for covered heritage items. If you depart from Sabah or Sarawak, check with the applicable museum authority for the local licence rules.",
+      "scope": "Export licensing for Malaysia statutory heritage items; core section 83 alert scoped to Peninsular Malaysia and Labuan.",
+      "type": "Official rule or guidance",
+      "authority": "Department of National Heritage, Malaysia",
+      "url": "https://www.heritage.gov.my/en/jwn-info/policy-and-legislation.html?download=46%3Anational-heritage-act-2005",
+      "checked": "2026-11-26"
+    }
+  ],
+  "AT": [
+    {
+      "id": "s2-20261126-at-military-area-access",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Do not enter or drive into a designated military restricted area without authorization. For qualifying reasons the competent military office may authorize access and impose conditions.",
+      "scope": "Designated Austrian military restricted areas under the Restricted Areas Act; ordinary public areas outside the designation are outside this rule.",
+      "type": "Official rule or guidance",
+      "authority": "Austrian federal legal information system, Sperrgebietsgesetz 2002 §§ 1–3",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001749",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-at-military-area-images",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Austria generally prohibits photographing or filming designated military restricted areas and military installations within them. Obtain consent from the competent military office before recording a restricted area if you need an exception.",
+      "scope": "Designated Austrian military restricted areas and installations in them, with statutory exceptions and authorization provisions.",
+      "type": "Official rule or guidance",
+      "authority": "Austrian federal legal information system, Sperrgebietsgesetz 2002 §4",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001749&Paragraf=4",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-at-public-order",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Avoid conduct that disturbs public order and is liable to cause justified offense. It may be an administrative offense unless legally justified, including by exercise of a constitutional right.",
+      "scope": "Federal public-order provision; the circumstances and lawful justification matter.",
+      "type": "Official rule or guidance",
+      "authority": "Austrian federal legal information system, Sicherheitspolizeigesetz §81",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005792&Paragraf=81",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-at-religious-denigration",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "Austrian criminal law covers certain public ridicule or denigration of a religion’s objects of veneration, doctrines, lawful customs or institutions when the circumstances are liable to cause justified offense.",
+      "scope": "Federal criminal law; applies to covered churches and religious societies established in Austria and requires the statutory public and contextual elements.",
+      "type": "Official rule or guidance",
+      "authority": "Austrian federal legal information system, Criminal Code §188",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=188",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-at-controlled-substance-possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Unauthorized possession of scheduled narcotic drugs is an offense in Austria. Check the specific substance and keep the documents required for any prescribed controlled medicine you carry during the visit.",
+      "scope": "In-country possession of substances covered by the Addictive Substances Act §27(1)(1); lawful medical use is governed separately.",
+      "type": "Official rule or guidance",
+      "authority": "Austrian federal legal information system, Suchtmittelgesetz §27",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011040&Paragraf=27",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-at-vienna-youth-hours",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "In Vienna, children under 14 may generally be in publicly accessible places and attend public events from 05:00 to 23:00. Ages 14–15 generally have until 01:00. Outside those hours an eligible accompanying person or a justified reason such as the trip home can provide an exception.",
+      "scope": "Vienna youth-protection rules for publicly accessible places and public events; traveler age and accompaniment matter. Other Austrian provinces have their own rules.",
+      "type": "Official rule or guidance",
+      "authority": "Vienna Youth Protection Act §8, Austrian federal legal information system",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000267&Paragraf=8",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-at-amateur-radio-credentials",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Before taking amateur radio equipment to Austria for use, check your license class. Visitors aged 14 or over holding a qualifying foreign CEPT or CEPT Novice license may set up and operate a station for three months from entry. These licenses do not authorize onboard aircraft operation.",
+      "scope": "Amateur radio station operation in Austria under Amateurfunkverordnung §3, with eligibility, class and aircraft limitations.",
+      "type": "Official rule or guidance",
+      "authority": "Austrian federal legal information system, Amateurfunkverordnung §3",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012930&Paragraf=3",
+      "checked": "2026-11-26"
+    }
+  ],
+  "PT": [
+    {
+      "id": "s2-20261126-pt-berlenga-access",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Register in advance on BerlengasPass before visiting the land area of Berlenga Island and pay any applicable access fee. Check registration and availability before booking your boat.",
+      "scope": "Land access to Berlenga Island, Berlengas Nature Reserve, Peniche. Maritime access and activity permissions are separate.",
+      "type": "Official rule or guidance",
+      "authority": "Diário da República, Portaria 30/2021; BerlengasPass operated by ICNF",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/30-2021-156974204",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pt-amateur-radio-credentials",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Before packing amateur transmitting equipment for use in Portugal, confirm that your credential is recognized and that your station can meet Portuguese operating conditions. The national law recognizes qualifying valid CEPT, ITU or reciprocal-country documents for operation under the applicable rules.",
+      "scope": "Amateur transmitting station operation in Portugal under Decree-Law 53/2009 as amended by Law 22/2026; this finding concerns preparation for lawful use.",
+      "type": "Official rule or guidance",
+      "authority": "Portuguese Parliament, Law 22/2026, republished Decree-Law 53/2009 Article 8(3)",
+      "url": "https://files.diariodarepublica.pt/1s/2026/05/10200/0000200033.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pt-naturist-beach-designation",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "For naturism at a Portuguese beach, look for a locally authorized, marked naturist area. National law provides for municipal authorization of all or part of a beach and requires signs at access points.",
+      "scope": "Authorized Portuguese sea, river and lake naturist beaches under Law 53/2010, Articles 8–10.",
+      "type": "Official rule or guidance",
+      "authority": "Diário da República, Law 53/2010",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/53-2010-306438",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pt-sintra-photography",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Parques de Sintra limits general visitor images to private purposes where allowed by signs and staff. No images are allowed inside Pena Palace; indoor flash, drones and tripods are also restricted under the general visitor policy.",
+      "scope": "Heritage sites managed by Parques de Sintra. Published venue policy, including written permission for exceptional tripod use and a separate authorization procedure for public or commercial images.",
+      "type": "Venue rules",
+      "authority": "Parques de Sintra, Image Capture Regulations",
+      "url": "https://www.parquesdesintra.pt/en/for-professionals/image-capture-and-request/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pt-lisbon-street-alcohol-sales",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "In Lisbon, covered vendors cannot sell alcohol for street consumption from 23:00 to 08:00 Sunday through Thursday, or midnight to 08:00 Friday, Saturday and holiday eves. Licensed terraces may serve seated customers during permitted hours.",
+      "scope": "Municipality of Lisbon, in force from 15 February 2026. The measure regulates vendor sales for outside consumption during specified hours.",
+      "type": "Official rule or guidance",
+      "authority": "Lisbon City Council, citywide street-consumption alcohol sales schedule",
+      "url": "https://www.lisboa.pt/horario-venda-bebidas-consumo-exterior",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pt-religious-insult-public-peace",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "Portugal’s Criminal Code covers publicly insulting or mocking someone because of their religious beliefs or role when the conduct is liable to disturb public peace.",
+      "scope": "National Criminal Code Article 251(1). Both the religious basis and public-peace condition matter.",
+      "type": "Official rule or guidance",
+      "authority": "Portuguese Criminal Code, Article 251(1), Diário da República",
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-34437675-49707775",
+      "checked": "2026-11-26"
+    }
+  ],
+  "PL": [
+    {
+      "id": "s2-20261126-pl-pmr446",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Before packing a walkie-talkie for Poland, check that it is a compliant PMR446 device if you plan to transmit without a radio permit. The regulator identifies technical conditions including maximum radiated power and a factory-integrated antenna.",
+      "scope": "Poland; intended operation of handheld radios while visiting.",
+      "type": "Official rule or guidance",
+      "authority": "Office of Electronic Communications (UKE)",
+      "url": "https://www.uke.gov.pl/blog/pozwolenie-radiowe-tanio-sprzedam%2C13.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pl-distribution-material",
+      "phase": "before_go",
+      "title": "Restricted material brought in for distribution",
+      "text": "Before bringing material into Poland for distribution, check whether it is covered by Criminal Code Article 256. The law prohibits specified acts including importing or transporting covered propaganda or hate-incitement material for distribution, with exceptions for artistic, educational, collecting and scientific activities.",
+      "scope": "Poland; conduct involving an intent to distribute specified material under Article 256(2).",
+      "type": "Official rule or guidance",
+      "authority": "Polish Criminal Code, Article 256(1)–(3)",
+      "url": "https://eli.gov.pl/api/acts/DU/2026/1342/text/U/D20261342Lj.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pl-tatras-ticket",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Check entry fees and buy a ticket before entering Poland's Tatra National Park unless eligible for an exemption. The park’s 2026 instructions list park-gate ticket points and statutory fee exemptions.",
+      "scope": "Tatra National Park on the Polish side only.",
+      "type": "Official rule or guidance",
+      "authority": "Tatra National Park visitor ticket instructions for 2026",
+      "url": "https://tpn.gov.pl/uploads/files/69df711394080223191544.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pl-wawel-cathedral",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "When sightseeing in Wawel Cathedral, cover shoulders and back, silence your phone and keep quiet. The Cathedral prohibits sightseeing during religious services.",
+      "scope": "Wawel Cathedral, Kraków; venue conditions for sightseeing.",
+      "type": "Venue rules",
+      "authority": "Wawel Cathedral parish visitor regulations",
+      "url": "https://www.katedra-wawelska.pl/wp-content/uploads/2026/04/16.04.2026_regulamin-polski_A4.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pl-religious-rites",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "Polish criminal law covers malicious disruption of specified public religious rites and acts that offend others’ religious feelings by publicly insulting a religious object or a place designated for public rites.",
+      "scope": "Poland; conduct defined in Criminal Code Articles 195–196.",
+      "type": "Official rule or guidance",
+      "authority": "Polish Criminal Code, Articles 195–196",
+      "url": "https://eli.gov.pl/api/acts/DU/2026/1342/text/U/D20261342Lj.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pl-controlled-possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Unauthorized possession of narcotic drugs or psychotropic substances is a criminal offense in Poland. If a prescribed medicine is controlled, check the separate personal medical-use documentation requirements with Poland’s pharmaceutical inspectorate.",
+      "scope": "Poland; possession under the Act on Counteracting Drug Addiction.",
+      "type": "Official rule or guidance",
+      "authority": "Polish Act on Counteracting Drug Addiction, Articles 62–62a",
+      "url": "https://eli.gov.pl/api/acts/DU/2023/1939/text/U/D20231939Lj.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pl-belarus-buffer",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "Stay outside the restricted portions of Poland's border zone with Belarus unless an exception or authorization applies. The existing order runs through 29 November 2026. The successor order takes effect on 30 November 2026 and imposes a 90-day prohibition in areas specified in its text. Check your itinerary with the Polish Border Guard.",
+      "scope": "Specified parts of the Poland–Belarus border zone only; time-limited security restriction.",
+      "type": "Official rule or guidance",
+      "authority": "Polish Ministry of Interior and Administration, Journal of Laws 2026 item 1550, sections 1–2",
+      "url": "https://dziennikustaw.gov.pl/D2026000155001.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "NL": [
+    {
+      "id": "s2-20261126-nl-pmr446",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Before packing a two-way radio for the European Netherlands, check whether you can use it on the license-exempt PMR446 frequencies for handheld radios or whether your intended operation requires a permit.",
+      "scope": "European Netherlands; intended handheld radio operation.",
+      "type": "Official rule or guidance",
+      "authority": "Dutch Authority for Digital Infrastructure (RDI)",
+      "url": "https://www.rdi.nl/onderwerpen/vergunningen-en-registraties/portofoons-en-mobilofoons",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nl-antique-books",
+      "phase": "before_go",
+      "title": "Declaring qualifying old books and documents",
+      "text": "If arriving in the Netherlands from outside the EU with an old book or document that qualifies as a cultural good, declare it to Dutch Customs. Dutch Customs lists old books and documents as examples and says that in some cases an import licence or importer declaration is required.",
+      "scope": "European Netherlands; travelers bringing qualifying cultural goods from outside the European Union.",
+      "type": "Official rule or guidance",
+      "authority": "Dutch Customs",
+      "url": "https://www.douane.nl/en/themes/travel-and-holiday/restricted-prohibited-to-import-or-export/culture-goods-arts-antiques/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nl-oostvaardersplassen",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Plan a guided excursion if you want to enter the core of Oostvaardersplassen. The site manager restricts core access to excursions outside winter. Parts of some surrounding areas and trails also close in winter and sometimes into spring.",
+      "scope": "Oostvaardersplassen, Flevoland; conditions differ between the core and surrounding areas.",
+      "type": "Official rule or guidance",
+      "authority": "Staatsbosbeheer, national public land manager",
+      "url": "https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/oostvaardersplassen/toegankelijkheid",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nl-identifiable-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Before posting trip photos or video of identifiable people publicly, check whether you have a lawful basis. The Dutch privacy regulator says purely personal or household use can cover keeping images private or sharing in a very limited circle. Consent is usually the basis for ordinary publication on social media.",
+      "scope": "European Netherlands; handling of images containing identifiable people.",
+      "type": "Official rule or guidance",
+      "authority": "Dutch Data Protection Authority",
+      "url": "https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nl-group-insult",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "Dutch criminal law prohibits intentionally insulting a group of people in public on the basis of religion or belief, including through speech, writing or images. The Public Prosecution Service treats the legal assessment as context-specific.",
+      "scope": "European Netherlands; public group insult under Dutch Criminal Code Article 137c.",
+      "type": "Official rule or guidance",
+      "authority": "Dutch Public Prosecution Service",
+      "url": "https://www.prosecutionservice.nl/latest/news/2023/10/24/public-prosecution-service-prosecute-man-for-group-insult",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nl-drug-possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Possessing illicit drugs is an offense in the Netherlands, including recreational cannabis. The Dutch government describes a limited non-prosecution policy for adults with small personal quantities of cannabis. Police can still seize it. Check controlled prescriptions under the separate medicine documentation guidance.",
+      "scope": "European Netherlands; in-country possession and prosecution policy.",
+      "type": "Official rule or guidance",
+      "authority": "Government of the Netherlands",
+      "url": "https://www.government.nl/themes/family-health-and-care/drugs/am-i-committing-a-criminal-offence-if-i-possess-produce-or-deal-in-drugs",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nl-amsterdam-exclusion",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "Amsterdam police can impose individual bans on remaining in designated nuisance areas. If an exclusion order is issued to you, follow its area and duration. Ask the city for temporary access if you have a qualifying need such as medical care or work.",
+      "scope": "Amsterdam only; individual stay-away notices in designated areas.",
+      "type": "Official rule or guidance",
+      "authority": "City of Amsterdam",
+      "url": "https://www.amsterdam.nl/leefomgeving/overlastgebieden/",
+      "checked": "2026-11-26"
+    }
   ]
 };

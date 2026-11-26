@@ -4,6 +4,12 @@ TravelPrep is an offline-capable travel reference and trip-planning app for 196 
 
 Travel information can change. Verify current entry, health, safety, transportation, and other time-sensitive details with official sources before travel. A profile marked complete means it meets this project's data-coverage checks; it is not a guarantee that every fact or external link is current.
 
+## What's new in v1.2.5
+
+Open **Travel restrictions** for Austria, Canada, Malaysia, the Netherlands, Poland, Portugal and Saudi Arabia. This update adds 60 sourced notes across those profiles, including baggage and customs, protected sites, medications, local conduct and movement.
+
+See the [release notes](docs/Release-Notes-v1.2.5.md).
+
 ## What's new in v1.2.4
 
 The **Pre-Arrival & Planning** section links directly to the selected destination in VisaBrowser for passport and visa checks.

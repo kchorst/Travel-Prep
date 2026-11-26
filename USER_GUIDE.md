@@ -1,4 +1,4 @@
-# TravelPrep v1.2.4 User Guide
+# TravelPrep v1.2.5 User Guide
 
 TravelPrep is a travel-planning reference, not an official source of travel authorization or live conditions. Check official government and provider sources for current requirements and conditions before departure.
 
