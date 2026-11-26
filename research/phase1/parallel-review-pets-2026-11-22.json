@@ -1,0 +1,209 @@
+{
+  "checkedAt": "2026-11-22",
+  "status": "research_only",
+  "groups": {
+    "EU": "AT BE BG CY CZ DE DK EE ES FI FR GR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK",
+    "YES": "BG CZ EE FI HR LT LU RO SI SK",
+    "NO": "AT BE CY DE DK ES FR GR HU IE IT LV MT NL PL PT SE"
+  },
+  "checks": [
+    [
+      "eu-pet-external-origin-exemptions",
+      "EU",
+      "before_go",
+      "PETS",
+      "A dog, cat or ferret entering the EU noncommercially from a third country normally uses a designated travellers’ entry point for documentary and identity checks. Regulation 2026/131 Article 15 exempts Annex I origins under Regulation 2026/636 and permits qualifying military, law-enforcement or search-and-rescue dogs to use a permit-based alternative. The Annex II titer waiver does not itself waive the designated-entry-point rule.",
+      "EU Member States; noncommercial entry of a dog, cat or ferret from a third country",
+      "European Commission; EU Official Journal",
+      "https://eur-lex.europa.eu/eli/reg_del/2026/131/oj/eng",
+      "Origin lists are in https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A02026R0636-20260619. Confirm current local ports and national conditions. Verify separately for territories outside EU veterinary jurisdiction."
+    ],
+    [
+      "eu-pet-bird-border-scope",
+      "EU",
+      "before_go",
+      "PETS",
+      "EU rules provide a separate noncommercial regime for eligible pet birds arriving from third countries: a limit of five, identification and an animal health certificate, with Article 24 designated entry points and qualifying Annex III exceptions. Commission guidance distinguishes pet birds from poultry and other excluded species.",
+      "EU Member States; eligible noncommercial pet birds from third countries",
+      "European Commission; EU Official Journal",
+      "https://eur-lex.europa.eu/eli/reg_del/2026/131/oj/eng",
+      "Confirm eligible species, relevant origin and route, applicable certificate and measures, and the current bird-authorized port. A dog/cat/ferret entry point cannot be presumed to accept birds."
+    ],
+    [
+      "eu-pet-third-country-certificate-validity",
+      "EU",
+      "before_go",
+      "PETS",
+      "The Commission explains that the EU health certificate for a noncommercial dog, cat or ferret is ordinarily valid for entry for 10 days after issuance, extended by time at sea for sea travel. After entry checks, further covered EU travel is allowed for up to six months or until the rabies vaccination expires, whichever comes first.",
+      "EU Member States; current model where an animal health certificate is required",
+      "European Commission",
+      "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/faqs_en",
+      "Confirm current certificate model, issuing authority, proof of noncommercial travel and acceptance of any transitional legacy document. Check national measures for other pet species."
+    ],
+    [
+      "eu-pet-young-animals-accept",
+      "YES",
+      "before_go",
+      "PETS",
+      "The Commission lists this country as accepting qualifying young dogs, cats and ferrets under the Article 9 noncommercial intra-EU rabies vaccination derogation. It requires either specified owner documentation or qualifying travel with the vaccinated dam, as applicable.",
+      "Noncommercial intra-EU movement; unvaccinated dogs, cats or ferrets under 12 weeks, or 12 to 16 weeks old without a valid primary vaccination period",
+      "European Commission",
+      "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/young-animals_en",
+      "Do not apply this exception to third-country arrivals or assume eligibility for commercial movements. Confirm transit state acceptance, identity documents and any dog tapeworm treatment."
+    ],
+    [
+      "eu-pet-young-animals-refuse",
+      "NO",
+      "before_go",
+      "PETS",
+      "The Commission lists this country as declining the Article 9 noncommercial intra-EU rabies vaccination derogation for young dogs, cats and ferrets.",
+      "Noncommercial intra-EU movement; unvaccinated dogs, cats or ferrets under 12 weeks, or 12 to 16 weeks old without a valid primary vaccination period",
+      "European Commission",
+      "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/young-animals_en",
+      "This is a domestic election for the specified derogation. Consult the competent authority if the animal age, route or vaccination status is unclear."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "CY",
+      "before_go",
+      "PETS",
+      "Cyprus Veterinary Services requires designated points of entry for pets and instructs a traveller arriving with a pet from a third country to notify the district veterinary office at the entry point.",
+      "Covered noncommercial pet travel and local procedures for CY",
+      "Cyprus Veterinary Services",
+      "https://www.moa.gov.cy/moa/vs/vs.nsf/vs07_en/vs07_en?OpenDocument=&print=",
+      "Verify exact point and advance timing with the authority. Directory PDF dates to 2013 and invokes an obsolete regulation."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "DE",
+      "before_go",
+      "PETS",
+      "The German list expressly implementing 2026/131 identifies, among other points, Stuttgart Airport and publishes state or local veterinary authority contacts and opening conditions.",
+      "Covered noncommercial pet travel and local procedures for DE",
+      "German designation list hosted by European Commission",
+      "https://food.ec.europa.eu/document/download/ba0c08d3-5287-422c-90f0-541ee88d3d55_de",
+      "Check the full route-specific list and arrange any required after-hours controls. Verify other species and country-specific restrictions separately."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "DK",
+      "before_go",
+      "PETS",
+      "The Danish competent authority lists Copenhagen, Billund and Aalborg airports as designated travellers’ points for its covered direct non-EU routes and describes documentary and identity inspection.",
+      "Covered noncommercial pet travel and local procedures for DK",
+      "Danish Veterinary and Food Authority",
+      "https://en.foedevarestyrelsen.dk/animals/travelling-with-pet-animals/travellers-point-of-entry-in-denmark",
+      "Apply the EU origin-specific exceptions to determine whether a designated point is required. Verify other species and special-status territories separately."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "ES",
+      "before_go",
+      "PETS",
+      "The ministry publishes a list under 2026/131, classified by mode and authorized species; Madrid-Barajas appears in the airport list.",
+      "Covered noncommercial pet travel and local procedures for ES",
+      "Spain Ministry of Agriculture, Fisheries and Food",
+      "https://www.mapa.gob.es/es/dam/jcr%3Ae7799e7e-e21d-458e-b797-eea6d1e397e1/listapuntosentrada02082024.pdf",
+      "Choose the listed point for the animal and mode, then check its hours, advance notice, EU-origin exceptions and any territorial exclusions."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "FI",
+      "before_go",
+      "PETS",
+      "Finland’s veterinary authority confirms a noncommercial intra-EU pathway for qualifying young dogs, cats and ferrets. It describes passport and declaration or dam requirements, and specifies veterinary tapeworm treatment for affected dog puppies.",
+      "Covered noncommercial pet travel and local procedures for FI",
+      "Finnish Food Authority",
+      "https://www.ruokavirasto.fi/en/themes/import-and-export/eu-countries-norway-and-switzerland/animals/dogs-cats-and-ferrets/dog-and-ferret-puppies-and-kittens-eu-countries/",
+      "Verify the routes eligible for the direct-origin treatment exception. The Commission-linked external entry list invokes 998/2003, so obtain an updated noncommercial designated-point list for the traveller’s route."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "FR",
+      "before_go",
+      "PETS",
+      "The French government note updated 22 April 2026 describes customs control for covered noncommercial arrivals from third countries at locations open to international travellers, under the new EU framework.",
+      "Covered noncommercial pet travel and local procedures for FR",
+      "French Agriculture Ministry and French Customs",
+      "https://www.douane.gouv.fr/sites/default/files/2026-05/15/Note%20DGAL%20animaux%20de%20compagnie%20MAJ%2022%2004%2026.pdf",
+      "Consult the competent office for the exact location, species and territory. The Commission-linked 2021 source is a general Schengen crossing list, so do not substitute it for the current French pet note."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "HR",
+      "before_go",
+      "PETS",
+      "Croatia’s government portal distinguishes listed entry points for pets other than birds from a separate bird list. It includes Zagreb Airport in the published non-bird list.",
+      "Covered noncommercial pet travel and local procedures for HR",
+      "Government of Croatia",
+      "https://www.gov.hr/en/movement-of-pets/1996",
+      "Check current authority confirmation of exact route and species; the Commission’s linked list returned an error and older Croatian guidance still cites previous EU legislation."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "IE",
+      "before_go",
+      "PETS",
+      "Ireland’s national pet portal publishes six points for covered arrival checks: Cork Airport, Dublin Airport, Dublin Port, Shannon Airport, Port of Cork at Ringaskiddy and Rosslare Europort.",
+      "Covered noncommercial pet travel and local procedures for IE",
+      "Ireland Department of Agriculture, Food and the Marine",
+      "https://www.pettravel.gov.ie/",
+      "Use the portal to check whether the individual route requires controls or pre-notification and whether the chosen point accepts the species and mode of travel."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "IT",
+      "before_go",
+      "PETS",
+      "Italy’s September 2026 list explicitly addresses Articles 15 and 24 of 2026/131 and includes airport and port entries. Listed airports include Milan Malpensa and Bergamo Orio al Serio.",
+      "Covered noncommercial pet travel and local procedures for IT",
+      "Italian Ministry of Health",
+      "https://food.ec.europa.eu/document/download/ba2f6ff3-8e94-4f9f-a357-b53316592166_en?filename=pm_non-com_entry_ita.pdf",
+      "Use the list to identify the actual port, species and route. Verify the applicable local procedure and other pet-species rules."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "MT",
+      "before_go",
+      "PETS",
+      "Malta publishes a pet arrival notification requirement on a national page updated 17 June 2026, with refusal of entry identified for failure to comply.",
+      "Covered noncommercial pet travel and local procedures for MT",
+      "Government of Malta Veterinary Services",
+      "https://www.servizz.gov.mt/en/Services/web-02315",
+      "Confirm exact route and species requirements, including entry point from the competent authority. The Commission-linked port PDF dates to 2010 and invokes 998/2003."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "PT",
+      "before_go",
+      "PETS",
+      "Current Portuguese guidance for covered non-EU travel with dogs, cats and ferrets calls for an approved travellers’ point of entry and written notice at least 48 hours before arrival.",
+      "Covered noncommercial pet travel and local procedures for PT",
+      "Portugal Directorate-General for Food and Veterinary Affairs",
+      "https://www.dgav.pt/wp-content/uploads/2026/11/caes_gatos_furoes.pdf",
+      "Check the designated point, precise notice instructions and territorial and origin exceptions. The Commission-linked PDF still references 576/2013."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "SE",
+      "before_go",
+      "PETS",
+      "The Swedish authority’s covered non-EU route guidance identifies Stockholm Arlanda and Gothenburg Landvetter for direct arrivals and distinguishes checking at the first EU entry point when routing through another Member State.",
+      "Covered noncommercial pet travel and local procedures for SE",
+      "Swedish Board of Agriculture",
+      "https://jordbruksverket.se/languages/english/swedish-board-of-agriculture/animals/pets---trade-and-travel/movement-of-dogs-cats-and-ferrets-to-sweden/movement-of-dogs-cats-and-ferrets-from-countries-outside-the-eu-where-the-rabies-situation-is-documented-and-monitored",
+      "Verify whether the route qualifies for another arrangement and check species, customs declaration, airport procedures and any applicable current exemptions."
+    ],
+    [
+      "eu-pet-national-check-2026",
+      "SI",
+      "before_go",
+      "PETS",
+      "Slovenia’s current Part A entry-point list under 2026/131 contains Koper, Brnik, Maribor and Portorož. The authority publishes a separate list for covered pet birds.",
+      "Covered noncommercial pet travel and local procedures for SI",
+      "Slovenian Administration for Food Safety, Veterinary Sector and Plant Protection",
+      "https://www.gov.si/assets/organi-v-sestavi/UVHVVR/Mednarodni/Traces/List-of-Travellers-Points-of-Entry-in-the-Republic-of-Slovenia-for-non-commercial-movements-of-pet-animals.pdf",
+      "Check the corresponding list for species, mode, opening conditions and emergencies. Confirm separate national requirements for other animal categories."
+    ]
+  ]
+}

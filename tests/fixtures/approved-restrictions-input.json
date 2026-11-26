@@ -1,0 +1,87 @@
+{
+  "publicationStatus": "approved",
+  "approvalId": "SYNTHETIC-CROSS-APP-TEST",
+  "approvedAt": "2026-11-22",
+  "records": [
+    {
+      "id": "synthetic-territory-customs",
+      "destination": "TEST-TERRITORY",
+      "phase": "before_go",
+      "category": "CUSTOMS",
+      "title": "Synthetic territory customs example",
+      "rule": "Example for interoperability testing only.",
+      "status": "conditional",
+      "jurisdiction": "Synthetic territory",
+      "scope": "Synthetic border scope",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/customs"
+        }
+      ],
+      "relevance": [
+        "customs"
+      ],
+      "visabrowser_alert": true,
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
+    },
+    {
+      "id": "synthetic-local-driving",
+      "destination": "TEST-MAINLAND",
+      "phase": "during_visit",
+      "category": "DRIVING",
+      "title": "Synthetic driving example",
+      "rule": "Example for interoperability testing only.",
+      "status": "verified",
+      "jurisdiction": "Synthetic mainland",
+      "scope": "Synthetic local rule",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/driving"
+        }
+      ],
+      "relevance": [
+        "driving"
+      ],
+      "visabrowser_alert": false,
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
+    },
+    {
+      "id": "synthetic-territory-scoped",
+      "destination": "TEST-TERRITORY",
+      "phase": "before_go",
+      "category": "CUSTOMS",
+      "title": "Synthetic territory customs example",
+      "rule": "Example for interoperability testing only.",
+      "status": "conditional",
+      "jurisdiction": "Synthetic territory",
+      "scope": "Synthetic border scope",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/customs"
+        }
+      ],
+      "relevance": [
+        "customs"
+      ],
+      "visabrowser_alert": true,
+      "publicationStatus": "approved",
+      "applicability": {
+        "passportCodes": [
+          "GB"
+        ],
+        "arrivalModes": [
+          "air"
+        ]
+      },
+      "noticeKind": "legal_requirement"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "DRAFT-NOT-FOR-PUBLICATION",
+  "destinations": [
+    "RW"
+  ],
+  "records": [
+    {
+      "id": "EXAMPLE-RW-PLASTIC-001",
+      "destination": "RW",
+      "phase": "before_go",
+      "category": "customs_prohibited_items",
+      "title": "Illustrative plastic bag import restriction",
+      "rule": "Example only: this is not vetted published guidance.",
+      "status": "unverified",
+      "jurisdiction": "Rwanda",
+      "scope": "country",
+      "checkedAt": null,
+      "sources": [],
+      "relevance": [],
+      "visabrowser_alert": false
+    }
+  ]
+}

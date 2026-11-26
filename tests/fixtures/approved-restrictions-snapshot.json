@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "publicationStatus": "approved",
+  "audience": "visa-browser",
+  "approvalId": "SYNTHETIC-CROSS-APP-TEST",
+  "approvedAt": "2026-11-22",
+  "destinations": [
+    "TEST-MAINLAND",
+    "TEST-TERRITORY"
+  ],
+  "records": [
+    {
+      "id": "synthetic-territory-customs",
+      "destination": "TEST-TERRITORY",
+      "phase": "before_go",
+      "category": "CUSTOMS",
+      "title": "Synthetic territory customs example",
+      "rule": "Example for interoperability testing only.",
+      "status": "conditional",
+      "jurisdiction": "Synthetic territory",
+      "scope": "Synthetic border scope",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/customs"
+        }
+      ],
+      "relevance": [
+        "customs"
+      ],
+      "visabrowser_alert": true,
+      "publicationStatus": "approved",
+      "noticeKind": "legal_requirement"
+    },
+    {
+      "id": "synthetic-territory-scoped",
+      "destination": "TEST-TERRITORY",
+      "phase": "before_go",
+      "category": "CUSTOMS",
+      "title": "Synthetic territory customs example",
+      "rule": "Example for interoperability testing only.",
+      "status": "conditional",
+      "jurisdiction": "Synthetic territory",
+      "scope": "Synthetic border scope",
+      "checkedAt": "2026-11-22",
+      "sources": [
+        {
+          "authority": "Synthetic authority",
+          "url": "https://example.invalid/customs"
+        }
+      ],
+      "relevance": [
+        "customs"
+      ],
+      "visabrowser_alert": true,
+      "publicationStatus": "approved",
+      "applicability": {
+        "passportCodes": [
+          "GB"
+        ],
+        "arrivalModes": [
+          "air"
+        ]
+      },
+      "noticeKind": "legal_requirement"
+    }
+  ],
+  "datasetVersion": "sha256-b46625593b75da5e877bea56b01cdc4b55a93981f793e4941de053b2f40059a3",
+  "integrity": {
+    "algorithm": "SHA-256",
+    "hex": "b46625593b75da5e877bea56b01cdc4b55a93981f793e4941de053b2f40059a3"
+  }
+}

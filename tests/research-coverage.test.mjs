@@ -1,0 +1,86 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {parseCsv,auditResearchCoverage} from '../scripts/audit-research-coverage.mjs';
+const manifest={destinations:['RW','X-GAL'],categories:[{phase:'before_go',code:'PLASTICS'},{phase:'during_visit',code:'DRONE_OPERATION'}]};
+const make=(id,phase,cat,status='NOT_YET_VERIFIED')=>({
+destination_id:id,phase,category_code:cat,research_status:status,
+source_date_checked:'',scope_note:'Do not infer unrestricted travel',source_url:''
+});
+test('parser handles quoted commas, quotes, and CRLF',()=>{
+  assert.deepEqual(parseCsv('a,b\r\n"x,y","z""q"\r\n'),[{a:'x,y',b:'z"q'}]);
+  assert.deepEqual(parseCsv('\uFEFF"a",b\n"line 1\nline 2",""'), [{ a: 'line 1\nline 2', b: '' }]);
+});
+test('parser rejects malformed quoting and missing column names', () => {
+  assert.throws(() => parseCsv('a\n"x"tail'), /after closing CSV quote/);
+  assert.throws(() => parseCsv('a\nx"y'), /unquoted CSV field/);
+  assert.throws(() => parseCsv('a,\nx,y'), /Blank CSV header/);
+});
+test('empty and malformed manifests cannot certify completion', () => {
+  assert.equal(auditResearchCoverage([], { destinations: [], categories: [] }).complete, false);
+  const malformed = { destinations: ['RW', '  '], categories: [{ phase: 'before_go', code: '|' }] };
+  const result = auditResearchCoverage([], malformed);
+  assert.equal(result.complete, false);
+  assert.ok(result.errors.includes('Invalid destination in manifest'));
+  assert.ok(result.errors.includes('Invalid phase/category in manifest'));
+});
+test('the complete inventory is mandatory even for special territories',()=>{
+ const r=auditResearchCoverage([make('RW','before_go','PLASTICS')],manifest);
+ assert.equal(r.expected,4);assert.equal(r.pending,4);assert.equal(r.complete,false);
+ assert.ok(r.errors.some(e=>e.includes('X-GAL')));
+});
+test('partial evidence never marks a cell reviewed',()=>{
+ const rows=[make('RW','before_go','PLASTICS','PARTIAL_EVIDENCE_RECORDED')];
+ assert.equal(auditResearchCoverage(rows,manifest).reviewed,0);
+});
+test('unverified and reviewed-with-gaps are distinct',()=>{
+ const rows=[];
+ for(const dest of manifest.destinations) for(const cat of manifest.categories)
+   rows.push(make(dest,cat.phase,cat.code,'INCONCLUSIVE_REVIEWED'));
+ for(const r of rows){r.scope_note='Reviewed official portals; jurisdiction-specific documents not found';r.source_date_checked='2026-11-22';r.source_url='https://authority.gov/example';}
+ const summary=auditResearchCoverage(rows,manifest);
+ assert.equal(summary.complete,true);assert.equal(summary.reviewed,4);
+});
+test('verified claims require official URL and checked date',()=>{
+ const rows=[make('RW','before_go','PLASTICS','VERIFIED_RESTRICTION')];
+ const out=auditResearchCoverage(rows,manifest);
+ assert.ok(out.errors.some(e=>e.includes('authority HTTPS')));
+ assert.ok(out.errors.some(e=>e.includes('date')));
+});
+test('duplicates and unknown research categories block signoff',()=>{
+ const rows=[make('RW','before_go','BAD'),make('RW','before_go','BAD')];
+ const summary=auditResearchCoverage(rows,manifest);
+ assert.ok(summary.errors.some(e=>e.includes('Duplicate cell')));
+ assert.ok(summary.errors.some(e=>e.includes('unknown category')));
+});
+
+test('a reviewed but inconclusive cell needs provenance, not just a confident note',()=>{
+  const rows=[make('RW','before_go','PLASTICS','INCONCLUSIVE_REVIEWED')];
+  rows[0].source_date_checked='2026-11-22';
+  rows[0].scope_note='No official restriction text surfaced after search';
+  assert.ok(auditResearchCoverage(rows,manifest).errors.some(x=>x.includes('authority HTTPS')));
+});
+
+test('an impossible calendar date prevents research signoff', () => {
+  const rows = [make('RW', 'before_go', 'PLASTICS', 'VERIFIED_RESTRICTION')];
+  rows[0].source_date_checked = '2026-02-30';
+  rows[0].source_url = 'https://authority.gov/example';
+  assert.ok(auditResearchCoverage(rows, manifest).errors.some(error => error.includes('valid check date')));
+});
+
+test('scoped conditional and conflicting research have distinct reviewed states', () => {
+  const rows = [
+    make('RW', 'before_go', 'PLASTICS', 'VERIFIED_CONDITIONAL_RESTRICTION'),
+    make('X-GAL', 'before_go', 'PLASTICS', 'CONFLICTING_REVIEWED'),
+  ];
+  for (const row of rows) {
+    row.source_date_checked = '2026-11-22';
+    row.source_url = 'https://authority.gov/example';
+    row.scope_note = 'Scoped investigation with remaining exceptions';
+  }
+  const result = auditResearchCoverage(rows, manifest);
+  assert.equal(result.reviewed, 2);
+  assert.equal(result.byStatus.VERIFIED_CONDITIONAL_RESTRICTION, 1);
+  assert.equal(result.byStatus.CONFLICTING_REVIEWED, 1);
+  assert.equal(result.pending, 2);
+  assert.deepEqual(result.errors.filter(error => !error.startsWith('Missing cell')), []);
+});

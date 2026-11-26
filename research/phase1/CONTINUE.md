@@ -1,0 +1,37 @@
+# Worldwide restrictions research checkpoint
+
+Phase 1 is in progress. The cumulative register is research-only. The 275-destination, 35-category matrix is the agreed working baseline. The [destination inventory review](destination-scope-review-2026-11-22.md) records special jurisdictions and overlapping identifiers still requiring a scope decision.
+
+## Files to resume from
+
+- [Register archive](register.zip) contains the complete matrix, the findings keyed by `finding_id`, and the reconciled destination inventory. The archive also contains a per-category progress table.
+- [Coverage checkpoint](coverage-checkpoint-2026-11-22.json) records audited totals and baseline provenance.
+- Each batch JSON records the authority, URL, check date, jurisdiction, and open questions for the claims checked in that batch. The historical batches came from Travel-Prep's Phase 1 register branch at `66a4ae448f6527e82664193f27a88d8542587e40`. The corresponding Library v12 files contained all 1,134 prior finding IDs, with one previously missing date populated.
+
+Use the latest archive as input for `reconcile-register.py`. Pass the matrix CSV, findings CSV, manifest path, output directory, and the new batch JSON files. Preserve earlier evidence and source gaps. The script records partial evidence and leaves cells open. The `finding_id` column in the matrix can contain several linked findings separated by a vertical bar.
+
+## Remaining work
+
+1. Queue all `NOT_YET_VERIFIED` cells for a first authority check. Start with underserved categories in frequently traveled destinations, then work through every remaining destination and any separately scoped jurisdictions.
+2. Review all `PARTIAL_EVIDENCE_RECORDED` cells against the category's subtopics. An EU directive about market supply leaves passenger import unresolved. A regional protected-site framework leaves site-specific travel restrictions unresolved. Preserve verified rules, conditional rules, and scoped exceptions as individual findings.
+3. Prioritize the conflicting authority records and four legacy records with no check date. Retain the conflict until the applicable route, legal text and effective date resolve it. Record regulator/operator/airport scope for power banks. Review drone import independently of drone operation.
+4. Document attempts that reach an impasse with the authority checked, source, date, and specific unresolved subject. Assign category-wide non-applicability only where authoritative evidence supports it for the full scoped cell.
+5. Reconcile the pending geographic entries in the inventory review and run a final audit of cell coverage, duplicate jurisdictions, source sufficiency, time-sensitive rules, and contradictory evidence before writing the completion report.
+
+Only a final review of the full cell can close it. Research evidence here requires separate approval before it can enter either application's dataset.
+
+## Batch research by source collection
+
+Start from the latest matrix and choose related open checks across a set of destinations. Discover an official collection that actually covers those cells. Retrieve its relevant pages together, then review the passages and record the applicable jurisdiction, source type, dates and limitations claim by claim. Compare against the register before appending. The FCDO pilot screened 32 destination documents from the GOV.UK Content API and added initial evidence to 56 cells across 24 destinations. See [the pilot records](fcdo-priority-intake-2026-11-22.json).
+
+For FCDO intake, use the [official destination index](https://www.gov.uk/foreign-travel-advice) to match the destination and page slug. Read `https://www.gov.uk/api/content/foreign-travel-advice/<slug>`; the named chapters are in `details.parts`. Preserve the human-readable chapter URL for each finding. Combined pages require explicit territorial scoping. The FCDO records remain official consular advice or secondary evidence of a local rule. Follow links and confirm legal claims against the destination authority as a separate pass. Page publication dates and research check dates describe different events.
+
+Count first-evidence cells, existing cells expanded, and full reviews independently. An advisory or shared source can accelerate first evidence, while full review still depends on the category scope and adequate verification. Save the archive and checkpoint on the research draft branch, then update the two cumulative CSVs using their current versions.
+
+## Parallel verification
+
+Partition checks by the exact destination, phase and category. Give each worker a disjoint assignment of 25–50 cells and ask for structured findings, a disposition for each cell, and elapsed review time from start to handoff. A single reconciler merges the findings, checks every proposed full review against its evidence, and writes the archive and the two cumulative files. Reusable shared rules stay in one grouped source record with an explicit applicability list. Record local exceptions independently.
+
+Use [the pilot outcomes](parallel-review-outcomes-2026-11-22.csv) to resume unfinished cells. Use [the deferred queue](parallel-review-deferred-2026-11-22.csv) for outdated, inaccessible, conflicting or materially incomplete sources that require follow-up. A deferred cell can still contribute verified evidence within the confirmed scope. Review it separately from the active routine batch.
+
+Use [the measured pilot](parallel-review-metrics-2026-11-22.json) to compare completed cells per hour across cohorts. Sum worker start-to-handoff time when research runs in parallel. Track reconciliation separately. A rate from one subject mix is not a completion forecast for all 35 categories.

@@ -1,0 +1,56 @@
+{
+  "assigned": 145,
+  "workers": [
+    {
+      "worker": "medicine-a",
+      "assigned": 40,
+      "active_seconds": 237,
+      "active_started_at": "2026-11-22T21:54:15Z",
+      "active_ended_at": "2026-11-22T21:58:12Z",
+      "fully_reviewed": 4,
+      "partial": 18,
+      "deferred": 18,
+      "untouched": 0,
+      "fully_reviewed_per_worker_hour": 60.76
+    },
+    {
+      "worker": "medicine-b",
+      "assigned": 39,
+      "active_seconds": 287,
+      "active_started_at": "2026-11-22T21:54:23Z",
+      "active_ended_at": "2026-11-22T21:59:10Z",
+      "fully_reviewed": 3,
+      "partial": 14,
+      "deferred": 22,
+      "untouched": 0,
+      "fully_reviewed_per_worker_hour": 37.63
+    },
+    {
+      "worker": "medicine-c",
+      "assigned": 39,
+      "active_seconds": 264,
+      "active_started_at": "2026-11-22T21:55:11Z",
+      "active_ended_at": "2026-11-22T21:59:35Z",
+      "fully_reviewed": 9,
+      "partial": 19,
+      "deferred": 11,
+      "untouched": 0,
+      "fully_reviewed_per_worker_hour": 122.73
+    },
+    {
+      "worker": "pets",
+      "assigned": 27,
+      "active_seconds": 181,
+      "active_started_at": "2026-11-22T21:54:06+00:00",
+      "active_ended_at": "2026-11-22T21:57:06.733819+00:00",
+      "fully_reviewed": 0,
+      "partial": 10,
+      "deferred": 17,
+      "untouched": 0,
+      "fully_reviewed_per_worker_hour": 0.0
+    }
+  ],
+  "total_worker_hours": 0.269,
+  "fully_reviewed": 16,
+  "fully_reviewed_per_worker_hour": 59.44
+}

@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-11-22",
+  "status": "research_only",
+  "checks": [
+    [
+      "qa-qatar-air-power-banks",
+      "QA",
+      "before_go",
+      "POWER_BANK_AIR",
+      "Qatar Airways caps ordinary power banks at two per passenger and 100 Wh each, prohibits recharging them in flight, and permits supervised use to charge eligible personal devices during noncritical phases.",
+      "Qatar Airways-operated flights; ordinary portable chargers and supervised in-flight use",
+      "Qatar Airways",
+      "https://www.qatarairways.com/en/baggage/restricted.html",
+      "Confirm the operating carrier and airport restrictions. Removed smart-luggage batteries and charging vapes have separate conditions.",
+      "carrier_policy"
+    ],
+    [
+      "et-ethiopian-air-power-banks",
+      "ET",
+      "before_go",
+      "POWER_BANK_AIR",
+      "Ethiopian Airlines lists up to two power banks not exceeding 160 Wh and prohibits both charging the bank from aircraft power outlets and using it to charge personal electronics onboard.",
+      "Ethiopian Airlines-operated flights; carrier policy and in-flight stowage",
+      "Ethiopian Airlines",
+      "https://www.ethiopianairlines.com/information/baggage-information/restricted-items",
+      "Check approvals for higher capacities, route-specific screening and the operating carrier. The airline also excludes overhead stowage.",
+      "carrier_policy"
+    ],
+    [
+      "za-saa-power-banks",
+      "ZA",
+      "before_go",
+      "POWER_BANK_AIR",
+      "South African Airways limits power banks to carry-on and a maximum of 100 Wh, with individual packaging to prevent short circuits.",
+      "South African Airways-operated flights; power bank carriage",
+      "South African Airways",
+      "https://www.flysaa.com/manage-fly/baggage/restricted-items",
+      "Check current unit count, storage and route-specific restrictions. The carrier distinguishes power banks from larger spare batteries.",
+      "carrier_policy"
+    ],
+    [
+      "ma-ram-cabin-power-banks",
+      "MA",
+      "before_go",
+      "POWER_BANK_AIR",
+      "Royal Air Maroc lists a two-power-bank cabin maximum per passenger and prohibits recharging power banks during the flight.",
+      "Royal Air Maroc-operated flights; published passenger baggage policy",
+      "Royal Air Maroc",
+      "https://www.royalairmaroc.com/fr-fr/information-bagage",
+      "Check the current dangerous goods table for individual capacity and other restrictions, and confirm the operating carrier.",
+      "carrier_policy"
+    ],
+    [
+      "ke-kenya-airways-cabin-power-banks",
+      "KE",
+      "before_go",
+      "POWER_BANK_AIR",
+      "Kenya Airways categorizes power banks as spare batteries and allows their carriage only in carry-on baggage.",
+      "Kenya Airways-operated flights; carry-on placement",
+      "Kenya Airways",
+      "https://www.kenya-airways.com/en-gh/plan/baggage-information/special-baggage/",
+      "Obtain current watt-hour, count, markings and in-flight use rules from the operator for the itinerary. The page does not establish implementation of the 2026 ICAO revision.",
+      "carrier_policy"
+    ],
+    [
+      "ph-pal-power-bank-carriage",
+      "PH",
+      "before_go",
+      "POWER_BANK_AIR",
+      "Philippine Airlines limits onboard portable chargers to two. Its carry-on guidance says at most 100 Wh while its restricted-items table uses less than 100 Wh.",
+      "Philippine Airlines-operated flights; quantity and capacity wording",
+      "Philippine Airlines",
+      "https://www.philippineairlines.com/us/en/before-you-fly/baggage-information/baggage-allowance/baggage-allowance-fees/carry-on-baggage.html",
+      "Resolve exactly 100 Wh directly with the carrier and compare https://www.philippineairlines.com/us/en/before-you-fly/baggage-information/restricted-items.html. Check separately for codeshares and in-flight use.",
+      "carrier_policy"
+    ],
+    [
+      "ph-airasia-power-bank-carriage",
+      "PH",
+      "before_go",
+      "POWER_BANK_AIR",
+      "AirAsia Philippines says its updated baggage policy limits carriage to two power banks, each rated at no more than 100 Wh.",
+      "AirAsia Philippines-operated flights; operator announcement dated 30 April 2026",
+      "AirAsia Philippines",
+      "https://newsroom.airasia.com/stories/2026/4/30/airasia-philippines-updates-guidelines-on-portable-electronic-devices-and-power-banks",
+      "Confirm operating carrier and current storage and use restrictions. Another group support page uses below 100 Wh wording.",
+      "carrier_policy"
+    ],
+    [
+      "cl-latam-power-bank-carriage",
+      "CL",
+      "before_go",
+      "POWER_BANK_AIR",
+      "LATAM allows up to two carry-on power banks of up to 100 Wh each and requires them to stay accessible under the seat rather than in the overhead bin.",
+      "LATAM itinerary checked against the Chile carrier guidance",
+      "LATAM Airlines",
+      "https://www.latamairlines.com/cl/es/experiencia/prepara-tu-viaje/equipaje/restringidos-y-prohibidos",
+      "Confirm the actual operator and route-specific screening rules. The carrier lists instructions for baggage taken at the gate.",
+      "carrier_policy"
+    ],
+    [
+      "pe-latam-power-bank-carriage",
+      "PE",
+      "before_go",
+      "POWER_BANK_AIR",
+      "LATAM's published policy caps carry-on power banks at two devices of up to 100 Wh each. It prohibits plugging them into aircraft power or using them to power devices during the flight.",
+      "LATAM-operated flights; carrier guidance, not Peru national screening or customs law",
+      "LATAM Airlines",
+      "https://www.latamairlines.com/us/en/help-center/faq/baggage/restricted-articles/restricted-cabin",
+      "Confirm the operator, route, labels and stowage at boarding.",
+      "carrier_policy"
+    ],
+    [
+      "ar-latam-power-bank-carriage",
+      "AR",
+      "before_go",
+      "POWER_BANK_AIR",
+      "LATAM's Argentina baggage guidance lists up to two carry-on power banks of up to 100 Wh each and says they must remain accessible under the seat.",
+      "LATAM-operated itinerary checked against Argentina carrier guidance",
+      "LATAM Airlines",
+      "https://www.latamairlines.com/ar/es/experiencia/prepara-tu-viaje/equipaje/restringidos-y-prohibidos",
+      "Check operating carrier and airport rules. This is not a general rule for all flights departing Argentina.",
+      "carrier_policy"
+    ]
+  ]
+}
