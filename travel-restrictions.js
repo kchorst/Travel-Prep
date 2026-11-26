@@ -1858,5 +1858,1275 @@ globalThis.travelRestrictions = {
       "url": "https://www.amsterdam.nl/leefomgeving/overlastgebieden/",
       "checked": "2026-11-26"
     }
+  ],
+  "HU": [
+    {
+      "id": "s2-20261126-hu-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Hungary under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-hu-strict-nature-access",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Use marked hiking trails or educational paths in strictly protected areas. Entry away from those routes generally needs authorization from the nature conservation authority. Ordinary protected areas generally allow entry on foot without a permit, subject to local restrictions.",
+      "scope": "Hungarian protected and strictly protected natural areas.",
+      "type": "Official rule or guidance",
+      "authority": "Hungarian State Nature Conservation",
+      "url": "https://termeszetvedelem.hu/vedett-fokozottan-vedett-teruletre-belepes/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-hu-hortobagy-photography",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "In designated Hortobágy demonstration areas, private nature photography is generally allowed without approval if it does not unduly disturb wildlife. For off-trail nature photography, concealed setups near wildlife, or nonprivate filming, contact the park directorate for prior approval.",
+      "scope": "Land managed by the Hortobágy National Park Directorate.",
+      "type": "Official rule or guidance",
+      "authority": "Hortobágy National Park Directorate, Visitor Rules Annex 2",
+      "url": "https://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/termeszetfotozasi-szabalyzat",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-hu-budapest-transit-conduct",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Budapest public transport may refuse carriage to passengers under the influence of alcohol or drugs. Check the operator’s conduct conditions before boarding.",
+      "scope": "Budapest BKK-operated or integrated public transport subject to its travel conditions.",
+      "type": "Official rule or guidance",
+      "authority": "Budapest Transport Centre",
+      "url": "https://bkk.hu/en/travel-information/travel-terms-and-conditions/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-hu-chance-archaeological-finds",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "If you accidentally uncover a suspected archaeological item, stop the activity immediately and report the discovery promptly to the heritage authority through the municipal clerk. Keep the site and item undisturbed pending instructions.",
+      "scope": "Hungary, chance discoveries outside archaeological excavations.",
+      "type": "Official rule or guidance",
+      "authority": "Hungarian National Legislation Database, Act LXIV of 2001 section 24",
+      "url": "https://njt.jog.gov.hu/jogszabaly/2001-64-00-00.64",
+      "checked": "2026-11-26"
+    }
+  ],
+  "IE": [
+    {
+      "id": "s2-20261126-ie-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Republic of Ireland under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ie-skellig-michael-landing",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Book a permitted landing boat operator to visit Sceilg Mhichíl. Check with the operator for the season, weather-related cancellations and landing conditions before travelling to the departure point.",
+      "scope": "Sceilg Mhichíl landing access, County Kerry, Republic of Ireland.",
+      "type": "Official rule or guidance",
+      "authority": "Office of Public Works, Heritage Ireland",
+      "url": "https://heritageireland.ie/places-to-visit/sceilg-mhichil/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ie-monuments-no-unlicensed-excavation",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Do not dig, excavate or use metal detection to uncover archaeological features or objects without the appropriate Ministerial licence or consent. For a specific monument or activity, ask the National Monuments Service before proceeding.",
+      "scope": "Republic of Ireland, archaeological searches and works under the National Monuments Acts.",
+      "type": "Official rule or guidance",
+      "authority": "Department of Housing, Local Government and Heritage, National Monuments Service",
+      "url": "https://www.gov.ie/en/department-of-housing-local-government-and-heritage/publications/legal-protections-for-archaeological-monuments/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ie-controlled-possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Possession of controlled drugs generally needs legal authority, such as an applicable medicines or prescription exception. Verify the exact substance and the authority to possess it before travel.",
+      "scope": "Republic of Ireland, controlled-drug possession under Misuse of Drugs Act, section 3 and current regulations.",
+      "type": "Official rule or guidance",
+      "authority": "Irish Statute Book, Misuse of Drugs Act",
+      "url": "https://www.irishstatutebook.ie/eli/1977/act/12/section/3",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ie-dublin-public-alcohol",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Dublin City has bye-laws restricting drinking intoxicating liquor on roads and in public places. Check the city rules and use licensed venues where permitted.",
+      "scope": "Dublin City Council area; locally regulated public drinking.",
+      "type": "Official rule or guidance",
+      "authority": "Dublin City Council",
+      "url": "https://www.dublincity.ie/your-city-council/governance-within-council/staying-focused-purpose-and-vision/local-bye-laws/dublin-city-council-prohibition-consumption",
+      "checked": "2026-11-26"
+    }
+  ],
+  "CZ": [
+    {
+      "id": "s2-20261126-cz-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Czechia under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cz-prague-castle-photo",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Photography and filming are forbidden in specified Prague Castle exhibitions and galleries. Other historic interiors may need a photography licence. Check the exact location and restrictions before using a camera.",
+      "scope": "Prague Castle historic buildings, galleries and exhibitions; venue rules.",
+      "type": "Official rule or guidance",
+      "authority": "Prague Castle Administration",
+      "url": "https://www.hrad.cz/en/prague-castle-for-visitors/tickets",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cz-archaeological-chance-finds",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Report a chance archaeological find to the Institute of Archaeology or nearest museum, directly or through the municipality, by the second day after finding it or becoming aware of it. Leave the find and site undisturbed pending examination.",
+      "scope": "Czechia, chance archaeological finds outside authorized research.",
+      "type": "Official rule or guidance",
+      "authority": "Czech Ministry of Culture, State Heritage Preservation Act section 23",
+      "url": "https://www.mk.gov.cz/assets/ministerstvo/zakon-o-statni-pamatkove-pe-egrave_i_eng_final.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cz-prague-castle-conduct",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Avoid disrupting guided visits with loud speech or amplified sound at Prague Castle, and follow directions from site staff. Visitors visibly under the influence of alcohol or other intoxicants can be refused entry.",
+      "scope": "Prague Castle complex; site visitor regulations.",
+      "type": "Official rule or guidance",
+      "authority": "Prague Castle Administration, Visitor Regulations Articles 5 and 7",
+      "url": "https://www.hrad.cz/file/edee/2023/10/navstevni-rad-ph-od-20.-3.-2023-aj.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cz-radio-pmr446",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Check the Czech telecommunications regulator’s general authorization for PMR446 before packing or using a walkie-talkie. Its permission is subject to equipment and frequency conditions.",
+      "scope": "Czechia, operation of PMR446 radio equipment; this does not establish customs treatment.",
+      "type": "Official rule or guidance",
+      "authority": "Czech Telecommunication Office, VO-R/3/6.2016-9",
+      "url": "https://ctu.gov.cz/vseobecna-opravneni",
+      "checked": "2026-11-26"
+    }
+  ],
+  "BE": [
+    {
+      "id": "s2-20261126-be-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Belgium under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-be-brussels-public-alcohol",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "The City of Brussels prohibits drinking alcohol in public spaces inside its mapped central zone around the clock through 6 October 2030. Licensed terraces and city-authorized or city-organized events are exceptions. Check the map for the location.",
+      "scope": "Designated City of Brussels central zone, Belgium.",
+      "type": "Official rule or guidance",
+      "authority": "City of Brussels",
+      "url": "https://www.brussels.be/alcohol-ban-centre-brussels",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-be-cannabis-possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Belgian justice guidance treats cannabis possession as an offence. A lower prosecution priority can apply in narrowly defined adult cases; this is not a permission to possess or consume in public.",
+      "scope": "Belgium; federal cannabis possession and prosecution policy.",
+      "type": "Official rule or guidance",
+      "authority": "Belgian Federal Public Service Justice",
+      "url": "https://justitie.belgium.be/nl/themas_en_dossiers/veiligheid_en_criminaliteit/drugs/cannabis",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-be-brussels-public-filming",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Organized television or film recording in public space in the City of Brussels is covered by the city’s event application procedure. Contact the city in advance if planning a production; enquire separately about ordinary tourist photos if a site has its own rules.",
+      "scope": "City of Brussels public spaces in postal codes 1000, 1020, 1120 and 1130; organized TV or film recordings.",
+      "type": "Official rule or guidance",
+      "authority": "City of Brussels",
+      "url": "https://www.brussels.be/organising-event",
+      "checked": "2026-11-26"
+    }
+  ],
+  "SE": [
+    {
+      "id": "s2-20261126-se-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Sweden under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-se-wildlife-zones-access",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Check reserve maps and posted notices before entering Swedish bird and seal protection areas. Entry can be restricted when birds are nesting or seals are raising pups.",
+      "scope": "Swedish protected areas; restrictions apply to individually designated sites and periods.",
+      "type": "Official rule or guidance",
+      "authority": "Swedish Environmental Protection Agency",
+      "url": "https://www.naturvardsverket.se/en/topics/the-right-of-public-access/activities-and-places/protected-areas/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-se-protected-aerial-photography",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Sweden’s Armed Forces state that filming or photographing their protected objects from the air is a criminal offence. Check official restrictions before aerial photography.",
+      "scope": "Protected objects of the Swedish Armed Forces; aerial imaging.",
+      "type": "Official rule or guidance",
+      "authority": "Swedish Armed Forces",
+      "url": "https://www.forsvarsmakten.se/en/rules-and-permits/documents/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-se-ancient-monuments",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Do not disturb, excavate or damage a protected ancient monument in Sweden. Ask the County Administrative Board before taking any action that could alter one.",
+      "scope": "Swedish ancient monuments protected under Chapter 2 of the Historic Environment Act.",
+      "type": "Official rule or guidance",
+      "authority": "Swedish National Heritage Board, Historic Environment Act chapter 2, sections 6 and 12",
+      "url": "https://www.raa.se/in-english/cultural-heritage/historic-environment-laws/historic-environment-act-1988950/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-se-controlled-prescription",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Swedish Police describe unauthorized possession of narcotics as an offence. Keep the prescription for legally prescribed controlled medicine accessible and check separately what documents you need to cross the border.",
+      "scope": "Sweden, possession of narcotics or controlled medicine during a stay.",
+      "type": "Official rule or guidance",
+      "authority": "Swedish Police Authority",
+      "url": "https://polisen.se/utsatt-for-brott/polisanmalan/droger-och-alkohol/narkotikabrott/",
+      "checked": "2026-11-26"
+    }
+  ],
+  "DK": [
+    {
+      "id": "s2-20261126-dk-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Denmark excluding the Faroe Islands and Greenland under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-dk-state-forest-equipment-climbing",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Ask the Danish Nature Agency for permission before equipment-assisted tree climbing in its forests. Its visitor guidance distinguishes ordinary tree climbing from climbing using special aids.",
+      "scope": "Danish state forests managed by Naturstyrelsen.",
+      "type": "Official rule or guidance",
+      "authority": "Danish Nature Agency",
+      "url": "https://naturstyrelsen.dk/om-naturstyrelsen/kontakt/faq/hvor-maa-jeg-faerdes-paa-naturstyrelsens-arealer",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-dk-resistance-museum-photography",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "The Museum of Danish Resistance allows group visitors to take handheld or phone photos without flash. Ask staff about special equipment or restrictions in a particular exhibition.",
+      "scope": "Museum of Danish Resistance, Copenhagen; group visit rules.",
+      "type": "Official rule or guidance",
+      "authority": "National Museum of Denmark, Museum of Danish Resistance",
+      "url": "https://en.natmus.dk/fileadmin/user_upload/Editor/natmus/frihedsmuseet/dokumenter/Group_visits_at_the_Museum_of_Danish_Resistance.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-dk-copenhagen-nightlife-orders",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "Copenhagen Police maintain mapped nightlife zones where people subject to specified court bans can be barred during nighttime hours. Police extended the designated zones through 31 May 2027; check their current notice and the precise terms of any applicable order.",
+      "scope": "Designated Copenhagen nightlife zones and people subject to a relevant individual ban.",
+      "type": "Official rule or guidance",
+      "authority": "Copenhagen Police",
+      "url": "https://politi.dk/politikredse/koebenhavns-politi/nattelivszoner",
+      "checked": "2026-11-26"
+    }
+  ],
+  "FI": [
+    {
+      "id": "s2-20261126-fi-eu-drone-ta",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "EU customs guidance lists drones as possible personal effects for temporary admission. A traveller resident outside the EU customs territory may qualify for import-duty relief if the item is reasonably required for the journey and the temporary admission conditions are met. Some drones are classified as means of transport, which changes the procedure. Ask customs at the point of EU entry how to declare the drone and document re-export.",
+      "scope": "Mainland Finland under the EU customs territory; temporary admission for qualifying nonresident travellers.",
+      "type": "Official regional guidance",
+      "authority": "European Commission, Special Procedures Guidance, Annex VII item 22; Delegated Regulation (EU) 2015/2446 Article 219",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/1bdaa892-93fe-4809-93e7-7ead3ea5ebb0_en?filename=Rev16+Guidance+on+UCC+and+related+act.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-fi-state-protected-area-permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Obtain the relevant permission before organizing an event or using a snowmobile in a state-owned protected area. Fishing and hunting also have separate permit systems. Check the location’s own rules before relying on general access.",
+      "scope": "Finnish state-owned protected areas managed by Metsähallitus, including national parks.",
+      "type": "Official rule or guidance",
+      "authority": "Metsähallitus Parks & Wildlife Finland",
+      "url": "https://www.luontoon.fi/en/activities/hiking-and-outdoor-recreation/tips/visitor-guidelines/fees-permits-and-free-access-to-nature",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-fi-ancient-monument-permit",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Avoid interfering with protected ancient monuments in Finland without prior authorization. The Finnish Heritage Agency handles applications for permits to interfere with monuments.",
+      "scope": "Finland, fixed ancient monuments protected by the Antiquities Act.",
+      "type": "Official rule or guidance",
+      "authority": "Finnish Heritage Agency, Antiquities Act section 11",
+      "url": "https://www.museovirasto.fi/en/cultural-environment/archaeological-cultural-heritage/protecting-the-archaeological-cultural-heritage/kajoamisluvan-hakeminen",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-fi-pmr446-conditions",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Traficom lists compliant analog PMR446 equipment in the 446.000–446.200 MHz band as exempt from radio licensing. Check technical conditions if bringing another model or frequency setting.",
+      "scope": "Finland, domestic radio use; customs treatment is a separate question.",
+      "type": "Official rule or guidance",
+      "authority": "Traficom, Radio Frequency Regulation allocation table",
+      "url": "https://www.traficom.fi/files/media/regulation/Radio%20Frequency%20Regulation%204AF2025M.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-fi-heritage-archive-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "At the Finnish Heritage Agency collections service, take personal note-taking photos without flash and without disturbing other users. Seek separate permission before publication; special equipment restrictions also apply.",
+      "scope": "Finnish Heritage Agency collections service; on-site note-taking photos.",
+      "type": "Official rule or guidance",
+      "authority": "Finnish Heritage Agency, Permit and Collection Service",
+      "url": "https://asiointi.museovirasto.fi/en/note-taking-photos",
+      "checked": "2026-11-26"
+    }
+  ],
+  "VN": [
+    {
+      "id": "s2-20261126-vn-controlled-prescription-baggage",
+      "phase": "before_go",
+      "title": "Medicine, controlled substances, prescriptions",
+      "text": "Declare narcotic, psychotropic or precursor medicines at customs and carry the prescription. The embassy identifies a licence-free personal-treatment limit of up to seven days for narcotic medicines or ten days for psychotropic or precursor medicines, subject to the prescribed dose. Ask the entry-port customs authority before taking a larger supply.",
+      "scope": "Inbound personal treatment quantities for medicines classified in Viet Nam in those groups.",
+      "type": "Official rule or guidance",
+      "authority": "Embassy of Viet Nam in Australia, Bring medication into Viet Nam",
+      "url": "https://www.vietnamembassy.org.au/en/bring-medication-viet-nam",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-vn-plant-quarantine-traveller-baggage",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Declare items subject to plant quarantine in hand or checked baggage and present them for inspection. Customs clearance for those items follows completion of import quarantine formalities.",
+      "scope": "Inbound plant-quarantine items carried in passenger baggage.",
+      "type": "Official rule or guidance",
+      "authority": "Viet Nam Official Gazette, consolidated Law on Plant Protection and Quarantine, Article 29(3)–(4)",
+      "url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izwB4E2RK6IhwBefCl_RBdHTUuNJnGMNdnVMeMqeTbr1PvHAjtSIB3m7kSjWLdxvIUsm_gXoJrTQgr2BWqWaKnHVg~~&file_name=2026_538-VBHN_151%2F2026%2FVBHN-LQ-VPQH.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-vn-electronic-and-heated-tobacco-import",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Leave e-cigarettes and heated tobacco products out of baggage. Viet Nam lists both types as prohibited imports and exports under its foreign trade decree effective 5 September 2026.",
+      "scope": "National import and export restriction on electronic cigarettes and heated tobacco products.",
+      "type": "Official rule or guidance",
+      "authority": "Ha Tinh Department of Health, citing Decree 292/2026/ND-CP Appendix I",
+      "url": "https://soyte.hatinh.gov.vn/tin-tuc-su-kien/thong-tin-y-te/chuong-trinh-phong-chong-tac-hai-thuoc-la/cam-xuat-nhap-khau-thuoc-la-dien-tu-nguoi-su-dung-bi-xu-phat.html",
+      "checked": "2026-11-26"
+    }
+  ],
+  "ID": [
+    {
+      "id": "s2-20261126-id-yellow-fever-arrival-certificate",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "The Ministry of Health identifies a valid yellow fever vaccination certificate requirement for travellers coming from affected countries. If your itinerary includes an affected country, ask port health or your carrier to confirm documentation for your route before departure.",
+      "scope": "Affected-country travel history. Separately evidenced health condition from the general All Indonesia arrival declaration.",
+      "type": "Official rule or guidance",
+      "authority": "Indonesia Ministry of Health, Emerging Infections Yellow Fever FAQ",
+      "url": "https://infeksiemerging.kemkes.go.id/index.php/faq-demam-kuning-yellow-fever/frequently-asked-questions-faq-demam-kuning-yellow-fever",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-id-vape-e-liquid-passenger-excise",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Check the excise allowance before bringing in e-liquid. Indonesian customs lists up to 30 mL of open-system liquid or up to 12 mL of closed-system liquid in adult passenger baggage, with proportional limits when combining tobacco products.",
+      "scope": "Passenger-baggage excise allowance for travellers aged 18 and over.",
+      "type": "Official rule or guidance",
+      "authority": "Indonesia Directorate General of Customs and Excise, excise exemption facilities",
+      "url": "https://www.beacukai.go.id/fasilitas-pembebasan-cukai",
+      "checked": "2026-11-26"
+    }
+  ],
+  "IN": [
+    {
+      "id": "s2-20261126-in-e-cigarette-import-ban",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Do not pack electronic cigarettes for travel into India. The national Act prohibits importing electronic cigarettes and covered devices, including certain products with or without nicotine.",
+      "scope": "National import ban on devices under the statutory definition.",
+      "type": "Official rule or guidance",
+      "authority": "India Ministry of Health and Family Welfare, notice on compliance with the Prohibition of Electronic Cigarettes Act, 2019",
+      "url": "https://ntcp.mohfw.gov.in/assets/document/Public%20Notice%20on%20compliance%20of%20prohibition%20of%20e-cigarettes.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-in-protected-monument-filming",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Check site rules before using a tripod, filming or flying a drone at Archaeological Survey of India monuments. ASI requires prior written permission for those activities.",
+      "scope": "ASI protected monuments and sites.",
+      "type": "Official rule or guidance",
+      "authority": "Archaeological Survey of India, Dos and Don’ts at protected monuments",
+      "url": "https://asi.nic.in/pdf/dosanddonts.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "KR": [
+    {
+      "id": "s2-20261126-kr-personal-equipment-conformity",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "A traveller importing covered communications equipment for personal use can qualify for a conformity-assessment exemption for one unit per model. Check the equipment category with the National Radio Research Agency if bringing multiple units or unusual radio equipment.",
+      "scope": "Conformity assessment of covered personal-use broadcasting and communications equipment, not customs valuation. The FAQ illustrates smartphones and tablets.",
+      "type": "Official rule or guidance",
+      "authority": "Republic of Korea National Radio Research Agency, Conformity Assessment FAQ, citing Radio Waves Act Enforcement Decree Annex 6-2",
+      "url": "https://www.rra.go.kr/ko/notice/D_e_faq2_1.do?fa_category=compt&fa_type=b",
+      "checked": "2026-11-26"
+    }
+  ],
+  "AU": [
+    {
+      "id": "s2-20261126-au-nsw-lightweight-shopping-bags",
+      "phase": "before_go",
+      "title": "Plastic bags, disposable products and packaging",
+      "text": "Bring a reusable bag when shopping in New South Wales. Businesses cannot supply covered lightweight handled plastic shopping bags of 35 microns or less, subject to exceptions.",
+      "scope": "NSW supply rule with exclusions including certain barrier bags. It concerns retail supply.",
+      "type": "Official rule or guidance",
+      "authority": "New South Wales Environment Protection Authority, plastics bans FAQ",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Plastics/About-the-bans/Frequently-asked-questions",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-au-uluru-site-photography-etiquette",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Follow signs and maps at Uluru-Kata Tjuta National Park. Parks Australia asks visitors not to photograph or film designated sites sacred to Anangu Traditional Owners.",
+      "scope": "Specific culturally sensitive sites within Uluru-Kata Tjuta National Park.",
+      "type": "Official rule or guidance",
+      "authority": "Parks Australia, information about film and photography at Uluru-Kata Tjuta National Park",
+      "url": "https://parksaustralia.gov.au/news/information-about-film-and-photography-uluru-kata-tjuta-national-park/",
+      "checked": "2026-11-26"
+    }
+  ],
+  "PH": [
+    {
+      "id": "s2-20261126-ph-vape-passenger-personal-allowances",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Check the personal-use quantities and declaration instructions before packing vape products. The Bureau of Customs passenger guide lists two atomizer sets, 200 mL of e-juice and 100 g of atomizer parts or accessories.",
+      "scope": "Arriving passengers, personal-use limits in the Customs guide.",
+      "type": "Official rule or guidance",
+      "authority": "Philippines Bureau of Customs, Travel With Ease passenger guide",
+      "url": "https://customs.gov.ph/wp-content/uploads/2026/01/ESSENTIAL-GUIDE-FOR-TRAVELERS.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ph-foreign-driving-licence-90-days",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "A bona fide tourist or similar transient holding a valid home-country licence may drive during the first 90 days of their stay, subject to licence conditions. For a longer stay, check Philippine licence requirements.",
+      "scope": "Temporary foreign-licence use under the Land Transportation Office implementing rules.",
+      "type": "Official rule or guidance",
+      "authority": "Philippines Land Transportation Office, Revised IRR of RA 10930, Section 9.5.3",
+      "url": "https://www.lto.gov.ph/wp-content/uploads/2023/09/IRR-RA10930.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "SG": [
+    {
+      "id": "s2-20261126-sg-foreign-driving-licence-and-idp",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "If driving in Singapore on a foreign licence for a stay under 12 months, check whether to carry an International Driving Permit or an official English translation. The Singapore Police Force exempts drivers with a valid licence from an ASEAN member state from the IDP requirement.",
+      "scope": "Foreigners staying under 12 months, subject to licence validity and the listed ASEAN provision.",
+      "type": "Official rule or guidance",
+      "authority": "Singapore Police Force, Singapore Driving Licence",
+      "url": "https://www.police.gov.sg/knowledge-hub/traffic/traffic-matters/singapore-driving-licence",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-sg-no-removal-from-nature-reserves",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Leave native plants and animals in place at Bukit Timah and Central Catchment nature reserves. NParks lists removal of native flora and fauna among activities that are prohibited there.",
+      "scope": "Bukit Timah and Central Catchment Nature Reserves.",
+      "type": "Official rule or guidance",
+      "authority": "Singapore National Parks Board, Bukit Timah and Central Catchment Nature Reserve guide",
+      "url": "https://www.nparks.gov.sg/-/media/nparks-real-content/learning/learning-journeys/guided-walks/diy-guided-walks/ancient-forest/worksheets-for-students.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "NZ": [
+    {
+      "id": "s2-20261126-nz-visitor-visa-medical-evidence",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Visitor Visa applicants must meet health requirements and may be asked for a chest X-ray or medical examination. For stays over six months, Immigration New Zealand requires a chest X-ray for applicants meeting its tuberculosis-country citizenship or residence-history tests, subject to applicable exemptions.",
+      "scope": "New Zealand Visitor Visa applications. Requirement depends on length of stay, country and travel history.",
+      "type": "Official rule or guidance",
+      "authority": "Immigration New Zealand, Visitor Visa health requirements",
+      "url": "https://www.immigration.govt.nz/visas/visitor-visa/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-nz-retailer-plastic-produce-bags",
+      "phase": "before_go",
+      "title": "Plastic bags, disposable products and packaging",
+      "text": "Carry a reusable bag when shopping. New Zealand restricts retailer supply of specified single-use plastic shopping and fresh-produce bags, including covered compostable plastic produce bags.",
+      "scope": "New Zealand retail supply restrictions and defined product categories.",
+      "type": "Official rule or guidance",
+      "authority": "New Zealand Ministry for the Environment, single-use and hard-to-recycle plastic bans",
+      "url": "https://environment.govt.nz/what-you-can-do/campaigns/bans-on-single-use-and-hard-to-recycle-plastic-items/",
+      "checked": "2026-11-26"
+    }
+  ],
+  "LK": [
+    {
+      "id": "s2-20261126-lk-foreign-arrival-card-online",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "Foreign air passengers can complete the Sri Lankan arrival card online starting three days before travel through the Immigration and Emigration e-services website.",
+      "scope": "Foreign arrivals by air, online arrival card facility.",
+      "type": "Official rule or guidance",
+      "authority": "Airport and Aviation Services Sri Lanka, online arrival card notice",
+      "url": "https://www.airport.lk/aasl/news/full_news?news_id=187&news_title=Online+Filling+of+the+Arrival+Cards+%28for+Foreigners%29+and+Departure+Cards+%28for+Sri+Lankans%29",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-lk-tourist-passenger-customs-exemptions",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Check the Sri Lanka Customs exemptions for tourists before packing. The published exemption lists personal clothing and essentials, two regular bottles of wine and up to 1.5 litres of spirits. Commercial quantities and goods brought for resale fall outside the tourist personal-effects definition.",
+      "scope": "Incoming non-resident tourists under Sri Lanka Customs passenger classifications.",
+      "type": "Official rule or guidance",
+      "authority": "Sri Lanka Customs, Travellers guide, Tourist Baggage Exemptions",
+      "url": "https://www.customs.gov.lk/personal/travellers/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-lk-visitor-drone-flight-approval",
+      "phase": "during_visit",
+      "title": "Drone registration, pilot credentials, operational permits and no-fly areas",
+      "text": "Visitors intending to fly a drone should request flight approval through the Civil Aviation Authority’s online portal. Check the planned location against its drone-zone map, submit the required details, and wait for approval before flying.",
+      "scope": "Sri Lanka visitor drone flight approval, subject to drone, activity and zone.",
+      "type": "Official rule or guidance",
+      "authority": "Civil Aviation Authority of Sri Lanka, Drone Approvals",
+      "url": "https://www.caa.lk/en/licenses-certificates-approvals/approvals/drone-approvals",
+      "checked": "2026-11-26"
+    }
+  ],
+  "AR": [
+    {
+      "id": "s2-20261126-ar-tourist-documents",
+      "phase": "before_go",
+      "title": "Passport, visa, ETA and transit rules",
+      "text": "Carry a valid passport for tourist admission unless your nationality qualifies for an accepted identity card or travel document. Migraciones lists Brazil, Bolivia, Uruguay, Paraguay, Chile, Peru, Venezuela, Ecuador and Colombia for that alternative.",
+      "scope": "Argentina tourist admission, nationality-specific document options.",
+      "type": "Official rule or guidance",
+      "authority": "Dirección Nacional de Migraciones",
+      "url": "https://www.argentina.gob.ar/migraciones/documentacion-para-ingresar-al-pais-como-turista",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ar-anmat-foreigner-medication-import",
+      "phase": "before_go",
+      "title": "Medicine, controlled substances, prescriptions",
+      "text": "If ANMAT authorization is needed to import a medicine, its foreign-applicant procedure uses Trámites a Distancia and asks for a valid foreign identity document and prescription or supporting treatment records.",
+      "scope": "ANMAT authorization pathway for foreign applicants importing medicine.",
+      "type": "Official rule or guidance",
+      "authority": "ANMAT, 2000-IE003-00 instructions for foreign applicants",
+      "url": "https://www.argentina.gob.ar/sites/default/files/importacion_de_medicamentos_para_extranjeros.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ar-baggage-customs-declaration",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Submit the inbound baggage declaration when goods exceed the applicable allowance and duty is due, or when carrying goods regulated by SENASA. ARCA offers a digital declaration or the applicable manual OM-2087 form.",
+      "scope": "Argentina accompanied baggage on entry.",
+      "type": "Official rule or guidance",
+      "authority": "Agencia de Recaudación y Control Aduanero",
+      "url": "https://www.arca.gob.ar/viajeros/ayuda/regimen-equipaje.asp",
+      "checked": "2026-11-26"
+    }
+  ],
+  "BR": [
+    {
+      "id": "s2-20261126-br-border-onward-evidence",
+      "phase": "before_go",
+      "title": "Passport, visa, ETA and transit rules",
+      "text": "Brazilian entry officials may ask for evidence of transportation out of Brazil and funds compatible with the purpose and length of the trip. Keep proof readily available.",
+      "scope": "Brazil entry inspection, discretionary request.",
+      "type": "Official rule or guidance",
+      "authority": "Presidência da República, Decree 9.199/2017 article 170",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9199.htm",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-br-entry-vaccination-advice",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Brazil’s Ministry of Health says vaccination proof is not required for entry, and recommends keeping vaccinations current before travel, including considering yellow-fever vaccination in line with health guidance.",
+      "scope": "International travelers entering Brazil under the ministry’s published vaccination guidance.",
+      "type": "Official rule or guidance",
+      "authority": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/vacinacao/viajantes/vacinacao-para-os-viajantes",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-br-declare-passenger-goods",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Use the electronic traveler goods declaration and the Goods to Declare channel when carrying declarable goods, such as goods above the applicable allowance or goods subject to special controls. If there is no channel, present the declaration to customs.",
+      "scope": "Brazil inbound passenger customs declaration.",
+      "type": "Official rule or guidance",
+      "authority": "Receita Federal",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/entrada-no-brasil/bens-a-declarar-tributacao-e-calculo-do-imposto",
+      "checked": "2026-11-26"
+    }
+  ],
+  "CO": [
+    {
+      "id": "s2-20261126-co-yellow-fever-municipalities",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "The Ministry of Health says international entry is not restricted for yellow fever under its guidance. It recommends vaccination at least 10 days before entering risk municipalities and says vaccination history is requested at entry to or exit from very-high-risk municipalities.",
+      "scope": "Yellow fever national arrival guidance and local movement in designated municipalities.",
+      "type": "Official rule or guidance",
+      "authority": "Ministerio de Salud y Protección Social, yellow fever FAQ question 9",
+      "url": "https://www2.minsalud.gov.co/salud/publica/PET/Paginas/Fiebre-amarilla.aspx",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-co-traveler-form-530",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Prepare Form 530 when Colombian customs requires a traveler declaration, including covered non-personal goods above the applicable allowance or goods subject to product-specific controls.",
+      "scope": "Travelers including nonresident tourists at Colombian customs.",
+      "type": "Official rule or guidance",
+      "authority": "Dirección de Impuestos y Aduanas Nacionales",
+      "url": "https://www.dian.gov.co/Viajeros-y-Servicios-aduaneros/Paginas/Declaracion-de-viajeros-Formulario-530.aspx",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-co-animal-products-in-baggage",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Before packing animal products, ask ICA whether the specific product and origin qualify for the accompanied-baggage list under Andean Community Decision 737. Origin-based health restrictions can still apply.",
+      "scope": "Colombia inbound accompanied animal products under the ICA traveler FAQ.",
+      "type": "Official rule or guidance",
+      "authority": "Instituto Colombiano Agropecuario, citing Andean Community Decision 737 article 36",
+      "url": "https://www.ica.gov.co/preguntas-frecuentes/impo-expo/importacion-pecuaria/cual-es-la-lista-de-productos-de-origen-animal-que",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-co-dian-drone-entry-ports",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "DIAN says drones cannot enter under the normal traveler import procedure. At Bogotá El Dorado airport or ports within Cartagena’s customs jurisdiction, customs can consider a change of import procedure if the drone is presented. Confirm approval and documentation before packing it.",
+      "scope": "Colombian customs treatment of drones, including the restricted points for consideration of a change of procedure.",
+      "type": "Official rule or guidance",
+      "authority": "DIAN, Concepts 7383 and 3540 of 2026 interpreting Resolution 242/2025",
+      "url": "https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_7383_2026.htm",
+      "checked": "2026-11-26"
+    }
+  ],
+  "CR": [
+    {
+      "id": "s2-20261126-cr-yellow-fever-recent-travel",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Costa Rica’s health ministry says foreign travelers who have been in designated yellow-fever risk areas within the prior six days must present the international vaccination certificate on arrival.",
+      "scope": "Foreign arrivals after recent presence in areas designated by Costa Rica’s health ministry.",
+      "type": "Official rule or guidance",
+      "authority": "Ministerio de Salud",
+      "url": "https://ministeriodesalud.go.cr/index.php/temas-de-interes/2470-zonas-geograficas-en-riesgo-de-transmision-de-fiebre-amarilla-26",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cr-nonbaggage-goods-allowance",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Costa Rican customs distinguishes personal luggage from other carried goods. A tax exemption of up to 500 Central American pesos in customs value can apply to non-baggage goods if the traveler meets the absence and reuse conditions, including 72 hours abroad and six months between uses.",
+      "scope": "Costa Rica accompanied goods, conditions on the non-baggage exemption.",
+      "type": "Official rule or guidance",
+      "authority": "Servicio Nacional de Aduanas, 2026 decision citing General Customs Law articles 114–115 and CAUCA IV articles 113–114",
+      "url": "https://www.hacienda.go.cr/docs/MH-DGA-AS-GER-RES-0410-2026.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cr-cash-declaration",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare carried cash and covered securities when entering or leaving Costa Rica at US$10,000 or more, or its equivalent in another currency. Complete the customs declaration when the threshold is met.",
+      "scope": "Costa Rican and foreign travelers entering or leaving Costa Rica.",
+      "type": "Official rule or guidance",
+      "authority": "Sistema Costarricense de Información Jurídica, regulation implementing Law 8204 article 35",
+      "url": "https://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/D/2020-2029/2020-2024/2023/18660/15E71C.HTML",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-cr-avianca-power-bank-carriage",
+      "phase": "before_go",
+      "title": "Power banks and lithium batteries: flight route, carrier, safety and markings",
+      "text": "On Avianca-operated flights, keep no more than two power banks in the cabin, each no more than 100 Wh. Protect terminals, keep the banks out of checked baggage and overhead bins, and follow crew instructions.",
+      "scope": "Avianca-operated flights only, including Avianca services on a Costa Rica itinerary.",
+      "type": "Carrier policy",
+      "authority": "Avianca, published passenger baggage policy",
+      "url": "https://ayuda.avianca.com/hc/es/articles/13522878045467--Qu%C3%A9-art%C3%ADculos-debo-llevar-en-mi-equipaje-de-mano",
+      "checked": "2026-11-26"
+    }
+  ],
+  "PE": [
+    {
+      "id": "s2-20261126-pe-automatic-migration-record",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "Peru’s migration guidance says the virtual Andean Migration Card is generated at entry through its control service. Check and download the record to verify the stay granted after admission.",
+      "scope": "Peruvian entry migration processing with automatic TAM Virtual.",
+      "type": "Official rule or guidance",
+      "authority": "Superintendencia Nacional de Migraciones",
+      "url": "https://www.gob.pe/12661-realizar-el-control-migratorio-de-ingreso-y-salida-de-extranjeros-y-residentes",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-pe-amazon-yellow-fever-advice",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Peru’s health authority recommends vaccination at least 10 days before visiting rural risk areas of the Peruvian Amazon and notes some endemic rural access points may ask for a certificate.",
+      "scope": "Itinerary-specific health advice and possible rural entry-point checks, within Peru.",
+      "type": "Official rule or guidance",
+      "authority": "Ministerio de Salud, CDC Perú traveler yellow fever guidance",
+      "url": "https://www.dge.gob.pe/portalnuevo/wp-content/uploads/2026/01/FIEBRE-AMARILLA-WEB.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "EG": [
+    {
+      "id": "s2-20261126-eg-tourist-evisa-documents",
+      "phase": "before_go",
+      "title": "Passport, visa, ETA and transit rules",
+      "text": "For Egypt tourist e-Visa entry, carry a printed e-Visa and a passport valid for at least six months from arrival, plus the itinerary and accommodation details requested by the portal.",
+      "scope": "Egypt e-Visa tourist route; eligibility depends on nationality and other published conditions.",
+      "type": "Official rule or guidance",
+      "authority": "Egypt Ministry of Interior, Electronic Visa Portal FAQ",
+      "url": "https://visa2egypt.gov.eg/eVisa/FAQ",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-eg-customs-form-45",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "If Egyptian Customs requires a passenger arrival declaration (Customs Form 45), provide the passport details, country of embarkation, arrival date and description of carried articles, especially gold or precious metals.",
+      "scope": "Egyptian customs inspections of arriving passengers; covers the customs declaration rather than a general immigration landing card.",
+      "type": "Official rule or guidance",
+      "authority": "Egypt Customs Authority, Instruction 37/2023",
+      "url": "https://customs.gov.eg/Upload/ECAAdminace/88665fa8-0fe2-4af4-bdfa-a7d4542792fa.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-eg-yellow-fever-origin-transit",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Travelers aged nine months or older arriving from a yellow-fever-risk country, including qualifying airport transit over twelve hours, should confirm applicability and carry an international yellow-fever vaccination certificate.",
+      "scope": "Egypt point-of-entry health rule for an applicable origin or transit; not a routine requirement for every origin.",
+      "type": "Official rule or guidance",
+      "authority": "EgyptAir point-of-entry notice; WHO International Travel and Health country list corroboration",
+      "url": "https://www.egyptair.com/en/about-egyptair/news-and-press/Pages/Yellow%20Fever%20Requirements%20for%20passengers%20.aspx",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-eg-airport-seeds-seedlings",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Cairo International Airport advises arriving travelers not to bring seeds or agricultural seedlings and states that quarantine may destroy them. Check approval for any regulated plant material before packing.",
+      "scope": "Airport passenger guidance for international arrivals at Cairo; narrower than a nationwide list of all food or plant restrictions.",
+      "type": "Official rule or guidance",
+      "authority": "Cairo International Airport passenger Customs Regulations",
+      "url": "https://www.cairo-airport.com/en-us/Services/Passenger-Guide/Customs-Regulations",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-eg-egyptair-cabin-power-bank",
+      "phase": "before_go",
+      "title": "Power banks and lithium batteries: flight route, carrier, safety and markings",
+      "text": "EgyptAir specifies one power bank in a personal bag in the cabin and prohibits using it to charge devices or recharging it during the flight.",
+      "scope": "EgyptAir-operated flights; operator policy, not an Egyptian border requirement.",
+      "type": "Carrier policy",
+      "authority": "EgyptAir restricted-items page",
+      "url": "https://www.egyptair.com/en/fly/baggage/Pages/restricted-items.aspx",
+      "checked": "2026-11-26"
+    }
+  ],
+  "JO": [
+    {
+      "id": "s2-20261126-jo-visit-visa-prior-approval",
+      "phase": "before_go",
+      "title": "Passport, visa, ETA and transit rules",
+      "text": "Check whether your nationality or status requires Jordanian prior approval. Jordan’s Ministry of Interior describes an electronic visit-visa process for those requiring approval and instructs travelers to print the approval before travel. Its manual requests a passport or valid travel document valid for at least six months.",
+      "scope": "Jordan Ministry of Interior electronic visit-visa route requiring prior approval.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Ministry of Interior e-services manual",
+      "url": "https://moi.gov.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/user_manual_EN.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-residency-exception-return-ticket",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "If using Jordan’s qualifying foreign-residency exception to prior approval, bring your return ticket and evidence of eligible residency valid for at least six months.",
+      "scope": "Only the arrival-visa route described in the Ministry of Interior FAQ for travelers relying on eligible foreign residency.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Ministry of Interior FAQ",
+      "url": "https://moi.gov.jo/EN/Modules/FAQ",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-named-patient-unregistered-medicines",
+      "phase": "before_go",
+      "title": "Medicine, controlled substances, prescriptions",
+      "text": "Jordan’s Food and Drug Administration says patients importing an unregistered medicine for their own treatment under the named-patient route may bring up to three months’ supply with a prescription and a medical report.",
+      "scope": "Named-patient, non-commercial import of unregistered pharmaceutical products into Jordan.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Food and Drug Administration",
+      "url": "https://jfda.jo/Ar/NewsDetails/مهيدات_يوضح_بخصوص_ادخال_المستحضرات_الصيدلانية_والأدوية_من_الخارج_للاستخدام_الشخصي_للمريض",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-declare-nonexempt-goods",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare goods that may be subject to taxes or duties or may be prohibited. Jordan Customs lists penalties for undeclared non-exempt personal items and gifts, including lower-value items.",
+      "scope": "Passenger customs when entering or leaving Jordan; neither a blanket duty exemption nor an import authorization.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Customs Trade Repository, penalties for import/export violations",
+      "url": "https://traderepository.customs.gov.jo/english/page6.2.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-passenger-plant-quarantine",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Check with Jordan’s plant quarantine authority before bringing covered plants or plant products. Article 3 of the national plant quarantine instructions includes covered materials accompanying passengers.",
+      "scope": "Jordan import, export and transit of plants or plant products covered by specific phytosanitary decisions.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Ministry of Agriculture, Plant Quarantine Instructions No. 12 of 2021, Article 3, via IPPC",
+      "url": "https://www.ippc.int/en/countries/jordan/reportingobligation/2026/10/plant-quarantine-instructions-for-the-year-2021-english-translation-jordan/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-cash-bni-declaration",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash and bearer negotiable instruments exceeding JOD 10,000 or its equivalent to Jordan Customs when entering or leaving Jordan.",
+      "scope": "Persons crossing the Jordanian border with cash or bearer negotiable instruments.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Customs, implementation announcement for AML/CFT Law No. 20 of 2021",
+      "url": "https://www.customs.gov.jo/En/NewsDetails/JCD_IMPLEMENTS_NEW_MEASURES_IN_ANTIMONEY_LAUNDERING_AND_TERRORIST_FINANCING",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-jordan-aviation-cabin-power-bank",
+      "phase": "before_go",
+      "title": "Power banks and lithium batteries: flight route, carrier, safety and markings",
+      "text": "Jordan Aviation lists power banks as permitted in hand baggage and prohibited in hold baggage.",
+      "scope": "Jordan Aviation-operated flights only; carrier policy.",
+      "type": "Carrier policy",
+      "authority": "Jordan Aviation hand-luggage restrictions",
+      "url": "https://www.jordanaviation.jo/Hand-Luggage-Restrictions",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-jo-carc-flight-approval",
+      "phase": "during_visit",
+      "title": "Drone registration, pilot credentials, operational permits and no-fly areas",
+      "text": "Obtain the required Jordanian approvals before operating a drone. The CARC operations form calls for the mission location and timing and identifies a minimum filing lead time of ten working days for this route.",
+      "scope": "Jordan drone operations covered by CARC Form 25-0010; staged separately from permission to import a drone.",
+      "type": "Official rule or guidance",
+      "authority": "Jordan Civil Aviation Regulatory Commission, Drone Operations Approval Application Form",
+      "url": "https://carc.gov.jo/sites/default/files/inline-files/CARC_Form25-0010%20%281%29.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "MA": [
+    {
+      "id": "s2-20261126-ma-passport-visa-aevm",
+      "phase": "before_go",
+      "title": "Passport, visa, ETA and transit rules",
+      "text": "Bring a valid recognized passport or travel document and check whether your nationality needs a visa or an electronic travel authorization. Eligible applicants can use the official Acces Maroc portal.",
+      "scope": "Foreign arrivals to Morocco; visa or AEVM applicability is passport- and status-specific.",
+      "type": "Official rule or guidance",
+      "authority": "Moroccan National Tourist Office; Law No. 02-03 Article 3",
+      "url": "https://www.visitmorocco.com/en/formalities",
+      "checked": "2026-11-26"
+    }
+  ],
+  "QA": [
+    {
+      "id": "s2-20261126-qa-qatar-tourist-visa-route",
+      "phase": "before_go",
+      "title": "Passport, visa, ETA and transit rules",
+      "text": "Check the Qatar Tourism visa wizard for your ordinary passport before departure. The passport-specific options include visa-free entry and Hayya electronic applications.",
+      "scope": "Qatar tourist travel with an ordinary passport. Route and supporting documents vary by nationality and traveler status.",
+      "type": "Official rule or guidance",
+      "authority": "Qatar Tourism, Visit Qatar visa guidance",
+      "url": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-qa-onward-ticket-arrival-visa",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "Qatar’s Ministry of Interior lists a return or onward ticket for its on-arrival visa route. It also lists hotel, cash or credit-card evidence for some nationalities.",
+      "scope": "Qatar Ministry of Interior on-arrival visa guidance. This is route-specific supporting evidence, not a universal arrival card.",
+      "type": "Official rule or guidance",
+      "authority": "Qatar Ministry of Interior, General Directorate of Passports, Visa Conditions",
+      "url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z0/fY5NC8IwEER_TY9lowe1xyKiKFhBQc1F1nYrq82mJosf_94gnj3NPBiGBxYOYAUffEFlL9glPtrRaV2YclBUZlVNi1mq5WpXLTbDbTmELSzB_p-kD77e77YEW3tReikcnrXr-JxzwiCkOUlmIuYN9RjUkWjtnWNVosxcSChgh41j4ajh6-Zb-Tmyvs8-NBQiSkOvHjUwKmHbIoeYmQdHTDEeTaC_zfcf-LELGQ!!/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-qa-over-30-day-health-insurance",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "For a planned Qatar stay over 30 days, Visit Qatar instructs travelers to obtain visitor health insurance from a provider registered with the Ministry of Public Health.",
+      "scope": "Longer visitor stays in Qatar. Separate visa routes or extensions may have their own insurance terms.",
+      "type": "Official rule or guidance",
+      "authority": "Qatar Tourism, Visit Qatar health insurance guidance",
+      "url": "https://visitqatar.com/intl-en/plan-your-trip/healthcare/health-insurance",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-qa-non-gcc-plant-material-declaration",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "When entering Qatar from outside the GCC with regulated plant material, declare it to customs. Qatar’s agricultural quarantine law allows a possible phytosanitary-certificate exemption for accompanied plants or plant products not intended for cultivation or reproduction.",
+      "scope": "Regulated material arriving from outside the GCC; the possible traveler exemption addresses certification only.",
+      "type": "Official rule or guidance",
+      "authority": "Qatar Legal Portal, Law No. 24 of 2005 Concerning Agricultural Quarantine, Articles 2–4",
+      "url": "https://www.almeezan.qa/LawArticles.aspx?LawID=210&LawTreeSectionID=1985&language=en",
+      "checked": "2026-11-26"
+    }
+  ],
+  "CH": [
+    {
+      "id": "s2-20261126-ch-incoming-duty-vat",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "For goods brought into Switzerland for private use or as gifts, check the CHF 150 VAT-free threshold per person per day. If the taxable total exceeds it, VAT applies to the full value. Separately check quantity allowances and use QuickZoll or declare to customs when applicable.",
+      "scope": "Switzerland; private cross-border goods. Personal effects temporarily used and re-exported qualify separately.",
+      "type": "Official rule or guidance",
+      "authority": "Swiss Federal Office for Customs and Border Security",
+      "url": "https://www.bazg.admin.ch/en/general-information-on-duty-free-allowances-and-value-limits",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ch-cash-disclosure",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Switzerland does not require a routine cash declaration. Answer customs questions truthfully. At CHF 10,000 or more, or if officers suspect that amount is carried, be prepared to explain your identity, the source and intended use, and who owns the funds.",
+      "scope": "Swiss incoming, outgoing and transit border checks; cash, foreign currencies and bearer instruments.",
+      "type": "Official rule or guidance",
+      "authority": "Swiss Federal Office for Customs and Border Security",
+      "url": "https://www.bazg.admin.ch/en/cash-foreign-currency-securities",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ch-film-equipment-temporary",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "If bringing a drone temporarily to Switzerland as filming or photography production equipment covered by Directive 10-60, arrange temporary customs clearance through an ATA Carnet or the Swiss temporary admission declaration (ZAVV).",
+      "scope": "Switzerland; temporary entry of covered photo/film production equipment including drones, under the overseas-use heading.",
+      "type": "Official rule or guidance",
+      "authority": "Swiss Federal Office for Customs and Border Security Directive 10-60 §3.11.2.1 B.16",
+      "url": "https://www.bazg.admin.ch/dam/en/sd-web/-6e0xKxeRb1p/R-10-60_Verfahren_voruebergehende_Verwendung_d.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ch-liquid-and-vape-duty",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "For eligible travelers aged 17 or older, Swiss customs lists duty-free alternatives that include up to 250 mL of nicotine-containing e-liquid or 25 disposable e-cigarettes per person per day. Check the full table for cartridges, tobacco and combinations, and declare excess.",
+      "scope": "Swiss border; traveler allowances by product and quantity.",
+      "type": "Official rule or guidance",
+      "authority": "Swiss Federal Office for Customs and Border Security",
+      "url": "https://www.bazg.admin.ch/dam/en/sd-web/34IX1Iood2cN/brochure-smooth-passage-through-customs-web-en.pdf",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ch-protected-souvenirs",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Before crossing a Swiss border with an animal- or plant-derived souvenir, check its species and documentation. Protected specimens, including found as well as purchased articles, may be prohibited or require permits. Defined souvenir exemptions have quantity and other conditions.",
+      "scope": "Switzerland; animal/plant souvenirs carried across borders.",
+      "type": "Official rule or guidance",
+      "authority": "Swiss Federal Food Safety and Veterinary Office",
+      "url": "https://www.blv.admin.ch/en/souvenirs-cites-en",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ch-pet-entry-check",
+      "phase": "before_go",
+      "title": "Pets and animal importation",
+      "text": "Use the official entry check before taking a dog, cat or ferret to Switzerland. Conditions depend on its origin and route, and private travel with an owned pet is treated separately from import for transfer to someone else.",
+      "scope": "Switzerland; companion dogs, cats and ferrets.",
+      "type": "Official rule or guidance",
+      "authority": "Swiss Federal Food Safety and Veterinary Office",
+      "url": "https://www.blv.admin.ch/en/travelling-with-dogs-cats-and-ferrets",
+      "checked": "2026-11-26"
+    }
+  ],
+  "ZA": [
+    {
+      "id": "s2-20261126-za-online-traveller-declaration",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "South Africa requires an online traveller declaration for entry or departure from 1 July 2026. File no more than 24 hours before departure, using the last leg directly to South Africa for an inbound connecting journey. Air or sea passengers staying in the designated transit area are excluded. If you cannot file in advance, ask customs for help at the port. SARS lists limited exceptions for paper declarations.",
+      "scope": "South African air, land, sea and rail ports; traveler declarations.",
+      "type": "Official rule or guidance",
+      "authority": "South African Revenue Service",
+      "url": "https://www.sars.gov.za/travellerdeclaration/faqs-for-the-required-online-traveller-declarations-from-1-july-2026/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-za-alcohol-tobacco-duty",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Check the separate South African traveler duty-free quantities for wine, other alcohol and tobacco before packing them. Age and eligibility rules apply, and excess quantities must be declared.",
+      "scope": "South African customs; accompanied alcohol and tobacco.",
+      "type": "Official rule or guidance",
+      "authority": "South African Revenue Service",
+      "url": "https://www.sars.gov.za/guide-to-duty-free-allowances-for-travellers/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-za-temporary-export-registration",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "If taking valuable goods out of South Africa temporarily and bringing them back, ask customs to record them before departure and retain the proof for re-entry. Declare controlled goods and confirm permits separately.",
+      "scope": "South African departure; temporary export of goods for reimport.",
+      "type": "Official rule or guidance",
+      "authority": "South African Revenue Service",
+      "url": "https://www.sars.gov.za/customs-and-excise/travellers/departure-from-sa/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-za-wildlife-souvenir-permits",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Before taking protected wildlife products across a South African border, check the species and whether an import or export permit is required. CITES can cover tourist curios, exotic leather, wood and derivatives as well as live specimens.",
+      "scope": "South Africa; international movement of CITES-listed species and derivatives.",
+      "type": "Official rule or guidance",
+      "authority": "South African Department of Forestry, Fisheries and the Environment",
+      "url": "https://www.dffe.gov.za/legislations/internationalagreementsobligations_sapartytocites",
+      "checked": "2026-11-26"
+    }
+  ],
+  "NO": [
+    {
+      "id": "s2-20261126-no-tourist-goods-value",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "A nonresident tourist has no set value limit for eligible belongings temporarily brought into Norway for use and taken out again. Goods left behind, such as gifts or consumables, are subject to a NOK 6,000 value limit for tourists. Check separate alcohol, tobacco and food quotas and declare excess.",
+      "scope": "Norway; nonresident tourist baggage and goods left in Norway.",
+      "type": "Official rule or guidance",
+      "authority": "Norwegian Customs",
+      "url": "https://www.toll.no/en/shopping-abroad/the-value-limit",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-no-currency-declaration",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare currency and covered payment instruments valued at more than NOK 25,000 when entering or leaving Norway. File the customs form at the relevant customs office, using the red channel on arrival.",
+      "scope": "Norway; entry and departure; notes, coins and other covered means of payment.",
+      "type": "Official rule or guidance",
+      "authority": "Norwegian Customs",
+      "url": "https://www.toll.no/en/goods/currency",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-no-nicotine-vape-medical",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Before taking nicotine vapes or nicotine liquid into Norway, check the medicinal smoking-cessation exception. Norwegian Customs lists nicotine-containing vapes and e-liquid without medical proof of smoking cessation among prohibited items.",
+      "scope": "Norway; accompanied traveler imports, distinct from online orders and on-site use.",
+      "type": "Official rule or guidance",
+      "authority": "Norwegian Customs",
+      "url": "https://www.toll.no/en/goods/alcohol-and-tobacco/quotas/",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-no-endangered-species-goods",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Check for a special permit before bringing covered protected plants, animals or derivatives into or out of Norway. The authority describes limited exceptions for certain items brought back by Norwegian residents.",
+      "scope": "Norway; border movement of protected species and products.",
+      "type": "Official rule or guidance",
+      "authority": "Norwegian Customs",
+      "url": "https://www.toll.no/en/goods/travelling-with-endangered-animal-and-plant-species",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-no-visitor-driving-licence",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "A valid licence from most non-EU/EEA countries can normally be used for three months after arrival in Norway, subject to licence and age requirements. Some licences also need an international driving permit.",
+      "scope": "Norway; temporary visitors holding most non-EU/EEA licences.",
+      "type": "Official rule or guidance",
+      "authority": "Norwegian Public Roads Administration",
+      "url": "https://www.vegvesen.no/en/driving-licences/driving-licence-holders/foreign-driving-licence-in-norway/using-a-non-eueea-driving-licence-in-norway/",
+      "checked": "2026-11-26"
+    }
+  ],
+  "KE": [
+    {
+      "id": "s2-20261126-ke-passenger-declare-regulated",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare items brought for someone else, business merchandise, regulated goods and repairs or alterations to goods returned to Kenya. Used personal effects may qualify for relief. Ask customs to confirm the threshold before relying on a duty-free allowance for newly purchased goods.",
+      "scope": "Kenya passenger terminal clearance; accompanied baggage.",
+      "type": "Official rule or guidance",
+      "authority": "Kenya Revenue Authority",
+      "url": "https://www.kra.go.ke/helping-tax-payers/faqs/passenger-terminal-clearance-in-kenya",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ke-plant-import-permit",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Before bringing regulated plants or plant products to Kenya, arrange the Plant Import Permit and exporting-country phytosanitary certificate required for covered plant consignments. Declare the plant material to an inspector at entry.",
+      "scope": "Kenya; plant material subject to KEPHIS import controls.",
+      "type": "Official rule or guidance",
+      "authority": "Kenya Plant Health Inspectorate Service",
+      "url": "https://kephis.go.ke/index.php/phytosanitary-services",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ke-monetary-instruments-declaration",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare covered monetary instruments worth USD 10,000 or more, or equivalent, to a customs officer before taking them into or out of Kenya.",
+      "scope": "Kenya; entry and departure with monetary instruments.",
+      "type": "Official rule or guidance",
+      "authority": "Kenya Financial Reporting Centre; POCAMLA §12",
+      "url": "https://www.frc.go.ke/?page_id=25",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-ke-listed-species-permit",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Check with Kenya Wildlife Service before moving an item made from a listed species across the border. Covered imports, exports and transit are prohibited or require permits under the specified species rules.",
+      "scope": "Kenya; movement of listed protected species or covered specimens through Kenya.",
+      "type": "Official rule or guidance",
+      "authority": "Kenya Wildlife Service; Wildlife Conservation and Management Act endangered-species regulations",
+      "url": "https://www.kws.go.ke/sites/default/files/2019-11/KWS_%20Endangered%20Species.pdf",
+      "checked": "2026-11-26"
+    }
+  ],
+  "IS": [
+    {
+      "id": "s2-20261126-is-red-channel-declaration",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "On arrival in Iceland, proactively declare and present dutiable or restricted goods to customs and use the red channel. If uncertain whether your goods qualify for duty-free entry or are restricted, use the red channel.",
+      "scope": "Iceland; accompanied goods at arrival.",
+      "type": "Official rule or guidance",
+      "authority": "Iceland Revenue and Customs",
+      "url": "https://island.is/en/what-you-can-bring-or-order-to-iceland/customs-clearance",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-is-food-and-equipment",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Check personal food restrictions before traveling. Iceland generally prohibits meat and dairy from outside the EU/EEA subject to defined exceptions. Used riding equipment and riding gloves are prohibited, and used fishing gear must be disinfected before use in Icelandic rivers and lakes.",
+      "scope": "Iceland; traveler food and used riding/fishing equipment.",
+      "type": "Official rule or guidance",
+      "authority": "Icelandic Food and Veterinary Authority",
+      "url": "https://www.mast.is/en/travel",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-is-currency-declaration",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare €10,000 or more in cash or covered bearer instruments, including traveler’s cheques, on entry to or departure from Iceland. Use the official reference rate if carrying other currencies.",
+      "scope": "Iceland; accompanied monetary instruments on arrival and departure.",
+      "type": "Official rule or guidance",
+      "authority": "Iceland Customs Act No. 88/2005, Article 27a",
+      "url": "https://www.althingi.is/lagas/nuna/2005088.html",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-is-pet-import-permit",
+      "phase": "before_go",
+      "title": "Pets and animal importation",
+      "text": "Arrange an Icelandic import permit before bringing a dog or cat. Check the animal’s approved country category, veterinary requirements and quarantine booking before booking travel.",
+      "scope": "Iceland; incoming dogs and cats, veterinary admission and quarantine.",
+      "type": "Official rule or guidance",
+      "authority": "Icelandic Food and Veterinary Authority",
+      "url": "https://www.mast.is/en/import-export/import-of-live-animals",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261126-is-alcohol-and-tobacco-duty",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Iceland Customs lists a personal tobacco allowance of 200 cigarettes or 250 g of other tobacco. Use its separate alcohol combinations and declare excess. The listed minimum age is 20 for alcohol and 18 for tobacco.",
+      "scope": "Iceland; traveler alcohol and tobacco duty-free allowances.",
+      "type": "Official rule or guidance",
+      "authority": "Iceland Revenue and Customs",
+      "url": "https://www.skatturinn.is/english/individuals/customs-matters/travelling-to-iceland/duty-free-imports/duty-free-imports",
+      "checked": "2026-11-26"
+    }
   ]
 };
