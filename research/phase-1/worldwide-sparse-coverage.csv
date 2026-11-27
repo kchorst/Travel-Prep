@@ -1,0 +1,146 @@
+﻿destination_id,destination,linked_topics,linked_critical
+AQ,Antarctica,0,0
+EH,Western Sahara,0,0
+KM,Comoros,0,0
+KP,"Korea, Democratic People's Republic of",0,0
+LY,Libya,0,0
+PS,"Palestine, State of",0,0
+SO,Somalia,0,0
+ST,Sao Tome and Principe,0,0
+TD,Chad,0,0
+TJ,Tajikistan,0,0
+TM,Turkmenistan,0,0
+WF,Wallis and Futuna,0,0
+YE,Yemen,0,0
+AG,Antigua and Barbuda,1,0
+AM,Armenia,1,1
+AO,Angola,1,1
+AW,Aruba,1,1
+BA,Bosnia and Herzegovina,1,1
+BQ,"Bonaire, Sint Eustatius and Saba",1,1
+BW,Botswana,1,1
+BY,Belarus,1,1
+CM,Cameroon,1,0
+DZ,Algeria,1,1
+GA,Gabon,1,1
+GD,Grenada,1,0
+GE,Georgia,1,1
+GF,French Guiana,1,1
+GP,Guadeloupe,1,1
+IL,Israel,1,1
+IO,British Indian Ocean Territory,1,0
+KI,Kiribati,1,1
+KN,Saint Kitts and Nevis,1,0
+LB,Lebanon,1,1
+LC,Saint Lucia,1,1
+LS,Lesotho,1,1
+ME,Montenegro,1,1
+MM,Myanmar,1,1
+MN,Mongolia,1,1
+MQ,Martinique,1,1
+MS,Montserrat,1,1
+MW,Malawi,1,1
+MZ,Mozambique,1,1
+NC,New Caledonia,1,1
+NI,Nicaragua,1,1
+NR,Nauru,1,1
+PA,Panama,1,1
+PF,French Polynesia,1,1
+PG,Papua New Guinea,1,1
+RE,Réunion,1,1
+RU,Russian Federation,1,1
+SV,El Salvador,1,1
+SY,Syrian Arab Republic,1,1
+SZ,Eswatini,1,1
+YT,Mayotte,1,1
+ZM,Zambia,1,1
+AD,Andorra,2,2
+AZ,Azerbaijan,2,1
+BO,"Bolivia, Plurinational State of",2,1
+BS,Bahamas,2,2
+BZ,Belize,2,1
+DM,Dominica,2,1
+EC,Ecuador,2,1
+JM,Jamaica,2,0
+LA,Lao People's Democratic Republic,2,1
+MC,Monaco,2,2
+MD,"Moldova, Republic of",2,1
+MH,Marshall Islands,2,2
+NP,Nepal,2,2
+SB,Solomon Islands,2,2
+SD,Sudan,2,2
+TC,Turks and Caicos Islands,2,2
+TO,Tonga,2,2
+TT,Trinidad and Tobago,2,0
+UA,Ukraine,2,1
+UZ,Uzbekistan,2,1
+VG,"Virgin Islands, British",2,1
+ZW,Zimbabwe,2,1
+AF,Afghanistan,3,3
+BJ,Benin,3,2
+BT,Bhutan,3,3
+CD,"Congo, The Democratic Republic of the",3,3
+CF,Central African Republic,3,3
+CU,Cuba,3,2
+DJ,Djibouti,3,3
+ER,Eritrea,3,3
+FM,"Micronesia, Federated States of",3,3
+GI,Gibraltar,3,2
+GM,Gambia,3,2
+GN,Guinea,3,2
+GQ,Equatorial Guinea,3,3
+GW,Guinea-Bissau,3,2
+HT,Haiti,3,3
+IQ,Iraq,3,3
+IR,"Iran, Islamic Republic of",3,3
+KG,Kyrgyzstan,3,3
+KH,Cambodia,3,1
+KW,Kuwait,3,2
+LR,Liberia,3,2
+ML,Mali,3,3
+MR,Mauritania,3,3
+MU,Mauritius,3,3
+NA,Namibia,3,3
+PM,Saint Pierre and Miquelon,3,3
+PN,Pitcairn,3,3
+PW,Palau,3,3
+SL,Sierra Leone,3,2
+SM,San Marino,3,3
+SN,Senegal,3,2
+TL,Timor-Leste,3,3
+VC,Saint Vincent and the Grenadines,3,1
+VU,Vanuatu,3,3
+WS,Samoa,3,3
+XK,Kosovo,3,3
+AI,Anguilla,4,4
+AL,Albania,4,4
+BB,Barbados,4,1
+BD,Bangladesh,4,4
+BF,Burkina Faso,4,4
+BI,Burundi,4,4
+BN,Brunei Darussalam,4,4
+CG,Congo,4,4
+CI,Côte d'Ivoire,4,3
+CV,Cabo Verde,4,3
+CW,Curaçao,4,4
+DO,Dominican Republic,4,4
+ET,Ethiopia,4,4
+GT,Guatemala,4,4
+GY,Guyana,4,4
+HN,Honduras,4,4
+KZ,Kazakhstan,4,4
+MG,Madagascar,4,4
+MK,North Macedonia,4,4
+NE,Niger,4,4
+PK,Pakistan,4,4
+PY,Paraguay,4,4
+RS,Serbia,4,4
+SC,Seychelles,4,4
+SH,"Saint Helena, Ascension and Tristan da Cunha",4,4
+SR,Suriname,4,4
+SS,South Sudan,4,4
+SX,Sint Maarten (Dutch part),4,4
+TV,Tuvalu,4,4
+UG,Uganda,4,1
+UY,Uruguay,4,4
+VE,"Venezuela, Bolivarian Republic of",4,4

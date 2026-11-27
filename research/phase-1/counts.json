@@ -1,0 +1,24 @@
+{
+  "workers": {
+    "world53a": 28,
+    "world53b": 28,
+    "world53c": 28,
+    "top53a": 28,
+    "top53b": 28
+  },
+  "linked_by_worker": {
+    "world53a": 24,
+    "world53b": 24,
+    "world53c": 28,
+    "top53a": 21,
+    "top53b": 26
+  },
+  "worldwide_linked": 3459,
+  "zero_before": 34,
+  "zero_after": 13,
+  "one_to_four": 132,
+  "priority_linked": 608,
+  "priority_critical": 288,
+  "priority_target": 8,
+  "promotion_holds": 107
+}
