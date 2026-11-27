@@ -9,18 +9,56 @@
   <link rel="stylesheet" href="./vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="./styles.css">
   <style>
-    .header-tools { margin-inline-start: auto; }
+    .site-header { background: #1e293b; border-bottom: 1px solid #41526a; }
+    .site-brand, .page-meta {
+      width: min(100%, 55rem);
+      margin-inline: auto;
+      padding-inline: clamp(1rem, 4vw, 2rem);
+    }
+    .site-brand {
+      min-height: 4.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: .45rem .75rem;
+      padding-block: .5rem;
+    }
+    .site-brand img { border-radius: 10px; }
+    .site-brand h1 { color: #6ee7b7; font-size: 1.25rem; font-weight: 750; letter-spacing: .015em; }
+    #app-version { color: #b8c6d9; font-size: .77rem; }
+    #download-all-profiles {
+      margin-inline-start: auto;
+      min-height: 44px;
+      border: 1px solid #41526a;
+      border-radius: .55rem;
+      background: #28374e;
+      padding: .4rem .65rem;
+    }
+    #download-all-profiles:hover { background: #34475f; }
+    #download-all-profiles:disabled { opacity: .6; cursor: wait; }
+    .page-meta {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: .35rem 1rem;
+      padding-top: 1rem;
+    }
     .travel-tools { display: flex; flex-direction: column; align-items: flex-end; gap: .2rem; font-size: .86rem; }
+    .travel-tools a { color: #a7f3d0; text-decoration: underline; text-underline-offset: .18em; }
+    .travel-tools span { color: #b8c6d9; }
   </style>
 </head>
 
 <body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
-  <header class="bg-slate-800 border-b border-slate-700 p-4 flex flex-wrap justify-between items-center gap-y-2 shadow-md">
+  <header class="site-header">
+    <div class="site-brand">
+      <img width="38" height="38" src="./icon-192.png" alt="">
+      <h1>TravelPrep</h1>
+      <span id="app-version" aria-label="App version 1.2.6">v1.2.6</span>
+      <button id="download-all-profiles" type="button" title="Save all profiles offline">Save offline</button>
+    </div>
+  </header>
+  <div class="page-meta">
     <div class="flex flex-wrap items-center gap-2">
-      <h1 class="text-base md:text-xl font-extrabold tracking-wider text-emerald-400 whitespace-nowrap">🧳 TRAVELPREP</h1>
-      <span id="app-version" class="text-[10px] font-semibold text-slate-400" aria-label="App version 1.2.6">v1.2.6</span>
-      <button id="download-all-profiles" type="button" title="Save all profiles offline"
-        class="rounded border border-slate-600 px-2 py-1 text-xs text-slate-200 hover:bg-slate-700 disabled:opacity-50">Save offline</button>
       <label for="update-reminder-interval" class="flex items-center gap-1 text-xs text-slate-400">Reminder
         <select id="update-reminder-interval" class="rounded border border-slate-600 bg-slate-900 px-1 py-1 text-slate-200">
           <option value="1">Daily</option>
@@ -29,16 +67,14 @@
         </select>
       </label>
       <span id="offline-download-status" role="status" aria-live="polite" class="text-xs text-slate-400"></span>
-    </div>
-    <div class="header-tools flex items-center space-x-3">
       <span id="offline-badge" hidden role="status" aria-live="polite"
         class="text-xs px-2 py-1 rounded bg-amber-900 text-amber-300 border border-amber-700">Offline (Cached)</span>
-      <nav class="travel-tools" aria-label="Travel tools">
-        <a class="underline" href="https://kchorst.github.io/VisaBrowser/" target="_blank" rel="noopener">VisaBrowser</a>
-        <span class="text-slate-400">TravelAgent</span>
-      </nav>
     </div>
-  </header>
+    <nav class="travel-tools" aria-label="Travel tools">
+      <a href="https://kchorst.github.io/VisaBrowser/" target="_blank" rel="noopener">VisaBrowser</a>
+      <span>TravelAgent</span>
+    </nav>
+  </div>
 
   <main class="flex-1 p-4 max-w-4xl mx-auto w-full space-y-4">
     <p id="linked-destination-notice" role="status" hidden class="rounded border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-300">
