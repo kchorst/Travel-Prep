@@ -8,6 +8,10 @@
   <link rel="manifest" href="./manifest.json">
   <link rel="stylesheet" href="./vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="./styles.css">
+  <style>
+    .header-tools { margin-inline-start: auto; }
+    .travel-tools { display: flex; flex-direction: column; align-items: flex-end; gap: .2rem; font-size: .86rem; }
+  </style>
 </head>
 
 <body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
@@ -26,9 +30,13 @@
       </label>
       <span id="offline-download-status" role="status" aria-live="polite" class="text-xs text-slate-400"></span>
     </div>
-    <div class="flex items-center space-x-3">
+    <div class="header-tools flex items-center space-x-3">
       <span id="offline-badge" hidden role="status" aria-live="polite"
         class="text-xs px-2 py-1 rounded bg-amber-900 text-amber-300 border border-amber-700">Offline (Cached)</span>
+      <nav class="travel-tools" aria-label="Travel tools">
+        <a class="underline" href="https://kchorst.github.io/VisaBrowser/" target="_blank" rel="noopener">VisaBrowser</a>
+        <span class="text-slate-400">TravelAgent</span>
+      </nav>
     </div>
   </header>
 

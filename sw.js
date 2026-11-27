@@ -1,4 +1,4 @@
-const SHELL_CACHE = "travel-engine-shell-v57";
+const SHELL_CACHE = "travel-engine-shell-v58";
 const DATA_CACHE = "travel-engine-data-v1";
 const SHELL_ASSETS = [
   "./",
