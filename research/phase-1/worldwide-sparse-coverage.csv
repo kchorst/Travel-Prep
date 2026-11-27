@@ -1,10 +1,7 @@
 ﻿destination_id,destination,linked_topics,linked_critical
-AG,Antigua and Barbuda,1,0
 AM,Armenia,1,1
 AO,Angola,1,1
-AW,Aruba,1,1
 BA,Bosnia and Herzegovina,1,1
-BQ,"Bonaire, Sint Eustatius and Saba",1,1
 BW,Botswana,1,1
 BY,Belarus,1,1
 CM,Cameroon,1,0
@@ -12,8 +9,6 @@ DZ,Algeria,1,1
 GA,Gabon,1,1
 GD,Grenada,1,0
 GE,Georgia,1,1
-GF,French Guiana,1,1
-GP,Guadeloupe,1,1
 IL,Israel,1,1
 IO,British Indian Ocean Territory,1,0
 KI,Kiribati,1,1
@@ -24,7 +19,6 @@ LS,Lesotho,1,1
 ME,Montenegro,1,1
 MM,Myanmar,1,1
 MN,Mongolia,1,1
-MQ,Martinique,1,1
 MS,Montserrat,1,1
 MW,Malawi,1,1
 MZ,Mozambique,1,1
@@ -74,9 +68,11 @@ CU,Cuba,3,2
 DJ,Djibouti,3,3
 ER,Eritrea,3,3
 FM,"Micronesia, Federated States of",3,3
+GF,French Guiana,3,3
 GI,Gibraltar,3,2
 GM,Gambia,3,2
 GN,Guinea,3,2
+GP,Guadeloupe,3,3
 GQ,Equatorial Guinea,3,3
 GW,Guinea-Bissau,3,2
 HT,Haiti,3,3
@@ -89,6 +85,7 @@ KW,Kuwait,3,2
 LR,Liberia,3,2
 LY,Libya,3,2
 ML,Mali,3,3
+MQ,Martinique,3,3
 MR,Mauritania,3,3
 MU,Mauritius,3,3
 NA,Namibia,3,3

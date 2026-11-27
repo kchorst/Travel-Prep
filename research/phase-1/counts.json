@@ -1,20 +1,21 @@
 {
+  "sparse_promotion_count": 3,
   "workers": {
-    "polar54": 10,
-    "africa54": 15,
-    "asia54": 16
+    "critical55a": 6,
+    "critical55b": 6,
+    "sparse55": 18
   },
   "linked_by_worker": {
-    "polar54": 9,
-    "africa54": 15,
-    "asia54": 16
+    "critical55a": 2,
+    "critical55b": 2,
+    "sparse55": 18
   },
-  "worldwide_linked": 3499,
-  "zero_before": 13,
+  "worldwide_linked": 3521,
+  "zero_before": 0,
   "zero_after": 0,
-  "one_to_four": 145,
-  "priority_linked": 608,
-  "priority_critical": 288,
+  "one_to_four": 142,
+  "priority_linked": 612,
+  "priority_critical": 292,
   "priority_target": 8,
-  "promotion_holds": 136
+  "promotion_holds": 157
 }
