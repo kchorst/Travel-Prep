@@ -1,24 +1,20 @@
 {
   "workers": {
-    "world53a": 28,
-    "world53b": 28,
-    "world53c": 28,
-    "top53a": 28,
-    "top53b": 28
+    "polar54": 10,
+    "africa54": 15,
+    "asia54": 16
   },
   "linked_by_worker": {
-    "world53a": 24,
-    "world53b": 24,
-    "world53c": 28,
-    "top53a": 21,
-    "top53b": 26
+    "polar54": 9,
+    "africa54": 15,
+    "asia54": 16
   },
-  "worldwide_linked": 3459,
-  "zero_before": 34,
-  "zero_after": 13,
-  "one_to_four": 132,
+  "worldwide_linked": 3499,
+  "zero_before": 13,
+  "zero_after": 0,
+  "one_to_four": 145,
   "priority_linked": 608,
   "priority_critical": 288,
   "priority_target": 8,
-  "promotion_holds": 107
+  "promotion_holds": 136
 }
