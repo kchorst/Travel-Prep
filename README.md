@@ -4,6 +4,12 @@ TravelPrep is an offline-capable travel reference and trip-planning app for 196 
 
 Travel information can change. Verify current entry, health, safety, transportation, and other time-sensitive details with official sources before travel. A profile marked complete means it meets this project's data-coverage checks; it is not a guarantee that every fact or external link is current.
 
+## What's new in v1.2.8
+
+Adds 314 sourced advisories across 82 destinations in **Travel restrictions**.
+
+See the [release notes](docs/Release-Notes-v1.2.8.md).
+
 ## What's new in v1.2.7
 
 Adds 183 sourced advisories across 60 destinations in **Travel restrictions**.

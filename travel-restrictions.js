@@ -2177,6 +2177,17 @@ globalThis.travelRestrictions = {
       "authority": "Copenhagen Police",
       "url": "https://politi.dk/politikredse/koebenhavns-politi/nattelivszoner",
       "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261127-c56-dk-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Public face coverings are generally prohibited, with exemptions including masks worn for health reasons. Violations may result in fines.",
+      "scope": "Public places in Denmark as described by UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/denmark/safety-and-security",
+      "checked": "2026-11-27"
     }
   ],
   "FI": [
@@ -2234,6 +2245,17 @@ globalThis.travelRestrictions = {
       "authority": "Finnish Heritage Agency, Permit and Collection Service",
       "url": "https://asiointi.museovirasto.fi/en/note-taking-photos",
       "checked": "2026-11-26"
+    },
+    {
+      "id": "s2-20261127-c56-fi-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Finland’s Public Order Act restricts use of intoxicants in public built-up areas, at border crossing points and on public transport. Its alcohol exception for parks and similar places applies where the activity does not interfere unreasonably with other users.",
+      "scope": "Places and exemptions covered by Public Order Act section 4, including licensed service areas and private-use vehicle interiors.",
+      "type": "Official guidance",
+      "authority": "Finland Ministry of the Interior / Finlex",
+      "url": "https://data.finlex.fi/api/media/statute-foreign-language-translation/688459/mainPdf/main.pdf",
+      "checked": "2026-11-27"
     }
   ],
   "VN": [
@@ -2302,6 +2324,138 @@ globalThis.travelRestrictions = {
       "authority": "UK Foreign, Commonwealth & Development Office",
       "url": "https://www.gov.uk/guidance/living-in-vietnam",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-vn-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Show your passport or accepted international travel document and documents for your stay at overnight accommodation. The accommodation operator or authorized representative files the temporary-residence declaration upon arrival, including for one night.",
+      "scope": "Foreign overnight guests, including hotels and short-term rentals. Ministry guidance on Circular 87/2026/TT-BCA.",
+      "type": "Official guidance",
+      "authority": "Viet Nam Ministry of Public Security",
+      "url": "https://www.mps.gov.vn/bai-viet/khai-bao-tam-tru-cho-nguoi-nuoc-ngoai-co-so-luu-tru-can-chu-dong-1792748300",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-vn-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "UK licence holders driving cars or motorcycles in Viet Nam should carry their UK licence and a 1968 international driving permit. Third-party insurance is required. UK consular guidance also warns that driving with any detected alcohol can lead to penalties.",
+      "scope": "UK licence guidance and FCDO summary of general driving rules.",
+      "type": "Official guidance",
+      "authority": "UK FCDO travel advice for Viet Nam",
+      "url": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-vn-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Defacing or damaging protected cultural heritage or associated historic landscapes is prohibited. Unauthorized digging at archaeological sites and trade in unlawfully sourced antiquities are also prohibited.",
+      "scope": "Viet Nam Cultural Heritage Law, Article 9. Local site rules may add restrictions.",
+      "type": "Official guidance",
+      "authority": "Viet Nam National Assembly, Cultural Heritage Law 45/2024/QH15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat45.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-vn-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Report discovered antiquities or relics and turn them over to the local cultural authority when the owner cannot be identified. Unauthorized searching or recovery of underwater antiquities is prohibited.",
+      "scope": "Cultural Heritage Law, Articles 9 and 45, cultural finds.",
+      "type": "Official guidance",
+      "authority": "Viet Nam National Assembly, Cultural Heritage Law 45/2024/QH15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat45.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-vn-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "The Cultural Heritage Law regulates taking relics, antiques and national treasures abroad and specifies handling for objects seized in illegal exports.",
+      "scope": "Articles 45(4)–(5), cultural objects leaving Viet Nam.",
+      "type": "Official guidance",
+      "authority": "Viet Nam National Assembly, Cultural Heritage Law 45/2024/QH15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat45.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-vn-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "UK consular guidance warns that a road accident investigation can result in a temporary travel ban while the case is investigated.",
+      "scope": "Case-specific road accident proceedings. Consular warning.",
+      "type": "Official guidance",
+      "authority": "UK FCDO travel advice for Viet Nam",
+      "url": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-vn-before_go-cites",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Before crossing the border with wildlife-derived souvenirs or specimens, check permit requirements under Circular 85/2025/TT-BNNMT. Its personal and household effects provision refers to species-specific CITES limits.",
+      "scope": "Viet Nam, national wildlife trade documentation from January 1, 2026, arts. 27–28.",
+      "type": "Official guidance",
+      "authority": "Viet Nam Ministry of Agriculture and Environment, Circular 85/2025/TT-BNNMT",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/28/85signed-1769571088271367033618.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-vn-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "At tourist sites, accommodation establishments and festivals, use designated waste disposal points, limit plastic waste and avoid harming landscapes and animals.",
+      "scope": "Viet Nam national visitor obligations in the environmental protection law, with site rules also applicable.",
+      "type": "Official guidance",
+      "authority": "Viet Nam Environment Administration, Environmental Protection Law 72/2020/QH14",
+      "url": "https://vea.mae.gov.vn/Data/files/2025/Environment%20Protection%20Law_72_2020_QH14.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-vn-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Smoking is banned at health facilities and in other specified facilities. In venues where smoking rooms are permitted, use only a designated area.",
+      "scope": "Viet Nam tobacco law, articles 11–12. Applies to tobacco smoking.",
+      "type": "Official guidance",
+      "authority": "Viet Nam Steering Committee on Smoking and Health",
+      "url": "https://www.vinacosh.gov.vn/en/tobacco-control-law/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-vn-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Ask permission before taking close-up photos of people, including vendors at floating markets.",
+      "scope": "Official tourism etiquette guidance for southern Viet Nam.",
+      "type": "Official guidance",
+      "authority": "Viet Nam National Authority of Tourism",
+      "url": "https://vietnam.travel/things-to-do/southern-vietnam-6-day-itinerary-sun-culture-and-tropical-flavours/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-vn-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "UK consular guidance warns of serious penalties for possessing or using illegal drugs, including cannabis, even in small amounts.",
+      "scope": "Viet Nam, illegal drug possession and use.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-vn-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Plan to pay for small purchases and street vendors in Vietnamese dong. Larger businesses generally accept major international cards.",
+      "scope": "Tourist payment guidance.",
+      "type": "Official guidance",
+      "authority": "Viet Nam National Authority of Tourism",
+      "url": "https://vietnam.travel/things-to-do/currency-and-payments-vietnam/",
+      "checked": "2026-11-27"
     }
   ],
   "ID": [
@@ -2347,6 +2501,116 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Directorate General of Customs and Excise, export FAQ",
       "url": "https://www.beacukai.go.id/faq-tatalaksana-ekspor",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-id-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK guidance says UK-licensed visitors need a UK-issued International Driving Permit and cannot drive on a UK licence alone. Match the permit to the vehicle class.",
+      "scope": "UK-issued credentials for driving or riding in Indonesia.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-id-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "UK consular guidance says Aceh prohibits consumption, production and distribution of alcohol under its provincial Sharia rules, which apply to Muslims and non-Muslims.",
+      "scope": "Aceh province only.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-id-during_visit-curfews",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "During Bali’s annual Nyepi observance, local custom calls for staying indoors, keeping lights off and remaining quiet. The local airport closes for the day, with emergency services allowed to operate.",
+      "scope": "Bali only, during the local Nyepi observance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-id-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "UK consular guidance says capturing protected wild animals and trading in their parts require a licence.",
+      "scope": "Protected wildlife and wildlife parts in Indonesia.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-id-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "Wear modest clothing at temples and other public or visitor sites under Bali’s foreign-visitor circular.",
+      "scope": "Bali only, foreign visitors",
+      "type": "Official guidance",
+      "authority": "Bali Tourism Office, Circular Letter No. 7 of 2025",
+      "url": "https://disparda.baliprov.go.id/bali-cracks-down-on-unruly-tourists-governor-koster-issues-new-regulations",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-id-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Bali’s foreign-visitor circular prohibits inappropriate or nude photography at religious sites.",
+      "scope": "Bali only, foreign visitors",
+      "type": "Official guidance",
+      "authority": "Bali Tourism Office, Circular Letter No. 7 of 2025",
+      "url": "https://disparda.baliprov.go.id/bali-cracks-down-on-unruly-tourists-governor-koster-issues-new-regulations",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-id-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Bali’s tourism authority instructs visitors to respect sacred monuments and sites and prohibits climbing sacred trees or monuments.",
+      "scope": "Bali only, foreign visitors",
+      "type": "Official guidance",
+      "authority": "Bali Tourism Office, Circular Letter No. 7 of 2025",
+      "url": "https://disparda.baliprov.go.id/bali-cracks-down-on-unruly-tourists-governor-koster-issues-new-regulations",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-id-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Wear a helmet when riding a motorbike and use licensed rentals or transport operators.",
+      "scope": "Bali only, foreign visitors",
+      "type": "Official guidance",
+      "authority": "Bali Tourism Office, Circular Letter No. 7 of 2025",
+      "url": "https://disparda.baliprov.go.id/bali-cracks-down-on-unruly-tourists-governor-koster-issues-new-regulations",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-id-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Bali’s circular restricts use of listed single-use plastics and prohibits littering or polluting waterways.",
+      "scope": "Bali only, foreign visitors",
+      "type": "Official guidance",
+      "authority": "Bali Tourism Office, Circular Letter No. 7 of 2025",
+      "url": "https://disparda.baliprov.go.id/bali-cracks-down-on-unruly-tourists-governor-koster-issues-new-regulations",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-id-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Access to designated inner temple areas is restricted to eligible worshippers wearing traditional Balinese attire. Observe site-specific temple admission restrictions.",
+      "scope": "Bali only, foreign visitors",
+      "type": "Official guidance",
+      "authority": "Bali Tourism Office, Circular Letter No. 7 of 2025",
+      "url": "https://disparda.baliprov.go.id/bali-cracks-down-on-unruly-tourists-governor-koster-issues-new-regulations",
       "checked": "2026-11-27"
     }
   ],
@@ -2427,6 +2691,94 @@ globalThis.travelRestrictions = {
       "authority": "India Press Information Bureau for Ministry of Environment",
       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1843398",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-in-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Leave monument walls and surfaces untouched at the Taj Mahal. The official visitor instructions also bar photography inside the main mausoleum.",
+      "scope": "Taj Mahal complex, Agra. Site-specific visitor rules.",
+      "type": "Official guidance",
+      "authority": "Taj Mahal official visitor site",
+      "url": "https://tajmahal.gov.in/dos-and-donts.aspx/maker-of-the-taj-mahal.aspx",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-in-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Provide the required details to your accommodation keeper at check-in and checkout. Under rule 17 the keeper sends Form III arrival details and separately reports departure details electronically within 24 hours of each event.",
+      "scope": "Foreign guests including OCI cardholders. Accommodation reporting lies with the keeper.",
+      "type": "Official guidance",
+      "authority": "India Ministry of Home Affairs, Immigration and Foreigners Rules 2025",
+      "url": "https://www.mha.gov.in/sites/default/files/2025-09/Immigration_and_Foreigners_Rules_2025_16092025.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-in-before_go-cites",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Indian passenger customs guidance lists wildlife products among prohibited goods and endangered animals and plants among restricted goods. Check whether a specific specimen or souvenir is eligible before carrying it across the border.",
+      "scope": "Indian passenger baggage and import/export screening.",
+      "type": "Official guidance",
+      "authority": "India Central Board of Indirect Taxes and Customs",
+      "url": "https://www.cbic.gov.in/resources/htdocs-cbec/Customs_Clearance_of_Passengers_at_a_Glance_2.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-in-before_go-media",
+      "phase": "before_go",
+      "title": "Books, religious media and publications",
+      "text": "Indian passenger customs guidance lists pornographic material and maps or literature showing India’s external boundaries incorrectly among prohibited goods.",
+      "scope": "Indian passenger baggage guidance.",
+      "type": "Official guidance",
+      "authority": "India Central Board of Indirect Taxes and Customs",
+      "url": "https://www.cbic.gov.in/resources/htdocs-cbec/Customs_Clearance_of_Passengers_at_a_Glance_2.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-in-during_visit-religion_speech",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "U.S. consular guidance says missionary activity needs the appropriate Indian visa. Activity on a tourist visa can lead to deportation or prosecution.",
+      "scope": "Religious outreach by foreign travelers. Some states separately regulate religious conversion.",
+      "type": "Official guidance",
+      "authority": "U.S. Department of State",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/india.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-in-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Use the designated waste bins at hill destinations. The Solid Waste Management Rules, 2026 direct local authorities to tell tourists to use these bins and keep bottles, packaging and other waste off hillsides.",
+      "scope": "Indian national framework for waste management in hill areas.",
+      "type": "Official guidance",
+      "authority": "India Ministry of Environment, Forest and Climate Change",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026129773501.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-in-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Do not remove wildlife or forest produce from national parks without the required permit. Statutory exceptions and authorized removal are narrowly scoped.",
+      "scope": "Indian national parks, section 35(6).",
+      "type": "Official guidance",
+      "authority": "India Gazette, Wild Life (Protection) Act section 35(6) as amended in 2002",
+      "url": "https://awbi.gov.in/uploads/documents/168233804871The%20Wildlife%20%28Protection%29%28Amendment%29%20Act%202002.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-in-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Visitors can exchange foreign cash or withdraw Indian rupees in India.",
+      "scope": "Payment planning guidance for visitors.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/india/entry-requirements",
+      "checked": "2026-11-27"
     }
   ],
   "KR": [
@@ -2461,6 +2813,94 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Korea Customs Service, Customs Procedures and Declarable Goods for Departure",
       "url": "https://customs.go.kr/kcs_english/cm/cntnts/cntntsView.do?cntntsId=2720&mi=8032",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c55-kr-before_go-drone_import",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "South Korea’s radio regulator classified the controller-equipped Wi-Fi/5G drone in an official import inquiry as equipment normally subject to radio conformity assessment. A radio-law decree lists a one-unit personal-use exemption, excluding equipment sold within one year. Check how the exemption applies to your aircraft and controller before travel.",
+      "scope": "South Korea. Radio equipment assessment only. Regulator classification applies to the described Wi-Fi/5G consumer drone. Personal-use exemption is conditional.",
+      "type": "Official guidance",
+      "authority": "South Korea Radio Waves Act Enforcement Decree, Article 77-7 and Schedule 6-2, item 1(j), and National Radio Research Agency drone inquiry, 4 August 2025",
+      "url": "https://www.law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=170579543&gubun=",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-kr-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "Official guidance says eligible visitors may drive vehicles covered by a valid international permit or a mutually recognized foreign licence for up to one year from entry.",
+      "scope": "Republic of Korea, eligible foreign licences or international permits and covered vehicle classes.",
+      "type": "Official guidance",
+      "authority": "Korea Ministry of Government Legislation, Road Traffic Act Article 96",
+      "url": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1030973483",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-kr-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "The national royal heritage visitation rules exempt ordinary souvenir photography from the permit process, but special props or costumes can require approval. Site managers can restrict photography in particular areas.",
+      "scope": "Royal Palaces and Tombs Center sites under visitor rules, Article 26.",
+      "type": "Official guidance",
+      "authority": "Korea Heritage Service Royal Palaces and Tombs Center",
+      "url": "https://royal.khs.go.kr/ENG/contents/R704000000.do",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-kr-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Capturing, collecting or killing wildlife species designated under article 19 is generally prohibited, with authorization possible in defined cases.",
+      "scope": "Designated wildlife species under Korean law, including certain non-endangered species.",
+      "type": "Official guidance",
+      "authority": "Republic of Korea National Law Information Center",
+      "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1033113111",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-kr-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Foreign visitors must hold a status of stay that authorizes employment before working in South Korea, subject to the authorized place of employment.",
+      "scope": "Foreign employment under article 18 of the Immigration Act.",
+      "type": "Official guidance",
+      "authority": "Republic of Korea National Law Information Center",
+      "url": "https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0018&lsiSeq=290729&urlMode=lsScJoRltInfoR",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-kr-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "The Royal Palaces and Tombs Center requires qualifying hanbok for free admission under its hanbok program. A mixed outfit with ordinary jeans and only a hanbok top does not qualify.",
+      "scope": "Free-admission clothing policy at participating royal heritage sites, not a general dress requirement.",
+      "type": "Official guidance",
+      "authority": "Korea Heritage Service, Royal Palaces and Tombs Center",
+      "url": "https://royal.khs.go.kr/ENG/contents/R705000000.do",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-kr-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Changdeokgung Palace’s Secret Garden has timed visits, visitor limits and both online and on-site ticket allocations.",
+      "scope": "Changdeokgung Secret Garden, Seoul.",
+      "type": "Official guidance",
+      "authority": "Korea Heritage Service, Royal Palaces and Tombs Center",
+      "url": "https://royal.khs.go.kr/ENG/contents/R702000000.do",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-kr-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "UK travel advice reports severe penalties for the possession, use or trafficking of illegal drugs.",
+      "scope": "In-country controlled substances under South Korean law as summarized in UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/south-korea/safety-and-security",
       "checked": "2026-11-27"
     }
   ],
@@ -2641,6 +3081,94 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Bureau of Customs, CMO 17-2023, §§ 6.7, 7 and 9",
       "url": "https://customs.gov.ph/wp-content/uploads/2023/12/2023CMO-17-2023.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c55-ph-before_go-drone_import",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "Philippine Customs lists an NTC import permit for radiocommunications equipment that requires type acceptance or approval. NTC's type-acceptance register includes specific DJI drones and controllers. Check the exact aircraft and controller models with NTC and Customs before packing them.",
+      "scope": "Type-controlled drone radio equipment covered by Philippine Customs Memorandum Circular 94-2025. The circular describes regulated imports generally. Personal tourist baggage and temporary re-export treatment may be different.",
+      "type": "Official guidance",
+      "authority": "Philippine Bureau of Customs and National Telecommunications Commission",
+      "url": "https://customs.gov.ph/wp-content/uploads/2025/05/2025CMC-94-2025.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ph-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Inside National Museum premises, ordinary photographs are allowed without flash. Commercial photography, photoshoots and media coverage require permission.",
+      "scope": "National Museum of the Philippines visitor guidelines.",
+      "type": "Official guidance",
+      "authority": "National Museum of the Philippines",
+      "url": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/03/01133954/Updated_-Visitor_-Guidelines_20240118_0001.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ph-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "The Philippine Bureau of Immigration warns foreign nationals against participating in public protests and political rallies, according to UK consular guidance.",
+      "scope": "Foreign nationals in the Philippines.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ph-before_go-area_permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "A boat entering Tubbataha Reefs Natural Park needs a vessel entry permit arranged by the operator, captain, owner or representative before entry.",
+      "scope": "Tubbataha Reefs Natural Park.",
+      "type": "Official guidance",
+      "authority": "Tubbataha Management Office",
+      "url": "https://tubbatahareefs.org/permits-and-fees/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ph-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "The National Museum of the Philippines visitor code prohibits extremely revealing clothing and lists hats and caps among items barred inside museum buildings.",
+      "scope": "Museum visitor policy for the three named national museums in Manila.",
+      "type": "Official guidance",
+      "authority": "National Museum of the Philippines",
+      "url": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2023/06/21171345/Visitor-Guidelines-Annex-10.2.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ph-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Do not touch exhibits or lean on the display cases at the National Museum of the Philippines.",
+      "scope": "Museum visitor policy for three national museums in Manila.",
+      "type": "Official guidance",
+      "authority": "National Museum of the Philippines",
+      "url": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2023/06/21171345/Visitor-Guidelines-Annex-10.2.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ph-during_visit-communications",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "Local SIMs, including covered eSIMs, require registration before activation. The implementing rules give local tourist SIMs a 30-day validity period and address extensions.",
+      "scope": "Philippines-operator SIM cards for foreign tourists admitted under section 9(a).",
+      "type": "Official guidance",
+      "authority": "Philippines National Telecommunications Commission",
+      "url": "https://region11.ntc.gov.ph/wp-content/uploads/2022/12/Memorandum-Circular-001-12-2022.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ph-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Do not remove living or nonliving resources from Tubbataha Reefs Natural Park. The protected-area act prohibits unauthorized gathering, taking and possession of park resources.",
+      "scope": "Within Tubbataha Reefs Natural Park, under Republic Act 10067.",
+      "type": "Official guidance",
+      "authority": "Philippine Senate Legislative Reference Bureau",
+      "url": "https://issuances-library.senate.gov.ph/legislative%2Bissuances/Republic%20Act%20No.%2010067",
       "checked": "2026-11-27"
     }
   ],
@@ -2978,6 +3506,116 @@ globalThis.travelRestrictions = {
       "authority": "Sri Lanka Customs, Passenger Services Directorate, Restrictions on Export as Personal Baggage",
       "url": "https://www.customs.gov.lk/about-us/directorates-and-divisions/passenger-services-directorate/",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c55-lk-before_go-power_bank_air",
+      "phase": "before_go",
+      "title": "Power banks and lithium batteries: flight route, carrier, safety and markings",
+      "text": "Sri Lanka's 20 October 2026 dangerous-goods standard applies the current ICAO Technical Instructions to covered air carriage. The active ICAO passenger provisions limit travellers to two power banks per person, require cabin baggage and prohibit recharging power banks on board. Confirm the operating airline's requirements before packing.",
+      "scope": "Sri Lankan regulator baseline for covered operators, including the passenger exception in ICAO Doc 9284 Part 8. Separate State variations and more restrictive operating-carrier conditions may apply.",
+      "type": "Official guidance",
+      "authority": "Civil Aviation Authority of Sri Lanka, IS-009, sections 2.2, 2.4.3, 2.5 and 12, read with ICAO Doc 9284 Addendum No. 1",
+      "url": "https://caa.lk/images/pdf/2026_October/IS_009_Compliance_to_Annex_6__18_with_DGCAs_Signature.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-lk-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Avoid photographing military bases, government buildings and VIP vehicles. UK guidance also advises visitors to avoid posing in front of a Buddha statue.",
+      "scope": "Sri Lanka secure-area photography and conduct around Buddha statues, per UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-lk-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "When visiting Buddhist temples, cover legs and shoulders and remove shoes and hats.",
+      "scope": "Buddhist temple visits in Sri Lanka, per UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-lk-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Observe signs forbidding alcohol in public areas. UK consular guidance says police can issue fines for ignoring those signs.",
+      "scope": "Sri Lankan public areas with posted alcohol prohibitions.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-lk-during_visit-religion_speech",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "Disrespecting Buddhist images or making offensive remarks about religion can lead to arrest, per UK consular guidance.",
+      "scope": "Religious conduct and speech in Sri Lanka.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-lk-before_go-pets",
+      "phase": "before_go",
+      "title": "Pets and animal importation",
+      "text": "Obtain an import permit from the Department of Animal Production and Health before bringing a pet into Sri Lanka. Use the animal-specific conditions for dogs and cats.",
+      "scope": "Sri Lankan animal import controls under section 21 of the Animal Diseases Act.",
+      "type": "Official guidance",
+      "authority": "Sri Lanka Department of Animal Production and Health",
+      "url": "https://daph.gov.lk/services/imp1",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-lk-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "Bring a full foreign driving licence, passport and visa. Submit a translation if the licence is not in English. Airport guidance lists at least one year remaining on the foreign licence and a five-month maximum for the temporary local licence.",
+      "scope": "Temporary driving licence conversion at Bandaranaike International Airport",
+      "type": "Official guidance",
+      "authority": "Airport and Aviation Services Sri Lanka, Department of Motor Traffic service",
+      "url": "https://www.airport.lk/services/Driving",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-lk-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "UK travel guidance advises visitors to avoid posing for photos in front of Buddha statues and warns that visible Buddha tattoos can result in refusal of entry or deportation.",
+      "scope": "Buddhist sites in Sri Lanka, consular guidance",
+      "type": "Official guidance",
+      "authority": "UK FCDO",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-lk-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Use a tourist visa only for the activities it permits. Check with immigration for the appropriate status before undertaking paid or unpaid work.",
+      "scope": "Tourist visa conditions",
+      "type": "Official guidance",
+      "authority": "Sri Lanka Department of Immigration and Emigration",
+      "url": "https://www.immigration.gov.lk/pages_e.php?id=15&locale=en_US",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-lk-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "A tourist-visa extension cancels the initial double-entry facility. Check re-entry eligibility before departing on a side trip.",
+      "scope": "Tourist visa extension and re-entry conditions",
+      "type": "Official guidance",
+      "authority": "Sri Lanka Department of Immigration and Emigration",
+      "url": "https://www.immigration.gov.lk/pages_e.php?id=15&locale=en_US",
+      "checked": "2026-11-27"
     }
   ],
   "AR": [
@@ -3023,6 +3661,61 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Servicio Nacional de Sanidad y Calidad Agroalimentaria, Ingresos con perros y/o gatos",
       "url": "https://www.argentina.gob.ar/senasa/informacion-al-viajero/ingresar-o-regresar-al-pais/ingresos-con-perros-yo-gatos",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ar-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "For a UK licence holder, UK guidance says to carry a 1949 International Driving Permit and your UK driving licence in the car.",
+      "scope": "Argentina, visitors driving on UK-issued credentials.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/argentina/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ar-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Los Glaciares National Park does not allow visitors to bring pets.",
+      "scope": "Los Glaciares National Park visitor guidance.",
+      "type": "Official guidance",
+      "authority": "Argentina National Parks Administration",
+      "url": "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/recomendaciones-para-visitar-el-parque-nacional-los-glaciares",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ar-before_go-electronics",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "The customs guide lists one cell phone and one notebook or tablet under the duty-free personal baggage exemption.",
+      "scope": "Accompanied traveler baggage",
+      "type": "Official guidance",
+      "authority": "Argentine Customs",
+      "url": "https://www.argentina.gob.ar/sites/default/files/afip-infografiaregimenequipaje.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ar-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Clothes and other personal belongings without commercial purpose qualify for the published personal baggage exemption.",
+      "scope": "Accompanied traveler baggage",
+      "type": "Official guidance",
+      "authority": "Argentine Customs",
+      "url": "https://www.argentina.gob.ar/sites/default/files/afip-infografiaregimenequipaje.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ar-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Argentina’s national traffic law prohibits driving with any blood alcohol above zero. Check provincial or local rules for your route.",
+      "scope": "Roads governed by Argentina’s national traffic law",
+      "type": "Official guidance",
+      "authority": "Argentine Congress, Law 27,714",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-27714-383043/texto",
       "checked": "2026-11-27"
     }
   ],
@@ -3102,6 +3795,116 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Brazil National Traffic Secretariat",
       "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/carteira-internacional",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-br-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Report a discovery of archaeological property immediately to Iphan.",
+      "scope": "Archaeological discoveries in Brazil.",
+      "type": "Official guidance",
+      "authority": "Brazil National Institute of Historic and Artistic Heritage (Iphan)",
+      "url": "https://www.gov.br/iphan/pt-br/patrimonio-cultural/patrimonio-arqueologico/cadastro-de-sitios-arqueologicos",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-br-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Capturing wild fauna or collecting and transporting wild-animal specimens or biological samples requires SISBio authorization under the ICMBio rules.",
+      "scope": "Wild fauna and zoological biological material subject to the ICMBio authorization rules.",
+      "type": "Official guidance",
+      "authority": "Brazil Chico Mendes Institute for Biodiversity Conservation (ICMBio)",
+      "url": "https://www.gov.br/icmbio/pt-br/servicos/servicos-do-icmbio-no-gov.br/autorizacoes/pesquisa-nas-ucs-sisbio/duvidas-frequentes/coleta-de-material-zoologico",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-br-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "ICMBio offers advance reservations for certain federal protected areas. Its Iguaçu National Park reservation option is for educational visits, and the concessionaire still sells regular admission.",
+      "scope": "Listed federal protected areas and the Iguaçu site-specific booking exception.",
+      "type": "Official guidance",
+      "authority": "Brazil Chico Mendes Institute for Biodiversity Conservation (ICMBio)",
+      "url": "https://www.gov.br/pt-br/servicos/visitar-unidades-de-conservacao-federais",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-before_go-electronics",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Brazilian customs lists one used mobile phone and one used still camera as examples of personal effects when consistent with the trip. Laptops, tablets and dedicated video cameras are outside that specific personal-effects class.",
+      "scope": "Inbound baggage classification.",
+      "type": "Official guidance",
+      "authority": "Brazil Federal Revenue Service",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/entrada-no-brasil/bens-do-viajante",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Personal clothing qualifies as personal-use baggage when its nature and amount are consistent with the trip. Customs can ask for evidence of compatibility.",
+      "scope": "Inbound traveler baggage.",
+      "type": "Official guidance",
+      "authority": "Brazil Federal Revenue Service",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/entrada-no-brasil/bens-do-viajante",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-before_go-media",
+      "phase": "before_go",
+      "title": "Books, religious media and publications",
+      "text": "Books, pamphlets and periodicals in accompanied baggage qualify for the exemption from import duties and taxes. Material carried for commercial purposes is outside the baggage classification.",
+      "scope": "Accompanied baggage tax exemption.",
+      "type": "Official guidance",
+      "authority": "Brazil Federal Revenue Service",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/travellers-guide/arriving-in-brazill/exemptions-quotas-quantity-limits-and-duty-free",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "At federal conservation units, ICMBio allows photography and video during public visiting hours in areas open to visitors. Request special authorization to record outside the open hours or areas.",
+      "scope": "Brazilian federal conservation units under Instruction 12/2025.",
+      "type": "Official guidance",
+      "authority": "Brazil Chico Mendes Institute for Biodiversity Conservation",
+      "url": "https://www.gov.br/icmbio/pt-br/experiencias/observacao-de-aves/captacao-e-uso-de-imagens",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Holders of a Brazilian visit visa do not have to register with Federal Police or the foreign ministry. Temporary visa holders register with Federal Police.",
+      "scope": "Brazilian visit and temporary visa holders.",
+      "type": "Official guidance",
+      "authority": "Brazil Federal Police",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/imigracao/en/duvidas",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "A Brazilian visit visa does not authorize paid work. Article 14 allows specified expense payments, fees or prizes under defined conditions.",
+      "scope": "Brazil visit visa holders.",
+      "type": "Official guidance",
+      "authority": "Brazil Ministry of Justice and Public Security, Migration Law 13,445 Article 14",
+      "url": "https://portaldeimigracao.mj.gov.br/images/Leis%20e%20decretos%20-%20legisla%C3%A7%C3%A3o/LEI%20N%C2%BA%2013.445%2C%20DE%2024%20DE%20MAIO%20DE%202017.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-br-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Pack out waste at Itatiaia National Park. Campfires are prohibited, and portable cooking stoves may be used only in designated camping or shelter areas under park conditions.",
+      "scope": "Itatiaia National Park visitor protocol.",
+      "type": "Official guidance",
+      "authority": "Brazil Chico Mendes Institute for Biodiversity Conservation",
+      "url": "https://www.icmbio.gov.br/parnaitatiaia/images/stories/2024/PROV-PNI_com_anexos.pdf",
       "checked": "2026-11-27"
     }
   ],
@@ -3215,6 +4018,94 @@ globalThis.travelRestrictions = {
       "authority": "Colombian Agricultural Institute, Dog and Cat Entry",
       "url": "https://www.ica.gov.co/importacion-y-exportacion/requisitos-para-importar-mascotas/ingreso-de-perros-y-gatos-a-colombia",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-co-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "At El Cocuy National Natural Park, visitors must register and take an orientation at least one day before entry. Access to the glacier, eastern flank and Vuelta a la Sierra trail is prohibited under the cited order.",
+      "scope": "El Cocuy National Natural Park visitor rules in Auto 003 of 2025.",
+      "type": "Official guidance",
+      "authority": "Parques Nacionales Naturales de Colombia",
+      "url": "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/08/3.-Auto-de-003-2025-PNN-EL-COCUY.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Clothing reasonably required for the trip can qualify as personal effects, separate from clothing brought as a commercial shipment. Customs assesses the circumstances of the journey.",
+      "scope": "Inbound travelers’ personal effects.",
+      "type": "Official guidance",
+      "authority": "Colombian National Tax and Customs Directorate",
+      "url": "https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/Paginas/tramites-aduaneros.aspx",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-before_go-electronics",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "DIAN describes a separate paid allowance for eligible electrical household or professional articles after a qualifying minimum five calendar days abroad. The general allowance limits these classes to three of each type and imposes an overall value limit.",
+      "scope": "Qualified traveler baggage under the paid allowance.",
+      "type": "Official guidance",
+      "authority": "Colombian National Tax and Customs Directorate",
+      "url": "https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/Paginas/tramites-aduaneros.aspx",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Report an apparent archaeological find to the heritage authority. Archaeological artifacts are protected and unregistered possession can lead to seizure or sanctions.",
+      "scope": "Colombian archaeological heritage.",
+      "type": "Official guidance",
+      "authority": "Colombian Institute of Anthropology and History",
+      "url": "https://www.icanh.gov.co/generales/preguntas-frecuentes-3",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Smoke- and aerosol-free venue rules cover smoking and vaping. Venues named in ministry guidance include restaurants, bars, museums and transport.",
+      "scope": "National rules for designated smoke- and aerosol-free settings.",
+      "type": "Official guidance",
+      "authority": "Colombian Ministry of Health and Social Protection, Resolution 624 of 2025",
+      "url": "https://www2.minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No%20624%20de%202025.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Check-in information for foreign guests is reported through Colombia’s foreigner reporting system. Provide valid travel identification when the lodging operator asks for it.",
+      "scope": "Accommodation provider reporting obligation.",
+      "type": "Official guidance",
+      "authority": "Migración Colombia",
+      "url": "https://www.migracioncolombia.gov.co/preguntas-frecuentes-importadas",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "Minors subject to Colombia’s departure authorization rules need written permission from the parent or parents who are not traveling with them. The agency explains notarization and requirements when the signer is overseas.",
+      "scope": "Departures of minors subject to the official authorization procedure.",
+      "type": "Official guidance",
+      "authority": "Migración Colombia",
+      "url": "https://www.migracioncolombia.gov.co/tramites-y-servicios/instructivos/salida-del-pais-para-menores-de-edad",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-co-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "A V Tourism visa covers leisure, tourism or cultural activities and does not permit work in Colombia.",
+      "scope": "V Tourism visa holders.",
+      "type": "Official guidance",
+      "authority": "Colombian Ministry of Foreign Affairs, Resolution 5477 of 2022, article 34",
+      "url": "https://cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/resolucion_minrelaciones_5477_2022.pdf",
+      "checked": "2026-11-27"
     }
   ],
   "CR": [
@@ -3271,6 +4162,94 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Servicio Nacional de Salud Animal, entry requirements for dogs and cats",
       "url": "https://www.senasa.go.cr/informacion/noticias/617-conozca-los-requisitos-sanitarios-establecidos-por-senasa-para-la-importacion-de-perros-y-gatos",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-cr-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Costa Rica generally prohibits collecting wild fauna. The wildlife law specifies narrow exceptions for legally established operations and separately regulates permits for scientific collecting.",
+      "scope": "Costa Rica Wildlife Conservation Law 7317, notably articles 14 and 36–43.",
+      "type": "Official guidance",
+      "authority": "Costa Rica National System of Conservation Areas (SINAC)",
+      "url": "https://www.sinac.go.cr/ES/normativa/Leyes2/2023/Ley%20de%20Conservaci%C3%B3n%20de%20la%20Vida%20Silvestre%20N%C2%BA%207317.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-cr-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "Article 78 identifies authorized ports for importing, exporting or transiting wild animals or plants. Before taking such material out of the country, ask SINAC whether export is allowed, which permits are required and which exit port may be used.",
+      "scope": "Costa Rica Wildlife Conservation Law 7317, article 78.",
+      "type": "Official guidance",
+      "authority": "Costa Rica National System of Conservation Areas (SINAC)",
+      "url": "https://www.sinac.go.cr/ES/normativa/Leyes2/2023/Ley%20de%20Conservaci%C3%B3n%20de%20la%20Vida%20Silvestre%20N%C2%BA%207317.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-cr-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK visitors may use a UK photocard licence for up to 180 days, subject to the period admitted as a tourist. Paper licence holders may need an International Driving Permit or a photocard.",
+      "scope": "UK driving credentials in Costa Rica.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-cr-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "San José restricts entry of private cars on certain weekdays according to the final number on their licence plate.",
+      "scope": "San José, local circulation controls.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-cr-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "UK government guidance warns that unauthorized entry to restricted conservation areas can result in fines.",
+      "scope": "Restricted conservation areas in Costa Rica.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-cr-before_go-plastics",
+      "phase": "before_go",
+      "title": "Plastic bags, disposable products and packaging",
+      "text": "Retailers generally cannot sell or give away plastic carry bags, subject to defined reusable-bag exceptions. The law also restricts sale and free distribution of single-use plastic straws.",
+      "scope": "Point-of-sale plastic restrictions, national",
+      "type": "Official guidance",
+      "authority": "Costa Rican Legislative Assembly, Law 9786",
+      "url": "https://www.binasss.sa.cr/opac-ms/media/digitales/Ley%20para%20combatir%20la%20contaminaci%C3%B3n%20por%20pl%C3%A1stico%20y%20proteger%20el%20ambiente.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-cr-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Smoking and use of listed tobacco-vapor devices are prohibited in specified smoke-free settings including health facilities and covered workplaces.",
+      "scope": "Specified smoke-free places in Costa Rica",
+      "type": "Official guidance",
+      "authority": "Government of Costa Rica, Regulation under Law 9028, article 5",
+      "url": "https://www.icoder.go.cr/fileadmin/documentos/tramites/caja_de_herramientas/leyes_y_sus_reglamentos/Ley_N__9028_Reglamento_Ley_General_de_Control_del_Tabaco_y_sus_efectos_nocivos_en_la_salud.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-cr-before_go-area_permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Reserve admission online in advance and complete registration at the park’s administrative office before entering. Check current entry and office hours.",
+      "scope": "Chirripó National Park",
+      "type": "Official guidance",
+      "authority": "Costa Rica National System of Conservation Areas",
+      "url": "https://www.sinac.go.cr/ES/ac/aclap/pnch/Paginas/default.aspx",
       "checked": "2026-11-27"
     }
   ],
@@ -3361,6 +4340,116 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Peru Consulate in Rome, foreign driving licence FAQ",
       "url": "https://www.consulado.pe/es/roma/Lists/Preguntas/DispForm.aspx?ContentTypeId=0x01003E9ECA227EE01B47AEDE00E7B9489DD7&ID=57",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-pe-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "At the Inka city of Machupicchu, staff verify that the visitor’s identity document and arrival time match their admission ticket. Visit duration depends on the selected circuit, and re-entry is generally barred outside exceptional circumstances.",
+      "scope": "Machupicchu Inka city admission and visit duration under Articles 17 and 18.",
+      "type": "Official guidance",
+      "authority": "Peru Ministry of Culture",
+      "url": "https://transparencia.cultura.gob.pe/sites/default/files/transparencia/2024/04/resoluciones-ministeriales/rm000159-2024-mc-reglamento.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-pe-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "A UK photocard licence may be used for up to six months while the visitor has valid immigration permission. Drivers should carry their passport or, for residents, valid resident ID.",
+      "scope": "UK licence holders driving in Peru, per UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/peru/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-before_go-electronics",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Peruvian customs lists one laptop, one tablet and two still cameras among the separately enumerated passenger exemptions. It lists two mobile phones with a lower allowance for younger passengers.",
+      "scope": "Inbound personal baggage, subject to SUNAT passenger age and unit limits.",
+      "type": "Official guidance",
+      "authority": "Peru National Superintendency of Customs and Tax Administration",
+      "url": "https://bienvenidoalperu.sunat.gob.pe/es.bienes-o-articulos-libres-de-impuesto.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "SUNAT exempts clothing and personal adornments from baggage tax and declaration when they are visibly for the passenger’s own use.",
+      "scope": "Inbound personally used passenger items.",
+      "type": "Official guidance",
+      "authority": "Peru National Superintendency of Customs and Tax Administration",
+      "url": "https://bienvenidoalperu.sunat.gob.pe/es.bienes-o-articulos-libres-de-impuesto.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-before_go-media",
+      "phase": "before_go",
+      "title": "Books, religious media and publications",
+      "text": "Printed books, magazines and documents for the passenger’s personal use qualify for the published tax and baggage-declaration exemption.",
+      "scope": "Inbound physical reading material for personal use.",
+      "type": "Official guidance",
+      "authority": "Peru National Superintendency of Customs and Tax Administration",
+      "url": "https://bienvenidoalperu.sunat.gob.pe/es.bienes-o-articulos-libres-de-impuesto.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Smoking and vaping are prohibited on public transport and in enclosed public spaces, government offices, workplaces, health establishments and educational facilities.",
+      "scope": "Peruvian statutory public-use restrictions.",
+      "type": "Official guidance",
+      "authority": "Peru official gazette, Law 32159 Article 6",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2343203-1",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Do not remove natural resources from nationally administered indirect-use protected areas such as national parks or national and historic sanctuaries. Direct-use reserves have separate managed-use rules.",
+      "scope": "Peru indirect-use protected areas.",
+      "type": "Official guidance",
+      "authority": "Peru National Service of State-Protected Natural Areas (SERNANP)",
+      "url": "https://geoportal.sernanp.gob.pe/wp-content/uploads/2023/04/Mapa-de-uso-Indirecto-y-Directo-1.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Visitors to Paracas National Reserve enter through the Santo Domingo control post during the published visitor hours.",
+      "scope": "Paracas National Reserve, Ica.",
+      "type": "Official guidance",
+      "authority": "Peru National Service of State-Protected Natural Areas (SERNANP)",
+      "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-de-paracas/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Have your travel or identity document available when checking in. Accommodation providers must record foreign guests and send their information to Migraciones.",
+      "scope": "Foreign guests at Peruvian accommodation providers.",
+      "type": "Official guidance",
+      "authority": "Peru official gazette, migration regulations amended by Supreme Decree 011-2024-IN",
+      "url": "https://diariooficial.elperuano.pe/Normas/obtenerDocumento?idNorma=73",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pe-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Peruvian tourist status permits tourism, leisure, health and similar activities and prohibits work and paid or profit-making activity.",
+      "scope": "Visitors admitted under Peru’s tourist immigration category.",
+      "type": "Official guidance",
+      "authority": "Congress of Peru, Legislative Decree 1687 Article 29(h)",
+      "url": "https://leyes.congreso.gob.pe/Documentos/2021_2026/Decretos/Legislativos/2024/DL-1687-2024.pdf",
       "checked": "2026-11-27"
     }
   ],
@@ -3473,6 +4562,116 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Egyptian Customs Authority, traveler and tourism rules",
       "url": "https://www.customs.gov.eg/Legislations/TravelAndTourism?travelAndTourismId=1",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-eg-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Visitors to the Egyptian Museum must leave exhibits untouched. The museum bars flash photography and excludes food and drinks from galleries apart from small water bottles.",
+      "scope": "Egyptian Museum, Cairo. Site-specific visitor rules.",
+      "type": "Official guidance",
+      "authority": "Egypt Ministry of Tourism and Antiquities, Egyptian Museum",
+      "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-eg-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Drinking alcohol is restricted to licensed restaurants and bars, private homes, and certain tourist resorts, according to UK consular guidance.",
+      "scope": "Egypt. Consular summary, with tourist resort exceptions.",
+      "type": "Official guidance",
+      "authority": "UK FCDO travel advice for Egypt",
+      "url": "https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-eg-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Drivers and front-seat passengers must wear seat belts. UK consular guidance calls for carrying a UK licence with a 1949 International Driving Permit for up to six months, after which an Egyptian licence is required.",
+      "scope": "Seat belt rule as reported by FCDO. Permit advice applies to UK licence holders.",
+      "type": "Official guidance",
+      "authority": "UK FCDO travel advice for Egypt",
+      "url": "https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-eg-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Egypt’s natural protectorates law prohibits taking or moving shells, corals, rocks or soil from protected areas.",
+      "scope": "Designated natural protectorates under Article 2 of Law 102 of 1983.",
+      "type": "Official guidance",
+      "authority": "Egyptian Environmental Affairs Agency, Law 102 of 1983",
+      "url": "https://www.eeaa.gov.eg/Uploads/Laws/Files/20221010130623549.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-eg-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Egypt prohibits polluting protected-area land, water or air and damaging habitats or other natural features within protected areas.",
+      "scope": "Article 2 of Law 102 of 1983, designated natural protectorates.",
+      "type": "Official guidance",
+      "authority": "Egyptian Environmental Affairs Agency, Law 102 of 1983",
+      "url": "https://www.eeaa.gov.eg/Uploads/Laws/Files/20221010130623549.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-eg-before_go-cites",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "U.S. trade guidance identifies ivory as prohibited for import, export and sale in Egypt. It also warns travelers that taking seashells and coral out of the country is illegal.",
+      "scope": "Egypt, listed wildlife items and souvenirs.",
+      "type": "Official guidance",
+      "authority": "U.S. International Trade Administration",
+      "url": "https://www.trade.gov/country-commercial-guides/egypt-temporary-entry",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-eg-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "UK consular guidance warns of severe penalties even for small quantities of illegal drugs and identifies khat as illegal in Egypt.",
+      "scope": "Possession and use in Egypt.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-eg-during_visit-communications",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "Foreign tourists can use their device with a foreign SIM without the domestic device fee. The portal says visitors using a designated Egyptian tourist SIM can receive a fee exemption for up to 90 days per visit.",
+      "scope": "Foreign tourists using personal phones and the specified SIM types in Egypt.",
+      "type": "Official guidance",
+      "authority": "Egypt Government Telephony device-registration portal",
+      "url": "https://www.telephony.gov.eg/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-eg-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Accommodation providers may request payment in US dollars or euros. Established hotels and resorts commonly accept cards.",
+      "scope": "Egypt tourist accommodation payment guidance.",
+      "type": "Official guidance",
+      "authority": "Australian Department of Foreign Affairs and Trade",
+      "url": "https://www.smartraveller.gov.au/destinations/africa/egypt",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-eg-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "Keep the passport containing your entry visa stamp available for inspection at departure. U.S. consular guidance says travelers who leave after their visa expires may have to pay a fine.",
+      "scope": "Egypt departure guidance for U.S. travelers.",
+      "type": "Official guidance",
+      "authority": "U.S. Department of State",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/egypt.html",
       "checked": "2026-11-27"
     }
   ],
@@ -3619,6 +4818,160 @@ globalThis.travelRestrictions = {
       "authority": "CITES Secretariat workshop report, Jordan authority response",
       "url": "https://cites.org/sites/default/files/eng/news/news-item/2020/CITES%20Meeting%20Report_V08.09.2020_FULL%20REPORT.pdf",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-jo-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Leave Petra Archaeological Park by its posted closing time. UK consular guidance reports a risk of arrest and prosecution for remaining inside after hours.",
+      "scope": "Petra Archaeological Park.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-jo-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Drinking alcohol on the street is illegal. Bars, hotels and private homes are examples of venues where drinking is allowed.",
+      "scope": "Street drinking in Jordan as described by UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-jo-during_visit-religion_speech",
+      "phase": "during_visit",
+      "title": "Religious and speech restrictions",
+      "text": "UK consular guidance reports that encouraging conversion to Christianity in Jordan can lead to a fine or imprisonment.",
+      "scope": "Proselytism to Christianity in Jordan per UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-jo-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "Drivers with a UK licence must carry it together with the 1949 international driving permit when driving in Jordan, according to UK consular guidance.",
+      "scope": "UK licence holders driving in Jordan.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-jo-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Wear seat belts in front seats, avoid using a mobile phone while driving and ensure the car carries a fire extinguisher and warning triangle. After a crash, wait at the scene for police.",
+      "scope": "Jordan road rule summary from UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-jo-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "The Tourism Board asks visitors to stay on paths and avoid feeding wildlife. Its reserve guidance says fires are forbidden except in marked barbecue pits.",
+      "scope": "Jordan nature-reserve visitor guidance.",
+      "type": "Official guidance",
+      "authority": "Jordan Tourism Board",
+      "url": "https://international.visitjordan.com/Brochures/Adventure%26Eco%20Brochure-English%20for%20Web.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-jo-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Jordan Tourism Board guidance asks nature visitors to leave flowers and other plants in place.",
+      "scope": "Jordan Tourism Board guidance for natural landscapes.",
+      "type": "Official guidance",
+      "authority": "Jordan Tourism Board",
+      "url": "https://international.visitjordan.com/Brochures/Adventure%26Eco%20Brochure-English%20for%20Web.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Pack clothing that covers shoulders and knees for visits to churches, mosaic sites and the Baptism Site on the Tourism Board’s cultural and faith itineraries.",
+      "scope": "Packing advice for the named cultural and religious visits. No border rule inferred.",
+      "type": "Official guidance",
+      "authority": "Jordan Tourism Board",
+      "url": "https://international.visitjordan.com/blog/external/7622/3-day-jordan-tour-from-amman/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "The Tourism Board recommends conservative dress for visitors in old Amman and outside the cities.",
+      "scope": "Visitor etiquette around old Amman and outside urban areas.",
+      "type": "Official guidance",
+      "authority": "Jordan Tourism Board",
+      "url": "https://international.visitjordan.com/Brochures/Visitors%27guide%20Brochure-English%20for%20Web.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Bring official photo ID on site at Dana. The operator lists age 18 as the minimum for the Wadi Ghweir and Wadi Al Dathneh trails and notes that availability depends on guides and weather.",
+      "scope": "Dana reserve and the named trails only.",
+      "type": "Official guidance",
+      "authority": "Royal Society for the Conservation of Nature",
+      "url": "https://www.rscn.org.jo/uploaded_files/reservation/Dana%202024-1.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Foreigners who wish to stay more than two weeks must register their place of residence with the Public Security Directorate, a branch or a security center and submit supporting documents.",
+      "scope": "Foreigners staying more than two weeks, per the ministry’s explanation of Article 11.",
+      "type": "Official guidance",
+      "authority": "Jordan Ministry of Interior",
+      "url": "https://www.moi.gov.jo/En/NewsDetails/The_Ministries_of_Interior_Labor_and_Public_Security_are_calling_on_foreigners_to_rectify_their_legal_status_and_register_their_place_of_residence_at_the_nearest_security_center",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Foreign nationals need the applicable Ministry of Labour permit to take employment in Jordan.",
+      "scope": "Employment of non-Jordanians under the Labour Law.",
+      "type": "Official guidance",
+      "authority": "Jordan Ministry of Labour, Labour Law Article 12",
+      "url": "https://www.mol.gov.jo/ebv4.0/root_storage/en/eb_list_page/labor_law_no_8_of_1996.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "UK guidance says Jordan charges a departure tax of 10 Jordanian dinars in cash at land border crossings.",
+      "scope": "Land departures from Jordan only.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-jo-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Keep prescription medicines in their original packaging and retain the prescription while in Jordan, as advised by the U.S. Department of State.",
+      "scope": "U.S. consular advice on carrying prescribed medication in Jordan.",
+      "type": "Official guidance",
+      "authority": "U.S. Department of State",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/jordan.html",
+      "checked": "2026-11-27"
     }
   ],
   "MA": [
@@ -3653,6 +5006,83 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "ONSSA, Importation de chiens et chats",
       "url": "https://www.onssa.gov.ma/controle-a-limportation-et-a-lexportation/controle-a-limportation/importation-des-animaux-vivants/chiens-et-chats/?lang=en",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c55-ma-before_go-arrival_forms",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "Moroccan border officers may check a foreign traveler’s means of support, purpose of travel and arrangements for return. Be prepared to show supporting evidence if asked.",
+      "scope": "Discretionary supporting-evidence check under Article 4 of Law 02-03 for foreign travelers at Moroccan border posts.",
+      "type": "Official guidance",
+      "authority": "Morocco General Secretariat of Government, Law 02-03, Articles 3–4",
+      "url": "https://www.sgg.gov.ma/Portals/0/profession_reglementee/Dahir_immigration_fr.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ma-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK-licensed visitors should carry their UK licence and a 1968 International Driving Permit in the vehicle. UK guidance says Morocco no longer accepts the 1949 version.",
+      "scope": "Visitors driving on a UK licence.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ma-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "UK consular advice says drinking in the street or outside licensed restaurants or bars can lead to arrest.",
+      "scope": "Morocco public alcohol conduct, as described in UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ma-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "UK consular advice recommends following local dress customs, especially near religious areas and during Ramadan.",
+      "scope": "Traveler etiquette guidance; individual site conditions may differ.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ma-before_go-cites",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Check whether a wildlife specimen or souvenir needs an import, export or re-export permit or certificate. Morocco’s protected-species law makes those documents specific to the named holder.",
+      "scope": "Specimens covered by Morocco’s protected-species and trade law.",
+      "type": "Official guidance",
+      "authority": "Morocco Ministry of Maritime Fisheries, Law 29-05",
+      "url": "https://www.mpm.gov.ma/wps/wcm/connect/e6d816f1-cf12-4476-828e-96387522e211/loi%2Bfran%C3%A7ais%2Bf%C3%A9vrier%2B2023.pdf?MOD=AJPERES",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ma-before_go-media",
+      "phase": "before_go",
+      "title": "Books, religious media and publications",
+      "text": "UK guidance reports that distributing evangelical literature such as Arabic-language bibles is illegal.",
+      "scope": "Distribution in Morocco. Merely carrying material for private use requires a separate border check.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ma-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "UK travel advice reports severe penalties for possession or use of illegal drugs, including cannabis.",
+      "scope": "In-country controlled substance possession, per UK travel guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
       "checked": "2026-11-27"
     }
   ],
@@ -3754,6 +5184,116 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Qatar Hukoomi, Driving License",
       "url": "https://portal.www.gov.qa/wps/wcm/connect/hukoomi%2Bweb%2Bcontent/hukoomi/topics/transportation/drivinglicense",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-qa-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "At Qatar Museums heritage sites, keep to marked tracks and leave archaeological structures and objects undisturbed. Galleries prohibit flash photography, tripods and selfie sticks.",
+      "scope": "Qatar Museums heritage sites and galleries, according to the venue rule.",
+      "type": "Official guidance",
+      "authority": "Qatar Museums",
+      "url": "https://qm.org.qa/en/visit/visitor-guidelines/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-qa-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Qatar’s Natural Reserves Department issues permits for entry and visits. Check the requirements for the specific reserve before traveling.",
+      "scope": "Ministry-managed natural reserve permitting in Qatar.",
+      "type": "Official guidance",
+      "authority": "Qatar Ministry of Environment and Climate Change",
+      "url": "https://www.mecc.gov.qa/English/About/Departments/Minister/Undersecretary/AssistantUndersecretaryProtection/Pages/Natural-Reserves-Department.aspx",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-qa-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "UK consular guidance warns that certain financial cases can result in a travel ban and outstanding financial obligations may prevent departure.",
+      "scope": "Qatar financial cases and exit restrictions.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/qatar/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Pack clothing that covers shoulders and knees for public places, as recommended by the national tourism board.",
+      "scope": "Local dress etiquette for men and women. No border rule inferred.",
+      "type": "Official guidance",
+      "authority": "Visit Qatar",
+      "url": "https://visitqatar.com/intl-en/plan-your-trip/travel-tips",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-before_go-media",
+      "phase": "before_go",
+      "title": "Books, religious media and publications",
+      "text": "Qatar Customs lists sexually explicit or otherwise indecent books, magazines and films among prohibited goods in its personal import guidance.",
+      "scope": "Personal import classification.",
+      "type": "Official guidance",
+      "authority": "Qatar General Authority of Customs",
+      "url": "https://customs.gov.qa/English/PassengersIndividualsPortal/Pages/IndividualsImporting.aspx",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "Exporting movable antiquities generally requires authorization from Qatar Museums under the antiquities law.",
+      "scope": "Export of movable antiquities, including potentially regulated purchases or finds.",
+      "type": "Official guidance",
+      "authority": "Qatar Legal Portal, Antiquities Law No. 2 of 1980 as amended",
+      "url": "https://www.almeezan.qa/LawView.aspx?LawID=3976&language=en&opt=",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "If the permitted supply of a controlled medication runs out during your stay, consult a licensed doctor in Qatar. Continued local dispensing requires assessment, a facility-approved prescription and local availability.",
+      "scope": "In-country supply of controlled medication under the travelers guideline.",
+      "type": "Official guidance",
+      "authority": "Qatar Ministry of Public Health",
+      "url": "https://www.moph.gov.qa/_layouts/15/download.aspx?SourceUrl=%2FAdmin%2FLists%2FPublicationsAttachments%2FAttachments%2F201%2FGuideline-of-Controlled-Drugs-for-Travellers+-+English.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "At Al Reem Biosphere Reserve, use licensed campgrounds and put litter in the provided containers or take it with you.",
+      "scope": "Site-specific Al Reem Biosphere Reserve visitor guidance.",
+      "type": "Official guidance",
+      "authority": "Qatar Ministry of Municipality and Environment",
+      "url": "https://www.mme.gov.qa/static/cat_doc/env/AlreemBiosphereReserveEnglishSide.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Qatar’s protected-wildlife law restricts removing or cutting natural organisms or their parts and collecting seeds in the covered areas. It provides an approved scientific-purpose exception.",
+      "scope": "Wildlife and natural-reserve protections under Article 4.",
+      "type": "Official guidance",
+      "authority": "Qatar Legal Portal, Wildlife Conservation Law No. 19 of 2004 Article 4",
+      "url": "https://www.almeezan.qa/LawArticles.aspx?LawArticleID=5532&LawId=141&language=en",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-qa-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Non-Qatari workers need the applicable work permit from the ministry to take employment in Qatar.",
+      "scope": "Work covered by Qatar Labour Law.",
+      "type": "Official guidance",
+      "authority": "Qatar Legal Portal, Labour Law Article 23",
+      "url": "https://www.almeezan.qa/LawArticles.aspx?LawArticleID=51817&LawId=3961&language=en",
       "checked": "2026-11-27"
     }
   ],
@@ -3867,6 +5407,83 @@ globalThis.travelRestrictions = {
       "authority": "Swiss National Park, protection regulations",
       "url": "https://nationalpark.ch/en/protection-regulations/",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-ch-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "Switzerland generally prohibits covering the face in public places. Exceptions include health, safety and weather protection, places of worship, aircraft, and specified cultural activities.",
+      "scope": "Swiss federal law in effect since January 1, 2025. The Federal Office of Justice lists further exceptions.",
+      "type": "Official guidance",
+      "authority": "Swiss Federal Office of Justice",
+      "url": "https://www.bj.admin.ch/en/information-on-the-ban-on-covering-the-face-in-switzerland",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-ch-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Obtain a sticker or electronic motorway vignette before using covered Swiss motorways or expressways with a passenger vehicle, motorcycle or other qualifying light vehicle. Certain heavier vehicles are subject to a separate road charge.",
+      "scope": "Swiss federal road toll, qualifying light vehicles up to 3.5 tonnes on covered roads.",
+      "type": "Official guidance",
+      "authority": "Swiss Confederation, cantons and communes",
+      "url": "https://www.ch.ch/en/vehicles-and-traffic/how-to-behave-in-road-traffic/motorway-vignette/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ch-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "A permit and fee apply to certain filming or photography at the National Museum Zurich, including commercial use and shoots with bulky equipment. Submit relevant requests at least 20 days ahead.",
+      "scope": "National Museum Zurich grounds and the museum’s specified activities.",
+      "type": "Official guidance",
+      "authority": "Swiss National Museum Zurich",
+      "url": "https://www.landesmuseum.ch/en/services/photography-and-filming",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ch-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "At Chillon Castle, do not touch murals, tapestries, furniture or weapons in the collection. Stay behind visitor barriers.",
+      "scope": "Chillon Castle site rules.",
+      "type": "Official guidance",
+      "authority": "Chillon Castle Foundation",
+      "url": "https://www.chillon.ch/wp-content/uploads/2025/04/rules-and-regulation-300425.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ch-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Smoking and vaping are restricted in enclosed publicly accessible places under Swiss rules. Authorized smoking rooms and certain specialist retailer tasting zones are subject to conditions.",
+      "scope": "Swiss national secondhand-smoke framework, with some stricter cantonal requirements.",
+      "type": "Official guidance",
+      "authority": "Swiss Federal Office of Public Health",
+      "url": "https://www.bag.admin.ch/de/schutz-vor-passivrauchen",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ch-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Arrange local medical care if a stay will exceed the 30-day personal supply allowance for a narcotic-containing medicine. Swissmedic states that private individuals may not mail these medicines and that the named patient must carry them.",
+      "scope": "Continuity of treatment for visitors with controlled medicines.",
+      "type": "Official guidance",
+      "authority": "Swissmedic",
+      "url": "https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/besondere-arzneimittelgruppen--ham-/authorised-narcotics/sick-travellers.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ch-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Many shops and hotels accept euros, but change is typically given in Swiss francs. Use Swiss francs or an accepted card when euro payment is unavailable.",
+      "scope": "Official tourism payment guidance, merchant availability varies.",
+      "type": "Official guidance",
+      "authority": "Switzerland Tourism",
+      "url": "https://help.myswitzerland.com/hc/en-us/articles/213638185-Can-I-use-euros-to-pay-in-Switzerland",
+      "checked": "2026-11-27"
     }
   ],
   "ZA": [
@@ -3923,6 +5540,127 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "South African National Parks, Kruger day visits",
       "url": "https://www.sanparks.org/parks/kruger/what-to-do/day-visits",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-za-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Within Kruger National Park, the speed limits are 50 km/h on paved roads and 40 km/h on gravel. General road rules continue to apply.",
+      "scope": "Kruger National Park only.",
+      "type": "Official guidance",
+      "authority": "South African National Parks",
+      "url": "https://www.sanparks.org/parks/kruger/useful-information/vital-information",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-za-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Kruger overnight visitors must stay at a booked, recognized overnight facility and report to reception before occupying lodging or a campsite.",
+      "scope": "Kruger National Park overnight stays.",
+      "type": "Official guidance",
+      "authority": "South African National Parks",
+      "url": "https://www.sanparks.org/parks/kruger/useful-information/vital-information",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-za-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Feeding or disturbing animals is an offence in Kruger National Park.",
+      "scope": "Kruger National Park visitor conduct.",
+      "type": "Official guidance",
+      "authority": "South African National Parks",
+      "url": "https://www.sanparks.org/parks/kruger/useful-information/vital-information",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-za-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Removal or collection of archaeological or palaeontological material or meteorites requires a permit from the responsible heritage authority.",
+      "scope": "South African National Heritage Resources Act, section 35(4).",
+      "type": "Official guidance",
+      "authority": "South African Department of Sport, Arts and Culture",
+      "url": "https://www.dsac.gov.za/sites/default/files/2025-08/National%20Heritage%20Resources%20Act.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Personal clothing for individual use can qualify for duty- and VAT-free entry within the applicable traveler allowances.",
+      "scope": "South African passenger customs",
+      "type": "Official guidance",
+      "authority": "South African Government",
+      "url": "https://www.gov.za/faq/travel-tourism/what-goods-may-i-bring-south-africa",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Cameras for personal use are allowed on Robben Island tours. Tripods are prohibited and commercial photography requires contacting the museum.",
+      "scope": "Museum visit and tour only",
+      "type": "Official guidance",
+      "authority": "Robben Island Museum",
+      "url": "https://www.robben-island.org.za/frequently-asked-questions/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Do not deface, damage, excavate or otherwise disturb an archaeological or palaeontological site without a permit from the responsible heritage resources authority.",
+      "scope": "South African archaeological and palaeontological sites",
+      "type": "Official guidance",
+      "authority": "Department of Sport, Arts and Culture, National Heritage Resources Act section 35",
+      "url": "https://www.dsac.gov.za/sites/default/files/2025-08/National%20Heritage%20Resources%20Act.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Possession or consumption of alcohol is restricted to licensed premises or places covered by a temporary liquor licence.",
+      "scope": "Cape Town public coastal areas covered by the by-law",
+      "type": "Official guidance",
+      "authority": "City of Cape Town Coastal By-law",
+      "url": "https://resource.capetown.gov.za/documentcentre/Documents/Bylaws%20and%20policies/Coastal_By-law.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-during_visit-medicine_possession",
+      "phase": "during_visit",
+      "title": "Medicines and substances while visiting",
+      "text": "Rules include a 30-day quantity limit for Schedule 3, 4 and 5 substances under the personal-use provision.",
+      "scope": "Possession for personal medicinal use under the relevant scheduled-substance provisions",
+      "type": "Official guidance",
+      "authority": "South African Department of Health, Medicines General Regulations",
+      "url": "https://www.gov.za/sites/default/files/gcis_document/201708/41064gon859.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-during_visit-communications",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "South Africa enforces SIM registration under RICA, including identity verification for foreign nationals. Confirm the accepted documents with the network provider.",
+      "scope": "Local SIM registration",
+      "type": "Official guidance",
+      "authority": "South African Department of Justice and Constitutional Development",
+      "url": "https://www.justice.gov.za/m_statements/2026/20260326-RICA.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-za-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "A visitor visa does not generally authorize work. A holder in certain visitor categories may receive specific permission to work subject to the applicable requirements.",
+      "scope": "Work under a visitor visa",
+      "type": "Official guidance",
+      "authority": "South African Department of Home Affairs, Immigration Act section 11(2)",
+      "url": "https://www.dha.gov.za/IMMIGRATION_ACT_2002_MAY2014.pdf",
       "checked": "2026-11-27"
     }
   ],
@@ -3991,6 +5729,127 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Norwegian Directorate of Fisheries, Export quota",
       "url": "https://www.fiskeridir.no/english/sea-angling-in-norway/export-quota",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-no-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Foraging on uncultivated land generally permits berries and non-threatened wild mushrooms and flowers. Cloudberry rules vary in Finnmark, Troms and Nordland.",
+      "scope": "Norwegian public access rules for uncultivated land, subject to special species and land restrictions.",
+      "type": "Official guidance",
+      "authority": "Norwegian Environment Agency",
+      "url": "https://www.miljodirektoratet.no/ansvarsomrader/friluftsliv/friluftsliv-og-allemannsretten/plukke-bar-sopp-og-urter/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-no-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Drivers must maintain adequate tyre grip year-round. The published minimum winter tyre tread depth for ordinary cars is 3 mm, with different winter date windows for Nordland, Troms and Finnmark.",
+      "scope": "Norwegian passenger-car tyre guidance and seasonal or region-specific periods.",
+      "type": "Official guidance",
+      "authority": "Norwegian Public Roads Administration",
+      "url": "https://www.vegvesen.no/en/vehicles/own-and-maintain/tyre-requirements/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-no-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "The Norwegian national park guidance describes a seasonal open-fire ban in or near forest and other uncultivated areas from 15 April to 15 September, with local restrictions possible.",
+      "scope": "Seasonal outdoor fire rules in Norway.",
+      "type": "Official guidance",
+      "authority": "Nasjonalparkriket conservation and right-to-roam guidance",
+      "url": "https://www.nasjonalparkriket.no/en/conservation-areas-and-right-roam",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-no-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Norway’s Alcohol Act restricts drinking or serving alcohol in specified public places unless licensed.",
+      "scope": "Public places covered by Norway Alcohol Act section 8-9.",
+      "type": "Official guidance",
+      "authority": "Norwegian Directorate of Health",
+      "url": "https://www.helsedirektoratet.no/rundskriv/alkoholloven/kapittel-8-spesielle-pabud-og-forbud/-8-9.serverings-og-drikkeforbud",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-before_go-electronics",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "Nonresident tourists may temporarily bring personal computers and mobile phones for use during the trip and take them out again. Norwegian Customs specifies no value limit for qualifying temporary luggage.",
+      "scope": "Temporary baggage of nonresident tourists.",
+      "type": "Official guidance",
+      "authority": "Norwegian Customs",
+      "url": "https://www.toll.no/en/travelling-to-and-from-norway/goods-for-tourists",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Personal clothes brought temporarily by nonresident tourists and taken out again qualify under Norway’s temporary tourist luggage rules. Goods brought for gifts or consumption are subject to the separate value limit.",
+      "scope": "Temporary baggage of nonresident tourists.",
+      "type": "Official guidance",
+      "authority": "Norwegian Customs",
+      "url": "https://www.toll.no/en/travelling-to-and-from-norway/goods-for-tourists",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-before_go-area_permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Obtain the landowner’s permission to fish in inland waters. Under-16s generally fish free from January 1 to August 20, with exceptions for waters containing salmon, sea trout or sea char.",
+      "scope": "Mainland inland recreational fishing.",
+      "type": "Official guidance",
+      "authority": "Norwegian Environment Agency",
+      "url": "https://www.miljodirektoratet.no/sharepoint/downloaditem?id=01FM3LD2TQBAFXJMWTXBEKVWY6JQYEUDYU",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Security-sensitive facilities can have ground photography bans and restrictions on aerial photography or filming. Check the authority’s map for air restrictions and follow signs on site.",
+      "scope": "Protected Norwegian military and other facilities.",
+      "type": "Official guidance",
+      "authority": "Norwegian National Security Authority",
+      "url": "https://nsm.no/areas-of-expertise/physical-security/airborne-sensor-systems/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Report a potential cultural heritage object from before 1537 or a coin from before 1650 to the heritage authorities. The state owns finds within those categories.",
+      "scope": "Norway Cultural Heritage Act archaeological finds.",
+      "type": "Official guidance",
+      "authority": "University of Oslo Museum of Cultural History, Cultural Heritage Management",
+      "url": "https://www.khm.uio.no/english/cultural-heritage-management/reporting-archaeological-finds/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "National park access guidance advises travelers who pitch a tent to keep more than 150 meters from occupied homes or cabins and show particular care around wildlife during nesting and breeding.",
+      "scope": "Mainland national park general visitor guidance.",
+      "type": "Official guidance",
+      "authority": "Norwegian Environment Agency",
+      "url": "https://www.miljodirektoratet.no/globalassets/publikasjoner/m925/m925.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-no-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "A Norwegian visitor visa does not allow work, including remote work.",
+      "scope": "Holders of the Norwegian visitor visa addressed by UDI.",
+      "type": "Official guidance",
+      "authority": "Norwegian Directorate of Immigration",
+      "url": "https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/?c=ben",
       "checked": "2026-11-27"
     }
   ],
@@ -4082,6 +5941,94 @@ globalThis.travelRestrictions = {
       "authority": "UK Foreign, Commonwealth & Development Office, Road travel",
       "url": "https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-ke-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Kenya Wildlife Service forbids feeding wildlife and off-road driving in its park rules. Visitors should observe posted hours and stay in their vehicle except at designated areas.",
+      "scope": "Parks managed by Kenya Wildlife Service.",
+      "type": "Official guidance",
+      "authority": "Kenya Wildlife Service",
+      "url": "https://kws.go.ke/sites/default/files/2019-11/PARK%20RULES.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ke-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Kenya immigration requires visitors to stick to activities covered by their entry permit or visitor pass. Employment requires a valid work permit.",
+      "scope": "Visitors in Kenya, under the conditions of entry.",
+      "type": "Official guidance",
+      "authority": "Kenya Directorate of Immigration Services",
+      "url": "https://immigration.go.ke/travelers-obligations/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ke-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "Leave Kenya through a designated exit point with valid travel documents before the authorized stay expires.",
+      "scope": "Kenya visitors and other authorized travelers.",
+      "type": "Official guidance",
+      "authority": "Kenya Directorate of Immigration Services",
+      "url": "https://immigration.go.ke/travelers-obligations/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ke-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "KRA lists personal wearing apparel in its passenger baggage guidance. Pack quantities consistent with personal use and check the distinction between previously owned clothing and new purchases.",
+      "scope": "Inbound customs treatment of personal clothing.",
+      "type": "Official guidance",
+      "authority": "Kenya Revenue Authority",
+      "url": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/5",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ke-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Access to protected monuments can be managed under site-specific bylaws. Verify current opening and access conditions at the place you plan to visit.",
+      "scope": "Protected monuments covered by the National Museums and Heritage Act.",
+      "type": "Official guidance",
+      "authority": "Kenya Law, National Museums and Heritage Act",
+      "url": "https://new.kenyalaw.org/akn/ke/act/2006/6/eng%402006-09-15/source",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ke-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "At Nairobi National Park, do not litter or discard cigarette butts.",
+      "scope": "Nairobi National Park visitor rules.",
+      "type": "Official guidance",
+      "authority": "Kenya Wildlife Service",
+      "url": "https://kws.go.ke/wp-content/uploads/2026/02/Nairobi-National-Park.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ke-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Under Kenyan immigration guidance, foreign nationals resident in Kenya for more than 90 days must register as foreign nationals.",
+      "scope": "Foreign nationals resident beyond 90 days.",
+      "type": "Official guidance",
+      "authority": "Kenya Directorate of Immigration Services",
+      "url": "https://fns.immigration.go.ke/infopack/fns/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ke-during_visit-communications",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "Foreign nationals registering a local SIM can use a valid passport or Foreign National Registration Certificate.",
+      "scope": "Local SIM registration under the 2025 regulations.",
+      "type": "Official guidance",
+      "authority": "Kenya Law, telecommunications subscriber registration regulations",
+      "url": "https://new.kenyalaw.org/akn/ke/act/ln/2025/90/eng%402025-05-30/publication",
+      "checked": "2026-11-27"
     }
   ],
   "IS": [
@@ -4161,6 +6108,138 @@ globalThis.travelRestrictions = {
       "authority": "Iceland Revenue and Customs, Export licences, Birds section",
       "url": "https://www.skatturinn.is/atvinnurekstur/tollamal/utflutningur/utflutningsleyfi/",
       "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-is-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Motorized off-road driving is prohibited, with a narrow exception for glaciers or sufficiently frozen or snow-covered ground outside urban areas where nature clearly cannot be damaged.",
+      "scope": "Motorized off-road driving in Iceland.",
+      "type": "Official guidance",
+      "authority": "Iceland Environment Agency",
+      "url": "https://www.ust.is/english/visiting-iceland/faq/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-is-during_visit-collecting",
+      "phase": "during_visit",
+      "title": "Shells, sand, rocks, coral and souvenirs",
+      "text": "Wild edible plants and fungi can generally be gathered for immediate consumption on public lands and highland pastures. Private land requires permission, and protected plants may not be disturbed.",
+      "scope": "Personal collection for immediate consumption, with land and species limits.",
+      "type": "Official guidance",
+      "authority": "Iceland Environment Agency",
+      "url": "https://ust.is/english/visiting-iceland/travel-information/access-rights/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-is-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK visitors may use a UK photocard driving licence for up to 30 days. UK paper licence holders may need a photocard or a 1968 International Driving Permit.",
+      "scope": "UK-issued driving credentials in Iceland.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/iceland/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-is-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Overnight stays outside designated campsites are prohibited in certain Vatnajökull National Park areas. Check the park’s list for the planned route.",
+      "scope": "Only the areas listed by Vatnajökull National Park.",
+      "type": "Official guidance",
+      "authority": "Vatnajökull National Park",
+      "url": "https://www.vatnajokulsthjodgardur.is/en/advice--safety/ferdarad",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-before_go-clothing",
+      "phase": "before_go",
+      "title": "Camouflage, uniforms and symbolic attire",
+      "text": "Travelers residing abroad may bring personal clothing duty-free when the items and quantities are appropriate for the purpose, duration and circumstances of the trip.",
+      "scope": "Inbound personal travel gear for nonresidents.",
+      "type": "Official guidance",
+      "authority": "Iceland Revenue and Customs",
+      "url": "https://www.skatturinn.is/english/individuals/customs-matters/travelling-to-iceland/duty-free-imports/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-before_go-cites",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Carry and present any CITES documents required for cross-border movement of protected species or products made from them. Covered items can include parts used in cosmetics, musical instruments and medicines.",
+      "scope": "CITES permits and certificates for covered specimens.",
+      "type": "Official guidance",
+      "authority": "Nature Conservation Agency of Iceland",
+      "url": "https://www.nattura.is/stofnunin/leyfisveitingar-vegna-lifrikismala",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-before_go-area_permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Tourist access to Surtsey is prohibited unless Iceland’s environment authority grants permission.",
+      "scope": "Surtsey only.",
+      "type": "Official guidance",
+      "authority": "Iceland Environment Agency",
+      "url": "https://umhverfisstofnun.is/english/visiting-iceland/protected-areas/south/surtsey/protection",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Commercial photography and filming in Þingvellir National Park require permission from the park committee or its director.",
+      "scope": "Commercial activity at Þingvellir National Park.",
+      "type": "Official guidance",
+      "authority": "Þingvellir National Park",
+      "url": "https://www.thingvellir.is/en/administration/licensing/filming-and-photographing-for-commercial-use/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-during_visit-heritage",
+      "phase": "during_visit",
+      "title": "Historic site and monument protections",
+      "text": "Leave protected archaeological remains in place and undisturbed. Report newly discovered remains to the Cultural Heritage Agency as soon as possible.",
+      "scope": "National archaeological protection and reporting.",
+      "type": "Official guidance",
+      "authority": "Iceland Parliament, Cultural Heritage Act No. 80/2012, articles 21 and 24",
+      "url": "https://www.althingi.is/lagasafn/pdf/154c/2012080.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "UK travel guidance reports that smoking and using e-cigarettes are prohibited in Icelandic restaurants, bars, public transport and public buildings.",
+      "scope": "Public conduct in specified Icelandic settings.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/iceland/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "At Snæfellsjökull National Park, leave geological formations and wildlife undisturbed, avoid lighting fires and take litter away.",
+      "scope": "Snæfellsjökull National Park only.",
+      "type": "Official guidance",
+      "authority": "Iceland Environment Agency",
+      "url": "https://www.ust.is/english/visiting-iceland/snaefellsjokull-national-park/tourist-information/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-is-during_visit-commerce",
+      "phase": "during_visit",
+      "title": "Payments, currency and local transactions",
+      "text": "Foreign experts from outside the EEA, EFTA and Faroe Islands need a work permit for employment on expert grounds. The application goes through the Directorate of Immigration.",
+      "scope": "Foreign-expert employment category.",
+      "type": "Official guidance",
+      "authority": "Iceland government Work in Iceland portal",
+      "url": "https://work.iceland.is/working/work-permit/",
+      "checked": "2026-11-27"
     }
   ],
   "AD": [
@@ -4173,6 +6252,39 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Andorra Tourism, Documentation for entry",
       "url": "https://visitandorra.com/en/visitor-information/passports-visas-and-customs/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ad-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare goods that may be prohibited or dutiable at the Andorran border. Tobacco, liquor and luxury goods can incur duty when returning to France or Spain.",
+      "scope": "Andorra customs declaration and separate onward entry rules for France and Spain.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/andorra/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ad-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK photocard licence holders may drive in Andorra according to UK government advice. A paper licence may need replacement or the appropriate international permit.",
+      "scope": "UK-issued licences only.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/andorra/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ad-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Use winter tyres or carry snow chains from 1 November to 15 May. UK government advice warns that drivers can be fined for failing to carry or use the required equipment.",
+      "scope": "Seasonal equipment on Andorran roads.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/andorra/safety-and-security",
       "checked": "2026-11-27"
     }
   ],
@@ -4221,6 +6333,28 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "European Commission, Taxation and Customs Union, Territorial Scope, Other countries/territories",
       "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/how-does-vat-work/territorial-scope_en?prefLang=fr",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-mc-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK advice says UK licence holders should carry both their driving licence and a 1968 International Driving Permit while driving in Monaco.",
+      "scope": "UK-issued licences.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/monaco/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-mc-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "UK advice warns that a fine can apply for walking in swimwear, barefoot or bare-chested away from beaches or bathing areas.",
+      "scope": "Public dress outside beaches and bathing areas in Monaco.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/monaco/safety-and-security",
       "checked": "2026-11-27"
     }
   ],
@@ -5213,6 +7347,1440 @@ globalThis.travelRestrictions = {
       "type": "Official guidance",
       "authority": "Tuvalu Biosecurity Act 2017, Sections 26, 28 and passenger declaration provisions, hosted by FAOLEX",
       "url": "https://faolex.fao.org/docs/pdf/tuv202480.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-tv-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "Funafuti has a designated conservation area. Check the official boundary map and the local rules before fishing, collecting or visiting the islets.",
+      "scope": "Funafuti Conservation Area only, under the 2022 revised order.",
+      "type": "Official guidance",
+      "authority": "Tuvalu Fisheries Authority",
+      "url": "https://tuvalufisheries.tv/wp-content/uploads/2024/10/Funafuti-Conservation-Area-Order.pdf",
+      "checked": "2026-11-27"
+    }
+  ],
+  "KM": [
+    {
+      "id": "s2-20261127-c54-km-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare goods that require authorisation or are subject to tax or restrictions. Goods over the traveller allowance or brought for commercial purposes can require a declaration and tax payment.",
+      "scope": "Arriving in or departing from the Union of the Comoros.",
+      "type": "Official guidance",
+      "authority": "Union of the Comoros General Directorate of Customs, Services aux voyageurs",
+      "url": "https://douane.gov.km/douane-comorienne/pages/voyageurs.php",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-km-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Comoros Customs lists some plants, animals and products derived from them as subject to specific border controls. Check permissions before packing them.",
+      "scope": "Union of the Comoros customs border; product-specific rules apply.",
+      "type": "Official guidance",
+      "authority": "Union of the Comoros General Directorate of Customs, Produits biologiques",
+      "url": "https://douane.gov.km/douane-comorienne/pages/voyageurs.php",
+      "checked": "2026-11-27"
+    }
+  ],
+  "LY": [
+    {
+      "id": "s2-20261127-c54-ly-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "UK consular guidance says short-stay visitors must register with police within one week of arrival. A host company or local travel agency usually arranges registration.",
+      "scope": "Libya short-stay visitors; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Registering with the police",
+      "url": "https://www.gov.uk/foreign-travel-advice/libya/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-ly-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK consular guidance calls for declaring cash over US$10,000 equivalent when entering or leaving Libya. It also reports that taking Libyan dinar out of the country is prohibited.",
+      "scope": "Libyan entry and departure, as reported by UK FCDO.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Taking money into or out of Libya",
+      "url": "https://www.gov.uk/foreign-travel-advice/libya/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "SO": [
+    {
+      "id": "s2-20261127-c54-so-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "UK consular guidance says taking khat out of Somalia is an offence and identifies checks at Hargeisa and Mogadishu airports.",
+      "scope": "Outbound baggage at Somalia and Somaliland airports; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Customs rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/somalia/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-so-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash or travellers cheques worth US$10,000 or more when crossing the Somaliland border, according to UK consular guidance.",
+      "scope": "Somaliland specifically; federal Somalia thresholds require separate confirmation.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Taking money into and out of Somalia",
+      "url": "https://www.gov.uk/foreign-travel-advice/somalia/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "ST": [
+    {
+      "id": "s2-20261127-c54-st-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK consular guidance says a yellow fever vaccination certificate is required when arriving from a country listed as a transmission risk.",
+      "scope": "Arrivals into São Tomé and Príncipe from a listed transmission-risk country; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Vaccine requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/sao-tome-and-principe/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-st-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "UK consular guidance says to declare items that may be prohibited or subject to tax or duty when entering or leaving São Tomé and Príncipe.",
+      "scope": "São Tomé and Príncipe border crossings; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Customs rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/sao-tome-and-principe/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "TD": [
+    {
+      "id": "s2-20261127-c54-td-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "UK consular guidance says visitors staying in Chad longer than 72 hours must register with police and provide a passport photograph.",
+      "scope": "Visitors staying over 72 hours in Chad; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Registering with the police",
+      "url": "https://www.gov.uk/foreign-travel-advice/chad/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-td-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "UK consular guidance says to declare goods that may be prohibited or liable for tax or duty when entering or leaving Chad.",
+      "scope": "Chad customs border; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Customs rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/chad/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "KP": [
+    {
+      "id": "s2-20261127-c54-kp-before_go-electronics",
+      "phase": "before_go",
+      "title": "Drones, satellite phones, radio and GPS",
+      "text": "UK consular guidance reports that travelers must register foreign mobile phones at the border and leave GPS equipment with customs for collection when departing North Korea.",
+      "scope": "North Korean border controls as reported by the UK FCDO for British citizen travelers.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, North Korea customs rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/north-korea/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-kp-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK consular guidance reports that North Korean won cannot be brought in or taken out and that travelers must declare foreign currency at customs.",
+      "scope": "Inbound and outbound customs, based on UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, North Korea currency rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/north-korea/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-kp-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "UK consular guidance reports that stays longer than 24 hours require registration with North Korea’s Ministry of Foreign Affairs. Hotels generally handle it.",
+      "scope": "Visitors staying longer than 24 hours, as reported by UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, North Korea local registration",
+      "url": "https://www.gov.uk/foreign-travel-advice/north-korea/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "PS": [
+    {
+      "id": "s2-20261127-c54-ps-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "The U.S. State Department reports that travelers may not carry cash into Gaza.",
+      "scope": "Entry into Gaza only, U.S. consular guidance.",
+      "type": "Official guidance",
+      "authority": "U.S. Department of State, Gaza currency on entry and exit",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/gaza.html",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-ps-during_visit-curfews",
+      "phase": "during_visit",
+      "title": "Curfews, movement and security restrictions",
+      "text": "UK consular guidance says travelers need a passport and immigration slip at Israeli military checkpoints when entering or leaving the West Bank.",
+      "scope": "West Bank entry and exit checkpoints, UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Palestine regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/palestine/regional-risks",
+      "checked": "2026-11-27"
+    }
+  ],
+  "TJ": [
+    {
+      "id": "s2-20261127-c54-tj-before_go-area_permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Travel to the Gorno-Badakhshan Autonomous Region requires separate authorization alongside the applicable Tajik entry documents. A separate permit is also required for areas within 20 km of the Afghan border in Khatlon, including Panj and Kumsangir.",
+      "scope": "Gorno-Badakhshan and specified Khatlon border areas, UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Tajikistan regional travel permits",
+      "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-tj-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK consular guidance lists undeclared allowances of up to US$10,000 equivalent on entry and up to US$3,000 equivalent on exit. For sums above US$10,000, it also reports a need to document the source of funds.",
+      "scope": "Foreign travelers entering or leaving Tajikistan, as reported by UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Tajikistan customs and declarations",
+      "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-tj-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Tajikistan’s embassy in France says visitors who use a standard visa or visa-free admission must register with the internal affairs authorities within 10 working days, subject to exemptions under applicable agreements.",
+      "scope": "Ordinary standard-visa or visa-free visitors, subject to bilateral exemptions.",
+      "type": "Official guidance",
+      "authority": "Tajikistan Ministry of Foreign Affairs, registration notice",
+      "url": "https://www.mfa.tj/en/paris/view/9700/announcement-on-the-order-of-registration-of-foreign-citizens-in-tajikistan",
+      "checked": "2026-11-27"
+    }
+  ],
+  "TM": [
+    {
+      "id": "s2-20261127-c54-tm-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "UK consular guidance reports that visitors staying longer than three working days must register with the State Migration Service within three days of arrival. The hotel or sponsor generally handles registration.",
+      "scope": "Visitors staying longer than three working days, as reported by UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Turkmenistan registration rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-tm-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "Turkmenistan Customs lists a special permit for exporting handmade carpets and carpet products.",
+      "scope": "Turkmenistan customs, handmade carpet goods.",
+      "type": "Official guidance",
+      "authority": "State Customs Service of Turkmenistan, passenger customs regulations",
+      "url": "https://customs.gov.tm/en/customs-info/for-individuals",
+      "checked": "2026-11-27"
+    }
+  ],
+  "YE": [
+    {
+      "id": "s2-20261127-c54-ye-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK consular guidance reports that amounts over US$3,000 in foreign currency must be declared on arrival. Foreign currency taken out cannot exceed what was brought in. Bringing Yemeni currency in or taking it out is prohibited.",
+      "scope": "Yemeni border currency controls, as reported by UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Yemen currency rules",
+      "url": "https://www.gov.uk/foreign-travel-advice/yemen/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c54-ye-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "UK consular guidance says visitors staying more than 14 days must register their passports with Yemeni immigration authorities after arrival.",
+      "scope": "Visitors staying more than 14 days, UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK FCDO, Yemen passport registration",
+      "url": "https://www.gov.uk/foreign-travel-advice/yemen/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "AG": [
+    {
+      "id": "s2-20261127-c55-ag-before_go-arrival_forms",
+      "phase": "before_go",
+      "title": "Entry declarations, onward travel, proof of funds",
+      "text": "Air passengers arriving at V.C. Bird International Airport can file their immigration and customs declaration online within 72 hours before their scheduled flight.",
+      "scope": "Air arrivals at V.C. Bird International Airport; online channel and submission window.",
+      "type": "Official guidance",
+      "authority": "V.C. Bird International Airport",
+      "url": "https://vcbia.com/customs-and-immigration/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c55-ag-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Carry a yellow fever vaccination certificate if arriving from a country listed as a transmission risk, according to UK consular guidance.",
+      "scope": "Arrival from a listed risk country; destination rule reported by UK FCDO.",
+      "type": "Official guidance",
+      "authority": "UK FCDO travel advice for Antigua and Barbuda",
+      "url": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c55-ag-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare items obtained outside Antigua and Barbuda carried in baggage or on your person, and check separate rules for restricted goods.",
+      "scope": "All persons entering Antigua and Barbuda; overseas purchases and other acquisitions.",
+      "type": "Official guidance",
+      "authority": "Antigua and Barbuda Customs and Excise Division",
+      "url": "https://customs.gov.ag/index.php/page/customs-departments",
+      "checked": "2026-11-27"
+    }
+  ],
+  "AM": [
+    {
+      "id": "s2-20261127-c56-am-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Photography of military facilities, equipment and installations is prohibited.",
+      "scope": "Photography at Armenian military and sensitive sites.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/armenia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-am-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK-licensed drivers need both their UK driving licence and a 1968 International Driving Permit.",
+      "scope": "Driving in Armenia using UK-issued credentials.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/armenia/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "AO": [
+    {
+      "id": "s2-20261127-c56-ao-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash or travellers cheques worth US$5,000 or more if nonresident, or US$10,000 or more if resident. Keep the certified declaration.",
+      "scope": "Travellers arriving in Angola carrying cash or travellers cheques.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/angola/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-ao-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "UK consular guidance advises against using cameras near government buildings and warns of possible camera confiscation when taking photographs in streets.",
+      "scope": "Angola, official consular advisory on restricted or sensitive photography.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/angola/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "BA": [
+    {
+      "id": "s2-20261127-c56-ba-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK-licensed drivers using a locally rented or borrowed vehicle need to carry a 1968 International Driving Permit in addition to their UK licence. The FCDO describes a different rule for own vehicles or vehicles hired outside the country.",
+      "scope": "UK licence holders driving in Bosnia and Herzegovina; depends on vehicle source.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "BW": [
+    {
+      "id": "s2-20261127-c56-bw-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Present yellow fever vaccination evidence if arriving from a country listed as a transmission risk.",
+      "scope": "Botswana entry after travel from a country listed as a yellow fever transmission risk.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/botswana/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-bw-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash equivalent to P10,000 or more in foreign or local currency.",
+      "scope": "Cash carried at Botswana customs crossings.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/botswana/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "BY": [
+    {
+      "id": "s2-20261127-c56-by-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash or travellers cheques valued above US$10,000 and obtain a customs stamp. Keep the stamped arrival form for departure and prepare the required departure declaration.",
+      "scope": "Currency declarations at the Belarus border; UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "CM": [
+    {
+      "id": "s2-20261127-c56-cm-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK consular guidance says that proof of yellow fever vaccination is required for entry.",
+      "scope": "Cameroon entry; requirement reported by UK FCDO.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/cameroon/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-cm-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Photography is prohibited at military sites, government buildings, airports and ports.",
+      "scope": "Sensitive facilities in Cameroon.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/cameroon/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "DZ": [
+    {
+      "id": "s2-20261127-c56-dz-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Carry yellow fever vaccination evidence if arriving from a country listed as a transmission risk.",
+      "scope": "Entry to Algeria following travel from a listed risk country.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/algeria/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-dz-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "Nonresident travelers exporting unspent amounts they brought into Algeria must show their entry currency declaration endorsed by an authorized bank or exchange office. The endorsement records exchange transactions made during the stay.",
+      "scope": "Nonresident outbound travelers with unused imported amounts. The order sets documentation procedures.",
+      "type": "Official guidance",
+      "authority": "Algerian Ministry of Finance, order of 12 May 2026, article 4",
+      "url": "https://douane.gov.dz/IMG/pdf/jo51_declaration_devises_fr.pdf",
+      "checked": "2026-11-27"
+    }
+  ],
+  "GA": [
+    {
+      "id": "s2-20261127-c56-ga-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK consular guidance says travellers must present yellow fever vaccination evidence for entry.",
+      "scope": "Gabon entry; requirement reported by UK FCDO.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/gabon/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-ga-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Taking photographs of government buildings, military buildings or airports is prohibited.",
+      "scope": "Photography at government and military buildings and airports in Gabon.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/gabon/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "GD": [
+    {
+      "id": "s2-20261127-c56-gd-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Carry yellow fever vaccination evidence if arriving from a country listed as a transmission risk.",
+      "scope": "Grenada entry following travel from a listed risk country.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-gd-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK consular guidance says UK-licensed visitors who plan to drive need a temporary Grenadian driving licence and should present their UK licence to obtain it.",
+      "scope": "UK licence holders driving in Grenada.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/grenada/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "GE": [
+    {
+      "id": "s2-20261127-c56-ge-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "UK consular guidance advises against photographing sensitive facilities, including military bases and power installations.",
+      "scope": "Photography at sensitive and strategic sites in Georgia; consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "IL": [
+    {
+      "id": "s2-20261127-c56-il-before_go-cites",
+      "phase": "before_go",
+      "title": "Protected wildlife products and souvenirs",
+      "text": "Importing, exporting or re-exporting CITES-listed wildlife or species protected by Israeli law requires authorization from the Israel Nature and Parks Authority.",
+      "scope": "Israeli wildlife controls for covered species, specimens and products.",
+      "type": "Official guidance",
+      "authority": "Israel Nature and Parks Authority",
+      "url": "https://en.parks.org.il/%D7%99%D7%91%D7%95%D7%90-%D7%95%D7%99%D7%A6%D7%95%D7%90-%D7%97%D7%99%D7%95%D7%AA-%D7%91%D7%A8-%D7%95%D7%A2%D7%A8%D7%9B%D7%99-%D7%98%D7%91%D7%A2-%D7%9E%D7%95%D7%92%D7%A0%D7%99%D7%9D/",
+      "checked": "2026-11-27"
+    }
+  ],
+  "KI": [
+    {
+      "id": "s2-20261127-c56-ki-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Kiribati inspects incoming passengers and baggage for plant and animal biosecurity risks. Its biosecurity agency issues import permits for plants, animals and their products, second-hand goods, sand and gravel.",
+      "scope": "Kiribati border biosecurity, including passenger baggage.",
+      "type": "Official guidance",
+      "authority": "Kiribati Biosecurity and Plant Health",
+      "url": "https://www.melad.gov.ki/index.php?Itemid=380&id=43&option=com_quix&view=page",
+      "checked": "2026-11-27"
+    }
+  ],
+  "KN": [
+    {
+      "id": "s2-20261127-c56-kn-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Carry yellow fever vaccination evidence if arriving from a country listed as a transmission risk.",
+      "scope": "Saint Kitts and Nevis entry following travel from a listed risk country.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/st-kitts-and-nevis/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "LB": [
+    {
+      "id": "s2-20261127-c56-lb-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "FCDO guidance lists a UK driving licence or a 1968 International Driving Permit for UK visitors. The 1949 permit is no longer accepted.",
+      "scope": "UK licence holders driving in Lebanon.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/lebanon/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "LC": [
+    {
+      "id": "s2-20261127-c56-lc-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "Visitors who lack a Saint Lucian driving licence need a temporary local driving permit. Some vehicle rental providers can arrange the permit.",
+      "scope": "Visiting drivers in Saint Lucia.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/st-lucia/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "LS": [
+    {
+      "id": "s2-20261127-c56-ls-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash and travellers cheques worth LSL 25,000 or more in any currency.",
+      "scope": "Travellers with currency or travellers cheques crossing the Lesotho border.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/lesotho/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ls-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK advice says UK photocard licences can be used for up to three months. A paper licence may require a photocard update or the appropriate international permit.",
+      "scope": "UK-issued licences for visitor driving in Lesotho.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/lesotho/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "MH": [
+    {
+      "id": "s2-20261127-c56-mh-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare potentially prohibited or dutiable goods. The UK visitor advisory lists limited duty-free allowances for alcohol and tobacco for travelers aged 18 and older.",
+      "scope": "Inbound passenger baggage. UK advisory scopes its general entry guidance to full British citizen passports.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-mh-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Travelers bringing birds, plants or fruit need certification from the Quarantine Division.",
+      "scope": "Inbound quarantine for the listed items, as described by UK government guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-mh-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "UK government guidance reports that exporting coral or turtle shell is illegal.",
+      "scope": "Export from the Marshall Islands.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-mh-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "Australian visitor advice says an Australian licence or an International Driving Permit can be used for up to 30 days. A local licence is required after that period.",
+      "scope": "Australian government traveler guidance.",
+      "type": "Official guidance",
+      "authority": "Australian Department of Foreign Affairs and Trade",
+      "url": "https://www.smartraveller.gov.au/destinations/pacific/marshall-islands",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-mh-during_visit-driving",
+      "phase": "during_visit",
+      "title": "Traffic, vehicle and road restrictions",
+      "text": "Drive on the right and carry your licence while driving.",
+      "scope": "Road travel in the Marshall Islands.",
+      "type": "Official guidance",
+      "authority": "Australian Department of Foreign Affairs and Trade",
+      "url": "https://www.smartraveller.gov.au/destinations/pacific/marshall-islands",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-mh-during_visit-departure",
+      "phase": "during_visit",
+      "title": "Export, departure and customs rules",
+      "text": "UK visitor guidance reports a US$20 airport departure tax payable in cash.",
+      "scope": "Airport departures. Australian government advice also says the airport departure fee is payable in US dollars in cash.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/marshall-islands/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-mh-before_go-power_bank_air",
+      "phase": "before_go",
+      "title": "Power banks and lithium batteries: flight route, carrier, safety and markings",
+      "text": "On Marshall Islands itineraries operated by Nauru Airlines, permitted power banks must be kept in the cabin and may not be used or charged in flight. Check the airline’s banned models and recall policy.",
+      "scope": "Nauru Airlines-operated flights only.",
+      "type": "Carrier guidance",
+      "authority": "Nauru Airlines",
+      "url": "https://www.nauruair.com/travel-info/dangerous-goods",
+      "checked": "2026-11-27"
+    }
+  ],
+  "NR": [
+    {
+      "id": "s2-20261127-c56-nr-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare goods that may be prohibited or subject to tax or duty.",
+      "scope": "Passenger goods at the Nauru border, per UK government guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/nauru/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-nr-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Bring regulated plants, animals and related materials only under the applicable quarantine permit and its conditions. Regulations list exceptions, including certain shelf-stable sealed foods.",
+      "scope": "Nauru Plant and Animal Quarantine Regulations, regulation 19.",
+      "type": "Official guidance",
+      "authority": "Nauru Department of Justice & Border Control",
+      "url": "https://justice.gov.nr/wp-content/uploads/2023/12/Agricultural-Quarantine-Act-1999-Service-22.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-nr-before_go-pets",
+      "phase": "before_go",
+      "title": "Pets and animal importation",
+      "text": "A dog must come from Australia under the 2021 import regulations and needs advance permission from the Director of Quarantine. The regulations also list vaccination, desexing and breed restrictions.",
+      "scope": "Nauru national rules for dog import under regulations 3, 6, 10 and 11.",
+      "type": "Official guidance",
+      "authority": "Government of Nauru",
+      "url": "https://www.nauru.gov.nr/media/151324/gazette_160-21__1_.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c56-nr-before_go-power_bank_air",
+      "phase": "before_go",
+      "title": "Power banks and lithium batteries: flight route, carrier, safety and markings",
+      "text": "Nauru Airlines requires permitted power banks in the cabin and prohibits their use or charging in flight. Check the airline’s banned models and recall policy before packing.",
+      "scope": "Nauru Airlines flights. Carrier baggage policy.",
+      "type": "Carrier guidance",
+      "authority": "Nauru Airlines",
+      "url": "https://www.nauruair.com/travel-info/dangerous-goods",
+      "checked": "2026-11-27"
+    }
+  ],
+  "ME": [
+    {
+      "id": "s2-20261127-c57-me-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Visitors staying independently must register within 24 hours, according to UK consular guidance. Hotels and some holiday lets register guests through their operators.",
+      "scope": "Local registration in Montenegro.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/montenegro/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-me-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Do not photograph police or military installations, personnel or vehicles. UK consular guidance says doing so can lead to arrest and prosecution.",
+      "scope": "Photography involving police or military subjects in Montenegro.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/montenegro/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "MM": [
+    {
+      "id": "s2-20261127-c57-mm-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare foreign currency and covered instruments above US$10,000 equivalent when entering or leaving Myanmar. The published regulations also restrict how much a foreign visitor can take back out to what the visitor brought in.",
+      "scope": "Myanmar Foreign Exchange Management Regulations, clauses 60–61.",
+      "type": "Official guidance",
+      "authority": "Myanmar official Services Trade Portal",
+      "url": "https://servicetrade.gov.mm/regulation-detail/14/download-pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mm-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Declare valuables including gold, gems and jewellery to customs on arrival. UK guidance warns against importing gold or bullion for trading.",
+      "scope": "Customs entry into Myanmar, with the gold trading restriction distinct from the valuables declaration.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/myanmar/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mm-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Carry proof of yellow fever vaccination if arriving from a country listed as a transmission risk.",
+      "scope": "Myanmar entry for relevant origins.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/myanmar/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "MN": [
+    {
+      "id": "s2-20261127-c57-mn-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Accommodation providers must register foreign guests online or through the E-immigration application within 48 hours of entry.",
+      "scope": "Post-entry registration of foreign nationals through their housing provider.",
+      "type": "Official guidance",
+      "authority": "Immigration Agency of Mongolia",
+      "url": "https://immigration.gov.mn/en/faq/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mn-before_go-area_permits",
+      "phase": "before_go",
+      "title": "Regional and protected area authorizations",
+      "text": "Obtain permission from the State Frontier Guard Authority before traveling into Mongolian border areas. Some zones can extend up to 100 km inland.",
+      "scope": "Designated Mongolian border areas, distinct from authorized border-crossing eligibility.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mn-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "If taking your own vehicle into Mongolia by land, contact the authorities in advance and complete a customs declaration. Carry your driving licence, ownership records and insurance.",
+      "scope": "Private vehicles entering at a Mongolian land border.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "MW": [
+    {
+      "id": "s2-20261127-c57-mw-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "Complete the Traveller Health Check to obtain a QR health pass or reference to present on arrival. Travelers without a pass can be screened by an officer at the port of entry.",
+      "scope": "Health screening at Malawi airports and land borders.",
+      "type": "Official guidance",
+      "authority": "Malawi Ministry of Health",
+      "url": "https://poe.health.gov.mw/welcome/",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mw-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "The Malawi Revenue Authority publishes Form 47 for declaring goods obtained abroad and brought into Malawi. The form calls for traveler or family-head details and the descriptions and values of goods.",
+      "scope": "Inbound passenger goods declarations in Malawi.",
+      "type": "Official guidance",
+      "authority": "Malawi Revenue Authority",
+      "url": "https://www.mra.mw/assets/upload/downloads/CUSTOMS_DECLARACTION_FORM-_FORM_47.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mw-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK photocard licence holders can drive for up to 90 days, according to UK guidance. The same guidance gives up to one year with an International Driving Permit.",
+      "scope": "Driving in Malawi on UK documentation.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/malawi/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "MZ": [
+    {
+      "id": "s2-20261127-c57-mz-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Declare cash of 10,000 Mozambican meticais or more, or foreign cash or travelers' cheques worth US$5,000 or more, on entry.",
+      "scope": "Inbound declarations into Mozambique, according to UK consular guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/mozambique/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-mz-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "Special permission is needed to photograph government offices, airports, military sites, residences, police or officials, according to UK consular guidance.",
+      "scope": "Photography in Mozambique at the identified subjects and sites.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/mozambique/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "NI": [
+    {
+      "id": "s2-20261127-c57-ni-before_go-vaping",
+      "phase": "before_go",
+      "title": "Vaping devices, tobacco and alcohol",
+      "text": "Nicaragua bans bringing in or taking out e-cigarettes and similar devices regardless of nicotine content. Customs can confiscate them, and the UK advisory also reports a ban on their use.",
+      "scope": "Electronic smoking devices at the Nicaraguan border and during a visit.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ni-before_go-drone_import",
+      "phase": "before_go",
+      "title": "Drone import, customs declaration, temporary admission and permits",
+      "text": "Do not bring a drone without express authorization under Law 1230. The law gives the Presidency authorization power through the implementing authority.",
+      "scope": "National entry controls for unmanned devices, including aerial drones.",
+      "type": "Official guidance",
+      "authority": "National Assembly of Nicaragua, official gazette, Law 1230",
+      "url": "https://digesto.asamblea.gob.ni/consultas/util/pdf.php?rdd=UuTmItSkMxU%3D&type=rdd",
+      "checked": "2026-11-27"
+    }
+  ],
+  "PA": [
+    {
+      "id": "s2-20261127-c57-pa-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "Panama prohibits smoking and e-cigarette use in public places, according to UK guidance.",
+      "scope": "In-country conduct in public places, separate from rules on bringing devices into Panama.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/panama/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-pa-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK consular guidance calls for a yellow fever vaccination certificate when arriving from a country with transmission risk.",
+      "scope": "British citizen travel advice; risk-country itinerary trigger.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/panama/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "PG": [
+    {
+      "id": "s2-20261127-c57-pg-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK travel guidance says travelers coming from a yellow-fever transmission risk country must show a vaccination certificate.",
+      "scope": "Route-based entry health condition in UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pg-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK guidance says a UK photocard licence can be used to drive during the first six months after arrival. A rental company can impose stricter requirements.",
+      "scope": "UK licence holders visiting Papua New Guinea.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-pg-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Many fruits, vegetables and animal products are prohibited under local quarantine controls. Declare goods that may be prohibited or dutiable.",
+      "scope": "Passenger baggage at the Papua New Guinea border.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "RU": [
+    {
+      "id": "s2-20261127-c57-ru-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "UK travel advice reports restrictions on taking photographs at military, secure and official sites, including airports. Posted signs may be absent.",
+      "scope": "Sensitive sites in Russia, per UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/russia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ru-during_visit-communications",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "UK travel advice says obtaining a Russian SIM from a local provider requires identification and biometric checks, which may also be requested from existing local SIM customers.",
+      "scope": "Russian mobile service registration, per UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/russia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-ru-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "UK guidance says to register for stays of more than seven working days. Hotels handle registration automatically. Keep proof for departure and police checks.",
+      "scope": "Foreign-visitor registration in Russia as described in UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/russia/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "SV": [
+    {
+      "id": "s2-20261127-c57-sv-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK travel advice says a yellow fever vaccination certificate is required for travelers arriving from a transmission-risk country.",
+      "scope": "Route-based health entry requirement for El Salvador.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-sv-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK travel advice says to declare cash or travelers cheques valued at US$10,000 or more.",
+      "scope": "Passenger cash or travelers cheque declarations for El Salvador.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-sv-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "UK travel advice warns that foreign nationals may be detained or deported for involvement in political activities such as public demonstrations.",
+      "scope": "Foreign nationals in El Salvador, per UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "SY": [
+    {
+      "id": "s2-20261127-c57-sy-during_visit-clothing_conduct",
+      "phase": "during_visit",
+      "title": "Dress codes and cultural conduct",
+      "text": "The UK advises visitors to follow local dress expectations, especially during Ramadan.",
+      "scope": "Cultural guidance rather than a universal statutory dress code.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/syria/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "SZ": [
+    {
+      "id": "s2-20261127-c57-sz-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK travel advice reports that passengers arriving from a yellow-fever transmission risk country must have proof of vaccination.",
+      "scope": "Route-based entry health condition in Eswatini.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/eswatini/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-sz-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK government guidance says a UK or other valid driving licence is required to drive in Eswatini.",
+      "scope": "Visiting drivers in Eswatini as described by the UK government.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/eswatini/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-sz-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "UK travel advice directs travelers to declare prohibited or potentially dutiable goods.",
+      "scope": "Eswatini passenger border declarations.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/eswatini/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "ZM": [
+    {
+      "id": "s2-20261127-c57-zm-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK travel advice says a yellow fever vaccination certificate is required when arriving from a transmission-risk country.",
+      "scope": "Route-based entry health condition in Zambia.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/zambia/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-zm-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "UK travel advice reports that photographing sensitive locations such as army barracks or government buildings can lead to arrest.",
+      "scope": "Zambian sensitive locations as described in UK travel advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/zambia/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c57-zm-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "A UK photocard licence can be used for up to 90 days under UK travel advice. A longer stay requires the appropriate international permit or a Zambian licence.",
+      "scope": "UK licence holders driving in Zambia.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/zambia/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "AZ": [
+    {
+      "id": "s2-20261127-c58-az-during_visit-registration",
+      "phase": "during_visit",
+      "title": "Accommodation and local registration",
+      "text": "Foreign or stateless temporary visitors staying more than 15 days must register their accommodation. The State Migration Service specifies a 30-day threshold for citizens of Kazakhstan. A move to a new place generally requires re-registration within five working days.",
+      "scope": "Azerbaijan temporary stay registration, with a Kazakh nationality exception.",
+      "type": "Official guidance",
+      "authority": "Azerbaijan State Migration Service",
+      "url": "https://www.migration.gov.az/en/oyq",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-az-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK licence holders should carry their UK licence and a 1968 International Driving Permit. UK advice calls for an Azerbaijani licence after one month and proof of insurance.",
+      "scope": "UK-issued licences and visitor driving in Azerbaijan.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-az-during_visit-communications",
+      "phase": "during_visit",
+      "title": "Telecom, GPS and communications regulations",
+      "text": "Visitors planning to use a local SIM for more than 30 days should register it and pay the applicable fee at a local post office. UK advice warns that failure to declare the handset or register the SIM may prevent using local networks.",
+      "scope": "Imported handsets and extended local SIM use in Azerbaijan.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "BO": [
+    {
+      "id": "s2-20261127-c58-bo-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK advice says a yellow fever vaccination certificate is required when coming from a listed transmission-risk country.",
+      "scope": "Bolivia border health requirements conditional on itinerary.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/bolivia/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-bo-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Use Bolivian customs Form 250 when required to declare baggage items or currency. The 2025 regulation provides for digital completion and accepts a preprinted form in defined contingencies.",
+      "scope": "Bolivian customs at entry and departure under the 2025 traveler and currency-control regulation.",
+      "type": "Official guidance",
+      "authority": "Aduana Nacional (Bolivia), 2025 traveler regulation",
+      "url": "https://www.aduana.gob.bo/sites/default/files/ReglamentoVigente/RD-01-044-25%20%20%3D%20%2027_06_2025%20REGLAMENTO%20DEL%20R%C3%89GIMEN%20DE%20VIAJEROS%20Y%20CONTROL%20DE%20DIVISAS%20V3.pdf",
+      "checked": "2026-11-27"
+    }
+  ],
+  "BS": [
+    {
+      "id": "s2-20261127-c58-bs-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK advice says passengers coming from a yellow fever transmission-risk country must show proof of vaccination.",
+      "scope": "Bahamas entry health requirement conditional on route.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/bahamas/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "BZ": [
+    {
+      "id": "s2-20261127-c58-bz-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK advice says a UK photocard licence can be used for up to three months, after which a Belize driving permit is required. Paper licences may need updating.",
+      "scope": "UK-issued licences only.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/belize/safety-and-security",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-bz-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "UK advice reports an exit tax for travelers departing by land or on a water crossing to Guatemala or Mexico. For air departures it is usually included in the airfare.",
+      "scope": "Departure tax, varying by exit route.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/belize/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "DM": [
+    {
+      "id": "s2-20261127-c58-dm-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Dominica Customs publishes duty-free limits for qualifying adult passengers, including up to one litre of spirits or wine and a limited quantity of tobacco.",
+      "scope": "Accompanied personal baggage for arriving travelers aged at least 18.",
+      "type": "Official guidance",
+      "authority": "Dominica Customs and Excise Division",
+      "url": "https://customs.gov.dm/customs-procedures/information-for-travellers",
+      "checked": "2026-11-27"
+    }
+  ],
+  "EC": [
+    {
+      "id": "s2-20261127-c58-ec-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK government advice directs adults or family groups carrying cash of at least US$10,000 to complete Ecuador’s online declaration and present the QR code to Customs on entry or departure.",
+      "scope": "Cross-border declaration at airports, land borders and ports.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-ec-during_visit-protected_areas",
+      "phase": "during_visit",
+      "title": "Protected zones and special access permits",
+      "text": "UK consular guidance reports advance registration for Chimborazo and permits access for tour operators and accredited mountaineering clubs. Cotopaxi high mountaineering follows its own park rules.",
+      "scope": "Chimborazo and high mountaineering at Cotopaxi.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/ecuador/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "JM": [
+    {
+      "id": "s2-20261127-c58-jm-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "UK advice says travelers with cash or travellers cheques valued at US$10,000 or more must declare it on the C5 and complete the cross-border form provided by Customs.",
+      "scope": "Inbound passenger declarations, according to UK government guidance.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/jamaica/entry-requirements",
+      "checked": "2026-11-27"
+    }
+  ],
+  "LA": [
+    {
+      "id": "s2-20261127-c58-la-during_visit-public_behavior",
+      "phase": "during_visit",
+      "title": "Public conduct, alcohol, tobacco, vaping",
+      "text": "UK government advice reports a Lao order prohibiting the sale and consumption of Tiger Vodka and Tiger Whisky due to health concerns.",
+      "scope": "Named products in the cited Lao order as reported by the UK.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/laos/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "MD": [
+    {
+      "id": "s2-20261127-c58-md-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "Submit a written declaration when crossing with currency values totaling EUR 10,000 or more, or the equivalent, per person and trip.",
+      "scope": "Moldovan customs border, inbound and outbound.",
+      "type": "Official guidance",
+      "authority": "Moldova Customs Service",
+      "url": "https://customs.gov.md/ro/articles/atentie-de-la-10-000-euro-declararea-valorilor-valutare-in-vama-este-obligatorie-2885-ro",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-md-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "The UK government advises avoiding photographs of military or government facilities, including airports and power stations.",
+      "scope": "UK consular guidance for Moldova.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/moldova/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "NP": [
+    {
+      "id": "s2-20261127-c58-np-before_go-exit_export",
+      "phase": "before_go",
+      "title": "Departure paperwork and export controls",
+      "text": "Get special certification from the Department of Archaeology before taking antiques out of Nepal.",
+      "scope": "Nepal outbound customs for antiques.",
+      "type": "Official guidance",
+      "authority": "Nepal Tourism Board",
+      "url": "https://trade.ntb.gov.np/travel-essentials/custom-formalities",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-np-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "The Tourism Board says travelers taking their own vehicle into Nepal overland need an international carnet.",
+      "scope": "Vehicle customs documentation for overland tourists.",
+      "type": "Official guidance",
+      "authority": "Nepal Tourism Board",
+      "url": "https://trade.ntb.gov.np/travel-essentials/custom-formalities",
+      "checked": "2026-11-27"
+    }
+  ],
+  "SB": [
+    {
+      "id": "s2-20261127-c58-sb-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Declare food and covered plant or animal products on the incoming passenger card for inspection. Some labelled commercially processed foods from Australia or New Zealand may qualify without a permit after declaration and inspection.",
+      "scope": "Passenger baggage entering Solomon Islands.",
+      "type": "Official guidance",
+      "authority": "Biosecurity Solomon Islands",
+      "url": "https://www.biosecurity.gov.sb/Travellers",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-sb-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK guidance says visitors may use a UK photocard driving licence for up to four months.",
+      "scope": "UK licences only.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "TO": [
+    {
+      "id": "s2-20261127-c58-to-before_go-biosecurity",
+      "phase": "before_go",
+      "title": "Food, plants, animals, soil and outdoor gear",
+      "text": "Declare plant, animal and food products when arriving in Tonga.",
+      "scope": "Tongan inbound passenger baggage, as reported by UK consular advice.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/tonga/entry-requirements",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-to-during_visit-environment",
+      "phase": "during_visit",
+      "title": "Environmental protection, waste and wildlife",
+      "text": "Swimming or kayaking with whales is prohibited unless on an authorized boat with a certified guide, according to UK consular guidance.",
+      "scope": "Wildlife encounters in Tongan waters.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/tonga/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "TT": [
+    {
+      "id": "s2-20261127-c58-tt-before_go-driving_docs",
+      "phase": "before_go",
+      "title": "Driving permits and vehicle documentation",
+      "text": "UK photocard licence holders may drive for up to 90 days according to UK guidance. Paper licence holders may need a 1949 International Driving Permit.",
+      "scope": "Short-term visitor driving on UK licences.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "UZ": [
+    {
+      "id": "s2-20261127-c58-uz-during_visit-photos",
+      "phase": "during_visit",
+      "title": "Photography, filming, drones and privacy",
+      "text": "UK guidance advises checking before photographing security-sensitive sites, including border checkpoints, airports, police stations and military barracks.",
+      "scope": "UK consular guidance for sensitive locations.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/safety-and-security",
+      "checked": "2026-11-27"
+    }
+  ],
+  "ZW": [
+    {
+      "id": "s2-20261127-c58-zw-before_go-currency",
+      "phase": "before_go",
+      "title": "Cash, valuables and currency controls",
+      "text": "The published limit for foreign currency cash carried when leaving Zimbabwe is US$2,000 or equivalent.",
+      "scope": "Personal outbound cash on the traveler or in baggage.",
+      "type": "Official guidance",
+      "authority": "Reserve Bank of Zimbabwe, Foreign Exchange Transactions Guidelines 6.2.3",
+      "url": "https://www.rbz.co.zw/documents/Regulations_Acts/2026/Foreign_Exchange_Guidelines_FXD5_version_2._March_2026.pdf",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-zw-before_go-customs",
+      "phase": "before_go",
+      "title": "Import customs, declarations and restricted goods",
+      "text": "Zimbabwe Customs distinguishes a rebate for used personal effects from a conditional partial rebate on qualifying traveler imports.",
+      "scope": "Traveler accompanied baggage rebates.",
+      "type": "Official guidance",
+      "authority": "Zimbabwe Revenue Authority",
+      "url": "https://www.zimra.co.zw/customs/customs-rebates/traveler-s-rebate",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "s2-20261127-c58-zw-before_go-health",
+      "phase": "before_go",
+      "title": "Vaccinations, disease certificates, insurance",
+      "text": "UK guidance calls for a yellow fever vaccination certificate if the traveler comes from a country with transmission risk.",
+      "scope": "British citizen consular guidance and originating itinerary.",
+      "type": "Official guidance",
+      "authority": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/zimbabwe/entry-requirements",
       "checked": "2026-11-27"
     }
   ]
